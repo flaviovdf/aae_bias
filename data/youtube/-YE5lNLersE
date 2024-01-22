@@ -1,0 +1,108 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hey, everybody today, i am going to be reviewing rear window",0.11021292,0.0,0.0,0.0,False,0.0008217808208428,0.0030693218577653,0.1664700508117675
+"this film came out in 1954 and it was directed by alfred hitchcock in the 1950s, where hitchcock really hit his stride where he had the most creative control and he really didn't work his way through the ranks",0.036679696,0.0,0.0,0.0,False,0.0006093795527704,0.0004346280184108,0.0011061560362577
+"people tend to forget that, but he had been working a long long time",0.02655065,0.0,0.05,0.1,False,0.0006209177663549,0.0003829065244644,0.0006064435001462
+"you know, he had one or sorry, rebecca",0.01999182,0.0,0.5,0.157,False,0.0012854933738708,0.0008719478501006,0.0018266880651935
+"the film, rebecca had won best picture at the academy awards",0.03221605,0.0,0.0,0.0,False,0.0006550769903697,0.0004001164343208,0.0007144207484088
+"i think 14 years prior, and little by little he built his signature style and then it kind of came to fruition, became most prominent in the 50s",0.023117077,0.0,0.0,0.0,False,0.0006459329742938,0.0003181878710165,0.0003462595341261
+"at this point he was making movies like strangers on a train which i love, and films like dial m for murder, which is quite similar to this film in the sense that it is about a murder, and it all, for the most part, takes place in one area, like a play, and it also stars grace kelly",0.09065199,0.0,0.0,0.122,False,0.0009004599414765,0.0010340637527406,0.0028048374224454
+i don't think it's as mature thematically as rear-window would absolutely worth your time,0.2590451,0.9992844462394714,0.0,0.0,False,0.0009358552051708,0.0004978606011718,0.052211444824934
+"and then along comes through window, which is of course one of his more memorable works",0.030155903,0.0,0.0,0.0,False,0.0007389850215986,0.0003750905161723,0.0010429372778162
+"any time that somebody? i know, somebody who maybe has never seen a hitchcock film",0.10892494,0.9368336200714111,0.0,0.0,False,0.000722401542589,0.0023654038086533,0.0011972596403211
+"i usually tend to recommend this one for them to start out with, just because i feel as though it really encapsulates everything that hitch is about in terms of what he wants to say, and many of us don't have that thematic thread that carry throughout a lot of his films, but i feel like this one is is kind of going a little bit deeper, and in yet it's still very entertaining",0.10634898,0.0,0.0,0.0,False,0.0005632580141536,0.0003403665614314,0.0007150991586968
+it's still very mainstream,0.03187269,0.0,0.0,0.0,False,0.0007925172103568,0.000365805637557,0.0004508864658419
+"rear-window is, in many ways just a commentary on the act of viewing a film, a commentary on the audience as warriors, and i think that the movie brings those ideas out in in ways that are very sophisticated just in in terms of the storytelling, and of course, building that slow tension in a way that only hitchcock really could",0.07091636,0.0,0.0,0.035,False,0.0006590001285076,0.0004542953392956,0.001573885208927
+"at that time, the idea itself is an ingenious premise",0.06971766,0.0,0.0,0.0,False,0.0006223351811058,0.0003817971446551,0.0010215684305876
+having your protagonist be immobile,0.2022951,0.9991982579231262,0.0,0.0,False,0.0028231081087142,0.0011770676355808,0.0040861153975129
+the james stewart character has broken his leg and he's he's stuck in his apartment in the middle of the summer,0.12824467,0.9990442395210266,0.2,0.212,False,0.0032539495732635,0.0062093785963952,0.0094276200979948
+"to pass the time, he watches his neighbors in his apartment complex with his little binoculars",0.16482529,0.0,0.24375,0.0,False,0.0007479356718249,0.0023432015441358,0.0153654497116804
+"he sees all of their different stories, makes judgments about them and all of that, and then he begins to suspect that one of his neighbors might be involved in a murder, but he doesn't have the concrete evidence to back this up",0.12309273,0.8435462117195129,0.0,0.098,False,0.0007277302793227,0.0006049367948435,0.0007107238634489
+it's just great,0.02929751,0.0,0.0,0.0,False,0.0006223251111805,0.0002992121444549,0.0007103572133928
+it's the perfect mystery thriller set up,0.06332459,0.0,0.0,0.0,False,0.0006367280730046,0.0004507901903707,0.0003235857584513
+the film opens with one those classic hitchcock shots where he sets up all you need to know in one single shot,0.10515087,0.0,0.0,0.0,False,0.0007341498276218,0.00169164291583,0.0016091198194772
+he's really really good at this,0.04783881,0.0,0.0,0.0,False,0.0006213152664713,0.0003452419769018,0.0037481402978301
+we see the entire apartment complex,0.02397547,0.0,0.15,0.0,False,0.0007872536662034,0.0003599671472329,0.0003075550775974
+"we get a very good indication of who each neighbor is just in this one shot, which is also mirrored in the last shot of the film as well, where it comes full circle, and then we move into the apartment where we see james stewart, and we see that he has a broken leg",0.1731117,0.0,0.0,0.051,False,0.0008128230692818,0.0021564622875303,0.0030272074509412
+"that he's confined to a wheelchair, and this is all in one shot",0.15130237,0.6959480047225952,0.0,0.0,False,0.0071076722815632,0.0010636273073032,0.0133638409897685
+everything is set up exactly everything you need to know,0.023632111,0.0,0.0,0.0,False,0.0006431300425902,0.0005739562329836,0.0006402934668585
+"and again, this is all in one shot",0.068918526,0.0,0.0,0.0,False,0.0023736185394227,0.0271615199744701,0.0056058908812701
+"you know, we see everything that we need to see",0.029640866,0.0,0.0,0.0,False,0.0008055649232119,0.0004433676367625,0.000594368611928
+there's nothing superfluous,0.03994159,0.0,0.0,0.0,False,0.0010570825543254,0.0005840946105308,0.0009765918366611
+there's nothing to break it up,0.037194733,0.0,0.0,0.0,False,0.0008726905216462,0.00050768640358,0.0010483713122084
+and we don't need any other information,0.032731086,0.0,0.125,0.0,False,0.0007430419209413,0.0010124105028808,0.0005683751660399
+other than that,0.019852988,0.0,0.125,0.0,False,0.0008425503619946,0.0003800760023295,0.0019182276446372
+it's pretty perfect,0.026894007,0.0,0.0,0.0,False,0.0006314182537607,0.0003102822811342,0.0008411710732616
+one thing that i really love is that the majority of everything that you hear in the film is diegetic,0.20009461,0.0,0.0,0.0,False,0.0131708029657602,0.3223477602005005,0.0570219941437244
+"it's all within the world of the film, most of the music and all of the sounds and all of that",0.021796638,0.0,0.0,0.0,False,0.0007346515776589,0.0003575501323211,0.0004773152759298
+"so the characters are always conscious of it, and you don't see that very often",0.038053125,0.8553340435028076,0.0,0.0,False,0.0006066015921533,0.0003723734989762,0.0003811861679423
+in movies you usually hear like a musical score,0.026722329,0.0,0.125,0.0,False,0.0008861235110089,0.0005128554184921,0.0009347831364721
+"i'm very used to hearing this big sweeping bernard herrmann's score when i, you know, see a hitchcock film",0.08796701,0.0,0.0,0.0,False,0.0006320883985608,0.0045971684157848,0.0139168994501233
+"of course, that was kind of before that point, but still, but here you don't get that you know",0.02262963,0.5866347551345825,0.0,0.0,False,0.0007188571617007,0.0004628256428986,0.000611207797192
+hear you,0.046122026,0.0,0.0,0.0,False,0.0028802535962313,0.0069940094836056,0.0007565330597572
+all the sounds that you hear for the most part are from radios,0.03221605,0.0,0.0,0.0,False,0.0007255206583067,0.0003826822503469,0.001136310165748
+they're from cars,0.10461388,0.9251678586006165,0.0,0.0,False,0.0235105864703655,0.0034206700511276,0.0056754779070615
+"you hear the piano being played by the the composer, the pianist on the bottom floor, you hear car honks and sirens, and the way each sound is employed right at the perfect moment to build the suspense is quite ingenious",0.12953265,0.0,0.0,0.0,False,0.0008986664470285,0.0004582488909363,0.0016893438296392
+"they put a lot of effort into the sound design, and that's quite evident because the sounds are really aligning with what happened on-screen and not in a way where it's like hammering you over the head",0.14463188,0.0,0.0,0.0,False,0.0009850885253399,0.082366719841957,0.0976752862334251
+it's not overwrought,0.03856816,0.0,0.0,0.0,False,0.0007072708685882,0.0003854651004076,0.0012637488543987
+in any way,0.01665985,0.0,0.0,0.0,False,0.0007318945717997,0.0003850884386338,0.0014032438630238
+it just kind of paints the perfect backdrop for the subject,0.025863936,0.0,0.0,0.0,False,0.0006529111415147,0.0003404045128263,0.0007254244992509
+it just all adds to the the immediacy,0.034104515,0.0,0.0,0.0,False,0.0007857733871787,0.0004273038066457,0.0008044745191
+it really immerses you in that world,0.051737156,0.0,0.0,0.0,False,0.0016624485142529,0.0038482609670609,0.0013054587179794
+"and you know, as i said, i love the hitchcock scores",0.07211506,0.0,0.0,0.0,False,0.0005491684423759,0.0008715873700566,0.0031643512193113
+they are iconic,0.13745339,0.0,0.0,0.0,False,0.0007466744864359,0.0018580615287646,0.0032056982163339
+a lot of them,0.030155903,0.0,0.0,0.0,False,0.0015904436586424,0.0004022295761387,0.0005875648348592
+but this one does not need a score,0.0495556,0.9831511974334717,0.0,0.0,False,0.0010016364976763,0.0005768324481323,0.0009775841608643
+"and in the same way that the birds really didn't need to score either, it's a way to play with the tension, a way to play with the expectations of the audience when you have like a diegetic music and stuff like that",0.060927194,0.0,0.0,0.046,False,0.0018661221256479,0.0068644764833152,0.00102888897527
+"in place of a score, there's a lot less of the manipulation going on",0.08689302,0.6546779870986938,0.1666666666666666,0.13,False,0.0007685602759011,0.0004216705274302,0.0006582735222764
+"of course, there always is going to be manipulating manipulation when you're watching a movie",0.13017663,0.983733594417572,0.0,0.266,False,0.0007444218499585,0.0006992224953137,0.0009164013899862
+but this one is a little bit different,0.055732824,0.0,0.09375,0.0,False,0.0006660272483713,0.000335353804985,0.0005820913938805
+"scores purposely help to guide the viewer, and they help you to evoke certain emotions our times",0.021657806,0.0,0.0,0.0,False,0.0005798896891064,0.0007482218788936,0.0004083840467501
+and here you just don't really have that luxury,0.062125895,0.991908609867096,0.0,0.0,False,0.0012074037222191,0.0015787543961778,0.001685939845629
+"so a woman can be getting strangled, you know, in the window across from the james stewart character, and you'll likely hear something like smooth jazz or something that is very out of place and it's it's disturbing, but very realistic, and of course that makes it feel a little bit wrong, a little bit more disturbing",0.317855,0.0,0.0558333333333333,0.19,False,0.0006898560677655,0.0030411034822463,0.0109871914610266
+and constantly throughout the movie all the different characters around the protagonist are off,0.052136723,0.9996376037597656,0.0,0.0,False,0.000733905704692,0.0006373063079081,0.0007581204408779
+they're always asking him,0.027065687,0.7456167340278625,0.0,0.0,False,0.0010574894258752,0.0008447876898571,0.0007433765567839
+"why are you doing this and you know, are you sure you should be peeking into these people's lives the way you are? at what point does it go too far? james stewart is the perfect protagonist to play the the geoffrey's character, because he is, and i mean, he was at the time one of those guys that everybody loved",0.05852979,0.9914860129356384,0.0,0.0,False,0.0009985680226236,0.0037051031831651,0.0019793370738625
+he,0.023460433,0.0,0.0,0.0,False,0.0087242415174841,0.0026464462280273,0.0015246449038386
+"he stood for the everyman, so it's it's perfect casting",0.11021292,0.0,0.0,0.0,False,0.0007780152373015,0.0017077998491004,0.0032236899714916
+"he represents the audience in the same way that, like kyle, mclaughlin represented the audience in bluebell, but as lawyers, it's the person who gets to sit back and watch everything take place, no matter how disturbing, and they are in complete control, whereas everything outside is not, and as lawyers, we can vicariously live through the characters on the screen in movies",0.04268845,0.0,0.0439393939393939,0.083,False,0.0007068429258652,0.0005663845222443,0.0005742649082094
+"right, you know, we project our own feelings and our own stories on to them",0.026894007,0.0,0.0,0.0,False,0.0010048695839941,0.0003416317922528,0.000463881297037
+"and to me, that's a very powerful thing about movies and just about art",0.031185975,0.0,0.0,0.0,False,0.0006349382456392,0.0004259000124875,0.0005125802708789
+"in general, i think that sort of thing has the power to change people's lives in the way that they view the world, and even in this movie, seeing all the different neighbors through their windows, it's like each window is its own little movie screen, or they even look like panels in a comic book, and i think that's really cool because you know, really, movies are sort of windows into a different world, aren't they? and so that really illustrates that idea",0.024833864,0.0,0.0,0.0,False,0.0006746664876118,0.0004386023210827,0.0004108379653189
+"i think that the perfect example of the voyeurism here though, would be with the miss lonelyhearts character",0.17173064,0.9600826501846313,0.0,0.075,False,0.0013432531850412,0.0042736856266856,0.0070705069229006
+she's a woman who lives on the bottom floor,0.21539254,0.8310691714286804,0.0,0.0,False,0.1310585588216781,0.0111997667700052,0.0220256801694631
+"she's middle-aged and she's a very lonely person, and we start to see progressively throughout the movie that she is suicidal",0.18549223,0.9993003606796265,0.1299999999999999,0.277,False,0.0266613978892564,0.0976131632924079,0.3743279278278351
+she's aging and she doesn't have anybody special in her life,0.27856,0.9999285936355591,0.0,0.184,False,0.0026567550376057,0.0443634577095508,0.0660032778978347
+"jeffries feels sympathetic, of course, but maybe at the same time he might see what he might become, because you know in the movie there's that dynamic between him and the lisa character played by grace kelly",0.033761155,0.0,0.0,0.0,False,0.000590230396483,0.0004090785514563,0.0005855915951542
+"the idea of will he marry her? won't he and i think lisa? also, when she sees miss lonelyhearts, she also kind of feels the same way",0.057331093,0.0,0.0,0.07,False,0.0009150481782853,0.0019617127254605,0.0099111665040254
+"it's that fear of of being sad and alone, but they get to peek into this person's life without her knowing, and they get to project their own story, their own feelings about their own relationship on to her",0.04543531,0.0,0.0,0.136,False,0.002710014116019,0.0004918943741358,0.0004963739193044
+"but then there's that tinge of sourness that comes with that as well, you know, because it's it's at that point that lisa begins to question whether or not she should be watching this sort of stuff because there is that kind of sadistic quality of getting to see people go through such anguish, but it still gives you that control, getting to see somebody else and live their life and all of that, and while you can feel for them, you don't have to directly be involved in their lives, so it gives you that that great control",0.2712817,0.0,0.0,0.049,False,0.0039181034080684,0.0010043760994449,0.0010313733946532
+"and we want that feeling without experience that experiencing it directly, and you know, classic horror tropes of people being butcher humiliated, tortured",0.31089294,0.9783598184585571,0.0,0.318,False,0.0527965277433395,0.0561974458396434,0.0838719382882118
+all of that,0.035306264,0.0,0.0,0.0,False,0.00370450806804,0.000366679567378,0.0015101869357749
+it's for us as viewers,0.03358948,0.0,0.0,0.0,False,0.0007990085869096,0.0004361208702903,0.0005288515239953
+it's cathartic,0.15743166,0.9998832941055298,0.0,0.0,False,0.0035498887300491,0.0054688029922544,0.0250734519213438
+"it arouses our emotions in such a way, but again it's it's in a controlled environment we know we're gonna be okay at the end of the day",0.030155903,0.0,0.0,0.0,False,0.0006741532124578,0.0003636500623542,0.0004200285184197
+"we're not gonna get butchered ourselves, and i think that's perfectly normal to a certain extent, but at what point does all of that start to become gratuitous and when does it become unnecessary? it starts to reveal a certain level of cynicism and darkness within us",0.1621016,0.9701940417289734,0.0642857142857143,0.11,False,0.0055760843679308,0.009305571205914,0.0270022340118885
+"that we may need to examine another thing that i really kind of think is cool about this movie and i didn't really think about until watching it this last time is just the way that the characters, as they're watching the neighbors, how they make assumptions about them and it's the same with us",0.035306264,0.0,0.0,0.0,False,0.0005354387103579,0.0003921275783795,0.0004412762646097
+"you know, the way we judge people as boyars, jeffries sees all of these people around him, but he doesn't know their whole stories",0.086087525,0.9887667298316956,0.0,0.0,False,0.0006428025080822,0.0569089762866497,0.0863325372338295
+all he can do is really infer based on what he sees beyond that his knowledge is unreliable,0.1580154,0.9998562335968018,0.0,0.0,False,0.0012134260032325,0.0011455684434622,0.0309815499931573
+as is ours,0.014716201,0.0,0.0,0.0,False,0.0010948129929602,0.000419354182668,0.0006504416815005
+as audience members,0.0334178,0.0,0.0,0.0,False,0.0006850116769783,0.0005434189224615,0.0003400548303034
+"we only see what we're shown and we don't really know these characters, and that's part of why the murder is so interesting, because we really don't know whether or not he's truly seeing what he thinks he's seen, and there are moments in the dialogue where we see all that reflected naturally, you know, like where the thelma ritter character says that we should look inward sometimes for a change, and and their grace kelly, a character saying that you know it's really kind of disease that you've got all of these opinions about these people that you don't even know and you know it's a good thing that she's not alive in the millennial generation",0.16035037,0.0,0.0,0.071,False,0.0006603398360311,0.0029268097132444,0.00431769201532
+all of these factor into what we perceive as viewers ourselves and how that can,0.02655065,0.0,0.0,0.0,False,0.0006646490073762,0.0003391413774807,0.0003593936853576
+that can be kind of dangerous,0.09333697,0.9962235689163208,0.0,0.404,False,0.0009648991981521,0.0006587815587408,0.0007319980650208
+so of course hitch is very conscious of the way he's manipulating us,0.1785852,0.9818966388702393,0.0,0.172,False,0.0040235784836113,0.0005794172757305,0.0417825691401958
+he always has been,0.02054715,0.0,0.0,0.0,False,0.0009867036715149,0.0004500281065702,0.0015419429400935
+he's always kind of seen,0.024147147,0.0,0.0,0.0,False,0.000729261082597,0.0003909140068572,0.0005074447253718
+that is as funny to him,0.06132676,0.0,0.0,0.0,False,0.0007450254051946,0.0003872890956699,0.0053573059849441
+he's amused by the way he can pull the strings with audience members,0.15626417,0.0,0.0,0.0,False,0.0013099674833938,0.0005159618449397,0.0132157858461141
+"it gives him complete control, but i think here is kind of the first kind of tip into a different direction where he's starting to really explore that idea more",0.026894007,0.0,0.0,0.0,False,0.0005957527318969,0.0003599417977966,0.0002912575728259
+"and we see that go way further in films like like vertigo, which came out a few years later",0.039598234,0.5270987749099731,0.0666666666666666,0.0,False,0.0005849882727488,0.0003504907072056,0.0010400330647826
+he started to make those connections about artists as commentary on society,0.047495455,0.0,0.0,0.0,False,0.00065918097971,0.0004744208417832,0.0005208028596825
+"not only does this movie implement those devices really exquisitely, but it's also just, i mean, it's just really entertaining on a basic level, and you know, i think that the script like a lot of the films around this time that he's making",0.04234509,0.0,0.0,0.0,False,0.0006256229826249,0.000383853825042,0.0004088331479579
+the script is just really witty,0.1835188,0.0,0.0,0.0,False,0.000718374736607,0.0003555429866537,0.0006515811546705
+"the characters are are so likeable and relatable, which is is key",0.031529333,0.0,0.0,0.0,False,0.0007190226460807,0.0004821722104679,0.0010005377698689
+"everything is choreographed and so meticulously well built, as i said, and i love that he's pushing himself a little bit more, and i do think this is one of his better films for sure",0.09763293,0.0,0.0,0.0,False,0.0006063795881345,0.0003804212610702,0.0008194103138521
+"and yeah, if you've never seen a hitchcock movie, this is a great place to start and that is my review",0.056931525,0.0,0.0,0.0,False,0.0006340182153508,0.0005590223590843,0.0005725888768211
+thank you all for listening,0.022773718,0.0,0.0,0.0,False,0.0005921109113842,0.0004513073945418,0.0004173700581304
+all my social media information is below,0.03461955,0.9977102279663086,0.0,0.0,False,0.0007195569924078,0.0007895056041888,0.0005838152137584
+"you can watch more videos here, and you can subscribe if you want to catch you next time",0.14777246,0.6616258025169373,0.0,0.0,False,0.0088051352649927,0.0006966328946873,0.001001423690468

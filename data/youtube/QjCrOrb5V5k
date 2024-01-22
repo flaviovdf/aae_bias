@@ -1,0 +1,154 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hello, everyone is your boy, terrance here with hollywood already did it and i just came back from the theaters from seeing a new coming-of-age comedy from first time director olivia wilde, and book-smart now the guys know this is one of my hidden gems up for may 2019, so i'm excited to talk to you guys by",0.047495455,0.0,0.0,0.0,False,0.0005741515778936,0.0017359069315716,0.001023941906169
+"let you know what i thought about it, so we'll get into it right after the jump",0.07730943,0.0,0.0,0.0,False,0.0006045511690899,0.0038437247276306,0.0007266142056323
+"so for those of you who don't know book-smart is a film from olivia wilde about two teenage girls played by kaitlyn dever, best recognized from justified and beanie feldstein who, in addition to being jonah hill younger sister, she was also in lady bird, she's got a great career",0.045091953,0.0,0.0,0.0,False,0.0009344219579361,0.0023002296220511,0.0017646603519096
+"she's on tour on broadway with bette miller, now or she wasn't 2017",0.0100653265,0.0,0.0,0.0,False,0.0010187658481299,0.0043167043477296,0.0005553349037654
+"so she's got a great career as well, but it's about two teenage girls who have been doing their entire high school life by the books, their straight-a students that get into the best colleges",0.10515087,0.0,0.0,0.0,False,0.0025694342330098,0.0013934497255831,0.0022729230113327
+they've been doing everything on the straight and narrow,0.10763696,0.8692800998687744,0.0,0.0,False,0.0008936605881899,0.0012281114468351,0.0010116213234141
+they had no fun,0.0729142,0.9999549388885498,0.15,0.474,False,0.0073414747603237,0.0052942931652069,0.0093789706006646
+no party,0.015479778,0.9979345798492432,0.0,0.693,False,0.0011946770828217,0.0012167970417067,0.0005887720617465
+"they kind of just been living just the two of them in their bubble while everybody else is out, possibly succeeding, but having fun, and they want to have at least one time or one night of fun before they go off into college",0.07970683,0.0,0.0,0.0,False,0.0043618106283247,0.0006864045863039,0.0007829308742657
+so that's what the prior premise of the film is about,0.02262963,0.9784639477729797,0.0,0.0,False,0.0007741299923509,0.0004115133197046,0.000410912791267
+"and and i think they, they succeed to make a pretty pretty solid coming-of-age story that i think a lot of people should be seeing and it should be doing better in theaters in it currently is so we don't know what are doing",0.03427619,0.0,0.0,0.0,False,0.000609902839642,0.0004090738948434,0.0003901340533047
+"the reviews here we talk about likes first, then dislikes them",0.105704986,0.9987431168556213,0.0,0.186,False,0.0008028115844354,0.003943012561649,0.0012569507816806
+they will rent it,0.033761155,0.0,0.0,0.0,False,0.0318517610430717,0.0010690927738323,0.0005379489157348
+"okay, so let's start off with my likes",0.08689302,0.0,0.0,0.0,False,0.0133582083508372,0.0036267531104385,0.0004814059939235
+what i really like about this movie i'm off top,0.080905534,0.5818817019462585,0.0,0.0,False,0.0018482588930055,0.092880293726921,0.0018673234153538
+is that it? it's sort of a smorgasbord of coming-of-age stories,0.1334155,0.9559676051139832,0.0,0.0,False,0.0011153026716783,0.0089936405420303,0.0017374377930536
+"i, the biggest one that you can think of is because the two leads and how it's kind of structured is super bad",0.18450552,0.9999696016311646,0.0,0.123,False,0.0013166799908503,0.0009270430891774,0.0029804077930748
+"that's what comes to mind, but i would say super bad meets a little bit of lady bird with sprinkle in some of last year's blockers",0.19141254,0.9970421195030212,0.1385416666666666,0.139,False,0.0202632192522287,0.0011648773215711,0.0126653490588068
+"i think all of those kind of come together and create a good a new way of seeing a coming-of-age story from the eyes of young women, and i think what really helps the story, and why it feels so much more authentic is that it's starring women written by women and then directed by a woman who you can do that, and it creates a masterful add",0.024147147,0.0,0.0,0.0,False,0.0008761215140111,0.0028651962056756,0.0040021291933953
+"i think masterful story that they've put together that even when sometimes which will get into dislikes, even sometimes when it gets becomes a little what you could see",0.14014533,0.0,0.0,0.088,False,0.0005772397271357,0.0004261749563738,0.0004361977626103
+"predictable you can, you can kind of pull out threads",0.1008549,0.9999711513519287,0.0,0.0,False,0.00085465045413,0.0005634113331325,0.0006866156472824
+"it's done in such a way and done in such a refreshing way that because we're getting this story through someone else's eyes, it's just as new as it would be",0.02124131,0.0,0.0,0.0,False,0.000637883611489,0.000336080964189,0.0005214600823819
+having seen american pie all the decades ago that i did to the direction of the film is really strong for a living wild,0.06252546,0.0,0.0,0.0,False,0.0009371731430292,0.0009892748203128,0.0037267033476382
+to be this her first time,0.025863936,0.0,0.0,0.0,False,0.0025343047454953,0.0004718177660834,0.0018679571803659
+i think she did a really good job,0.025692256,0.0,0.0,0.0,False,0.0006173377041704,0.0004179716925136,0.0012622427893802
+"i don't know films are shot out of order, so i don't know if she shot the first half of the film first and then the back half, but i feel like you can",0.0753116,0.0,0.0,0.0,False,0.0006238992209546,0.0014727952657267,0.0007461487548425
+"i feel like the eye of the director improved as the film went along, because it comes in a little less by the books and it becomes a little bit more artsy toward the back half",0.061726328,0.6924008727073669,0.0347222222222222,0.0,False,0.0005950184422545,0.0004426718223839,0.0009248630958609
+"uh, and i don't know if that was a choice or if she, she wanted to structure the film like that, but i think when we get to the final party in this movie there's some great things done directing wise that i just fell in love with",0.05613239,0.0,0.0,0.0,False,0.0006297595100477,0.000431655353168,0.0011042604455724
+"there's an entire, i'm not going into spoilers, but there's an entire pool sequence that happens that a reveal happens for our main character and you get to see visually underwater",0.070516795,0.0,0.0,0.0,False,0.000711198837962,0.0004240280250087,0.0008561678114347
+all the reactions that amy kaitland goes through to for the audience to kind of a ride,0.08420804,0.0,0.0,0.0,False,0.000816834217403,0.000460405513877,0.0017919334350153
+go up and down,0.2712817,0.0,0.1555555555555555,0.0,False,0.3907527327537536,0.0347316823899745,0.0030810341704636
+she's on cloud nine,0.08796701,0.0,0.0,0.0,False,0.0011895258212462,0.0103458845987916,0.0009243534295819
+then a reveal happens and she's not and you get to see all of that emotion,0.027580723,0.0,0.0,0.0,False,0.0019013489363715,0.0004769396327901,0.0006500945892184
+you could just see that come back,0.04783881,0.5813224911689758,0.0,0.0,False,0.0010588438017293,0.0017012251773849,0.0008134778472594
+and there's a great argument seeing sequence between amy and molly,0.019436494,0.0,0.0,0.16,False,0.0007311081863008,0.000418581534177,0.0027842633426189
+"that happens and you get to drop out the sound, but you just make out the face, facial mouthing and reactions that they're giving each other and small simple choices",0.10699297,0.5032163262367249,0.0,0.047,False,0.0012508907821029,0.002833655802533,0.0056188004091382
+"but it's so powerful and it works and it gives the moments that this movie could just be like blockers, which i liked to, where it's straight comedy with some emotional beads",0.1256687,0.0,0.0,0.0,False,0.0010597620857879,0.000395896815462,0.0004332048993092
+"these emotional beats hit a little bit harder, because there's a lot more weight and gravitas to it",0.11407687,0.0,0.0,0.0,False,0.0006668128771707,0.000492493272759,0.0034812928643077
+i think it's handled really well,0.020963646,0.0,0.0,0.0,False,0.0005643220501951,0.0003218630736228,0.0006522804033011
+three,0.019852988,0.0,0.0,0.0,False,0.0012125526554882,0.0006865501636639,0.0005927048623561
+i really dug the message of this film,0.1621016,0.0,0.0,0.0,False,0.0006070691742934,0.0003621263022068,0.0013492646394297
+i know a lot of a lot of coming-of-age stories,0.038224805,0.0,0.0,0.0,False,0.0006356890662573,0.0008626250782981,0.0004090772126801
+"do the thing where there's a smart person, there's a dumb person",0.7007861,0.9921918511390686,0.0803571428571428,0.206,False,0.771045446395874,0.98792564868927,0.9861425757408142
+there's a jock,0.08170467,0.0,0.0,0.0,False,0.0968136861920356,0.0595014914870262,0.0377048328518867
+there's the,0.018464668,0.0,0.0,0.0,False,0.0009182172361761,0.0004132621106691,0.0007559676887467
+"the promiscuous gorilla might have used the word, but there's a promiscuous girl and you can have all of it",0.4151741,0.0,0.0,0.126,False,0.0477881804108619,0.0844145566225051,0.4500964283943176
+they're all separate people,0.089577995,0.0,0.0,0.0,False,0.0022431325633078,0.0005898448289372,0.0080041224136948
+what this movie does well and gives a message about,0.079307266,0.0,0.0,0.0,False,0.0006784241413697,0.0005177215789444,0.0005982019356451
+"and what i think is the actual tableau of what high schools always had been, is that people can be all of those things at once",0.0253489,0.6053214073181152,0.0,0.0,False,0.000676090538036,0.0005115006351843,0.0005948233883827
+and so there's a huge sequence that happens in earlier in the film where our character molly goes through a situation where she realizes that what she thought was necessary to get to school,0.03204437,0.8728972673416138,0.0,0.0,False,0.0007265075691975,0.0004698844277299,0.0006216401234269
+everyone took it to a good college,0.0681194,0.0,0.0,0.0,False,0.0007509985007345,0.0004158202500548,0.0011296463198959
+"everyone else's has gotten to a good college as well, while also still living their life, and you can still be the jock, the sports guy",0.045091953,0.0,0.0,0.0,False,0.0176001843065023,0.0150749795138835,0.0117811514064669
+"you can, maybe not even go to school, but get a great job",0.17759849,0.0,0.0,0.0,False,0.0172132849693298,0.0031794719398021,0.002150701591745
+a six-figure income job,0.016382186,0.0,0.0,0.0,False,0.0010064729722216,0.0005697454907931,0.00041358845192
+"you could be what would be considered the the high school and you still have a good solid school in front in front of you and then i think what happens and what i really love about the movie it that it tail ends and comes back to show you that while you make, while you may have your view of this one person and you may have this one view of this one person as being the jock",0.12309273,0.0,0.0,0.0,False,0.0081570707261562,0.0307626668363809,0.0298678539693355
+"whatever it is, they are also the other side human, and they've been struggling with the labeling that people that put on them",0.06931809,0.9799661040306091,0.0625,0.113,False,0.0030077057890594,0.0011821324005723,0.0044060996733605
+and maybe that's not necessarily the case,0.013119632,0.9019485116004944,0.0,0.0,False,0.0007210540934465,0.000350966991391,0.0006497576250694
+"and maybe that's not, and maybe it is the case",0.015479778,0.7835016846656799,0.0,0.0,False,0.0007002858328633,0.0003839500714093,0.0008794398745521
+"but even if that is, they were just living their life",0.022074303,0.0,0.0,0.0,False,0.0014044591225683,0.0008203826728276,0.0018235710449516
+they were being a kid,0.077709,0.7893032431602478,0.0,0.0,False,0.0574380829930305,0.0046957326121628,0.0212259497493505
+they were doing what kids do,0.09065199,0.7919749617576599,0.0,0.0,False,0.0084780091419816,0.0005551417125388,0.0018850483465939
+let them live their life,0.061726328,0.0,0.0,0.0,False,0.1535979211330413,0.029441513121128,0.0096850274130702
+they're still going to go off and do great things as they grow up,0.0741129,0.0,0.0,0.0,False,0.0130998995155096,0.0380732752382755,0.0012859299313277
+and i love that this movie kind of shows you both sides and gives you the full coin of what it's like to be in high school,0.08050597,0.0,0.0,0.0,False,0.0013429577229544,0.0006410811911337,0.0011323952348902
+"now, let's talk about the dislikes",0.16758743,0.9266623258590698,0.0,0.351,False,0.0007587101426906,0.0117622846737504,0.0014354452723637
+this one's hard for me to do this,0.0813051,0.999914288520813,0.2916666666666667,0.167,False,0.0016664394643157,0.0005156533443368,0.0037998235784471
+"likes, cuz that i feel like i'm pulling at straws to do this and it shows you how i, how much i do really really enjoy this movie",0.22952124,0.0,0.0,0.0,False,0.0008015178609639,0.0028608809225261,0.0020251828245818
+so my dislikes are me pulling,0.27359754,0.8990652561187744,0.0,0.373,False,0.0324127711355686,0.019093107432127,0.0184284187853336
+"whether sometimes no necessary, there's no need to do so one",0.020130653,0.0,0.0,0.328,False,0.000662250095047,0.0007236083038151,0.0012195877498015
+there is a secondary character in this movie that borders on the line of being hyper-realistic or a caricature,0.07571117,0.98305743932724,0.3,0.0,False,0.0007679339614696,0.001208110130392,0.0006545491050928
+i love what she's doing,0.0741129,0.0,0.0,0.0,False,0.00085345946718,0.0004191265907138,0.0006565920775756
+"everything she's doing is great, but it happened so much and so randomly that it",0.08367105,0.984847366809845,0.0,0.0,False,0.0006806172896176,0.0003754215722437,0.0018331174505874
+"it almost feels like we are this characters, like the roadrunner and just keeps popping up and showing up in places where everything else seems super realistic and she seems to be the outlier of that",0.08555053,0.0,0.0,0.0,False,0.0014255736023187,0.0004555561754386,0.0031157962512224
+now it fixes itself a little bit,0.055732824,0.0,0.1875,0.0,False,0.0019266724120825,0.0003713823971338,0.0009015490068122
+this is where i,0.022351967,0.0,0.0,0.0,False,0.0020091619808226,0.0028023738414049,0.0018151599215343
+i,0.018187003,0.0,0.0,0.0,False,0.0033499409910291,0.0023471140302717,0.0006465429905802
+"it's hard for me to put this in a hundred percent dislike because it didn't really bother me, and the reason why it didn't bother me because there is a mentioning of why of how she is or who she really is, by a secondary care by another character that's attached to her",0.23716165,0.9998990297317505,0.1305555555555555,0.067,False,0.000834151811432,0.0004099963989574,0.0006544854259118
+"that kind of cleans up her her story and gives her a purpose, which helped me kind of click in my head like okay, i can then justify the wackiness and jane",0.22990796,0.0,0.0,0.0,False,0.0042779892683029,0.1131846383213996,0.0439697280526161
+it is so who that character is,0.032731086,0.990257740020752,0.0,0.0,False,0.0009794897632673,0.0005347257247194,0.0036129532381892
+"to the the relationships that our main character amy and molly sort of wind up to is very heavily telegraph at the beginning of the film, and for some that could be a problem because you can kind of like",0.039598234,0.999445378780365,0.0,0.063,False,0.0006016262923367,0.0005336343310773,0.0017611553194001
+"oh, well, i knew this was happening",0.031357653,0.0,0.0,0.0,False,0.000701178330928,0.0004356645804364,0.0007438255124725
+"i saw this, the read",0.02655065,0.0,0.0,0.0,False,0.0006622782093472,0.0003602996875997,0.000362028775271
+the writing was on the wall,0.021657806,0.9936951994895935,0.0,0.0,False,0.0020842249505221,0.0007153258193284,0.001423506764695
+i'm always for this one,0.02792408,0.0,0.0,0.0,False,0.0008647968643344,0.0003901511663571,0.0004979695077054
+"i'm undermining my dislikes, but the reason why that didn't concern me so much as yes, it is very telegraphed and i could see if even the moment to happen as though that's where we're going with these people",0.16035037,0.9990373849868774,0.0,0.083,False,0.0005868528969585,0.0020332490094006,0.0009880681755021
+the reason why i've been bothered me so much is because it's unlike a lot of films that do it then telegraph it,0.1835188,0.8942345976829529,0.0,0.095,False,0.0009438404813408,0.0024476177059113,0.0010978715727105
+"this feels earned when they get to that pay off, or when they get to those newfound relationships, because they all have to have a moment, and what they are chasing that does not work or does not fail, or something happens that they have to dinn kind of readjusting and flip on the fly and say well, yeah, that's what i wanted, but this might be what's better, and i think that's a fact of life that needs to be taught, and so that while it is telegraph, i feel like the process to get there is very realistic and very true and very earned",0.1423886,0.0,0.0,0.01,False,0.0008085395675152,0.0005320428754203,0.0003797547251451
+"so it, it doesn't matter that it's on the wall like i think",0.064523295,0.99787437915802,0.0,0.074,False,0.0033778932411223,0.0022922114003449,0.0075775566510856
+the directing in the way that is written and done is so packaged together perfectly at weather,0.04165838,0.0,0.0,0.0,False,0.0006191938882693,0.0003690152370836,0.0003554352151695
+you know that that's where they end up is irrelevant,0.08367105,0.9993268251419067,0.5,0.0,False,0.0015577955637127,0.0044399914331734,0.0015576517907902
+"i think it's the journey to get there is what's important, and then the third thing",0.021380141,0.0,0.0,0.0,False,0.0005960705457255,0.0003350679471623,0.0005266095395199
+that that kind of is a disliking again,0.32044756,0.9994875192642212,0.0,0.247,False,0.0054720607586205,0.00036062579602,0.043491281569004
+not really,0.011314815,0.9997414946556091,0.1,0.0,False,0.0009192409925162,0.0004810426908079,0.0004258896515239
+"um, the third dislike would be, it's a predictable story, but all coming-of-age stories are predictable",0.15130237,0.9789398312568665,0.1333333333333333,0.107,False,0.0009892210364341,0.0007647149614058,0.0005563900340348
+"i mean, that's sort of what they are",0.026722329,0.0,0.3125,0.0,False,0.000859330757521,0.0009558998863212,0.0041407775133848
+you know that they're going to learn,0.040628307,0.0,0.0,0.0,False,0.0069308094680309,0.0011140396818518,0.0006729121087118
+they're going to go start off one way,0.05653196,0.9647725820541382,0.0,0.0,False,0.0008959165425039,0.0025494168512523,0.0022990885190665
+they're gonna learn something important and they're going to be a slightly different person than they were at the end of it,0.037881445,0.0,0.0,0.0,False,0.0009858880657702,0.0005218543810769,0.0008397107012569
+that's what coming-of-age stories are,0.031357653,0.0,0.0,0.0,False,0.0007729635108262,0.0015694018220528,0.0007319008000195
+so none of that really bothers me,0.09978092,0.9954636693000793,0.0,0.259,False,0.0032152340281754,0.0004292039666324,0.0009885290637612
+"yes, there's a predictability to it, but again with one of my likes when i talked about the fact that we're getting this from a woman from a woman starring women written by women to showcase that women go through the same things that that guys do, or sometimes leaving",0.0729142,0.9293729662895203,0.0,0.0,False,0.0026668719947338,0.005474186502397,0.0058238510973751
+it's even harder for them,0.070516795,0.9589613080024719,0.1,0.0,False,0.0027446616441011,0.0009669251739978,0.0082967476919293
+i think that supersedes the predictability aspect of it makes just a film that,0.045091953,0.9962395429611206,0.0,0.0,False,0.0006969815003685,0.000363863131497,0.0003866971528623
+"i think personally, i think anybody should see this and i, it's funny as i was leaving the theater",0.038911518,0.0,0.0,0.0,False,0.0005969196208752,0.000568488088902,0.0007866911473684
+"i was thinking like, why didn't this connect with anybody? like, why is this movie not working in the theaters and the only thing that i can think of, and it sucks because i feel like this is a common thing for all all audiences",0.44805592,0.9999712705612183,0.1999999999999999,0.049,False,0.1247748509049415,0.6284254789352417,0.1238565817475318
+"i feel like general audiences don't want to see girls because this happen with blockers, too, don't want to see girls or women go through drugs, foul language or sexual acts from adolescents to kid, adolescents to adults the way that they're okay with seeing it for guys",0.27690583,0.9999396800994873,0.0,0.048,False,0.2360435128211975,0.0448641330003738,0.0406536310911178
+i could be wrong,0.0334178,0.0,0.5,0.508,False,0.000827103620395,0.0014429297298192,0.0007995439809747
+go ahead,0.052935857,0.0,0.0,0.0,False,0.0248288456350564,0.000775828550104,0.0005047045415267
+leave your comments in the comment section,0.07011723,0.9442970156669617,0.0,0.167,False,0.0011546495370566,0.0005227691726759,0.0005744627560488
+"let me know if i may be off base, but i feel like that sometimes is why movies like blockers, or or this, when they do coming-of-age stories for women, they're not as well received by as they would be by the audience's of eyes",0.09548495,0.9990880489349365,0.8,0.044,False,0.0028453818522393,0.0027797906659543,0.0036661687772721
+"they would be if i super bad or like, can hardly wait or american pie",0.15130237,0.9986425042152405,0.1645833333333333,0.16,False,0.0325347073376178,0.1414497047662735,0.0198894925415515
+"it feels like the our american culture is programmed to say boys will be boys, but girls can't do that, and i feel like we need to get away from that as fast as we possibly can, and just show that like we're all",0.15743166,0.798118531703949,0.0,0.0,False,0.023805484175682,0.0031527518294751,0.0016573920147493
+we've all are willing and able to f up and not know what the hell we're doing and we have to go through these things,0.36439645,0.0,0.0,0.161,True,0.1048597693443298,0.1106360107660293,0.3483717441558838
+"this movie has a great sequence at the end with molly and a girl that she did not like that just made my heart melt because it's like, oh yeah, of course, a girl going to figuring out herself sexually doesn't mean that that's whatever stamp or whatever name that they give her is who she is",0.2712817,0.0,0.0,0.031,False,0.0019888253882527,0.0176953580230474,0.0057972306385636
+"as a whole, she's more than that, but i feel like our, the way that america works and the way the guys work is that they won't allow her that process, and in high school, but there's a whole moment with her and i won't give away the speech, but it's great",0.058130227,0.0,0.0,0.033,False,0.0007662734133191,0.0008188866195268,0.000862443819642
+"so what did i think about the film? where does it rank on my thing? as you can tell, even my dislikes aren't that harsh for this film because i think this is",0.16413476,0.0,0.5,0.084,False,0.0006189770647324,0.000595340388827,0.0013272629585117
+"this is one of my favorite movies of the year so far, so obviously, just in saying that when we rank them, what do i rank them? is it? play it again, sam, once is enough, or give me a time stone or like, erase my brain for this one",0.13745339,0.0,0.1666666666666666,0.0,False,0.0114249661564826,0.0530470199882984,0.1051921099424362
+it's it's cut and dry,0.12309273,0.9998531341552734,0.0666666666666666,0.344,False,0.0028596010524779,0.0034274258650839,0.024882698431611
+it's very easy,0.05653196,0.8420104384422302,0.0,0.0,False,0.0006839933921582,0.0003281998215243,0.000630026042927
+"play this one again, sam",0.03856816,0.0,0.0,0.0,False,0.0021860818378627,0.0004192436463199,0.001259715296328
+play it again,0.035649624,0.0,0.0,0.0,False,0.0032721564639359,0.0005632331012748,0.0006399630801752
+play it again,0.035134587,0.0,0.0,0.0,False,0.0032721564639359,0.0005632331012748,0.0006399630801752
+play it again,0.035134587,0.0,0.0,0.0,False,0.0032721564639359,0.0005632331012748,0.0006399630801752
+i really really enjoyed this movie out of all the hidden gems that i've said for the may of 2019,0.09118898,0.0,0.0,0.0,False,0.0005537035758607,0.0003670794831123,0.0003384222800377
+this is the one that ranks the highest on that list,0.043375164,0.0,0.0,0.0,False,0.0011455012718215,0.0003898633876815,0.0005453595658764
+"for me, i think everybody should be seeing this film and i hope i hope that the box office doesn't discourage both olivia wilde as a director, cuz, i think she does a great job, but i hope this also doesn't discourage or other women and women writers, and from getting the stories for from the female perspective out there, because i think they're just as necessary and i think this might be the one that has to kind of like you might have to take a couple of bullets that say you know, we got to show you that we can do the same thing or show you that girls got the same thing as guys",0.14418322,0.0,0.0,0.0,False,0.0010941540822386,0.0053787711076438,0.0072277663275599
+"girls are still trying to figure out their selves like guys are before one of these breaks through and you're like okay, fine, yes, we are all accepting",0.16275369,0.0,0.0,0.0,False,0.0488759614527225,0.0081933597102761,0.0021555442363023
+we'll take all of this,0.068918526,0.0,0.0,0.0,False,0.0010670907795429,0.0005770095158368,0.0008979341946542
+"um, i don't",0.021657806,0.994716465473175,0.0,0.0,False,0.000935273070354,0.0024255535099655,0.0009071645908989
+"it, doesn't it doesn't look like walker's did",0.014507953,0.9908555746078491,0.0,0.232,False,0.0009796489030122,0.0005404928233474,0.0055575622245669
+that doesn't look like this,0.040284947,0.9971689581871033,0.0,0.345,False,0.0014288626844063,0.0004342650063335,0.0006485197227448
+do that,0.031529333,0.0,0.0,0.0,False,0.0137781631201505,0.0008571893558837,0.0010586919961497
+"hopefully something comes along it, and these will be just kind of the pebble stones to get up to that point where we get a film that everyone's like",0.078108564,0.9642053842544556,0.0,0.0,False,0.0010851931292563,0.001254110597074,0.0022139213979244
+"okay, they, yawa, um, that's it",0.031357653,0.6871017217636108,0.0,0.0,False,0.0036818953230977,0.0008047613082453,0.0034447973594069
+you haven't checked it out,0.024490505,0.9955273270606995,0.0,0.0,False,0.0006703495746478,0.0009268355206586,0.000961777230259
+you should go to the theaters and check it out,0.059328925,0.0,0.0,0.0,False,0.0008535721572116,0.0011905335122719,0.0008714660652913
+it's probably gonna have a limited run at playing at the independent,0.036336336,0.9963830709457397,0.0357142857142857,0.139,False,0.000693368492648,0.000424295081757,0.0010800728341564
+"the, it's probably my amc theaters, but it's playing on the independent circuit of it, so i don't know how long it's going to be there",0.04165838,0.0,0.025,0.0,False,0.0006015394465066,0.0004275099781807,0.0003931573010049
+"i feel like once the next big release comes out, its gonna get pushed, so if you have it in your theaters, go check it out",0.09548495,0.9385455846786499,0.0,0.0,False,0.0006540648755617,0.0006802154821343,0.0007435153820551
+"okay, those are my thoughts on books",0.023460433,0.0,0.0,0.0,False,0.0006760979886166,0.0005074067739769,0.0004615840443875
+mark,0.016035106,0.0,0.0,0.0,False,0.0024615828879177,0.0005932635394856,0.000811401521787
+"what did you guys think? have you seen it? if you haven't you should, you should definitely go check it out",0.06332459,0.0,0.0,0.0,False,0.0006257822387851,0.0059536420740187,0.001639517955482
+"but if you have let me know about your comments, what did you think? did you like it? it did not like it",0.05413456,0.9999655485153198,0.0,0.098,False,0.0008847222779877,0.0005909359897486,0.0014471571194007
+"am i off? based on my little, my assessment of how the world views coming-of-age comedies with women versus guys sound off",0.13386416,0.9716179966926575,0.0,0.0,False,0.0029576227534562,0.0042467298917472,0.0043943156488239
+"let me know if you haven't subscribed, go ahead and subscribe",0.07211506,0.6219792366027832,0.0,0.0,False,0.001217812183313,0.0042251446284353,0.0004714632232207
+bring the bail below like share,0.14059398,0.6655813455581665,0.0,0.0,False,0.0075507923029363,0.000654813600704,0.001376818283461
+let everybody know about the channel,0.038911518,0.0,0.0,0.0,False,0.0006523559568449,0.0004438293690327,0.0002057598758256
+first 500 folks that we get in here on the channel,0.09709594,0.0,0.0,0.0,False,0.001135905389674,0.0004234748193994,0.0004564499249681
+i'll give somebody something nice for hanging around letting everybody know about the place,0.13835071,0.8047965168952942,0.0,0.0,False,0.0006452481611631,0.0011579699348658,0.0279100760817527
+"okay, you can email us at hollywood already, did it at gmail",0.06612156,0.9719099402427673,0.0,0.0,False,0.0008343434310518,0.0005831695161759,0.0005547589971683
+"com where you can find us on twitter at hollywood, adi, and we have a podcast by the same name that's on itunes",0.034962907,0.910557746887207,0.0,0.0,False,0.0005919184768572,0.000501615635585,0.0007325968472287
+"spotify, google play, anywhere that plays podcast this current week",0.013883209,0.0,0.0,0.0,False,0.0007410209509544,0.0004922325606457,0.0004305384063627
+"while i wasn't there, there was a guest host with blake, who talked about aladdin the live-action remake to see if it was worth the the ii going of aladdin stated, compared to the original, if it did, and what really like what they didn't like him to see why films like that beat out movies like book smart and bright burn, but again, like always, i got my ticket, you got yours",0.06132676,0.0,0.0,0.019,False,0.0007070588762871,0.0010285194730386,0.0015520923770964

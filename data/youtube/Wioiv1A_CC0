@@ -1,0 +1,89 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"i'm off the deeper, watches at 7:00 i'll never meet the bro",0.09816993,0.6368652582168579,0.0,0.0,False,0.0072549362666904,0.0068942983634769,0.0084811644628643
+"hello, everybody",0.02124131,0.0,0.0,0.0,False,0.0007853033021092,0.0004593463963828,0.0006652710726484
+my name is steph koza and today i'm gonna review a star is born,0.04131502,0.0,0.0,0.0,False,0.0034239175729453,0.0323767177760601,0.0038308671209961
+"i have so many feelings, so many feelings everywhere",0.044405237,0.0,0.0,0.0,False,0.0010319990105926,0.0003618045302573,0.0008521029376424
+"ah, so a star is born is directed by bradley cooper",0.029469188,0.0,0.0,0.0,False,0.0048392950557172,0.0006341263651847,0.0034457764122635
+"it is his directorial debut, very exciting, but also very scary",0.17380224,0.0,0.13,0.296,False,0.0006287441356107,0.0004877561877947,0.0005746289389207
+you never really know what you're gonna get,0.11021292,0.0,0.1,0.0,False,0.003899602452293,0.0050391247496008,0.0026994720101356
+when an actor decides to make a movie,0.0334178,0.6538673043251038,0.0,0.0,False,0.0009310276946052,0.0016180875245481,0.0005226724897511
+it's like it could be really good or it could just be the worst thing that's ever happened,0.14597784,0.9999974966049194,0.15,0.165,False,0.0228663198649883,0.00384958460927,0.0025649713352322
+"also lady gaga's first big movie role, which is super exciting because i love lady gaga",0.060527626,0.0,0.0,0.0,False,0.0006774711655452,0.0027599786408245,0.0044478285126388
+i love her more than most people,0.08850401,0.0,0.0,0.0,False,0.0010609572054818,0.0005988568300381,0.0007819317979738
+"i love her so much, i love her voice",0.044748597,0.0,0.0,0.0,False,0.0008130826172418,0.0005432777688838,0.0004470204294193
+i love her spirit,0.05852979,0.0,0.0,0.0,False,0.0006252802559174,0.0003569718101061,0.0003069138911087
+i love literally everything about her,0.064523295,0.0,0.0,0.0,False,0.0008631866076029,0.0005632486427202,0.000521975220181
+i'm also a huge fan of bradley cooper,0.02637897,0.0,0.0,0.0,False,0.0008082407293841,0.0006007333286106,0.0013512965524569
+i just like i don't know,0.020824814,0.0,0.0,0.0,False,0.0009076867718249,0.0126699414104223,0.0010529566789045
+i never,0.02054715,0.9781559705734253,0.0,0.0,False,0.0014925025170668,0.0008868605364114,0.0010174438357353
+"it's like the duo i never thought i needed, and now i can't name a more iconic duo",0.0669207,0.0,0.0,0.0,False,0.0006828119512647,0.0005634615663439,0.0006491315434686
+they're just incredible together,0.052136723,0.0,0.0,0.0,False,0.0006744418060407,0.0003135372244287,0.0012421067804098
+so this movie is actually a remake of a remake,0.059328925,0.9994282126426697,0.0,0.0,False,0.0007681308197788,0.0003931676037609,0.0004105181142222
+"there's the 1954 version starring judy garland and james mason, and then there's the 1976 version starring barbra streisand and kris kristofferson",0.018881164,0.0,0.0,0.0,False,0.0008371744770556,0.0013256238307803,0.0011174014071002
+they all follow pretty much the same bones of the story,0.07011723,0.0,0.0,0.0,False,0.0007542798994109,0.0004873525758739,0.0012633728329092
+"which is, there's this character, jack, played by bradley cooper, who is kind of a has-been rock star",0.035306264,0.7459539771080017,0.0,0.0,False,0.001415628590621,0.0081253657117486,0.0153925269842147
+he's been doing it almost his whole life,0.03049926,0.0,0.0,0.0,False,0.0008719594916328,0.0004338578728493,0.0042568398639559
+he's very used to it,0.059328925,0.0,0.0,0.0,False,0.0009636423783376,0.0004119038057979,0.0025553957093507
+"he's very used to the lifestyle of being a rock star and drinking and being an alcoholic and a drug addict, and just kind of floating through life like that, but he is a really skilled musician and a really passionate musician and he really loves what he does and then you have lady gaga's character, ally, who is a struggling artist",0.17518331,0.0,0.0,0.05,False,0.0102346669882535,0.0094134742394089,0.066321276128292
+"she's always wanted to be a singer, but is like, basically just about giving up on that dream and one day that starts a line and they meet and bradley cooper is like you're amazing",0.039598234,0.0,0.0,0.0,False,0.0006518988520838,0.0006787148304283,0.0042326166294515
+i want to make you famous,0.15568043,0.0,0.0,0.0,False,0.0085058966651558,0.0053062168881297,0.0730059072375297
+"also, i'm in love with you, so there you go",0.09655894,0.0,0.0,0.0,False,0.0085910111665725,0.00750985275954,0.0397986322641372
+"kind of a tragic love story about music and passion and following your dreams and it's just got all the stuff that makes you feel things, and i loved every second of it so much",0.034104515,0.0,0.0,0.064,False,0.000713774934411,0.0003793447976931,0.000468309095595
+i think the chemistry between lady gaga and bradley cooper is astounding,0.15334547,0.0,0.0,0.0,False,0.0007001310004852,0.0016360803274437,0.0198369789868593
+they are so beautiful together,0.059728492,0.0,0.0,0.0,False,0.0011520907282829,0.0003194468445144,0.0019537496846169
+they're so good at being in love like you,0.056931525,0.0,0.0,0.0,False,0.0293462164700031,0.0063771079294383,0.0178635828197002
+just believe it,0.018881164,0.0,0.0,0.0,False,0.0010902455542236,0.0004177952068857,0.0006393388612195
+"i was something going on behind the scenes here like hello, they just have this very very strong, passionate, pure love that",0.06851897,0.0,0.0,0.0,False,0.000590763927903,0.0003540851175785,0.0071565080434083
+"even when they're fighting and they're arguing, they still love each other at the end and it's just so beautiful",0.10031791,0.0,0.0,0.179,False,0.0013260721461847,0.0004006225208286,0.001343022333458
+"also the music in this movie, like that alone blew me away",0.20669603,0.0,0.0,0.138,False,0.0019792015664279,0.0010975855402648,0.0079381251707673
+"i knew ever since i saw the trailer and i heard lady gaga's voice and i was like ah, i love her, but it's just so good, so beautiful, so well written everything",0.026207292,0.0,0.0,0.0,False,0.0006194329471327,0.000819973880425,0.0016484775114804
+every song i was like tearing up,0.15451296,0.9721552133560181,0.0,0.0,False,0.0010400569299235,0.0181594137102365,0.0750516802072525
+it was,0.020130653,0.5452705025672913,0.0,0.0,False,0.0022854036651551,0.0005889934836886,0.0007909690611995
+it was an emotional ride for me,0.04131502,0.0,0.0,0.0,False,0.0016890495317056,0.0003987603122368,0.0010811754036694
+"this movie shows like two sides of being famous and it shows them really well like we have jack's character, who has already been doing this for a really long time",0.034791227,0.0,0.0,0.0,False,0.000707387109287,0.0006637618644163,0.0007379269227385
+"he's like, pretty much been raised like this",0.11472086,0.9792567491531372,0.0,0.0,False,0.0007994510815478,0.0005494343931786,0.0183390602469444
+he didn't have a great childhood,0.22952124,0.9997207522392273,0.0,0.397,False,0.0023862430825829,0.0004588884185068,0.0357795767486095
+he's just like this is my life,0.035649624,0.0,0.0,0.0,False,0.0124826449900865,0.0009807270253077,0.0579356290400028
+i'm a rock star,0.030842619,0.0,0.0,0.0,False,0.0011191820958629,0.0006629437557421,0.001392540987581
+"i party, i drink, i do drugs everyday and that he's just very used to it, and he's very stuck in this kind of rut of just not being fulfilled with life, and we just kind of watch him deteriorate throughout the movie and alternatively we see lady gaga's character ally, like, slowly rise to the top, actually, very quickly rise to the top",0.33859563,0.9999693632125854,0.0,0.065,False,0.0245816428214311,0.0056246188469231,0.0152998454868793
+"and with her character we see the other side of fame, or it's someone who has had nothing their whole life, and they've always dreamed of it, but they're like",0.060927194,0.0,0.0,0.0,False,0.001258605858311,0.0007463208748959,0.0036331824958324
+"there's just no way that would never happen to me and then it does and it's so fast and she becomes this other person that's not really her and it's very, very strongly, similar to lady gaga's actual life",0.055732824,0.0,0.0049999999999999,0.053,False,0.0015570542309433,0.0012574860593304,0.0081170694902539
+"like a lot of things that happen in this movie happened to lady gaga and i was like wow, i'm watching lady gaga's life right now, not ali",0.049212243,0.999677300453186,0.0,0.0,False,0.0006963557680137,0.0021948413923382,0.0039136060513556
+this is gaga,0.103539884,0.0,0.0,0.0,False,0.0043237335048615,0.001799680176191,0.1054777055978775
+"i'm sure it wasn't exactly like that, but it was very similar to her life story, and very similar to what happened to her and how the industry kind of shaped her into this personality and made her into this weird pop star and almost took away her original talent",0.05493369,0.8147377371788025,0.0,0.068,False,0.0007877707248553,0.0009137639426626,0.0014201912563294
+"and this movie comments about that a lot, and it's very interesting and very scarily true, because this is the thing that actually does happen in the world",0.052935857,0.0,0.0,0.0,False,0.0006951691466383,0.0004117332864552,0.0004883928922936
+"i would not be surprised if this movie got some oscar nominations, definitely for the music, probably for lady gaga and bradley cooper's performances, because they were both so amazing",0.055732824,0.0,0.0,0.046,False,0.0006057352875359,0.0007621828117407,0.0010385242057964
+"i think, even though this is cooper's directorial debut and lady gaga's first big role, you would never guess it like",0.030155903,0.6991956233978271,0.0,0.095,False,0.0007434516446664,0.0010227544698864,0.0005480961990542
+"do you look like they've been doing this for their whole lives? this is two incredible forces of acting and directing and music at work, and their chemistry on the screen is so good",0.043031808,0.0,0.0,0.0,False,0.0007292680675163,0.000465541583253,0.0011166172334924
+"uh, i think this movie is a beautiful tribute to artists and to dreamers and to love and love stories",0.028954152,0.0,0.0,0.0,False,0.0005776456091552,0.0005861388053745,0.0003727771400008
+it's just god,0.03204437,0.0,0.0,0.0,False,0.0012336351210251,0.0019720017444342,0.0064208796247839
+i don't know,0.017770508,0.9742851853370667,0.0,0.0,False,0.0010861124610528,0.0022731318604201,0.0004278314299881
+i just really enjoyed this movie,0.040971663,0.0,0.0,0.0,False,0.000566974573303,0.0003871200315188,0.0003669057914521
+"i think everything that it does, it does really well",0.032387726,0.0,0.0,0.0,False,0.00064031209331,0.0003139910113532,0.0015816363738849
+there was nothing i just liked about it,0.09655894,0.9999865293502808,0.0,0.25,False,0.0008943612338043,0.0007927959086373,0.0014104826841503
+i thought it was a very long movie,0.04131502,0.988114595413208,0.065,0.0,False,0.0006995220901444,0.0004660986014641,0.0008389676804654
+"it's nearly two and a half hours, which is pretty long",0.02792408,0.9560361504554749,0.0,0.0,False,0.0007694257074035,0.0003831219219136,0.00074458605377
+i didn't really realize how long it was,0.022074303,0.9984725117683411,0.0,0.0,False,0.0007758717983961,0.0004819048044737,0.0007427583332173
+"i think there were definitely some parts that were a little bit slow, but i don't know",0.06332459,0.9414540529251099,0.1625,0.0,False,0.0006019764696247,0.0006447806372307,0.0003632913867477
+it's kind of a slow burn and it didn't really bother me,0.1464265,0.9999823570251465,0.0,0.0,False,0.0019266410963609,0.0024137741420418,0.0047079971991479
+"i really didn't realize how long it was until it was over and it's like wow, i was really long, but it",0.03187269,0.9612471461296082,0.0,0.0,False,0.0006996768061071,0.0005293487920425,0.0012201308272778
+i liked it,0.026894007,0.0,0.0,0.0,False,0.00102871353738,0.0003743025299627,0.0003328983439132
+i liked it so much,0.046465382,0.0,0.0,0.0,False,0.0009808850008994,0.0003215579199604,0.0005362986121326
+it doesn't even faze me,0.124380715,0.9997720122337341,0.0,0.0,False,0.0060002957470715,0.0020010988228023,0.029153449460864
+plot was great,0.03204437,0.0,0.0,0.0,False,0.0008080616826191,0.0003534524003043,0.0005380955990403
+the acting was great,0.27045983,0.0,0.0,0.0,False,0.0007992225582711,0.0005030916654504,0.0005033705965615
+the music was great,0.021796638,0.0,0.0,0.0,False,0.0006508606020361,0.000384143757401,0.0008362540393136
+nothing about this movie was bad,0.13700475,0.8655263781547546,0.6999999999999998,0.412,False,0.0016215266659855,0.0038482297677546,0.0026640819851309
+"in my opinion, i think it was great",0.019575324,0.0,0.0,0.0,False,0.0005764482193626,0.0003269771113991,0.0004598806845024
+i think everyone should go see it,0.045091953,0.0,0.0,0.0,False,0.0006825546151958,0.0013790972298011,0.0008476218790747
+if you like movies,0.031529333,0.0,0.0,0.0,False,0.0029960689134895,0.0015679828356951,0.0005484844441525
+it's a good movie,0.035134587,0.0,0.0,0.0,False,0.000685975945089,0.0006418150733225,0.0004981568199582
+i'm gonna give it a five out of five,0.067320265,0.0,0.0,0.0,False,0.0212838407605886,0.0042312596924602,0.0007746960618533
+there you go,0.03770977,0.0,0.0,0.0,False,0.0011415004264563,0.0007592272595502,0.0023191773798316
+but that's it for my review of a star is born,0.028610796,0.0,0.0,0.0,False,0.0018604890210554,0.0039700837805867,0.0006561964401043
+let me know if you guys saw the movie,0.03599298,0.777622401714325,0.0,0.0,False,0.0007731035002507,0.0008485600701533,0.0003633166779763
+let me know in the comments what you thought about it,0.027065687,0.7558521628379822,0.0,0.0,False,0.0006287189899012,0.0005613733665086,0.0005780485225841
+i'd love to hear your thoughts and talk about it with you guys,0.0741129,0.0,0.0,0.0,False,0.0005797854973934,0.0022131705190986,0.0006500137387774
+thank you guys so much for watching and subscribing,0.02809576,0.0,0.0,0.0,False,0.0011670908425003,0.0005054495413787,0.0003377631073817
+"if you subscribed, we are really really close to a hundred thousand subscribers, which is crazy to me, and i'm so so grateful and i'll definitely be doing something special to celebrate whenever we hit, but until then i will see you guys in the next video",0.19716066,0.0,0.0085714285714285,0.032,False,0.0006872277008369,0.0043829567730426,0.0019995062611997
+bye,0.055732824,0.0,0.0,0.0,False,0.0059144631959497,0.0005959753761999,0.000621129933279

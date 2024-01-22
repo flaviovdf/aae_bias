@@ -1,0 +1,44 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hello, before the review starts, i want to say thank you for everyone that watches these shows likes these videos, comments on them, and i put a link in the description",0.022773718,0.0,0.0,0.0,False,0.0005306319217197,0.0005076240049675,0.0003008577914442
+i just made some shirts comes with a bunch of colors and check them out,0.112788886,0.0,0.0,0.0,False,0.0007469480624422,0.0008851244347169,0.0007857479504309
+purchase them,0.0471521,0.0,0.0,0.0,False,0.0014074000064283,0.0016570559237152,0.0009127372177317
+thank you,0.014369122,0.0,0.0,0.0,False,0.0006253210594877,0.0005706180236302,0.0004497025802265
+"i appreciate it, deuces",0.07131593,0.0,0.0,0.0,False,0.0008612792589701,0.0024261535145342,0.0009389932965859
+"hello, welcome to just my thoughts",0.017076347,0.0,0.0,0.0,False,0.000738724542316,0.000370478403056,0.0005004229024052
+"i'm he was clear, warned on this episode i'll be talking about the movie the farewell",0.08170467,0.9804915189743042,0.0,0.112,False,0.0005762560176663,0.0005715177394449,0.001074792467989
+i wouldn't say,0.01999182,0.8943421840667725,0.0,0.0,False,0.0008743689395487,0.0005704366485588,0.0004523313837125
+"it's a foreign film, although there are subtitles because the main characters go to china",0.052136723,0.9944741129875183,0.0,0.0,False,0.000745813944377,0.0005428848671726,0.0006160194170661
+there is some english speaking as well,0.032731086,0.0,0.0,0.0,False,0.0006323023117147,0.0005311103304848,0.0002521867281757
+the movie stars aquafina,0.01631277,0.0,0.0,0.0,False,0.0008250385290011,0.0005088894395157,0.0007596510113216
+"you know her from oceans, a crazy rich asians and she's really the only main character of name that you will know",0.42631236,0.0,0.0,0.092,False,0.0022197137586772,0.519329309463501,0.459723562002182
+"there's other people you may be familiar with that you will see, but you, i don't not pronounce their name, but aquafina plays the character named billy and she finds out that her grandmother has cancer and in her culture they don't tell people when they're sick",0.12116077,0.0,0.1547619047619047,0.185,False,0.012231022119522,0.043548047542572,0.0139938462525606
+so she's currently living in new york,0.020685982,0.7945800423622131,0.0,0.0,False,0.0008162374724633,0.0087869837880134,0.0004391309339553
+she left china when she was very young,0.053335425,0.0,0.0,0.0,False,0.0013392306864261,0.0027549352962523,0.0039822133257985
+"so they, they have a fake wedding and they get the family to come to china, but really they, they had the wedding so they can go say their goodbyes to the grandmother and it's it's a different type of story and i was taken aback like watching it like wow, this is",0.18450552,0.0,0.0499999999999999,0.033,False,0.0021312625613063,0.0008571701473556,0.00354307400994
+this is crazy,0.28021416,0.0,0.6,0.545,False,0.2828477025032043,0.0528188869357109,0.0898961797356605
+the grandmother has no idea that she's sick,0.09172598,0.9898453950881958,0.7142857142857143,0.478,False,0.2857332527637481,0.0552925691008567,0.0748478174209594
+you know,0.03994159,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+"they just keep telling her it's it's like pneumonia, or you know something else, but she really has cancer and it's a different role for aquafina zamore dramatic roles",0.16035037,0.9853002429008484,0.0777777777777777,0.185,False,0.016892297193408,0.0110508315265178,0.0190474428236484
+she's not loud and cracking jokes like she was doing a crazy rich asians,0.4497033,0.975480318069458,0.0916666666666666,0.117,False,0.3505899310111999,0.6049109101295471,0.6337953805923462
+"the dynamic between her character billy and the grandmothers, really great, the grandmothers phenomenal in this movie, she has a lot of energy",0.027065687,0.0,0.0,0.0,False,0.0008598898421041,0.0009542529587633,0.0009702422539703
+she's always joking,0.16827796,0.0,0.0,0.0,False,0.0013135512126609,0.0021814592182636,0.0217034220695495
+she's happy that everyone is there because she is,0.04165838,0.0,0.0,0.0,False,0.0007411385304294,0.000462268362753,0.0013431694824248
+"she's planning the way, so she's just excited that her family is there",0.05773066,0.0,0.0,0.0,False,0.0006564581999555,0.0004845598596148,0.0007798935985192
+they all came out,0.058130227,0.0,0.0,0.0,False,0.0017171148210763,0.0007739035645499,0.0012420096900314
+"it's a celebration and for the wedding, but there really like heard that she has cancer and they're like keeping it from her and you can see aquafina struggling, because from staying in america so long, she wants to tell her grandmother",0.12888865,0.0,0.0,0.179,False,0.0188539698719978,0.00663827592507,0.0132392318919301
+"like what's really going on? she feels bad nobody is telling her the truth, and it eventually affects like her family",0.079307266,0.6566657423973083,0.2499999999999999,0.126,False,0.0010115539189428,0.0011818243656307,0.0032966749276965
+"you know they, they start to",0.028610796,0.8634923696517944,0.0,0.0,False,0.0197448618710041,0.0005497104721143,0.0021711343433707
+it starts to hit them as well,0.34792873,0.0,0.0,0.0,False,0.0022941487841308,0.5391757488250732,0.6256366968154907
+it,0.017770508,0.0,0.0,0.0,False,0.0016468944959342,0.0015647209947928,0.0006399405538104
+it's not exactly the right thing to do and it's thrill emotional at times because they're in saying goodbye to her and she's just having the time of my life and having a good time with everyone,0.03427619,0.9936776757240295,0.0,0.0,False,0.0010235499357804,0.0004965960979461,0.001074141007848
+but it's a like a smaller film,0.048525527,0.9334744811058044,0.0,0.0,False,0.0007890170090831,0.0004022529756184,0.0016128140268847
+"but if you have a chance to go out and see it, i would suggest you go out and see because it's a",0.048868883,0.0,0.0,0.0,False,0.0008418152574449,0.0206458400934934,0.0029097923543304
+it's a good movie,0.035134587,0.0,0.0,0.0,False,0.000685975945089,0.0006418150733225,0.0004981568199582
+it's good acting,0.13082063,0.0,0.0,0.0,False,0.0007927577826194,0.000624080596026,0.0010083214147016
+"granted everything, most mostly is mostly in subtitles when they win in china, but awkwafina awkwafina character, she can talk to her, her parents in english, you know, to keep stuff away from my grandmother, you know, when they have like emotional connections, and again, it's a different role for her",0.10828095,0.0,0.0,0.0,False,0.0008677270961925,0.0007969968719407,0.0008028387092053
+i really enjoyed her in this movie,0.05852979,0.0,0.0,0.0,False,0.0005788205889984,0.0004094915639143,0.0002812797611113
+"i enjoyed the grandmother as well, and i hope they get some consideration when it's a wartime because it's a good film and i want people to go check it out again",0.08420804,0.0,0.0,0.0,False,0.0005280423210933,0.0004495242610573,0.00037941330811
+it's called the farewell,0.04783881,0.9774922728538513,0.0,0.0,False,0.0007620258838869,0.0004309890791773,0.0006933493423275
+go see it,0.029125832,0.0,0.0,0.0,False,0.0010218326933681,0.0009734533377923,0.0008588359924033
+enjoy,0.03204437,0.0,0.0,0.0,False,0.0012331987963989,0.0005872602923773,0.0007805546047165
+thank you for listening,0.017492844,0.0,0.0,0.0,False,0.0005895320791751,0.00044725445332,0.0003333677304908

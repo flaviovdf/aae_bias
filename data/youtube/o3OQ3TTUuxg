@@ -1,0 +1,57 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hey, everyone, it's mariana",0.028954152,0.0,0.0,0.0,False,0.0007677473477087,0.0015597302699461,0.2332456260919571
+"i haven't seen you in a bit, but i am back and today let's talk about",0.03427619,0.0,0.0,0.0,False,0.0006073681288398,0.0014030954334884,0.0009148014942184
+get out,0.1731117,0.9964704513549805,0.0,0.0,False,0.8342952132225037,0.0186160691082477,0.0008313388680107
+this movie is written and directed by jordan peele,0.060527626,0.0,0.0,0.0,False,0.0015122167533263,0.0005992093938402,0.000629699206911
+"it's his feature film directorial debut, which is really impressive and is definitely not your regular horror film",0.10699297,0.0,0.0,0.0,False,0.0008795927278697,0.000476277898997,0.0023785503581166
+i don't even know if i would classify this as a horror movie because it's the kind of thing that somewhere in between thriller and horror film,0.080905534,0.0,0.0,0.226,False,0.0007680137059651,0.0006563544156961,0.0011840300867334
+but what really surprised me is the amount of humor and satire in it,0.074912034,0.0,0.0,0.0,False,0.0006434711976908,0.0005750615382567,0.0005332169239409
+"the story centers around chris, played by danielle kaluga, who goes to meet his girlfriend's parents at a pretty secluded location",0.026894007,0.0,0.0,0.0,False,0.0010843477211892,0.0008923728018999,0.0015142895281314
+"he has some concerns about this because roth has not told her parents that he's black, and when they gets there, things go from slightly awkward to straight-up weird",0.29045674,0.9920105934143066,0.4222222222222222,0.1,False,0.0071554607711732,0.1301908940076828,0.1625691801309585
+"and that's all i'm going to tell you about the plot, because i think it's definitely one of those movies that's best seen knowing as little as possible about it",0.038911518,0.0,0.0,0.0,False,0.0006215323228389,0.0005357945919968,0.0006090514943934
+"so if you haven't seen get out yet, which you absolutely should go see it in theaters",0.050242316,0.0,0.0,0.0,False,0.0008158225682564,0.0005062705022282,0.0010493331355974
+that's all you're going to get from me for the plot,0.1008549,0.0,0.0,0.0,False,0.0020957372616976,0.0053639062680304,0.0063231368549168
+this movie is filled with tension and suspense,0.23277332,0.0,0.0,0.247,False,0.00064206199022,0.0004654676595237,0.00045245300862
+it is absolutely a very effective thriller,0.11665283,0.0,0.0,0.0,False,0.000639533274807,0.0003580291813705,0.0005299520562402
+it kind of reminded me of the invitation if you've seen that movie,0.033761155,0.6643036603927612,0.0,0.0,False,0.0006791716441512,0.0004811582330148,0.000542324502021
+"but i did enjoy get out more, partly because of the humor and partly because i think it's just a more clever film",0.07131593,0.0,0.0,0.0,False,0.0007063702214509,0.0003794759104494,0.00035583646968
+"in general, it does take",0.031014297,0.0,0.0,0.0,False,0.0006817442481406,0.0003981130721513,0.0005807135021314
+it's time to get going,0.032902762,0.0,0.0,0.0,False,0.0010528669226914,0.0026057877112179,0.0008939389954321
+"also kind of like the invitation it, which surprised me a little bit, because it's not a long movie",0.07451247,0.6038342714309692,0.0,0.0,False,0.0007436876185238,0.0004075038013979,0.0003434021200519
+"it's about an hour and 43 minutes, i believe, but the first 30 to 40 minutes felt longer than the rest of the film to me, and i kind of wish things picked up a little bit quicker",0.08689302,0.9997552037239075,0.0,0.0,False,0.000569517200347,0.0003718908410519,0.0003219757345505
+i did really like how it builds up this atmosphere of unease with small things that escalate it throughout the film,0.08635602,0.0,0.0249999999999999,0.11,False,0.0005938815884292,0.0003484515473246,0.0004792492545675
+"one of those things where the situation just feels off, and it may not be anything major or openly aggressive to begin with, but it just puts you on edge the entire time because you feel uncomfortable along with the character and that's another thing i really enjoyed about get out though wheyhey films this and the way he tells the story",0.111500904,0.0,0.0,0.07,False,0.0006566825322806,0.0003775513614527,0.0005375721957534
+"jordan peele does a really great job putting the audience kind of in the shoes of the main character and making the audience see the situation from chris's perspective, making the audience uncomfortable because of what he's experiencing, and daniel coleus performance really helps with that as well",0.064523295,0.0,0.0,0.046,False,0.0006604988011531,0.0004670510534197,0.0004632642085198
+"i would say, in general, the performances across the board are very strong, not just for a horror film, but for any film",0.0471521,0.0,0.0,0.092,False,0.0005684252828359,0.0003952515835408,0.000557494466193
+"i think a lot of us can relate to this type of anxiety because even though we may not have been in this exact situation, i think a lot of us have experienced being in a social environment or in a small gathering where things just feel wrong and something about it is passive-aggressive and it's not something you can easily explain unless things escalate, but you know you're not feeling right in the situation",0.039254878,0.7026658654212952,0.0,0.064,False,0.000561079417821,0.0003967372176703,0.000338468584232
+this is also a film that has layers to it,0.07970683,0.0,0.0,0.0,False,0.0007653163629584,0.0004043151566293,0.0009609446278773
+"while it is definitely entertaining and fun because of the comedy and because of the thrills, it is a film that has some social commentary",0.04165838,0.0,0.0,0.0,False,0.0006611392600461,0.0003942770999856,0.0003382221329957
+it's a film that deals with racism and stereotypes and the way people treat each other,0.13251819,0.0,0.125,0.197,False,0.0122344335541129,0.0182056706398725,0.0255107302218675
+"i don't want to really ruin anything once again, but it all comes back to the awkwardness of the situation and to the perspective and to the way you can interpret what somebody is saying and you can try to explain it away, but that doesn't mean you're going to feel any more comfortable",0.059728492,0.7264421582221985,0.0,0.094,False,0.0007122508250176,0.0005981107242405,0.0006531989783979
+i do wish that the filmmakers have stayed away from jump scares because the jump scares and get out are so unnecessary,0.14104263,0.9998905658721924,0.4,0.181,False,0.0008854955667629,0.0012471907539293,0.0015455111861228
+"there's a kind of jump scare that just startles you with a loud sound and nothing scary is really happening and i find things like that annoying as you know, and they're not really all over the place, but there are a few, so that was kind of a bit disappointing for me",0.15684792,0.9999721050262451,0.03,0.158,False,0.0022722440771758,0.0019063043873757,0.0011106070596724
+overall,0.026722329,0.0,0.0,0.0,False,0.0009697820059955,0.0014175759861245,0.0004327050992287
+though get-out is a film that you should definitely check out,0.03736641,0.0,0.0,0.0,False,0.0012529412051662,0.0005787624395452,0.0004850450786761
+it just works on so many levels,0.026722329,0.0,0.0,0.0,False,0.0007868572720326,0.0003435812541283,0.0004622066626325
+it is an effective and suspenseful thriller,0.16413476,0.0,0.0,0.0,False,0.0006203661323525,0.0003505040658637,0.0004939584759995
+it is a clever set,0.035477944,0.0,0.0,0.0,False,0.0008171460358425,0.0004793824627995,0.00443817069754
+tired had me laughing quite a bit throughout the film,0.1024659,0.9882829785346985,0.4,0.206,False,0.0009640408679842,0.0005998642300255,0.0012984656495973
+even though it never really turned into a comedy,0.033932835,0.9982820749282837,0.1,0.0,False,0.0008749248227104,0.0004720631695818,0.0004722249577753
+it was just part of the entertaining experience,0.016590435,0.0,0.0,0.0,False,0.0006568437092937,0.0003141218621749,0.0003054557892028
+it was smart and funny,0.045778666,0.0,0.0,0.0,False,0.0006905861664563,0.0004288994532544,0.0108018722385168
+it was well shot,0.2712817,0.0,0.0,0.0,False,0.0039748628623783,0.0567610152065753,0.3447435200214386
+"it was well written, and all of that makes it very much rewatchable",0.031185975,0.0,0.0,0.0,False,0.0005666728247888,0.0003625256067607,0.0003883318277075
+"so absolutely, check it out in theatres and you'll probably want to see it again at some point later",0.03358948,0.0,0.0,0.0,False,0.0006431266665458,0.0004145986167714,0.0004108796711079
+i'm going to be giving get out a solid 4 out of 5 stars and i think 2017 is off to a pretty good start if we're in february and we already are getting really solid films like get out,0.06372416,0.0,0.0,0.0,False,0.0008772103465162,0.0004115392221137,0.0003618971386458
+that's it,0.026894007,0.0,0.0,0.0,False,0.0024011139757931,0.0004873056604992,0.0011659142328426
+for my review,0.013327881,0.0,0.0,0.0,False,0.0006196481990627,0.0004263256851118,0.0003093406558036
+"let me know if you guys have seen this movie already and what did you think of it? in the comments below, i would love to talk to you about it",0.04543531,0.0,0.0,0.0,False,0.0005172414239495,0.0007827783701941,0.0005570817156694
+warn people about spoilers before you get into them,0.21892473,0.7650912404060364,0.0,0.149,False,0.006161387078464,0.0005430543678812,0.0012366970768198
+but let's definitely talk with some spoilers included because there's a lot to discuss about,0.085282035,0.0,0.0,0.0,False,0.0006280012312345,0.0003350938204675,0.0004323486355133
+get out,0.1731117,0.9964704513549805,0.0,0.0,False,0.8342952132225037,0.0186160691082477,0.0008313388680107
+"and if you haven't seen the movie once again, please give it a try",0.048868883,0.9539002180099487,0.0,0.0,False,0.0006720279925502,0.0011825378751382,0.0005351800355128
+i don't think you're going to regret it,0.049898956,0.0,0.0,0.286,False,0.025252541527152,0.0032718130387365,0.0011476000072434
+"thank you so much for watching this video if you enjoyed it, which i hope you did",0.029640866,0.0,0.0,0.0,False,0.000565220718272,0.0005449932068586,0.0006457261624746
+please don't forget to give it a thumbs up,0.092262976,0.0,0.0,0.0,False,0.0006248495192267,0.0077198855578899,0.0008291773847304
+share with your friends and subscribe to my channel,0.024147147,0.8992806673049927,0.0,0.0,False,0.0012337814550846,0.0023581099230796,0.0006384325097315
+"if you haven't already, i hope you're having an awesome day and i will see you soon in my next video, bye",0.15246986,0.0,0.0,0.091,False,0.0041398988105356,0.1052247211337089,0.0008989092311821

@@ -1,0 +1,94 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+roma: a film that features a close-up shot of a pile of dog crap that’s more cinematic than the best shot in half the movies you watched last year,0.54375964,0.9850822687149048,0.0,0.077,False,0.2992326617240906,0.89958655834198,0.7445517778396606
+"hey, everybody, welcome to mainely movies",0.034962907,0.0,0.0,0.0,False,0.0013922757934778,0.0033705332316458,0.0014027969446033
+today i’m gonna be talking about the 2018 netflix-distributed mexican drama film: roma,0.031529333,0.0,0.0,0.0,False,0.0005783573724329,0.0024364360142499,0.000559409847483
+"it stars yalitza aparicio, marina de tavira, fernando grediaga, and nancy garcia, and was directed by alfonso cuarón",,0.0,0.0,0.0,False,0.0014739731559529,0.0010468614054843,0.0016540476353839
+"roma begins in 1970 mexico city, and focuses on cleo gutierrez, played by yalitza aparicio,, who is a housekeeper for a middle-class family in colonia roma",0.013536129,0.0,0.0,0.0,False,0.0008625160553492,0.0009498336585238,0.0002882533590309
+"so for those unfamiliar with mexico city, the city’s divided into sixteen boroughs or municipalities",0.048525527,0.0,0.0,0.0,False,0.0006565987132489,0.001577433431521,0.0018296500202268
+"and each of these boroughs are further subdivided into colonias, or neighborhoods",0.032902762,0.0,0.0,0.0,False,0.0006515175336971,0.0004038860206492,0.0003823345759883
+"so colonia roma is a neighborhood that’s pretty close to the historic center of mexico city and was fairly upper-middle class in the 40s and 50s,, but began to see some deterioration during the 60s, which worsened over time",0.04268845,0.876763641834259,0.0,0.09,False,0.0006713635521009,0.0010454710572957,0.0003792435163632
+"and so this film follows cleo’s life here for about a year, and explores her relationship with the family she works for, as well as her own personal difficulties",0.014993866,0.0,0.0,0.07,False,0.00071264867438,0.0003809139016084,0.000652142742183
+i had an extraordinarily hard time determining how i actually felt about this movie,0.050585672,0.9999172687530518,0.1458333333333333,0.097,False,0.0007850354304537,0.0005010529421269,0.0008791969157755
+"alfonso cuarón is a masterful director, so i knew there would be no question that this film would be a technical marvel",0.036508016,0.0,0.0,0.088,False,0.0008302443893626,0.0003941269824281,0.0013283600565046
+"even beyond his technical prowess, cuarón's films have been consistently interesting and engaging, so i was really looking forward to this one",0.031014297,0.0,0.0,0.0,False,0.0005891658365726,0.0003538993187248,0.0004581897519528
+"i love his earlier film y tu mamá también,, so i was excited to see him return to his roots with a mexico-set spanish language film",0.023632111,0.0,0.0,0.0,False,0.0006210299325175,0.0026769570540636,0.0010407903464511
+the hype and oscar buzz only helped to heighten my anticipation,0.09494796,0.0,0.0,0.0,False,0.0009936639107763,0.0003999128239229,0.000751202518586
+"well, i finally watched roma, and i have to say, i'm pretty disappointed",0.17957193,0.9999867677688599,0.1666666666666666,0.168,False,0.0006142500205896,0.000611180672422,0.0007858905592001
+"not in everything, of course,, but definitely in the story",0.015757442,0.6912890076637268,0.0,0.0,False,0.0006559669272974,0.0003206536057405,0.0002256302977912
+"for such a personal, deeply human story, i was amazed by how cold it left me",0.0471521,0.0,0.12,0.0,False,0.0009436417021788,0.0004600725369527,0.0005370979779399
+i just didn't care what happened to any of the characters,0.14373457,0.9999498128890991,0.0,0.208,False,0.0118932882323861,0.0005645517376251,0.0015769393648952
+even cleo's most traumatic scene left me feeling pretty apathetic,0.1580154,0.0,0.0,0.367,False,0.0030602554325014,0.0085989385843276,0.0035519604571163
+"that's not good, and that's not normal for me either",0.103539884,0.9998996257781982,0.2125,0.211,False,0.0014892116887494,0.0021302546374499,0.003539165481925
+"i'm not the world's most empathetic person, but i'm not entirely heartless either",0.103539884,0.0,0.0,0.0,False,0.001777766039595,0.0073331948369741,0.0030491161160171
+"movies and character plights get to me sometimes, and this movie had tons of instances where i shoulda felt something, but didn't",0.062125895,0.9988034963607788,0.0,0.0,False,0.0006076579447835,0.0004726663173642,0.000464486569399
+"i really think roma is a film where your own personal experiences will dictate your ability to connect with the characters, which is absolutely essential for this largely plotless film",0.13146462,0.9147543907165527,0.0,0.0,False,0.0010278417030349,0.0004531593585852,0.0005699850153177
+"i wanted to connect and i really tried to,, but i just couldn't",0.043718524,0.9997072815895081,0.0,0.0,False,0.000715086935088,0.000498131616041,0.0002858602965716
+so the story mostly left me feeling cold and bored with the excessively meek and submissive main character,0.18549223,0.9999727010726929,0.2366666666666666,0.211,False,0.0113024143502116,0.0692251250147819,0.0408129319548606
+"luckily, my boredom and disinterest with the story and characters gave me a chance to focus on the far superior technical aspects of the film",0.09333697,0.7522515058517456,0.0,0.072,False,0.0017636585980653,0.0003741553227882,0.0005317272734828
+i frequently found my attention drifting from the sulking characters to the background or the lighting or the shot composition,0.04406188,0.9628216028213501,0.0,0.116,False,0.0028787394985556,0.0004622438864316,0.0025801823940128
+the cinematography in this film is stellar,0.030155903,0.0,0.0,0.0,False,0.0006663757958449,0.0003518881567288,0.0042190542444586
+and it wasn't only when i was bored that i was drawn to it,0.09924392,0.9017161726951599,0.25,0.139,False,0.0007993836770765,0.0042024734430015,0.002559297485277
+it was the very first thing i noticed about the movie,0.032902762,0.0,0.0,0.0,False,0.0006485753110609,0.0003795741358771,0.0004245612944941
+the nearly five and a half minute long continuous opening shot was utter eye-candy to anyone interested in shot composition,0.1256687,0.0,0.0,0.0,False,0.0007923140656203,0.0011723891366273,0.0007697182591073
+the patterned floor giving way to a wonderful reflection of the sky as the water eventually washed over in soapy waves that end up mirroring the beach scene towards the end of the film,0.053335425,0.0,0.0,0.0,False,0.0006506902864202,0.000420640775701,0.0004494430904742
+"the reflected plane in the sky gives us our first glimpse of the recurring plane motif, and then the wonderful pan up to reveal cleo washing the floor",0.04268845,0.0,0.0,0.0,False,0.0005963168805465,0.0006570428377017,0.0007125892443582
+"that in itself would have been a great opening shot, but it continues; tracking cleo, lingering on the bird cages while we wait for her to return to the courtyard before following her once again",0.11021292,0.0,0.0,0.0,False,0.0006731664179824,0.0073975077830255,0.0050920411013066
+i was blown away and that was just the first five minutes,0.16551583,0.0,0.0,0.0,False,0.0020256785210222,0.0010501021752133,0.0058327200822532
+"the black and white photography aided in emphasizing contrast, but also helped reduce visual clutter",0.1008549,0.0,0.0555555555555555,0.0,False,0.0006784581346437,0.0215942077338695,0.017162000760436
+there were several fantastic tracking shots in the film that followed characters as they rushed along busy sidewalks,0.103539884,0.0,0.0,0.0,False,0.0005572736845351,0.000382541300496,0.0004113866598345
+"in color, these could have been way too visually stimulating",0.053335425,0.9995579123497009,0.0,0.0,False,0.0006132295820862,0.0004348031070549,0.0007051592692732
+there’s just so much going on in these scenes that the addition of color would have distracted us from the intended focus: the characters,0.035306264,0.999045193195343,0.0,0.094,False,0.0005958456313237,0.0004600753891281,0.0006955100689083
+"i was also surprised by the extensive use of long shots, even beyond the expected establishing shots at new locations",0.0729142,0.0,0.0,0.0,False,0.0005489358445629,0.0013621754478663,0.0018997514853253
+"when characters were outside, they were almost exclusively shot in long shot, giving a real sense of depth to the scenes",0.087430015,0.0,0.0,0.0,False,0.0005969409830868,0.0068734772503376,0.0095795737579464
+"even the interior scenes were typically shot as wide as possible, with very few close-ups, giving the movie a very open feel despite the frequently cramped quarters",0.1024659,0.0,0.0711111111111111,0.0,False,0.0006192735745571,0.000391039007809,0.0004832033300772
+"for me, roma joins the ranks of films that put style over substance",0.0669207,0.9793272614479065,0.0,0.0,False,0.0010667111491784,0.0004753662506118,0.000402026635129
+"the style is undeniably impressive, but without the depth in substance, this film ends up being a coldly dull tale",0.2298686,0.9989470839500427,0.0,0.15,False,0.0101888366043567,0.0021950544323772,0.005889122840017
+"it was clearly designed to evoke emotions, but i simply failed to connect with it on any level other than cinematography-gushing",0.08330294,0.9998704195022583,0.1749999999999999,0.176,False,0.0007099426584318,0.0004144033882766,0.0030798786319792
+and man do i wish i coulda connected,0.06851897,0.0,0.0,0.0,False,0.001168077928014,0.0034606563858687,0.0051437891088426
+"because if this film had the substance side to it, too, it coulda been right up there with the likes of cuarón's most impressive films",0.04131502,0.0,0.0,0.0,False,0.0007421449408866,0.0004046726389788,0.0006158289033919
+"alright, so let’s take a look at the pros and cons",0.025863936,0.7127935886383057,0.0,0.0,False,0.000691739609465,0.000383117905585,0.000471390900202
+the number one pro here is the cinematography,0.049898956,0.0,0.0,0.0,False,0.0016507855616509,0.0003971955156885,0.0005866862484253
+it’s also pro number two and three through eight as well,0.02054715,0.0,0.0,0.0,False,0.0009042812744155,0.0003315073554404,0.0002807056298479
+it’s simply fantastic,0.024833864,0.0,0.0,0.0,False,0.000643455015961,0.0003036659909412,0.0011992085492238
+"that five and a half minute opening shot drew me in with its framing, lighting, use of reflections, shot composition, and camera movement",0.15743166,0.0,0.1666666666666666,0.0,False,0.0006046791095286,0.0008674807613715,0.0004367216024547
+"but, the rest of the film is what held me transfixed",0.20449556,0.0,0.0,0.0,False,0.0007398541783913,0.00039234929136,0.0074442881159484
+"not only did it look stunning, but the whole thing was so meticulously crafted that i felt like i was back in my high school cinematography class watching good examples of various film techniques",0.035134587,0.0,0.0,0.0,False,0.0006448371568694,0.0003657693450804,0.000608118250966
+except this time all the examples were from one movie,0.02124131,0.9635820388793945,0.0,0.0,False,0.0006301857647486,0.0003575288574211,0.0004876578750554
+and the whole movie was the example,0.027409043,0.0,0.0,0.0,False,0.0008085981244221,0.0004286384792067,0.000380974903237
+i was only being sorta facetious with the video opening,0.12888865,0.9901201725006104,0.0,0.0,False,0.00072955788346,0.0006693265167996,0.0031793750822544
+"seriously, even watching dog crap get sweeped up was an engaging visual experience",0.5958905,0.0,0.1833333333333333,0.257,False,0.6659852862358093,0.8637074828147888,0.73702472448349
+"on the con side, it’s a toss up for the top spot",0.09279997,0.0,0.0,0.0,False,0.0059803440235555,0.0035181366838514,0.0089547857642173
+i couldn’t decided if my number one was the story or the characters,0.017145762,0.9957060217857361,0.0,0.0,False,0.0006436601397581,0.0004041810752823,0.0002361767983529
+let’s start broad and talk about the story first,0.018881164,0.0,0.0,0.0,False,0.000699890195392,0.0006627353141084,0.0003945028583984
+there… really isn’t one,0.017909339,0.8730931878089905,0.0,0.0,False,0.0009362359414808,0.0005168315838091,0.0004315940896049
+at least there’s no real plot,0.030155903,0.9997484087944031,0.2,0.306,False,0.0008673071861267,0.0005723965005017,0.0003691929450724
+"there are a few story beats that kinda guide the film towards its eventual conclusion, but it all feels really inconsequential",0.085282035,0.9998443126678467,0.0,0.0,False,0.0006202570511959,0.0003877425624523,0.0003211896691936
+"like i said before,, for such a personal type of story, there’s not really anything to grab onto",0.0471521,0.9968904852867126,0.0333333333333333,0.0,False,0.0006623129011131,0.0004114915500395,0.0005496580852195
+"i think the only scene where i had any sort of emotional investment was the beach scene towards the end, and even that was only momentary",0.028954152,0.9988887906074524,0.0,0.0,False,0.0006052732933312,0.0004058248014189,0.0003828584740404
+"as far as the characters go,, i just couldn’t connect to care enough about them",0.119872786,0.9998812675476074,0.0,0.0,False,0.0010879894252866,0.0006087067886255,0.0007726537878625
+"cleo is clearly our main character and the lens through which we view the film, but she was just so dull",0.29756662,0.9999136924743652,0.0083333333333333,0.185,False,0.0101716928184032,0.1222250759601593,0.1625759452581405
+"there are a handful of situations she encounters that could be compelling, but her meek subservience absolutely wiped away any of the brewing interest i had",0.17449278,0.9994701743125916,0.0,0.0,False,0.0022083132062107,0.0065712123177945,0.0028198265936225
+"i think many viewers will feel bad for her, but i was more annoyed by her total submissiveness in every single situation",0.28021416,0.999629020690918,0.0285714285714285,0.311,False,0.0124515993520617,0.0053362632170319,0.0010640271939337
+"in fact, i would have much preferred to focus on sofia, played by marina de tavira, who was a much more interesting character",0.016798683,0.9976586103439331,0.0,0.0,False,0.000573870667722,0.0004433767171576,0.0011862856335937
+even her complete disregard for that car was a thousand times more interesting (and telling) than anything cleo did,0.077709,0.768131673336029,0.0,0.095,False,0.0016933162696659,0.0017723821802064,0.0020275618880987
+"i also would have loved to see more exploration of the family’s youngest son, pepe, played by marco grof,, with his sorta haunting descriptions of his former lives",0.044405237,0.0,0.0,0.053,False,0.0005695839645341,0.0022153323516249,0.0021129860542714
+"the third con is sorta a culmination of issues, but it manifests in this film being an exercise in style over substance",0.07451247,0.8590400218963623,0.0,0.0,False,0.000838765874505,0.0009747610311023,0.0007624606369063
+"if you need a perfect encapsulation of that, look no further than the fire scene with the unmasked singer",0.19634613,0.0,0.0,0.189,False,0.0009983557974919,0.0008890865719877,0.027524372562766
+i’m gonna give roma 3 out of 5 paws,0.1668969,0.9995211362838745,0.0,0.0,False,0.0839062705636024,0.0013638156233355,0.1122317165136337
+"this was a really hard one for me because i found the story to be incredibly underwhelming and dull, but the technical aspects were sublime",0.11536485,0.9757546782493591,0.0,0.126,False,0.0009948285296559,0.0009389212937094,0.000884830544237
+"so, they balance out slightly higher than a middle-ground rating",0.037881445,0.0,0.0,0.0,False,0.0006430702633224,0.0005479115061461,0.0008231825777329
+i would recommend roma to two types of people,0.060927194,0.0,0.0,0.0,False,0.0008431137539446,0.0006662071682512,0.0005824826657772
+the first are those that are interested in cinematography and shot structure,0.040284947,0.0,0.0,0.0,False,0.0006050365627743,0.003032639157027,0.0010594290215522
+the imagery of this film is fantastic,0.038053125,0.0,0.0,0.0,False,0.0005968798068352,0.0003606312966439,0.000672448601108
+"if the technical side of cinema isn’t really your thing, then i would really only recommend this to people who like slow and long, largely plotless films",0.15626417,0.9982377290725708,0.0,0.0,False,0.0019717537797987,0.0013036191230639,0.0010682075517252
+that’s not meant to be a knock against anything,0.05093802,0.9982300400733948,0.0,0.0,False,0.0049311253242194,0.0006072812830097,0.0044151535257697
+"but if that’s your type of movie… if a meandering glimpse into a character’s day to day life is your kinda thing, then you’ll probably like this movie a lot more than i did",0.089041,0.0,0.0,0.0,False,0.0012086274800822,0.001059205038473,0.0022559801582247
+"if you liked roma, i’ve gotta recommend y tu mamá también",0.01263372,0.0,0.0,0.0,False,0.0008301708148792,0.0010291036451235,0.0313242264091968
+"it’s another character-driven, spanish language cuarón film, but a lot more happens in it",0.04818217,0.0,0.0,0.0,False,0.0009736198117025,0.0004912468139082,0.0007248754845932
+"it’s a road trip movie, but it’s far more profound than road trip movies usually are",0.049212243,0.0,0.0,0.0,False,0.0014722056221216,0.0005258123273961,0.0006894209655001
+i’d also suggest you check out shoplifters for another foreign film that explores family through character development,0.032902762,0.7056504487991333,0.125,0.0,False,0.0007446918752975,0.0005693424027413,0.0008534583030268
+"alright, a few questions for you guys",0.049898956,0.7008718848228455,0.2,0.0,False,0.0006368791218847,0.0015644908417016,0.0011509258765727
+"one: have you seen roma? if so,, what’d you think of it? and two: what’s your favorite film set in mexico? be sure to leave your answers in the comments below so we can get a discussion going",0.03839648,0.5191552639007568,0.0,0.029,False,0.0006142895435914,0.0009177283500321,0.0007027183310128
+"alright, so if you got some enjoyment, insight, or information out of this review, i’d appreciate it if you’d hit that like button",0.08796701,0.9162642359733582,0.0,0.0,False,0.000750089471694,0.0048081846907734,0.0006695913616567
+"and, if you haven’t done so already, please hit subscribe while you’re at it, so you can see more videos like this",0.13206954,0.8907641172409058,0.0,0.0,False,0.0008329023839905,0.0393071696162223,0.0005920950789004
+"till next time, this has been alyssa with mainely movies: the way life should be",0.02397547,0.0,0.0,0.0,False,0.0007725095492787,0.000706921739038,0.0006840243586339

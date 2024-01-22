@@ -1,0 +1,112 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"yes, this is my panther review and yes, i'm not so dressed like storm, and now storm does not make an appearance in this film",0.092262976,0.9439478516578674,0.0,0.078,False,0.0009172658319585,0.0009664858807809,0.0015083589823916
+but i'm gonna go ahead and manifest her president in this sequel,0.09279997,0.0,0.0,0.0,False,0.0018845334416255,0.0015572424745187,0.0096626849845051
+"and yes, i say a sequel because this movie is freaking amazing",0.22987647,0.0,0.0,0.153,False,0.2528417706489563,0.2093501538038253,0.632046639919281
+it's gonna make a bajillion dollars,0.024318827,0.8408786654472351,0.0,0.0,False,0.0099417399615049,0.0005877933581359,0.0006251533632166
+"now, let's talk",0.0224908,0.0,0.0,0.0,False,0.0007116395281627,0.000703374214936,0.0024795730132609
+"what kinda? hey, everyone? a shriner from paper weights, and today i am gonna be giving my thoughts on black panther",0.16620636,0.0,0.1666666666666666,0.0,False,0.0016586352139711,0.1750995069742202,0.2589859664440155
+"okay, so just rest assured",0.04131502,0.0,0.0,0.0,False,0.0006370233604684,0.0005121399881318,0.0005098606925457
+"okay, this is not a spoiler review",0.085282035,0.8060047626495361,0.0,0.0,False,0.0076009687036275,0.0003835061506833,0.0003431803779676
+i'm not gonna give away any plot points or anything,0.03599298,0.9977522492408752,0.0,0.0,False,0.0009127116063609,0.0007191463373601,0.0012522223405539
+i'm not gonna give anything special away,0.06931809,0.9711289405822754,0.0,0.0,False,0.002081325976178,0.0010424262145534,0.0015769680030643
+"okay, because i want to make sure that you go into this movie the same way i did",0.0471521,0.0,0.0,0.0,False,0.0164140909910202,0.0040566897951066,0.0012859605485573
+nothing was spoil for me,0.083939545,0.0,0.0,0.0,False,0.0057366481050848,0.002567924093455,0.0090164691209793
+i didn't read any too many reviews,0.04234509,0.9561046361923218,0.0,0.0,False,0.0005964649608358,0.0004300818836782,0.0003063023614231
+"i didn't watch too many trailers or the scenes from the film, so i want to make sure that i don't spoil that for you as well, so you don't have to like",0.15626417,0.0,0.0,0.057,False,0.0008621019660495,0.003859112272039,0.0018971104873344
+click away,0.13700475,0.9843355417251587,0.0,0.0,False,0.0100546507164835,0.0045038154348731,0.0007988277939148
+it's okay,0.019852988,0.9940611720085144,0.0,0.0,False,0.0006813557702116,0.0003838635166175,0.0004456666065379
+i'm not gonna tell you anything about the plot of the movie,0.058130227,0.9990414977073669,0.0,0.0,False,0.0007017659954726,0.0006164798978716,0.0006236961344256
+"okay, so also before i get started, i want to make sure that i give a special thank you to mr",0.08689302,0.0,0.0,0.0,False,0.0005403578397817,0.0016083049122244,0.0004278400156181
+"design junkie, who helped create this backdrop for me for my review video",0.3552902,0.0,0.0,0.0,False,0.0006876951665617,0.0278504639863967,0.0142960650846362
+you may know him from all of the amazing fan art that he's had for black panther,0.074912034,0.0,0.0,0.0,False,0.0007115235785022,0.035756517201662,0.0150913065299391
+"make sure that you go follow him on twitter and instagram, because his work is absolutely amazing",0.025520578,0.0,0.0,0.0,False,0.0006307392031885,0.0006063608452677,0.0010397487785667
+so getting into black panther directed by ryan coogler and i absolutely loved this film,0.07850813,0.0,0.0,0.0,False,0.0010611118050292,0.0329788364470005,0.0073764943517744
+"i was shocked that i love this one because i actually got scared before i went to go see it because when the embargo lifted and all the reviews came out, i was like yeah, like i know, this movie's gonna be great, but i felt like it was a little bit over height and i was scared because my level of excitement was even higher because of how good the reviews were, so i didn't want to feel like i was setting myself up for failure if the reviews completely overhyped the film",0.08635602,0.0,0.0,0.115,False,0.0006048497161827,0.0005783753003925,0.0006711175665259
+"but i will have to tell you that the movie is very, very good",0.045778666,0.0,0.0,0.0,False,0.0006608325056731,0.0004868367395829,0.0003943695628549
+"it definitely is a different type of marvel film than what you're used to seeing, and i actually appreciate that",0.02929751,0.0,0.0,0.0,False,0.0005576926632784,0.0003357612004037,0.0007752499077469
+now,0.01999182,0.0,0.0,0.0,False,0.0014697305159643,0.0004906950052827,0.0007275509997271
+"first and foremost, the casting for this film is simply amazing",0.045091953,0.0,0.0,0.0,False,0.0005371755105443,0.0003514433046802,0.0007981764501892
+"the casting for this film is so good, and the character development of the majority of the cast is so amazing that sometimes you forget that there's a movie is about to chawla",0.052935857,0.0,0.0,0.047,False,0.0007811937248334,0.0004117797652725,0.0008541877032257
+"okay, because you have all these different story arcs from the other characters and they're just as entertaining to watch on the screen that you kind of forget like, oh yeah, like i'm in a black panther movie",0.101391904,0.0,0.0,0.047,False,0.0009738039225339,0.0314024537801742,0.0088847186416387
+so i thought the casting decisions were absolutely amazing for this film,0.0471521,0.0,0.0,0.0,False,0.0005746661918237,0.0003723040572367,0.0005167141207493
+now i have to talk about the female presence of this movie and it's for a different reason,0.05773066,0.9682111144065857,0.0,0.0,False,0.0012389707844704,0.003584254765883,0.0145295904949307
+"now a lot of people talked about the door of menagerie, and they're basically in this badass all-female army that protects the king, but i really want to talk about the diversity of female empowerment from the different types of characters because not only do you have the general of the dorm, elisha, who is this badass woman? she was one of my favorite characters to watching the action sequences, but you also have someone like nakia, who is kind of like an independent rebel who fights for her country just in a different way than what you see",0.24418297,0.0,0.0,0.048,False,0.0096298363059759,0.008583310060203,0.0488442741334438
+"the dorm, lij, i'm do",0.007739889,0.0,0.0,0.0,False,0.0036940549034625,0.0006401150021702,0.0444959588348865
+"and then you have two childless little sisters, sharee, who is definitely gonna be the fan favorite",0.31682462,0.0,0.0,0.0,False,0.0011185191106051,0.0070226206444203,0.0199954193085432
+she was my favorite in the entire movie,0.03221605,0.0,0.0,0.0,False,0.0009893535170704,0.0003901063464581,0.0008056697552092
+"not only is she absolutely hilarious in the film, but she's a 16 year old genius",0.15918289,0.0,0.0,0.0,False,0.1029732823371887,0.0013379800366237,0.0064115533605217
+"not only is she a 16 year old genius, she isn't the smartest person on the planet",0.43100753,0.991293728351593,0.0,0.168,False,0.0770309343934059,0.1007291004061698,0.3210937976837158
+"yes, she is smarter than toni start, and she is responsible for the some of the technological advances that what kind of continues to have? so i really like the different types of female characters that you see",0.09870692,0.0,0.0,0.0,False,0.0012275361223146,0.0024682353250682,0.0081032868474721
+"it was really refreshing not only just to get the strong warrior-type but to get the highly intelligent woman as well, or the independent kind of spy type of female, so i really appreciated that, and especially as a black woman, seeing all these different types of black women who were basically just as important to the film as black panther himself",0.22980565,0.0,0.0,0.0,False,0.0109301237389445,0.0772975385189056,0.1144873201847076
+it was really great to see,0.026207292,0.0,0.0,0.0,False,0.0005771170253865,0.0003413685772102,0.0003888992068823
+now we have talked about this villain,0.23803931,0.9084150791168213,0.0,0.415,False,0.0067366953007876,0.0010275846580043,0.0150858284905552
+"okay, because when y'all started talk about this villain, y'all were like",0.20376207,0.0,0.0,0.241,False,0.0040463209152221,0.0170361958444118,0.0064960201270878
+this is the best villain that i've ever seen,0.1731117,0.0,0.0,0.243,False,0.0013347854837775,0.001866147853434,0.0017964679282158
+"that was just like okay, yeah, it's not like it was gonna be that hard to do that because the villains are and issue in these types of films",0.13700475,0.9999333620071411,0.0,0.211,False,0.0007786920759826,0.0005607754574157,0.0004892735742032
+"but i absolutely enjoy michael b jordan, and yes, i said michael b jordan, because he was looking like a little snack",0.2712817,0.0,0.0,0.0,False,0.0005786107503809,0.0077787581831216,0.0038961952086538
+"okay after you didn't lost ten pounds, and you want to reward your suffer at that cheat meal, that was michael bay jordan",0.33859563,0.9866634607315063,0.0,0.201,False,0.2850352525711059,0.0227384362369775,0.0155224492773413
+this kill monger,0.5810591,0.6160385012626648,0.0,0.701,False,0.9848437905311584,0.5588558316230774,0.756347119808197
+"okay, yes, he was getting it in a movie, but back to him being a good villain",0.16965903,0.931582510471344,0.0,0.196,False,0.0010103768436238,0.0255995355546474,0.0008153792005032
+i enjoy kill monger,0.7699882,0.0,0.0,0.475,False,0.9424684047698976,0.8890060782432556,0.8701431155204773
+"now a lot of people compare him to loki, saying the best villain says loki",0.15130237,0.0,0.0,0.173,False,0.0005801699589937,0.0008837925270199,0.0032512547913938
+"but for me, i'm gonna compare him closer to a vulture, just because i feel as though would both of their storylines",0.31540272,0.0,0.0,0.16,False,0.0017889011651277,0.0020308198872953,0.0067623071372509
+"i felt as though because of their circumstances of what happened to them, you kind of sympathize with them as a character",0.02655065,0.0,0.0,0.0,False,0.0006962093757465,0.0004419814213179,0.0008027243893593
+"and then you almost felt like well, yo given",0.06372416,0.0,0.0,0.0,False,0.003742690430954,0.0005122066359035,0.0027997205033898
+"given the same circumstances that she went through, i would too, and i was okay with that and will kill monger",0.59863794,0.0,0.0,0.184,False,0.7444000840187073,0.8902230262756348,0.8063824772834778
+is even is his circumstances are hiding to where,0.026207292,0.991883397102356,0.0,0.216,False,0.0009090299718081,0.0005732938298024,0.0007911722641438
+"not only do you sympathize for his character, but because he was speaking so much truth in this film like he will be talking",0.09924392,0.0,0.0,0.0,False,0.0007455488666892,0.0005679289461113,0.0012767603620886
+i'd be like,0.021518974,0.0,0.0,0.0,False,0.0012906509218737,0.0013657951494678,0.0005311450222507
+"yep, message",0.019158829,0.0,0.0,0.0,False,0.0013638039818033,0.0006517348228953,0.0007786697824485
+"okay, cuz, he didn't tell no lies",0.118584804,0.7105008363723755,0.0,0.223,False,0.0173329655081033,0.0048887752927839,0.0121003976091742
+he told that one lie in this film and it was hard because you know that this is a hero film,0.19789414,0.9734659194946289,0.2916666666666667,0.058,False,0.0016376636922359,0.0068772998638451,0.0039755464531481
+but it's kind of just like i was okay,0.018464668,0.7953855991363525,0.0,0.0,False,0.0007212544442154,0.0008353485609404,0.0010775277623906
+"either way, i was like if if the hero wins, i'm okay, but if the villain lives, i'm a little too, because he was speaking of truth, and so i think that's why a lot of people enjoyed his character because he had character development and because the backstory of how his life turned into that direction",0.06012806,0.0,0.0,0.071,False,0.0006080628954805,0.0004563052498269,0.0002579599386081
+"i think it really set him up to be a very good villain, but he was also funny too",0.16035037,0.0,0.0,0.1,False,0.0008823203970678,0.0010699384147301,0.0008290893747471
+he was funny,0.05093802,0.0,0.0,0.0,False,0.0011268943781033,0.0003619268245529,0.0021110854577273
+"yeah, like he was saved me",0.03204437,0.0,0.0,0.0,False,0.0010392961557954,0.0010337356943637,0.0008548651239834
+"he would be serious, but it would be funny and that kind of leads me to another thing that i liked about this film",0.09172598,0.0,0.0,0.039,False,0.0006278818473219,0.0005547944456338,0.0007893780129961
+the jokes,0.06771983,0.0,0.0,0.0,False,0.0016133285826072,0.0017743472708389,0.0010068796109408
+"the movie was funny at the right times, and i think as a black person, because i felt as though it was like black jokes",0.37647265,0.0,0.0,0.0,False,0.0118995988741517,0.2681364715099334,0.218678280711174
+it was junk,0.39421332,0.9999533891677856,0.0,0.0,False,0.2664472460746765,0.9652764797210692,0.771365761756897
+"so like black people will get, cuz",0.3905958,0.0,0.1666666666666666,0.0,False,0.8101951479911804,0.7468616366386414,0.5684430003166199
+"it's like something that a black person will predominantly say to another black person, which made it even more hilarious",0.4945446,0.0,0.0,0.0,False,0.2449397146701812,0.5145254135131836,0.5666427612304688
+"and that's not to say that if you're not black that you're not gonna get the jokes you're definitely gonna get and they're gonna be funny whoever watches it, but i just think it's a black person",0.5026305,0.0,0.0,0.0,False,0.3558363318443298,0.6629873514175415,0.5251701474189758
+"just given the context of the jokes, it made it even funnier",0.0729142,0.0,0.0,0.0,False,0.0006178189069032,0.0005010653985664,0.0005924205179326
+"even made it even more funny for me, so i thought that the movie knew when to take yourself seriously in a new one to lighten up the mood",0.07451247,0.0,0.0,0.053,False,0.0008661077008582,0.0009100959287025,0.0007759509608149
+but it wasn't in a cheesy way,0.06252546,0.0,0.5,0.0,False,0.0159793905913829,0.000346489396179,0.0023731107357889
+it's so natural,0.02809576,0.0,0.0,0.0,False,0.0010242064017802,0.0003430719661992,0.0017183143645524
+"and because the movie felt so natural, it didn't feel like a superhero movie",0.055732824,0.0,0.0,0.122,False,0.0008216814021579,0.000413757021306,0.000469609251013
+and i think that's because of the real-life topics that they talked about,0.02193547,0.0,0.0,0.0,False,0.0005918034003116,0.0003981787303928,0.0005082206916995
+"they definitely talked about imperialism, colonialism they talked about immigration",0.10515087,0.0,0.0,0.0,False,0.0007555956835858,0.0015050066867843,0.0010967509588226
+this is,0.027237365,0.0,0.0,0.0,False,0.0025696041993796,0.0004171926702838,0.0007732412195764
+there's this battle of what do you do? intervene with another country to try to you know,0.078108564,0.994676947593689,0.0,0.14,False,0.0037637022323906,0.000545852293726,0.0018483073217794
+"help them do better, you know, and i feel like a lot of the issues that were talking about are relatable to the issues that we talked about as a country today, and i appreciate it that they did not try to like sugarcoat it",0.05852979,0.0,0.0,0.04,False,0.0005992221995256,0.0004555266641546,0.0014493203489109
+they called it what it was,0.029984225,0.740540623664856,0.0,0.0,False,0.000886297901161,0.0004302799352444,0.0010179145028814
+it wasn't preachy preachy,0.094410956,0.0,0.2,0.0,False,0.0050142672844231,0.0022442354820668,0.0068069966509938
+"it was done just right, and i appreciate it being so real, which made it such a relatable film",0.022773718,0.0,0.0,0.0,False,0.0006091243703849,0.0003394964442122,0.0003968929231632
+it's like they,0.024147147,0.0,0.0,0.0,False,0.0034354922827333,0.0010384564520791,0.0025557240005582
+"it's a superhero film, but it's not, doesn't feel that way",0.09279997,0.9842239022254944,0.0,0.0,False,0.0008090077899396,0.0003758996899705,0.0010585518321022
+i definitely agree with the comparisons that this is a bond film made like the political thriller,0.11085691,0.9239092469215393,0.0,0.0,False,0.000619864964392,0.0003583223442547,0.0003478155122138
+"yes, now, as much as i love this movie, there were a few",0.090114996,0.0,0.0,0.0,False,0.0005809634458273,0.0004792832769453,0.00075338158058
+just a few issues,0.055732824,0.9995973706245422,0.2,0.0,False,0.0006327390437945,0.000671972928103,0.0008941167034208
+"now, a lot of people talk about the cg with the extra scenes",0.049898956,0.0,0.0,0.0,False,0.000601983629167,0.0054269302636384,0.0103502990677952
+i didn't have an issue with majority of the action scenes,0.038911518,0.0,0.0,0.0,False,0.0006608888506889,0.0004211047489661,0.0004067999252583
+"i only had an issue with the one with the two panthers, and i didn't like the music that was paired with it",0.13745339,0.9992743134498596,0.0,0.088,False,0.000736801943276,0.0010235689114779,0.0011974330991506
+that's really nitpicking,0.0753116,0.9968976974487305,0.0,0.0,False,0.0009527484653517,0.0140300849452614,0.1821394711732864
+"it really wasn't necessary to say, but that was an issue for me as well as a little bit of the pasty",0.06771983,0.9823749661445618,0.0,0.0,False,0.0020688520744442,0.0009012504597194,0.0005742377252317
+some of the parts of the beginning felt a little bit like too long,0.0495556,0.9998772144317627,0.11875,0.0,False,0.0008317330502904,0.0002974200469907,0.0002685842337086
+"but overall, as a film pacing wise, i didn't feel like i was in a two hour and 14 minutes, which was a good thing",0.056931525,0.0,0.0,0.082,False,0.0005993253435008,0.0003819548001047,0.0003499356389511
+i just felt like there were a couple of parts in the beginning that they didn't need to dwell on as much,0.05373499,0.9630829095840454,0.0,0.057,False,0.0005678636953234,0.0003452336241025,0.0004243254079483
+but for me i love this movie,0.040628307,0.0,0.0,0.0,False,0.0007311374647542,0.0006026064511388,0.000221842812607
+i really love this movie,0.037881445,0.0,0.0,0.0,False,0.0006852183141745,0.0004269402124918,0.0002295933809364
+"i love that this movie is dispelling the myths that are predominantly black cast with positive black characters can't do well in the box office, and we see that from what it's doing with the presale tickets, i love is of the beautiful presence of like women, like doing the damn thing, and in a positive way, i just love this movie so much",0.45120096,0.0,0.0,0.052,True,0.0808347910642623,0.3896518051624298,0.7822099924087524
+i'm so happy they were continued,0.031185975,0.0,0.0,0.0,False,0.0006486186175607,0.0003904424665961,0.0003329738974571
+this is not just the first black superhero film,0.24991328,0.0,0.0,0.0,False,0.0129307303577661,0.1562196612358093,0.0914605855941772
+"it's the first predominantly black cast with a marvel movie, but we had movies like companies like blankman, we had meteor man, we had spawn, we had blade like we had a lot of movies",0.28996843,0.0,0.0,0.0,False,0.0024731617886573,0.0669103190302848,0.0492123514413833
+but i love that this movie is getting so much height that we can continue to make other movies like this and even continue it out into different genres,0.05093802,0.0,0.0,0.0,False,0.0006992301787249,0.0005792508018203,0.0003276489733252
+i love this film,0.032902762,0.0,0.0,0.0,False,0.0008882614201866,0.0003857678093481,0.0001976991625269
+i'm so happy that i got to see this early,0.032902762,0.0,0.0,0.0,False,0.0005636715795844,0.000472817919217,0.0005280269542708
+i can't wait to go see it again on monday and give you a more in-depth look on my thoughts about this film,0.04234509,0.0,0.0,0.0,False,0.0006758103263564,0.0004688026383519,0.00038361074985
+but i'm gonna leave it right there for now,0.043375164,0.920336127281189,0.0,0.14,False,0.0007443345966748,0.0048015289939939,0.0008891572942957
+"my name is shir rana from pier weight, and if you liked what you saw today, make sure you hit the like button",0.074912034,0.0,0.0,0.0,False,0.002372482093051,0.0206813551485538,0.003787662833929
+"hit subscribe, share this video with your friends and i will see you soon",0.1609341,0.0,0.0,0.0,False,0.0014736377634108,0.3696726262569427,0.0025300798006355

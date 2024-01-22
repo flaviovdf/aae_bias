@@ -1,0 +1,76 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hello, this is an i",0.019158829,0.0,0.0,0.0,False,0.0031802486628293,0.0180899482220411,0.0090364953503012
+kitty,0.050242316,0.0,0.0,0.0,False,0.0044019203633069,0.0344616882503032,0.2153386324644088
+hollywood,0.02124131,0.6583887338638306,0.0,0.0,False,0.0016299992566928,0.0005147504853084,0.0005280430777929
+"now, today's review is of a film that is 81 years old, but you would not know it",0.07211506,0.6702902317047119,0.0,0.0,False,0.0007845777436159,0.00040906589129,0.0007683504372835
+columbia's in 1934 release it happened one night,0.039598234,0.9982511401176453,0.0,0.0,False,0.0006197852198965,0.0006377313402481,0.000427360238973
+this film is produced and directed by frank capra the screenplay is by frank capra's longtime associate robert riskin,0.017423427,0.0,0.0,0.0,False,0.0011573027586564,0.0003984008799307,0.0005567117477767
+"it's adapted by a mac from a magazine story, nightbus and that was written by samuel hopkins adams",0.022213135,0.0,0.0,0.0,False,0.0007858767057769,0.0004639701510313,0.0052752876654267
+"the music is by howard jackson, a cinematography is by joseph walker and the costume design is by robert calc",0.028954152,0.0,0.0,0.0,False,0.0007800597231835,0.0050253276713192,0.0045227822847664
+"the film stars clark gable, claudette colbert, walter connolly and roscoe carnes",0.009162918,0.0,0.0,0.0,False,0.0011477262014523,0.001573592191562,0.0007544211111962
+"it's about a spoiled heiress and adel, an unemployed crack reporter who end up on the same bus to new york",0.33081788,0.0,0.0,0.0,False,0.0039769154973328,0.112500175833702,0.486603319644928
+"blankets, hitchhiking and carrots ensue now look in many ways, it's kind of amazing that this film actually exists at all",0.13924801,0.0,0.0,0.0,False,0.0033174687996506,0.0003861033765133,0.0144094387069344
+"the only people who were interested in getting it made were frank capra and robert riskin, harry cohn ran columbia studios, and columbia studios was the poor cousin of the big studios",0.13745339,0.9546015858650208,0.0375,0.087,False,0.0017019598744809,0.0015166872180998,0.001043563010171
+frank capra sort of bluffed his way into hollywood and ended up getting a job at columbia studios,0.07251463,0.9582840800285339,0.0,0.0,False,0.0010297141270712,0.0113192377611994,0.0013478177133947
+he lasted there because he had an engineering background and he was able to cope with the coming of sound much better than a lot of other directors,0.024147147,0.0,0.0,0.0,False,0.0006451141671277,0.0004617354716174,0.0005579048302024
+"he did eventually become columbia's most important director, but still columbia didn't have a fancy-pants reputation, and most of its movie stars in its films were borrowed from other studios rather than being kept on the books",0.058130227,0.9037464261054993,0.0,0.0,False,0.0011697575682774,0.0006430917419493,0.0015371075132861
+"so they offered the role of ellie andrews to myrna loy carole lombard, constance bennett, margaret sullivan and miriam hopkins, who also know",0.016035106,0.0,0.0,0.0,False,0.0006456458941102,0.0046210400760173,0.0003268321743234
+then they offered the role to claudette colbert,0.015063282,0.0,0.0,0.0,False,0.000772132363636,0.0007346715428866,0.0012256661430001
+she said new warner brothers wouldn't loan betty davis out,0.036336336,0.9807003736495972,0.0,0.0,False,0.0009387839818373,0.0012843704316765,0.0008341160137206
+"they went back to claudette colbert said okay, we'll pay you double your salary and it will only take four weeks to film",0.064523295,0.999855637550354,0.0,0.058,False,0.0028854350093752,0.0008879347587935,0.0018539213342592
+"she said yes, for the male lead peter warren, they offered the role to robert montgomery",0.01665985,0.0,0.0,0.0,False,0.000621460028924,0.0014485236024484,0.002510875929147
+"he said, nearer then louis be mayor, who was the head of mgm studios came to",0.0224908,0.0,0.0,0.0,False,0.0006340994732454,0.0007786801434122,0.0009387995814904
+"harry cohn, said you can have clark gable",0.0801064,0.0,0.0,0.0,False,0.0012994231656193,0.0026565871667116,0.002762195887044
+"now, big studios tended to loan out their famous movie stars to columbia when they done something wrong",0.05773066,0.9879044890403748,0.0,0.154,False,0.0006683812243863,0.0005034922505728,0.0008174236281774
+it was kind of their version,0.024833864,0.7888025045394897,0.0,0.0,False,0.0009587621316313,0.0003340715193189,0.000412679510191
+"if you go to your room and you just think about what you've done, clark gable wasn't thrilled, but he didn't have any choice",0.0669207,0.99988853931427,0.0,0.069,False,0.001593374996446,0.0030203305650502,0.001061653252691
+filming began and everybody thought the thing was gonna be a huge flop,0.1621016,0.999832272529602,0.0,0.153,False,0.0046345111913979,0.010426408611238,0.0107978470623493
+they'd been a number of bus films made recently and it looked like this was just to try and catch in on the whole bus thing kind of a deal,0.13082063,0.0,0.0,0.0,False,0.0005973888910375,0.0004366266657598,0.0004200319235678
+claudette colbert apparently complained about everything every single date,0.1024659,0.9984956979751587,0.1857142857142857,0.252,False,0.0011371873551979,0.0013005214277654,0.0040061888284981
+when it came out,0.029469188,0.9995984435081482,0.0,0.0,False,0.0008117081597447,0.0008201755117624,0.0006382274441421
+it wasn't an immediate surefire success,0.05773066,0.9991503953933716,0.0,0.184,False,0.0008231024839915,0.0006905371556058,0.0007529243594035
+it was pulled from a lot of the major cinemas,0.049212243,0.9960210919380188,0.0,0.0,False,0.0007343121105805,0.0003730457392521,0.0014092978090047
+the ones that it did stay in a group grew word of mouth spread and it became a solid hit,0.18253209,0.0,0.0,0.0,False,0.0012361812405288,0.0012413681251928,0.0033177761361002
+"and then, when it was nominated for the top five oscars for best picture, best director, best actor, best actress and best adapted screenplay, everyone just about fell down",0.07011723,0.9996726512908936,0.0,0.0,False,0.0011795638129115,0.0005935517256148,0.0006508639198727
+and then when it won when it scooped the pool,0.08635602,0.0,0.0,0.0,False,0.0008497406379319,0.0004857189487665,0.0024230405688285
+"well, to quote wallace shawn, it was inconceivable there wasn't very good anyhow, and consider you know what i mean, claudette colbert did not attend the ceremony",0.0717155,0.9995892643928528,0.0,0.088,False,0.0006554173887707,0.0006134186987765,0.0006452238885685
+she was on a train to go on holidays,0.02397547,0.0,0.0,0.0,False,0.0019105323590338,0.0007190568721853,0.0037468816153705
+they pulled her off the train,0.21627559,0.711837649345398,0.0,0.0,False,0.0309841502457857,0.0033891228958964,0.0400343388319015
+the columbia execs got her to the ceremony,0.039598234,0.0,0.0,0.0,False,0.0009149902616627,0.0005630656378343,0.0028465874493122
+"she said, thank you in her traveling clothes",0.123736724,0.0,0.0,0.0,False,0.0006390863563865,0.0008733002468943,0.0020424916874617
+"when got back on the train again, it was",0.020824814,0.0,0.0,0.0,False,0.000938226818107,0.0005368369165807,0.0030830004252493
+it was extraordinary,0.03187269,0.0,0.0,0.0,False,0.000688043248374,0.0003568991669453,0.0007964923279359
+"now this film was made just before the production code came into being, like you know, five months or so before, and as a result it's got a much freer feel than a lot of the films made to slightly afterwards, and also gets away with a whole lot of dialogue that wouldn't have been that comment afterwards",0.028954152,0.0,0.0,0.0,False,0.0005994972889311,0.0003653340972959,0.0003971909463871
+"incidentally it happened one night had an enormous influence on the creation of bugs bunny, fritz freeling, who came up with bugs bunny, loved this film",0.05653196,0.0,0.0,0.0,False,0.0009176666499115,0.0005271072150208,0.0016085361130535
+"watched it over and over and over, and bugs bunny is sort of surefire",0.14418322,0.0,0.0,0.0,False,0.0014735857257619,0.0011000852100551,0.070315770804882
+patter was very much influenced by both oscar shapley and clark gable's method of speaking,0.02397547,0.0,0.0,0.0,False,0.0007923473604023,0.0022422182373702,0.0015366326551884
+"the way that clark gable ate carrots informed how bugs bunny ate carrots, and there's also the mention of a bugs in the film as well, which sort of led onto the whole thing",0.13476147,0.9746385812759399,0.0,0.0,False,0.0008676179568283,0.0008957065292634,0.0114869428798556
+"this film has a real, less is more approach, and it works",0.05413456,0.0,0.0,0.0,False,0.0008168672793544,0.0003984695940744,0.0009056816343218
+it's sexy,0.2406723,0.0,0.0,0.0,False,0.0175206437706947,0.1755974143743515,0.0137600973248481
+the scene where ellie and peter are lying in separate beds in the same room with a blanket between them and the moonlights shining down on them and they're there musing about life,0.09978092,0.0,0.0777777777777777,0.096,False,0.0011662206379696,0.0011425861157476,0.0043161734938621
+it is,0.021380141,0.0,0.0,0.0,False,0.0014381551882252,0.0003991297853644,0.0010289242491126
+it's sexy piece of work,0.22979778,0.0,0.0,0.0,False,0.0332580097019672,0.0212664455175399,0.0207197461277246
+it's one of the loveliest things there is on the screen to watch,0.029469188,0.0,0.0,0.0,False,0.0008027534349821,0.0135529991239309,0.0032692141830921
+one of the things claudette colbert complained about,0.025005542,0.9759302139282227,0.3,0.278,False,0.0007561017409898,0.0033907208126038,0.0017908308655023
+a lot was well legs,0.2712817,0.0,0.0,0.0,False,0.0007985362899489,0.0018808703171089,0.0274964980781078
+"she was supposed to show her legs in the film and she said, i'm not showing my",0.21892473,0.9998785257339478,0.0,0.0,False,0.0494627431035041,0.1960120797157287,0.1827671974897384
+"so if i got a stunt double in and then she didn't like the stunt doubles legs and she said, though that is not my leg, pride one out, it's her own leg that you are seeing in this film",0.21362646,0.9858923554420471,0.0,0.098,False,0.0034710878971964,0.0010394532000645,0.019681854173541
+and then clark gable apparently brought the sails of men's undershirts plummeting down to the ground because he takes his shirt off,0.20449556,0.9966631531715393,0.0527777777777777,0.0,False,0.1315819323062896,0.0019023101776838,0.0055827619507908
+"in the film, he's not wearing an undershirt",0.12695669,0.9749290943145752,0.0,0.0,False,0.043138563632965,0.0004569597076624,0.0012807418825104
+went through their doubts,0.03599298,0.9166022539138794,0.0,0.423,False,0.0010739235440269,0.0003750343457795,0.0005941420677118
+i'm not having any of this look out for alan hale in this film,0.05653196,0.9447134733200073,0.0,0.0,False,0.0007991261663846,0.0038176535163074,0.0011959426337853
+"now he's best known as little john in the adventures of robin hood, made a number of films with errol flynn, but he's also very well known for being alan hale jr",0.05093802,0.0,0.0,0.0,False,0.0008864103001542,0.0103694777935743,0.000879579805769
+'he's,0.02124131,0.0,0.0,0.0,False,0.0555672794580459,0.0029607783071696,0.0027105323970317
+father and an alan hale jr,0.020408317,0.0,0.0,0.0,False,0.0009366459562443,0.1040090546011924,0.192349225282669
+"is the skipper on gilligan's island, the scene where peter and ellie attempt to fool the detective on ellie, detectives on ellie's trail that they're not really there is dynamite",0.11729682,0.8553934097290039,0.1,0.088,False,0.00191109708976,0.00396258989349,0.006699317600578
+this,0.028439116,0.0,0.0,0.0,False,0.0022365439217537,0.0004711963993031,0.0005406324053183
+the film really feels much younger than it is,0.0669207,0.9717059135437012,0.0,0.0,False,0.0006854815292172,0.000598041457124,0.0041918130591511
+in a way that the mismatched roadtrip couple is such a common theme now filming lee,0.12760067,0.0,0.15,0.0,False,0.0009354170761071,0.0003967436787206,0.0022652843035757
+"but these are the two who originated the whole thing, the spark and the chemistry of clark gable and claudette colbert",0.026035614,0.0,0.0,0.0,False,0.0007404774078167,0.0009134292486123,0.0005086949677206
+"no matter what a kind of a time they were having making the film is so so real, so dynamic that it draws you in the few glimpses of depression-era life that frank capra gives you in this film also give you a glimpse of a whole group of people just trying to get by in the world",0.08689302,0.0,0.0,0.018,False,0.0012015782995149,0.0005913861677981,0.0007085482939146
+"and it really, that's what brings it closer to us now, because in essence, we're still all really just trying to get by now",0.035477944,0.0,0.0,0.0,False,0.0006621869979426,0.0003370896738488,0.0004506603872869
+watch it for the walls of jericho,0.068918526,0.0,0.0,0.0,False,0.0008373552118428,0.1389506310224533,0.0838797762989997
+watch it for the bus,0.09870692,0.0,0.0,0.0,False,0.0016725686145946,0.0007433255668729,0.0016953978920355
+sing-along that's great,0.03187269,0.0,0.0,0.0,False,0.0006297616055235,0.0004644195141736,0.0093477889895439
+watch it because it makes sleeping on high seem romantic and not itchy,0.31671798,0.0,0.0,0.0,False,0.0063111879862844,0.0076414365321397,0.0382297672331333
+it happened one night ten out of ten,0.032902762,0.9972460269927979,0.0,0.0,False,0.0009380686678923,0.0005990266799926,0.0007841834449209

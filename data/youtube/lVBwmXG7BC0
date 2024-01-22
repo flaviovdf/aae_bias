@@ -1,0 +1,76 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"what's up, guys? i hope you're all fantastic out there",0.11729682,0.0,0.0,0.0,False,0.0006221027579158,0.0012388840550556,0.0007506748079322
+i want to thank you as always for stopping by the channel,0.12051678,0.0,0.0,0.111,False,0.0007278780103661,0.0007211922202259,0.0005840489757247
+"if this is your first time here, welcome to the silver screen analysis",0.030327583,0.0,0.0,0.0,False,0.0006612296565435,0.0005075797089375,0.0006131869158707
+i hope you like what you hear and decide to stay,0.04680874,0.0,0.0,0.0,False,0.0009514300036244,0.0079536149278283,0.000894795928616
+we have a highly anticipated movie to review,0.044748597,0.0,0.0,0.0,False,0.0006196363829076,0.0003943449119105,0.0003001363947987
+"in this video, that, being the second directed film from jordan peele, called us, starring lupita nyong'o, winston duke, evan, alex shahadah, right joseph, the story and this one follows a family that's on vacation",0.1008549,0.0,0.0,0.0,False,0.000828395190183,0.000757853151299,0.0004337129066698
+"that, in defining themselves being terrorized by the demented doppelgangers now, it certainly isn't easy to follow up a massive critical success in a directorial debut with another movie that accomplishes the same, if not more feats than that one",0.34575438,0.9872480034828186,0.0,0.171,False,0.0013625978026539,0.0030745072290301,0.2025022655725479
+"but i think that could be what jordan peele is sitting on with this movie, because simply put, i thought this movie was awesome",0.112144895,0.0,0.0,0.0,False,0.0006570506957359,0.0005737625760957,0.0009742587571963
+it was creepy,0.25676212,0.9992460012435913,0.5,0.0,False,0.0297587234526872,0.020199904218316,0.0158197283744812
+it was intelligent,0.082104236,0.0,0.0,0.0,False,0.0008176222909241,0.0012678160564973,0.0057217385619878
+it was just twisted and loads of fun,0.15918289,0.0,0.1,0.0,False,0.0013315438991412,0.0755949169397354,0.0956187471747398
+it was a perfect blend of horror and psychological thriller with dark comedy and together these elements just really fit nicely into one fluid narrative that took me on a very haunting ride with endless amounts of sinister appeal,0.1785852,0.0,0.0,0.183,False,0.0008822595118544,0.0005634999251924,0.000719896168448
+i think the plotline in concept is very grounded,0.08689302,0.0,0.0,0.0,False,0.0005560297868214,0.0003620398347266,0.0004287902847863
+it isn't hard to put yourself in the position of this family to imagine what you would really do in their situation,0.024147147,0.0,0.0458333333333333,0.0,False,0.0008367581758648,0.0006131708505563,0.0005896798684261
+i thought it was just absolutely compelling to see how things unfolded,0.062125895,0.0,0.0,0.0,False,0.0005326853133738,0.0003164019144605,0.0003578033065423
+"the first act, in particular, the opening scene do a great job of setting the stage for this plotline",0.06372416,0.0,0.0,0.0,False,0.0006672283052466,0.0004141155222896,0.0002339927741559
+it gives us this section of a flashback for this haunting night with this little girl,0.20522906,0.0,0.1875,0.137,False,0.0121626118198037,0.0031791378278285,0.0026620137505233
+"it gives the viewer something to think about in the back of their mind, as the tone then shifts to meeting the seemingly normal family",0.040971663,0.0,0.0,0.0,False,0.0006212732405401,0.0004443238140083,0.0006896752747707
+the dynamics between them are all common to many other families,0.022074303,0.0,0.0,0.0,False,0.0006406988250091,0.0003473746182862,0.0003671410959213
+"their personalities were as well, which i thought just made them very easy to connect with",0.049212243,0.0,0.0,0.0,False,0.0005442215478979,0.0003185597015544,0.0004843541537411
+the dialogue was naturally charming,0.023288755,0.0,0.0,0.0,False,0.0005972505314275,0.0003844919847324,0.0004557121428661
+with a great sense of humor,0.02517722,0.0,0.0,0.0,False,0.000633314019069,0.0004068270791321,0.0005124910967424
+it landed some solid laughs to keep me entertained,0.07970683,0.0,0.0,0.0,False,0.0006585784722119,0.0004345159395597,0.0028015635907649
+"and as things kind of built up, but all the while you can just feel that something very dark and looming is foreboding in the backdrop of the story",0.05773066,0.0,0.0,0.071,False,0.0005973644438199,0.00043204089161,0.0004357215075287
+"i thought it was very effective in creating subtle uneasiness, and i was constantly on edge waiting for something dark to happen",0.13969667,0.0,0.0,0.095,False,0.0008968675392679,0.0006973621784709,0.0006513749831356
+"despite the atmosphere of the movie early on being kind of light, and i enjoyed the contrast between both feelings",0.030327583,0.0,0.0,0.0,False,0.0005570142529904,0.0003954666026402,0.0002905021538026
+it doesn't take long to learn enough about the characters to get a sense of they were and how their family dynamics were all structured,0.018325835,0.9939106702804565,0.025,0.0,False,0.0006088211084716,0.0003474857367109,0.0002932895149569
+then the story really does take a turn,0.017562259,0.0,0.0,0.0,False,0.0007227333844639,0.0003443227906245,0.0006395460804924
+the mood drops into a much darker territory,0.07730943,0.9981335997581482,0.0,0.0,False,0.0008889146265573,0.0004644755099434,0.0006010706420056
+"the atmosphere instantly switches to that of being very ominous as the family's tethered twins make their appearance, and from that minute the tension really does shoot up, and it doesn't waver for the rest of the runtime",0.105704986,0.7300294041633606,0.0,0.18,False,0.0006690768641419,0.0004639009421225,0.0013193079503253
+"the scenes that progress from there where i thought equally as frightening as they were just steeped in a lot of just natural curiosity as to what was actually happening, and i thought that is where pele really shined with his writing and his direction by weaving a story that was just very haunting and eerie, but at the same time thought-provoking and honestly fascinating",0.05413456,0.0,0.0,0.075,False,0.0005592296947725,0.0003969403915107,0.0004946221015416
+it was unpredictable and it took some appealing terms,0.060527626,0.0,0.0,0.0,False,0.0005615769769065,0.0003930888778995,0.0011119546834379
+during the progression,0.023288755,0.0,0.0,0.0,False,0.000672384572681,0.0004146903229411,0.0006836703978478
+it created some suspenseful home invasion sequences as well as some just pier flights for survival,0.0729142,0.0,0.0,0.0,False,0.0006157631869427,0.0004391166730783,0.0010196742368862
+"the character tropes are all at first kind of delivered, and a seemingly routine package, but i thought throughout this story their arcs were swapped up just enough to create some fun",0.08050597,0.8350892663002014,0.0,0.0,False,0.0005710859550163,0.0003865152539219,0.0002923205320257
+certain members of the family,0.021657806,0.0,0.0,0.0,False,0.000746453879401,0.000400912889745,0.0003013409150298
+"i relied on four things to keep them all alive, and it was kind of a breath of fresh air to see some of the character tropes switched up a bit",0.14687516,0.0,0.0,0.0,False,0.0006174730951897,0.0005364484386518,0.0003752076299861
+"this added a ton of enjoyment to the already unique premise and it gave just the entire film a fresh vibe to it and i don't want to go into a lot of spoilers by speaking too much on the doppelgangers in this movie, but i will say that the concept and then on paper was absolutely inventive",0.0765103,0.0,0.0,0.018,False,0.0006152100395411,0.0003445411857683,0.0003853653324767
+"they fit perfectly into the story to hit with pure frightening impact, and it could not have been done without the excellent cast performances",0.08170467,0.0,0.0,0.188,False,0.0006267515709623,0.0005083900177851,0.0006181066855788
+"all the headlining actors had to play basically two versions of the roles that they took on, and i thought each one of them knocked it out of the park with their performances",0.06851897,0.998477041721344,0.0,0.0,False,0.0008773165172897,0.0011210029479116,0.0049745147116482
+i thought lupita nyong'o was amazing,0.02054715,0.0,0.0,0.0,False,0.0008405000553466,0.0040220655500888,0.0017040489474311
+she captured both sides of her role to absolute perfection as this normal mother protecting her kids,0.03461955,0.0,0.0,0.0,False,0.0020631281659007,0.0019257701933383,0.0007346004713326
+i thought she capably hit all the emotion and intensity needed to just root for her success,0.073313765,0.0,0.0,0.0,False,0.0005658931913785,0.0013053436996415,0.0021592015400528
+"and then, as her dark and twisted twin, she was even better with a haunting performance that i think is award worthy",0.23540631,0.0,0.0,0.071,False,0.0020749922841787,0.0080109285190701,0.2930134832859039
+i think she made this movie,0.0789077,0.0,0.0,0.0,False,0.0007393104606308,0.0005019588279537,0.0004735483962576
+"she was eerie and unpredictable, and just what this story needed to create just a great demented protagonist",0.3897107,0.0,0.0,0.105,False,0.0006207434926182,0.0041327220387756,0.4238794445991516
+"the easily the other bright spots in the cast were the performances of young evan, alex and shahadah, right joseph? i thought these roles really required a lot of range from them and it was a pressive to see both of them pull off every needed angle of these characters",0.040971663,0.0,0.0,0.0,False,0.0005626927595585,0.0007158109801821,0.0004443801299203
+i thought jordan peels direction was excellent,0.02517722,0.0,0.0,0.0,False,0.0005849096341989,0.001409231335856,0.0007609142921864
+it was an artistic,0.027752401,0.0,0.0,0.0,False,0.0009925427148118,0.0004673184594139,0.0018576795700937
+it was ambitious,0.05413456,0.0,0.0,0.0,False,0.0009437482221983,0.0005920705734752,0.0008802345837466
+i think he showed a very inspired eye behind the camera to really craft a fantastic horror film,0.06931809,0.0,0.0,0.142,False,0.0006696283235214,0.0005721785710193,0.0009539042366668
+the production design and his methodical camerawork really blended together with a strong use of lighting in the movie and different angles to really build imposing scenes without the need for the usual jump scares,0.05413456,0.0,0.0,0.102,False,0.0006091221002861,0.0004191033658571,0.0004369314701762
+"i think in this movie, the horror was in the writing just as much as it was in the visual appeal, and together the result was a success",0.12244874,0.0,0.0,0.111,False,0.0006158309988677,0.0004046967078465,0.0003712112666107
+"it really plants the seeds for some ideas early on, and then the final act",0.0681194,0.0,0.0,0.0,False,0.000554597529117,0.0003588455438148,0.0007428015233017
+it explores these concepts more to create just a world of thought,0.027752401,0.0,0.0,0.0,False,0.0006120363832451,0.0004539003712125,0.0003575123264454
+"i will be honest and say, i think some of these layers could have been built a little sooner in the film, but it was still well structured enough in the closing act to not feel rushed",0.07571117,0.0,0.0,0.0,False,0.0005396853666752,0.0003387436154298,0.0003660295915324
+but it was very close,0.040628307,0.0,0.0,0.0,False,0.0006549035315401,0.0003507693181745,0.0008186892373487
+"despite that, though i'm still gonna give us a solid 90 percent on the entertainment meter, i had a great time during this movie",0.032731086,0.0,0.0,0.0,False,0.000597748265136,0.0004062815860379,0.0004437128081917
+it was very entertaining,0.04818217,0.0,0.0,0.0,False,0.0008237294387072,0.000345120584825,0.0004641778359655
+"it was a blend of genres, but the focus was always on the horror",0.09279997,0.8305700421333313,0.0,0.28,False,0.0007501602522097,0.0004558789660222,0.0005633246037177
+it was a movie that really did a good job of making you think about the big picture of the storylines,0.031185975,0.0,0.0,0.0,False,0.0006601299974136,0.0003945446223951,0.0004281741566956
+actual setting,0.016104523,0.0,0.0,0.0,False,0.0007540656952187,0.0003898483410011,0.000537718005944
+"the second act did linger just a little bit, but it was very minor",0.10956893,0.9984585046768188,0.0841666666666666,0.0,False,0.0007580182282254,0.0003887753991875,0.00090027943952
+"also, some of the attempts at humor kind of just felt missed timed",0.064523295,0.9995521903038025,0.0,0.144,False,0.000684484723024,0.0004061868821736,0.0004423624195624
+but i would have to say nothing to the extent of being distracting because i think everything else in this movie shined,0.13296685,0.0,0.0,0.118,False,0.00061703188112,0.0176518633961677,0.0016343132592737
+"it was filled with natural characters that were able to really accomplish pulling off evil versions of themselves, and with jordan peele riding and directing, the tone of the story never lost its intention of just being subtly horrific, and it accomplishes that",0.2936093,0.0,0.1333333333333333,0.157,False,0.0009077403810806,0.0008637300343252,0.0016797970747575
+thank you guys so much for watching this video,0.027065687,0.0,0.0,0.0,False,0.0006479566218331,0.0004497086047194,0.0003712188918143
+i hope you enjoyed it,0.055333257,0.0,0.0,0.0,False,0.0006356317899189,0.0005636291461996,0.0003298890660516
+"if you did give it a thumbs up, share it with your friends",0.05852979,0.0,0.0,0.0,False,0.0006208698032423,0.0030897932592779,0.0005918625975027
+don't forget to subscribe to the channel and leave a comment,0.04680874,0.6525601744651794,0.0,0.101,False,0.0015739115187898,0.0006147089297883,0.0005102829891256
+i would love to hear from you all,0.07131593,0.0,0.0,0.0,False,0.0007433595601469,0.0260368827730417,0.0028278531972318
+here are some links to some recent reviews just in case you missed them,0.027580723,0.0,0.0,0.145,False,0.0005786496330983,0.0003914576955139,0.0003367992758285
+the link to my official website,0.01999182,0.6965644955635071,0.0,0.0,False,0.0007068112608976,0.0003924735065083,0.0002822210080921
+"all my social media and merchandise store links are gonna be down in the description below, and in the event me talking to you guys about movies every couple days, there's not enough anthony in your life",0.090114996,0.9980875849723816,0.0407407407407407,0.0,False,0.0033941338770091,0.0163370389491319,0.0182683952152729
+"i now have a second youtube channel with a growing collection of non movie related content for you guys to check out, and i'll see you guys next time",0.05413456,0.0,0.0,0.0,False,0.0006127899396233,0.0013298854464665,0.0006761991535313

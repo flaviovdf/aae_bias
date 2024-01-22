@@ -1,0 +1,50 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hey, what is going on, everybody? my name is dominic from dominic talks movies today",0.052136723,0.5842438340187073,0.0,0.0,False,0.0006151232519187,0.0022926616948097,0.0020093109924346
+"i'm going to be reviewing one of the greatest films of all time, the godfather from 1972",0.05253629,0.0,0.0,0.0,False,0.0008527514874003,0.0005288204993121,0.0006920686573721
+"if that sounds interesting, let's get right into the review",0.018048171,0.0,0.0,0.0,False,0.0005446670693345,0.0003590594278648,0.0002980553545057
+"hey, everyone, welcome back to my channel",0.028610796,0.0,0.0,0.0,False,0.0023785706143826,0.0006761836702935,0.0009317398071289
+"if you're new here, please subscribe down below because i post movie content like reviews, reactions, rankings, and everything like that on my channel",0.013744377,0.9687397480010986,0.0095959595959596,0.0,False,0.0005940390401519,0.0006602511275559,0.0006431536166928
+i'm trying to get more into the groove since school is going to be starting in about a month,0.06851897,0.0,0.0,0.0,False,0.0006627428811043,0.0004056841717101,0.0006623514345847
+"i'm going to be trying posting about three to four times a week, and then when school starts, i'll go two to three times a week, so i'm trying to get you guys used to that schedule, but with that being said, let's get right into the review",0.034104515,0.9936727285385132,0.0,0.0,False,0.0005755830206908,0.0005111431819386,0.0004302255692891
+so for the positives of the godfather there are a bunch,0.06532243,0.0,0.0,0.0,False,0.0006198362680152,0.0013357613934203,0.0011078835232183
+most,0.03049926,0.0,0.0,0.0,False,0.001320595969446,0.0005279829492792,0.0008143810555338
+"first and foremost, you got the story, which is just so enthralling and investing",0.052136723,0.0,0.0,0.0,False,0.0006472942768596,0.0003458440187387,0.0012123609194532
+"you really feel like you're a part of the corleone family, and you really just want to know what happens next if you",0.059728492,0.0,0.0,0.0,False,0.001615161425434,0.0041906447149813,0.0023897008504718
+"it's three hours in length, but it feels like two hours, because you're always on the edge of your seat",0.073313765,0.6563044786453247,0.0,0.0,False,0.0025654460769146,0.0006211142172105,0.0025764117017388
+you always want to know what's going to happen next to these characters because they write the script so well that you're invested into their life and you feel like they're a part of your family and you just you care for them so deeply that you're like you don't want them to die,0.10300289,0.0,0.0,0.079,False,0.0427168384194374,0.0668638348579406,0.0009104103664867
+you want them to keep going,0.04234509,0.0,0.0,0.0,False,0.0034700804390013,0.0055193020962178,0.0010089201387017
+you want to know what happens next and that i think is just perfect,0.030670939,0.0,0.0,0.0,False,0.0008586215553805,0.0005020564422011,0.0017261066241189
+writing,0.018325835,0.0,0.0,0.0,False,0.0007936747279018,0.0005828497814945,0.0005330032436177
+the script is absolutely phenomenal,0.037194733,0.0,0.0,0.0,False,0.0006912058452144,0.0004032427677884,0.0005781424697488
+it was co-written by the director francis ford coppola and i think it's just absolutely amazing,0.016104523,0.0,0.0,0.0,False,0.0006069731898605,0.0005047473823651,0.000418398034526
+adding on to that the characters are so amazing,0.027752401,0.0,0.0,0.0,False,0.0006045583868399,0.0003409215423744,0.0030273830052465
+some of the greatest in cinematic history,0.030842619,0.0,0.0,0.0,False,0.0009279355872422,0.0003339304239489,0.0008515533991158
+"the two that stand out obviously are vito corleone and michael corleone, which are both absolutely phenomenal characters",0.03994159,0.0,0.0,0.0,False,0.0008463083649985,0.0007487425464205,0.0003816750540863
+"i personally like michael a little bit better, which is why i'm excited to see the godfather part two, because that's gonna be all michael, since he owns the family business now, but i just find michael to be so much more of a badass kind of mafia boss, which he kind of gives off that vibe when he's running the business near the like, the second half of the film and it's just he",0.1689685,0.9982591271400452,0.0,0.0,False,0.0010406703222543,0.0166383143514394,0.0239637419581413
+i like him so much better,0.087430015,0.0,0.0,0.0,False,0.0008021994144655,0.0005911615444347,0.004102595616132
+he resembles a mobster a little more than i think vito did,0.39694545,0.9986363053321838,0.0,0.0,False,0.0093006053939461,0.2373250275850296,0.4674714207649231
+"but having said this, marlon brando does give a phenomenal performance as vito, as does al pacino as michael",0.04165838,0.0,0.0,0.0,False,0.0006483398610725,0.000688450934831,0.0023582903668284
+so the performances are amazing,0.044405237,0.0,0.0,0.0,False,0.0005950661143288,0.0003621908836066,0.0005087172612547
+the characters are just great,0.026894007,0.0,0.0,0.0,False,0.0006049958756193,0.0003218410129193,0.0009667865233495
+"and yeah, those are my positives",0.023632111,0.0,0.0,0.0,False,0.0007371935644187,0.0004078274942003,0.0005456387880258
+now for the negatives of the film,0.07850813,0.9990637898445129,0.0,0.0,False,0.0006981295300647,0.0003726675349753,0.0008585409959778
+i really don't have any,0.021657806,0.9997318387031555,0.0,0.0,False,0.0010148280998691,0.0008726918022148,0.0007349320221692
+the only one is,0.024662184,0.0,0.0,0.0,False,0.0017214908730238,0.0009407098987139,0.0022399662993848
+"really with being widely considered as the greatest film ever made, you would expect the cinematography and visuals to be like out of this world",0.06931809,0.0,0.0,0.0,False,0.0007868651300668,0.0004014469741377,0.0008391547598876
+"just blow your mind, but it's really not having said that, though it's not a problem per se because they do their job",0.14104263,0.0,0.1,0.0,False,0.5985662341117859,0.0298278667032718,0.0450556240975856
+the cinematography is good enough,0.026207292,0.0,0.0,0.0,False,0.0006648070411756,0.0003626121906563,0.0017339579062536
+it does its job,0.022074303,0.0,0.0,0.0,False,0.0066101117990911,0.0007534648757427,0.0010497275507077
+"it makes you feel what you need to feel, but it's just it didn't try anything special in my opinion, and for that reason, i do give it a con, because that is something about a film that i really do personally enjoy, but it doesn't bring the film that down that much",0.10763696,0.9994730353355408,0.0,0.049,False,0.0006647665286436,0.0016324539901688,0.0006806111196056
+"with all this being said, i'm going to have to give the godfather from 1972 a 99",0.0681194,0.9806423783302307,0.0,0.0,False,0.0007264515152201,0.0014707237714901,0.0016408320516347
+"it is not quite a 100 film for me, but it is 99, which is absolutely phenomenal makes its way into my top 10 favorite films of all time",0.0495556,0.0,0.0,0.0,False,0.0009442514856345,0.0003375786764081,0.0004386535729281
+it was just so great,0.036336336,0.0,0.0,0.0,False,0.0006803497090004,0.0002983632439281,0.0009103053598664
+i cannot wait to watch part two,0.033932835,0.0,0.0,0.0,False,0.0013472980353981,0.0005640668678097,0.0004514377505984
+"and yeah, that's gonna do it for my review of the godfather, if you enjoyed, don't forget to leave a like on the video",0.09816993,0.0,0.0,0.0,False,0.0007093171589076,0.0020054318010807,0.0007906175451353
+also subscribe down below and hit that notification bell,0.18055865,0.9983312487602234,0.1555555555555555,0.0,False,0.0014173337258398,0.0553941912949085,0.0017833861056715
+so you get notified,0.043375164,0.8179430365562439,0.0,0.0,False,0.0018178429454565,0.0006575210718438,0.0003957758599426
+every time i upload a brand new video soon,0.079307266,0.0,0.0,0.0,False,0.0014241427415981,0.0021947987843304,0.0006609644624404
+"i'm going to be reviewing godfather part 2 and part 3, and i'm going to be ranking the godfather trilogy",0.03856816,0.0,0.0,0.0,False,0.0005672651459462,0.0033995721023529,0.0004224060103297
+"if you're excited for that, definitely leave a like on the video",0.13386416,0.0,0.0,0.071,False,0.0007137490902096,0.0012151494156569,0.0006635648314841
+"also share my channel with your friends, because i'm trying to hit 200 subscribers by the end of august",0.07690986,0.0,0.0,0.0,False,0.000738913193345,0.0013750729849562,0.0010648693423718
+"if you could help me out, that would be much appreciated and yeah, that's gonna do it for me, guys",0.094410956,0.0,0.0,0.0,False,0.000568461837247,0.0009211483993567,0.0012063024332746
+"i'll see you in the next one, you",0.12824467,0.0,0.0,0.0,False,0.00169290357735,0.0100480895489454,0.0308153070509433

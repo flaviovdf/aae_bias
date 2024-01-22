@@ -1,0 +1,74 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"roma is directed by alfonso karen and is set in 1970, mexico",0.027065687,0.0,0.0,0.0,False,0.0009443634771741,0.0018966338830068,0.0002116775722242
+it follows the lives of a middle-class mexican family and they're majoring their hardships and also their lives,0.13206954,0.0,0.0,0.0,False,0.0029955690260976,0.0106445839628577,0.0128595456480979
+while a revolution starts to go on,0.035306264,0.0,0.0,0.0,False,0.001032798201777,0.000485839380417,0.0008657252183184
+"this is a movie i've been excited for for quite a while, dude, with some festival buzz and also the fact that it made of mine who lives a little bit away from me, dylan wills",0.1024659,0.0,0.0,0.0,False,0.0006514892447739,0.0006032325909473,0.0018177502788603
+"he ended up going to see this movie at a special special press screening that was shown a few weeks ago here in australia in brisbane, and he got to see it a little bit earlier",0.049212243,0.0,0.0,0.0,False,0.0005331800784915,0.0004859285254497,0.0006641352083534
+at the press screening,0.017631676,0.6702169179916382,0.0,0.0,False,0.000612003437709,0.000837133382447,0.0008984841406345
+i was very sad that he got to see it before me,0.05773066,0.9323368072509766,0.65,0.236,False,0.0008077799575403,0.0005432094330899,0.0013183370465412
+but his review is incredible,0.031529333,0.0,0.0,0.0,False,0.0006545041687786,0.0004149095620959,0.0004118751676287
+of this,0.034104515,0.0,0.0,0.0,False,0.0009248105925507,0.0004992875037714,0.000584575231187
+maybe his review will be down in the description below if you want to go check that one out,0.044405237,0.8541440963745117,0.1555555555555555,0.0,False,0.000644780928269,0.0004807275254279,0.0004508580605033
+and he told me about how great this movie is for quite a while,0.052935857,0.0,0.0,0.0,False,0.0005929110920988,0.0003991461126133,0.0004531505401246
+like how this is quite possibly his favorite me of the entire year,0.036851373,0.0,0.0,0.0,False,0.0013676709495484,0.0003770864277612,0.0004549195873551
+"so for that reason alone, have you not seen the trailers and early, knowing that is directed by alfonso khurana, i had to check this movie",0.03839648,0.8141075968742371,0.0,0.074,False,0.0006007487536408,0.000455569679616,0.0003419941931497
+"yeah, i did not know the",0.020685982,0.9933981895446777,0.0,0.0,False,0.0007764839101582,0.0005954791558906,0.0005506598972715
+"uh, i'd seen the poster, but i did not expect this movie to be as artsy as i was",0.12244874,0.9862202405929565,0.0,0.0,False,0.0006509210215881,0.0037768397014588,0.0008837680798023
+look,0.037881445,0.0,0.0,0.0,False,0.0053241183049976,0.0004632507334463,0.0004982054815627
+"this movie is not for everyone if you don't like having to read subtitles if you don't like walking at black-and-white movie isn't all that noir style and all that you will not like this movie and this isn't your cup of tea, but at the same time i'm the type of person who loves those movies",0.19936113,0.9992790818214417,0.0,0.074,False,0.0023216113913804,0.0331693477928638,0.0138909760862588
+"i love going back and watching movies like some like it hot for the style of the noir, and i love watching foreign films like wreckin last year, a movie that i thought was not as scary as people made it out to me, but a movie i thought was very effective as a horror film and that was the spanish film",0.1019289,0.0,0.0,0.067,False,0.0007167878793552,0.0019020014442503,0.0007131704478524
+veronica,0.013050216,0.0,0.0,0.0,False,0.0009482476743869,0.0007593043847009,0.0081375231966376
+i love watching foreign films,0.043375164,0.0,0.0,0.0,False,0.0012306928401812,0.0006011273362673,0.0002892515913117
+i think that's some of the best out there,0.03770977,0.0,0.0,0.0,False,0.0005734742153435,0.000384716753615,0.0008971355273388
+so going into this movie none of that really had any issue on me,0.111500904,0.0,0.0,0.0,False,0.0010571873281151,0.000614782096818,0.0009907528292387
+"i thought that was actually one of the reasons why this movie works so well, because it actually had me captivated",0.05413456,0.0,0.0,0.0,False,0.0006393479998223,0.0003752037009689,0.000899369304534
+"i wanted to watch it more because they had something for me to follow in the way of the art style, and also the fact i had to read the subtitles",0.039254878,0.0,0.0,0.0,False,0.000569833733607,0.0003988158132415,0.0003782031999435
+not necessarily,0.010967735,0.988596498966217,0.0,0.0,False,0.0008729133987799,0.0003747473820112,0.0003579795593395
+that's a problem,0.07011723,0.9987565279006958,0.0,0.574,False,0.0042977593839168,0.0007504315581172,0.0094355326145887
+"it did distract me a little bit from certain things, but it also was a reason to follow the characters and read into them a lot more",0.07091636,0.0,0.0,0.057,False,0.0006275890045799,0.0003317096852697,0.0004640274564735
+"i found making it a lot more personal and with me that's not unordinary for me to feel that way when i watch foreign films or movies with subtitles i've actually found that has a big positive about them except for what the waters left behind, which was a spanish horror film that i saw earlier in the year at a film festival that i personally really didn't enjoy to the point i didn't even bother reviewing and i thought it was quite bad, but at the same time foreign films love them and i love to this film",0.11600884,0.0,0.0,0.058,False,0.0005804401589557,0.0005369464051909,0.0002632543910294
+i think all the performances are absolutely fantastic,0.044405237,0.0,0.0,0.0,False,0.0005660604219883,0.0003346456214785,0.0006692621391266
+i don't know the names of any of these,0.025692256,0.9884718656539917,0.0,0.0,False,0.0007091089501045,0.0016573847969993,0.0005809634458273
+"i should have researched, and what their names were before this, but i think everyone did a really good job",0.023117077,0.0,0.0,0.0,False,0.0005367957637645,0.0004247708129696,0.0004472900473047
+"actually, um, what is it portraying? from script to screen there are motion",0.030842619,0.9959511756896973,0.0,0.0,False,0.000671413145028,0.0004610001342371,0.0004374192503746
+the alfonzo quran directed,0.079307266,0.9951919317245483,0.0,0.0,False,0.0037491857074201,0.0134352874010801,0.0013384140329435
+the act is so well on screen and now they were,0.15568043,0.0,0.0,0.0,False,0.0022701749112457,0.0004986451822333,0.0009061227319762
+what is it? position and acted around the set,0.08447654,0.9956417083740234,0.0,0.0,False,0.0007424838258884,0.0004191773186903,0.000842445588205
+because this looks fairly low-budget i don't know the budget of this movie,0.0825038,0.9999313354492188,0.0,0.0,False,0.0007686210446991,0.0005937647656537,0.001267179264687
+let me check that really quickly,0.02193547,0.0,0.0,0.0,False,0.0007166696595959,0.0005502291605807,0.0004065789107698
+"actually, it was about 15 million, so not the biggest budget in the world, and i think the way he directed the actors is absolutely fantastic, and the emotion and the hardship that he managed the betray was really really damn good",0.28972426,0.0,0.0,0.181,True,0.0192125253379344,0.2175554484128952,0.2869386672973633
+"like there is an actress, and here at first time actors, i don't know her name for the life of me or be here in the screen or whatever, but at the same time, her performance in this movie was beyond captivating and i honestly think she's up for oscar nominations for one of the best actress roles",0.02655065,0.9821439981460571,0.0,0.0,False,0.0006901365122757,0.0007715958054177,0.0004136578645557
+everyone in this movie gives their all and they're all oscar worthy actresses,0.047495455,0.0,0.0,0.0,False,0.0199676807969808,0.011410585604608,0.0029311196412891
+actors,0.029640866,0.0,0.0,0.0,False,0.0014460056554526,0.002541601890698,0.0010714888339862
+"will you name it that are all absolutely fantastic and how the emotion was portrayed on screen in this movie made a little more personal, not just for the actors, not just with the director of alfonso cuaron, which i'll get into a minute, but also as the viewers",0.0358213,0.0,0.0,0.0,False,0.0005761486245319,0.0003542091872077,0.000450855033705
+"because you followed them, aim delved into the story quite in-depth now a lot of people made",0.032387726,0.0,0.0,0.0,False,0.0006272323080338,0.000387489068089,0.0004597661027219
+"this had to be alfonso cuaron's passion project, and that shows because this movie seems so personal to him in the web",0.04680874,0.0,0.0,0.0,False,0.0006999298930168,0.0003723060362972,0.0005257719894871
+how much he does this,0.07850813,0.0,0.0,0.0,False,0.0170649904757738,0.0004132686299271,0.0027750702574849
+and it was only informed by any last night before i sat down and watch this movie by dylan actually texted me saying that iphones,0.059328925,0.9991509914398193,0.0388888888888888,0.0,False,0.0007455783779732,0.0016271043568849,0.0015124925412237
+"the quran did the cinematography himself, and the thing is, i think this maybe should be nominated for best cinematography because this movie from the stylistic choices to the way the movie is shot in the cinematography and the framing, this is such a gorgeous looking movie",0.07730943,0.0,0.0,0.0,False,0.0006578749162144,0.0003978666791226,0.0009279754012823
+in every single way,0.018742332,0.0,0.0714285714285714,0.0,False,0.000890219467692,0.000401704077376,0.0006468447390943
+"also the use of lighting which i don't normally comment on is so magnificent and mesmerizing that a lot of the time i wasn't so much following the story, but i was more or less captivated by the spectacular filmmaking on hand",0.055333257,0.0,0.0,0.0,False,0.000589890696574,0.0003545828512869,0.0004122186510358
+i think this movie is up for a lot of oscar buzz,0.0813051,0.0,0.0,0.0,False,0.000753998523578,0.0005631587700918,0.0020035011693835
+i think this movie does deserve a lot of awards,0.055333257,0.0,0.0,0.0,False,0.0007398453890345,0.0008688733796589,0.0004675842355936
+i think it deserves cinematography,0.029640866,0.0,0.0,0.0,False,0.0009261204977519,0.0006584871443919,0.0026267911307513
+i love the score in this movie,0.033761155,0.0,0.0,0.0,False,0.0006944388151168,0.0004042480723001,0.0002599724393803
+i love the direction,0.023803791,0.0,0.0,0.0,False,0.0006282742251642,0.0003716921492014,0.0003614153247326
+i love the actors and the screenplay as well is a very good original screenplay,0.034962907,0.0,0.0,0.0,False,0.0006028788047842,0.0003934977576136,0.0001995692291529
+"i think this movie is very, very good",0.04680874,0.0,0.0,0.0,False,0.0005997281405143,0.0004300976288504,0.0004927794798277
+i don't really issues with this movie,0.0789077,0.0,0.0,0.0,False,0.0007317832787521,0.0010840027825906,0.0015117436414584
+"uh, there's maybe a few scenes in the movie that i think could have been taken out because they felt a bit random",0.06412373,0.9996594190597534,0.35,0.0,False,0.0005735018639825,0.0004164684796705,0.0004524290561676
+"but other than that i absolutely love roma, i think you should all check it out",0.06931809,0.0,0.0,0.0,False,0.0005458486266434,0.0007986866403371,0.0008300589397549
+"it's all it's on netflix now, it's quite long",0.03204437,0.9246141314506531,0.05,0.0,False,0.0007121897069737,0.0003817274409811,0.0010058206971734
+"you don't like movies that are about two hours, 15 minutes long",0.101391904,0.9961758852005005,0.05,0.161,False,0.0182445477694273,0.0013959828065708,0.0035945314448326
+"you probably won't want to sit down and get this me because it is a slow burn, but i loved her, anna, terry and i love slow baby movies because it gets me involved a little bit more within the story",0.22333995,0.0,0.0,0.022,False,0.0009709825390018,0.00562937092036,0.0015822418499737
+"but with all that said, i'm going to give roma and a guys who do hope you'll enjoy my review for roma",0.042001735,0.8568872213363647,0.0,0.0,False,0.0006184864323586,0.001321016694419,0.0004158830852247
+what did you think about it coming down below what you thought of it? did you love it? did your henna do things find you? things made here you go,0.08447654,0.0,0.0,0.0,False,0.0044916905462741,0.002723652170971,0.0040445975027978
+all you think is just a fine guilty pleasure that sits right in the middle,0.31629145,0.0,0.0,0.138,False,0.006334907375276,0.0333841443061828,0.0014785574749112
+i'm interested,0.020963646,0.0,0.0,0.0,False,0.0006141873891465,0.0004707308544311,0.0003981474146712
+"oh, i'm interested to see what you have to say",0.023288755,0.0,0.0,0.0,False,0.0005765985697507,0.0006251845625229,0.0016499299090355
+"down to compensation, boy, do you should be sure to also follow on the social media? is that instagram, facebook, twitter, snapchat",0.040284947,0.9994039535522461,0.0,0.0,False,0.0007306035840883,0.0023202765733003,0.0014050343306735
+they all began in the description below,0.014299706,0.897153913974762,0.0,0.0,False,0.0005847599823027,0.0003291574248578,0.0003467193455435
+do be sure to be this video,0.07211506,0.0,0.0,0.0,False,0.0020219646394252,0.000483532785438,0.0006560967303812
+thumbs up,0.07131593,0.0,0.0,0.0,False,0.0012706012930721,0.0480382889509201,0.0007536640623584
+"don't forget to subscribe, and i will see you on the next video",0.112144895,0.0,0.0,0.0,False,0.0009876296389847,0.0015417918330058,0.0006172130233608
+take care,0.036851373,0.5235357880592346,0.0,0.0,False,0.0058245137333869,0.0012760054087266,0.000805381918326

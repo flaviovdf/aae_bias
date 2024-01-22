@@ -1,0 +1,143 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hey, what's up, you guys, thumb fan? oh five, nine, nine here again, and today we're going to review eighth grade",0.21036349,0.0,0.0,0.0,False,0.0046160393394529,0.0020681030582636,0.0122881513088941
+"so if great stars elsie fisher and josh hamilton, and what this film is basically about, it's about this girl named kayla and kayla",0.040971663,0.0,0.0,0.0,False,0.0006521946634165,0.0019807326607406,0.0031838286668062
+"this is her last week at 8th grade and you know after this she goes on to high school and we basically see, you know how she is and how she kind of is in school and in their life and stuff like that",0.031701013,0.0,0.0,0.0,False,0.0046187196858227,0.0008437989163212,0.0006917303544469
+"we just basically kind of get a nice character study of no, kayla",0.02397547,0.9990611672401428,0.0,0.0,False,0.000575162936002,0.0004836012376472,0.0006922078318893
+so that's basically what this movie is about,0.039254878,0.9838414192199707,0.0,0.0,False,0.0008995899697765,0.0007114065228961,0.000581468688324
+"and um, what did i think of it? well, going into it",0.04680874,0.9214925169944763,0.0,0.0,False,0.0006457307608798,0.0005527177709154,0.0024445306044071
+i didn't have a ton of expectations for that,0.032902762,0.863209068775177,0.0,0.0,False,0.0006581816123798,0.0004927059635519,0.0004651052877306
+i thought it looked bad or anything,0.14104263,0.9999406337738037,0.6999999999999998,0.368,False,0.0011538607068359,0.0018794797360897,0.0081475200131535
+"no, i just, i never really watched any trailers for it and never really saw much from the movie beforehand",0.06132676,0.9999436140060425,0.0,0.0,False,0.0006105704815126,0.0005395431653596,0.0004306968767195
+the only thing i really knew about was kind of the plot to it and some of the praise that the movie was getting so really,0.04268845,0.0,0.0,0.0,False,0.000677746895235,0.0004542421083897,0.0005729087861254
+that's all i had to go with going into the film,0.037023053,0.7966420650482178,0.0,0.0,False,0.0006824167212471,0.0005587999476119,0.0010099909268319
+"um, but i'm also glad that kind of what with that because it made the viewing experience even better for me",0.027752401,0.0,0.0,0.0,False,0.0005694694118574,0.0003715472703333,0.0004182596458122
+because i really like this movie a lot,0.039254878,0.0,0.0,0.0,False,0.0007318418938666,0.000591488496866,0.0008659344166517
+"honestly, i think 8th grade is a very good coming-of-age movie",0.04543531,0.0,0.0,0.0,False,0.0009823640575632,0.0025203006807714,0.00038884638343
+i've really liked a ton,0.05253629,0.0,0.0,0.0,False,0.0006211920990608,0.0003217336488887,0.0005226458306424
+"to be honest, it's a very good movie",0.037881445,0.0,0.0,0.0,False,0.0006231041043065,0.0006036193226464,0.0006747410516254
+"in my opinion, there's some really good things about it",0.025863936,0.0,0.0,0.0,False,0.0005811697919853,0.0003495457058306,0.0003225711698178
+"honestly like honestly, it's very good like",0.04234509,0.0,0.0,0.0,False,0.000653073831927,0.0004090744478162,0.003176670987159
+i quite enjoyed eighth grade a lot,0.22986074,0.0,0.0,0.0,False,0.0009999469621106,0.0003438974963501,0.0006668004789389
+"to be honest, it's a very good movie that",0.038911518,0.0,0.0,0.0,False,0.0006181853241287,0.0005819055368192,0.0014346854295581
+"i didn't really have much expectations for going into it, but you know ended up being kind of, you know, very pleased by if i was very good, so yeah, um, let's go into the positives, i think i think we should go into the positives and see you know what i like so much about this movie",0.037881445,0.0,0.0,0.0,False,0.0005769426934421,0.0007047812687233,0.0004123530816286
+"so let's get to those, shall we? so here we go with the positive",0.037023053,0.0,0.0,0.0,False,0.0006597343599423,0.000373533956008,0.001030552200973
+so my pontiff's with the film,0.05613239,0.0,0.0,0.0,False,0.0099147036671638,0.0018192122224718,0.0047263791784644
+our first being,0.019158829,0.0,0.0,0.0,False,0.0014077412197366,0.0005048264865763,0.0003508229856379
+i do think the acting for the most part is really good in this movie,0.035306264,0.0,0.0,0.0,False,0.0005781457293778,0.0004066667170263,0.0006286638672463
+"elsie fisher is definitely, i think the best element of this entire film",0.03187269,0.0,0.0,0.0,False,0.0006229992723092,0.0004256670072209,0.001080384128727
+"in my opinion, i really do think she gives a really great performance as kayla",0.029984225,0.0,0.0,0.0,False,0.0005756672471761,0.0004842525813728,0.0014523558784276
+she's fantastic,0.04268845,0.0,0.0,0.0,False,0.0007266903994604,0.0003801907005254,0.0130256628617644
+"she gives a lot of you know emotion, and a lot of you know a lot of quirks that you would see in",0.07091636,0.0,0.0,0.0,False,0.0060948808677494,0.0004320643784012,0.0081441067159175
+you know a kid like this around this time you know,0.10461388,0.0,0.0,0.0,False,0.0014141094870865,0.0009754503844305,0.0070346076972782
+"i mean, because that's what i think i really liked about this movie too",0.024490505,0.0,0.0,0.0,False,0.0006114413845352,0.0005260100588202,0.0005045616999268
+"is that it's kind of really relatable because i think anybody can kind of relate to being like a shy, kind of almost awkward teenager around this time",0.1943727,0.0,0.0,0.107,False,0.0006251277518458,0.0038755307905375,0.1592418849468231
+and you know i will admit i was very much like that,0.034962907,0.0,0.0,0.0,False,0.0007390240789391,0.0007362926844507,0.0051273200660943
+hell,0.30337667,0.9918907880783081,0.0,1.0,True,0.8204680681228638,0.0317846871912479,0.7082637548446655
+i can still be like that,0.029812546,0.0,0.0,0.0,False,0.0013934584567323,0.0009243754320777,0.000828284304589
+"sometimes, to be honest, just for you, kind of be a little bit awkward than just you know, not knowing what to say and stuff like that",0.11343288,0.9905073642730713,0.0,0.042,False,0.000629587273579,0.0012590566184371,0.022435788065195
+sometimes i found the labra relatability in that,0.022351967,0.5890421867370605,0.0,0.0,False,0.0007588042062707,0.0007728862110525,0.0008656786521896
+i think elsie fisher wooley bling brings that very well into this,0.078108564,0.0,0.0,0.0,False,0.0008025561110116,0.0007970515289343,0.0050403992645442
+"i do think she gives a really great performance in this movie and you know, definitely one of my favorites of the year",0.03427619,0.0,0.0,0.0,False,0.000623314641416,0.0004034238518215,0.000537117361091
+for sure,0.019575324,0.0,0.0,0.0,False,0.0007503668894059,0.0004528808349277,0.0005744688096456
+"she is fantastic in this, and definitely probably my favorite element of the entire film",0.03444787,0.0,0.0,0.0,False,0.0005710796685889,0.0003310077590867,0.0005178666906431
+josh hamilton is also great in this movie,0.02929751,0.0,0.0,0.0,False,0.0007125841802917,0.000529648095835,0.0010042785434052
+"he plays kayla's a father and he was great, too",0.03616466,0.0,0.0,0.0,False,0.0030129794031381,0.0007670486229471,0.0105616757646203
+like,0.022351967,0.0,0.0,0.0,False,0.001461298437789,0.0005631173844449,0.0007380700553767
+my favorite scene in this entire movie is like a personal conversation between the two of them,0.050585672,0.0,0.0,0.0,False,0.0007167243165895,0.000468301703222,0.0014115060912445
+it's really fantastic,0.039254878,0.0,0.0,0.0,False,0.0005905460566282,0.000306957779685,0.0010635077487677
+"like really, how josh hamilton, you know, kind of gives his performance in that team",0.027237365,0.0,0.0,0.0,False,0.0006497595459222,0.0005765762762166,0.0006227864651009
+that's fantastic,0.033932835,0.0,0.0,0.0,False,0.0006396451499313,0.0003212628362234,0.0011332321446388
+i really loved,0.032902762,0.0,0.0,0.0,False,0.000765185104683,0.0003413163649383,0.0004626875743269
+you know,0.043718524,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+"um, oh, you know, i'm kind of tried to be the cool",0.044748597,0.9774485230445862,0.0,0.0,False,0.0009745497372932,0.0006768635939806,0.0029834939632564
+"you know, kind of quirky dad, and you know, kayla's kind of not like",0.2459383,0.9946414232254028,0.0,0.14,False,0.0219001285731792,0.0007496039033867,0.0197497718036174
+you know,0.043718524,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+please stop,0.04131502,0.9336943626403809,0.0,0.489,False,0.0007809466333128,0.0011947550810873,0.0007061726646497
+but i actually like that,0.028782474,0.0,0.0,0.0,False,0.0007928681443445,0.0004045717359986,0.0003682921233121
+you know,0.043718524,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+"i mean, i thought it made it well with each other",0.028439116,0.8830968141555786,0.21875,0.0,False,0.000637108052615,0.0003679850487969,0.0016697453102096
+i thought they actually had some good chemistry with each other like i like their back and forth whenever they would interact with each other,0.08850401,0.0,0.0,0.0,False,0.0006736230570822,0.0004922837251797,0.0020076567307114
+"like i thought elsie fisher and josh hamilton actually had some really great chemistry with each other, you know, like whenever they had seamed together, i was actually really great, to be honest, because the two just had some great chemistry with each other",0.09494796,0.0,0.0,0.0,False,0.0005646763020195,0.0003834639501292,0.0008946876623667
+"so yeah, josh hamilton, i thought was really fantastic in the movie and i would say most of the rest of the acting is very good here",0.04406188,0.0,0.0,0.0,False,0.0006380234844982,0.0004367767251096,0.0004488389822654
+"- you know, the movie does have some really good acting here",0.02929751,0.0,0.0,0.0,False,0.0007215985096991,0.000426788436016,0.0004552894388325
+"you know, i do, think of the most part, everyone does their job very well, um, no, i like this, kind of just this character study of like, like i said before this teenager going through the last week of eighth grade",0.06332459,0.9966089725494385,0.0,0.0,False,0.0030713230371475,0.0004265256866347,0.0006577927852049
+"you know, going into high school, cuz, you know, and can kind of be a bit scary",0.17587385,0.0,0.0,0.167,False,0.0011133082443848,0.0018356931395828,0.0026344077195972
+"you know, i mean, because it's high school",0.026894007,0.0,0.07625,0.0,False,0.0010601489339023,0.0009550183312967,0.0027419496327638
+you know,0.043718524,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+big big deal,0.038911518,0.0,0.0,0.0,False,0.0007336109410971,0.0004493910528253,0.0009950180537998
+whatever you know,0.03856816,0.0,0.0,0.0,False,0.0007918057381175,0.0005274640861898,0.0012123996857553
+"i mean, so it kind of puts a lot of pressure on kayla, and you do see that in the film",0.15568043,0.7021108865737915,0.0,0.099,False,0.0006090486422181,0.0003859594871755,0.0015851982170715
+i do like that a lot,0.048525527,0.0,0.0,0.0,False,0.0008107696776278,0.0004105039988644,0.0007175522623583
+"and you know, like i said, gives a lot of great length ability cuz, i'm pretty sure everyone can kind of relate to this and really can you feel this? and i do think the movie does a very good job of that",0.03427619,0.0,0.0,0.0,False,0.0007158488733693,0.0003655161126516,0.0004466315731406
+i like how it presents itself with that in the film,0.045091953,0.0,0.0,0.0,False,0.000607436755672,0.0003646766126621,0.0003961329348385
+i thought they did a very nice job of that in this movie,0.040284947,0.0,0.0,0.0,False,0.0005737894098274,0.0004003722860943,0.0006731542525812
+"and yeah, i thought they did a really good job with it on the soundtrack is really good to hear",0.038911518,0.0,0.0,0.0,False,0.0005502425483427,0.0003617324400693,0.0006920531159266
+i thought the soundtrack was also really good in this movie,0.030842619,0.0,0.0,0.0,False,0.0005486253648996,0.0003497957077343,0.0004835850850213
+i quite like the soundtrack a lot,0.043031808,0.0,0.0,0.0,False,0.0006339894607663,0.0003269038570579,0.000547477742657
+definitely some of the best use of music i've seen all year,0.039598234,0.0,0.0,0.0,False,0.0006309589371085,0.0004234745865687,0.0004457018512766
+"to be honest, like, i really liked the soundtrack a lot",0.037194733,0.0,0.0,0.0,False,0.0005553431110456,0.0003380635171197,0.0007156920037232
+"here, um the humor? now it's not like a straight up comedy or anything, but there is some humor that is implemented into this movie",0.094410956,0.0,0.0,0.1,False,0.0006542026530951,0.0006283131660893,0.000572923279833
+it's the most part,0.02517722,0.0,0.0,0.0,False,0.0008141734288074,0.0003458507708273,0.004912999458611
+i do think it's really really good,0.029812546,0.0,0.0,0.0,False,0.0005564810126088,0.0003388926852494,0.0010700020939111
+especially one scene in particular that i'm now,0.02809576,0.0,0.0,0.0,False,0.0006507712532766,0.0003981077461503,0.0007312622037716
+go,0.028954152,0.0,0.0,0.0,False,0.1890409141778946,0.0032165239099413,0.0006257005152292
+okay,0.019852988,0.5601295828819275,0.0,0.0,False,0.0009591358248144,0.0007199328392744,0.0004994064802303
+i'll just say her dad walks into onto something,0.14283726,0.0,0.0,0.0,False,0.0037296537775546,0.0012318035587668,0.1897852271795272
+it's pretty funny,0.05133759,0.0,0.0,0.0,False,0.0006835697568021,0.0003292713372502,0.0008000817033462
+"to be honest, like i was literally like dying of laughter",0.12244874,0.5030231475830078,0.0,0.0,False,0.002047442831099,0.0030263427179306,0.0039853975176811
+like i wrote,0.018325835,0.0,0.0,0.0,False,0.0008164140162989,0.0007943904493004,0.0003788955218624
+i loved you if i was really funny,0.08581903,0.0,0.0,0.0,False,0.0008178405114449,0.000554930884391,0.0009232013253495
+"so yeah, there are some times where the movie does use some humor in the film i thought was very well handled",0.049212243,0.5874947905540466,0.0,0.0,False,0.0005979212000966,0.0003994638100266,0.0003426896582823
+"to be honest, the writing is really great to hear",0.02124131,0.0,0.0,0.0,False,0.000554806087166,0.0003924087795894,0.0006003790185786
+i do think the movie has a really great screenplay,0.028610796,0.0,0.0,0.0,False,0.0005963922012597,0.00040130582056,0.0003881443990394
+"in my opinion, i did like the screenplay a lot",0.026894007,0.0,0.0,0.0,False,0.0006328313029371,0.0003820935380645,0.0003247771819587
+with this film,0.05373499,0.0,0.0,0.0,False,0.0008640972082503,0.0003997839812655,0.0009808195754885
+"the directing is really good here, too",0.029812546,0.0,0.0,0.0,False,0.0005555935204029,0.0003412255609873,0.0004904762026853
+it's very well shot,0.22981352,0.0,0.0,0.0,False,0.0010141651146113,0.0454242303967475,0.1932595521211624
+"the editing is also really good as well, and the cinematography is very good here, too",0.016798683,0.0,0.0,0.0,False,0.0005560324061661,0.0003423497546464,0.000224492556299
+like,0.022945397,0.0,0.0,0.0,False,0.001461298437789,0.0005631173844449,0.0007380700553767
+i do think the cinematography is actually really nice in this movie,0.021657806,0.6188772320747375,0.0,0.0,False,0.0005634381668642,0.0003540807229001,0.0006549961399286
+"so yeah, i would say the directing overall is very good here, and i will say, for the most part the pacing is pretty solid",0.03599298,0.0,0.0,0.0,False,0.0005435955827124,0.0003396994143258,0.0003406871401239
+i do think for the most part it does move and a nice solid pace,0.023288755,0.0,0.0,0.0,False,0.000542385270819,0.0003466068010311,0.0004938779748044
+"you know, so yeah, i did think the movie did move at a nice solid pace",0.03427619,0.5652852654457092,0.0,0.0,False,0.0006042121676728,0.0003800504200626,0.0005644468474201
+"for the most part, now there are some negatives i do have with this film and the negatives are first being",0.13386416,0.9758633375167847,0.0,0.0,False,0.0005990318022668,0.0003524352505337,0.0004272064543329
+i do think some of the acting can be a little bit stiff,0.13700475,0.9594152569770813,0.1339285714285714,0.0,False,0.0009197688195854,0.0035669212229549,0.001007265294902
+"that points are some points where i do think the acting can be a little bit stiff, especially from this one character that's supposed to be the l",0.05852979,0.9875816106796265,0.1004464285714285,0.0,False,0.0006574969738721,0.000985927064903,0.0007676990353502
+"the typical mean girl, and you know, i thought her acting was kind of a bit stiff, and i can go for some of the other people at times during this movie as well",0.31671798,0.9998835325241089,0.0364087301587301,0.0,False,0.0006404381711035,0.0171435680240392,0.056416742503643
+"and yeah, really, i thought just some of the acting, like i said",0.05493369,0.0,0.0,0.0,False,0.0006577940657734,0.0004771358508151,0.000756315770559
+"for the most part, really, the acting is very good here in this movie",0.03427619,0.0,0.0,0.0,False,0.0005941335693933,0.0004130961024202,0.0004205926379654
+but there are some points where i did think he kind of got a little bit stiff,0.14508054,0.9658083915710449,0.0,0.0,False,0.0009469263604842,0.0031511678826063,0.0016753210220485
+some of the humor doesn't really work for me,0.065721996,0.9998007416725159,0.0,0.0,False,0.0009162237984128,0.0005231939139775,0.0007599816308356
+i know there's this one scene that involves a banana that everyone's talking about and really thinks it's hilarious to me,0.13521013,0.0,0.0,0.0,False,0.0014419518411159,0.0012985719367861,0.008290053345263
+"i thought that was just kind of, and like i thought that was just kind of very like",0.02655065,0.9992157220840454,0.0,0.0,False,0.0007623956771567,0.0003909637453034,0.0005570113426074
+poorly executed,0.22069082,0.999488115310669,0.4,0.0,False,0.0185323655605316,0.228316068649292,0.0837565436959266
+"in my opinion, i just didn't think it was all that done",0.025005542,0.9999309778213501,0.0,0.0,False,0.0007598653901368,0.0003795931115746,0.0005125782918184
+well,0.01665985,0.0,0.0,0.0,False,0.0012921052984893,0.0014149595517665,0.0005282507627271
+"to be honest, like there are some points where the humor just didn't work for me",0.040284947,0.9996827840805054,0.0,0.0,False,0.0006476512644439,0.0004219824040774,0.0005886068101972
+i thought i was kind of like okay,0.0168681,0.9973686933517456,0.0,0.0,False,0.0006028632633388,0.0008063283166848,0.0010305935284122
+"and lastly, my biggest issue with this movie is that some of the pacing when it gets slow, it gets like really really slow",0.21539254,0.9998996257781982,0.2,0.0,False,0.0021482745651155,0.00131060637068,0.001930923317559
+there are some points where kind of drags it out a bit,0.09118898,0.9974274039268494,0.0,0.153,False,0.0009982406627386,0.0006742470432072,0.0009829477639868
+"in my opinion, mike",0.015063282,0.0,0.0,0.0,False,0.0008457566145807,0.0006538610323332,0.0005354642635211
+"except for the most problems, very invested into the movie",0.04234509,0.0,0.0,0.25,False,0.000592638796661,0.0005757668404839,0.0006875503459013
+"i thought the pacing was really good, but there are some moments where the would",0.035306264,0.9243068695068359,0.0,0.0,False,0.0005386932170949,0.000333460222464,0.0007483238587155
+"the pacing kind got a little bit slow, and you know it can drag out a little bit for me, so yeah, that's all i really got to say in terms of negatives with this movie overall, i would say eighth grade is a very good movie",0.1414913,0.9182639122009277,0.0,0.035,False,0.0008883257978595,0.0004436946474015,0.0005492061609402
+"in my opinion, i did quite like the film a lot",0.035477944,0.0,0.0,0.0,False,0.0006204976816661,0.0003651356382761,0.0003489520750008
+there are some really good elements that i did really liked about this film,0.04406188,0.0,0.0,0.0,False,0.0005762617802247,0.0003580517368391,0.0002481647825334
+a lot,0.024490505,0.0,0.0,0.0,False,0.0010952281299978,0.0003740405081771,0.0004832095874007
+"to be honest, um, and overall, i would honestly recommend it to everybody",0.026894007,0.0,0.0,0.0,False,0.0005558501579798,0.0004208011669106,0.0003915293491445
+i do think it's a very solid film and i did quite enjoy a lot,0.058130227,0.0,0.0,0.0,False,0.0005934931687079,0.0003396315441932,0.0003531110705807
+so it's time for my first grade on eighth grade and my first grade on eighth grade is a b-plus,0.085282035,0.0,0.0,0.0,False,0.0027161231264472,0.000450818974059,0.0032532797195017
+"like i said, very good movie",0.040628307,0.0,0.0,0.0,False,0.0006511468673124,0.0004667295143008,0.0005539643461816
+i quite liked it a lot,0.049898956,0.0,0.0,0.0,False,0.0006443208549171,0.0003178880142513,0.0004195620713289
+"maybe i didn't love it as much as maybe some people did, but i am glad the idea to enjoy it",0.046122026,0.0,0.0,0.077,False,0.0006456046830862,0.0005603052559308,0.0007211795309558
+overall,0.023632111,0.0,0.0,0.0,False,0.0009697820059955,0.0014175759861245,0.0004327050992287
+"there are some really good elements to this like i said, elsie fisher, and josh hamilton gives some really great performances just the way it kind of explores how a teenager feels during",0.028439116,0.0,0.0,0.0,False,0.0005992790684103,0.0003992092970293,0.0005121162976138
+"like you know, going into high school and stuff like that",0.052136723,0.0,0.0,0.0,False,0.0026477102655917,0.001223701168783,0.001502918661572
+it was very good,0.050242316,0.0,0.0,0.0,False,0.0005625768681056,0.000308009883156,0.0008258577436208
+overall,0.023632111,0.0,0.0,0.0,False,0.0009697820059955,0.0014175759861245,0.0004327050992287
+"honestly, i really liked this movie a lot",0.03994159,0.0,0.0,0.0,False,0.0006107817753218,0.0004717102856375,0.00031701757689
+"it's a very solid film of my opinion, another really good coming-of-age movie will be getting a lot of good ones",0.05852979,0.0,0.0,0.0,False,0.0006416056421585,0.0005641115130856,0.000257040024735
+"likely to be honest, and this is another one of those examples",0.024662184,0.0,0.0,0.0,False,0.0006173586007207,0.0003379093541298,0.000776145083364
+"so yeah, i quite liked a lot",0.04818217,0.0,0.0,0.0,False,0.0006400714046321,0.0003454556863289,0.0004062430234625
+"definite deserves a b+ so if you have seen eighth grade, please tell me what did you think of it",0.229845,0.5604068636894226,0.0,0.0,False,0.001381815993227,0.0005004600971005,0.0049481876194477
+"please leave in the comments section below, and i'm voom final 599, and we will seek you out later peace",0.28972426,0.8387347459793091,0.0,0.05,False,0.0006225763936527,0.0013136087218299,0.0006575000588782

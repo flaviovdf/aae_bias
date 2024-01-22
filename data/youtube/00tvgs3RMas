@@ -1,0 +1,62 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hey, everyone, it's mariana and i actually had a different video planned, but apparently a lot of you still haven't seen the farewell and it is easily one of the best films of the year",0.0765103,0.0,0.0,0.0,False,0.0005930549232289,0.0004235876258462,0.001586542930454
+"it really spoke to me personally, and you just really need to see it, so i need to talk to you about the farewell",0.06412373,0.0,0.0,0.0,False,0.0005514131044037,0.0010443720966577,0.0006787290913052
+the film is written and directed by lulu wang and is heavily inspired by the events of her own life,0.02655065,0.0,0.0,0.0,False,0.0009420364513061,0.0004156989743933,0.0009182128123939
+"the story revolves around a chinese family who, after learning the grandmother has cancer and isn't expected to live much longer, decide not to tell her about this",0.09870692,0.9970445036888123,0.0,0.14,False,0.0064088692888617,0.006200099363923,0.001204025465995
+"instead, they're going to stage a wedding as an excuse for the family to get together before she dies",0.15859914,0.569893479347229,0.05,0.0,False,0.6306179761886597,0.0679863467812538,0.0193317346274852
+"i think from that description alone, you can probably guess that this is a very emotional experience",0.026722329,0.5239934325218201,0.0,0.106,False,0.0005803380627185,0.0003559727047104,0.0002875161299016
+"and if you've been around my channel for even a little bit, you know that that is something i look for in a film",0.105704986,0.0,0.1875,0.0,False,0.0008035937789827,0.0005136667750775,0.0015685725957155
+i needed to make me care,0.050585672,0.0,0.0,0.0,False,0.0314696468412876,0.004820526111871,0.0009459565626457
+"i need to make me feel things, and the farewell absolutely did it for me",0.067320265,0.0,0.0,0.0,False,0.0005755440797656,0.0004538607608992,0.001189446542412
+"i laughed, i cried",0.059328925,0.0,0.0,0.342,False,0.0010638700332492,0.0004854422004427,0.0030052945949137
+"i contemplated my life choices, and it also made me feel really hungry because oh my god, all of that food",0.10300289,0.9968602657318115,0.0,0.0,False,0.0009599819313734,0.0008854166953824,0.0063671413809061
+here's the thing,0.031701013,0.0,0.0,0.0,False,0.000979708158411,0.0004079042992088,0.000615733268205
+"though, the premise sounds pretty depressing and the film is not without its sad moments",0.1710401,0.9774696230888367,0.2833333333333333,0.238,False,0.0008695471333339,0.0006747915176674,0.0008619089494459
+"of course, but i don't want you walking away from this review thinking the movie is a huge bummer, and that's all there is to it",0.26589394,0.9971477389335632,0.0,0.154,False,0.0046891230158507,0.0253941062837839,0.0140531044453382
+it's also really funny and honest in a way that makes you empathize with the characters,0.033246122,0.0,0.0,0.0,False,0.0006566627998836,0.0003468468203209,0.0006107066874392
+even though you may not agree with everything they do,0.027237365,0.0,0.0,0.19,False,0.000707313301973,0.0004131575406063,0.0007436762680299
+"you understand where they're coming from, and it exposes you to a different perspective on life on family and priorities",0.013466713,0.0,0.0,0.073,False,0.0006395302480086,0.0005224202177487,0.0004350437375251
+"in a way, it's one of those films where every single character feels like a real person which i don't actually encounter that often in films, and this may have something to do with the fact that the farewell is based on a true story, or as the movie puts it on an actual lie, but this makes it a and a very personal experience",0.06851897,0.0,0.0,0.0,False,0.0007235331577248,0.0009203951340168,0.0006095111602917
+i guarantee you're not going to come out of this feeling neutral about it,0.09118898,0.962520956993103,0.0,0.0,False,0.0012806161539629,0.0015238596824929,0.0011002225801348
+and for a lot of people it is going to hit home,0.20522906,0.0,0.0,0.0,False,0.0012875807005912,0.1043233945965766,0.0560984648764133
+"aside from the main dilemma of whether or not to tell a loved one that their days are numbered when there isn't anything that can be done, and the idea of taking on someone suffering as a family, instead of letting them deal with it on their own, there is a secondary theme of belonging somewhere and feeling a connection to what feels like home",0.021380141,0.0,0.0,0.066,False,0.0007241125567816,0.0003494277771096,0.0002551593934185
+"throughout the film we see the main character billy struggle with saying goodbye to her grandma, not just because they're really close, which they are, but also because she is her connection to her childhood, having moved to the us",0.033761155,0.0,0.0,0.041,False,0.0007024518563412,0.0004688520275522,0.0012082176981493
+"as a child with her parents, billy clearly feels uprooted and alone, and when she comes back to china for this visit, nothing really feels the same",0.03994159,0.9930311441421509,0.0,0.067,False,0.0035443031229078,0.002124035032466,0.0012048664502799
+the places don't look the same,0.022945397,0.9995855689048767,0.0,0.0,False,0.0007620978285558,0.0005367688718251,0.0007494160090573
+"some of the people are gone, and now her grandma is going to be gone too",0.11729682,0.0,0.0,0.0,False,0.1985219717025756,0.1036850661039352,0.0420777685940265
+now,0.01999182,0.0,0.0,0.0,False,0.0014697305159643,0.0004906950052827,0.0007275509997271
+"on top of facing the death of a loved one, which is already hard enough",0.13835071,0.7235530614852905,0.0,0.241,False,0.0351385809481143,0.004028754774481,0.0878130868077278
+"obviously, she also has to deal with what that means, as far as losing her connection to home when that home is already not what she remembers it to be",0.03444787,0.9647918939590454,0.0,0.082,False,0.0008673372794874,0.000422543118475,0.0004621346306521
+"and speaking of billy, i have to mention awkwafina's performance because she is so great in this role",0.038224805,0.0,0.0,0.0,False,0.0006316828075796,0.0004815526190213,0.0022977588232606
+"the whole cast is great, but she really blew me away here",0.22982925,0.0,0.0,0.0,False,0.0110791008919477,0.0017457860521972,0.0016253787325695
+i've only seen her in crazy rich asians before and she is great in that too,0.355017,0.0,0.0,0.104,False,0.0068452623672783,0.6361473798751831,0.4009986817836761
+"she's hilarious, but the farewell is an entirely different role, which gave her a chance to show a whole different side of her talent",0.09387396,0.0,0.0,0.0,False,0.0009525765199214,0.0005367931444197,0.0023241243325173
+"i kind of think that if i didn't know it was her before watching the movie, i may not have realized that this is the same actress",0.040284947,0.9987096786499023,0.0,0.0,False,0.0006145126535557,0.0012343863490968,0.000460508686956
+she is that good from the visual aspect i loved,0.077709,0.0,0.0,0.0,False,0.0005861550453118,0.0005014521302655,0.0028240990359336
+the way the farewell was shot,0.22983712,0.9561018347740173,0.0,0.0,False,0.0018546396167948,0.0049375942908227,0.1617218106985092
+there are some smart and creative cinematography in there and you can get a taste of it in the trailer,0.112788886,0.0,0.0,0.0,False,0.0006672693416476,0.000474705157103,0.0006530542741529
+"the color palette is used really well, and by the music is used really well, too",0.024662184,0.0,0.0,0.0,False,0.0005795133765786,0.0003477516584098,0.0002793038438539
+the film is a complete package,0.09065199,0.0,0.0,0.0,False,0.0008313265861943,0.0004598515806719,0.000574636098463
+everything just came together here in the best way possible,0.03994159,0.0,0.0,0.0,False,0.0005816688062623,0.0003232087183278,0.0009549258975312
+"i do have a couple of things i couldn't it pic about, but i really don't want to, mainly because i just really loved the film so much, but also because i don't feel like they make that big of a difference",0.06612156,0.9781372547149658,0.0,0.09,False,0.0006103543564677,0.0007949382998049,0.0004398034943733
+"there was a scene which had to do with food that had the most obvious in-your-face continuity errors that were really really distracting to me and were distracting me from the conversation that was happening on screen, and i'm being super vague here on purpose, half the movie has to do with food, if not more, but i don't want you sitting there and waiting for this specific scene so you can be just as distracted as i was, on the off chance that if you don't know what the scene is, then maybe you won't notice and you won't be distracted",0.20816301,0.999994158744812,0.0,0.097,False,0.0017512576887384,0.0014476010110229,0.0015416039386764
+"but yeah, like i said, minor nitpicks",0.05253629,0.9894049763679504,0.05,0.0,False,0.0007141549722291,0.0290039926767349,0.2970246374607086
+you really should see the farewell,0.07131593,0.994255006313324,0.0,0.0,False,0.000625654880423,0.0006586437229998,0.0013188153970986
+it is wonderful and it is one of those rare films that i think would work for pretty much anyone,0.07091636,0.0,0.0,0.0,False,0.0005914092762395,0.0004204587603453,0.0006795478402636
+unless you're heartless,0.19716066,0.8635157942771912,0.0,0.615,False,0.2123088985681533,0.0579943433403968,0.0831436812877655
+then maybe not,0.013883209,0.8483330607414246,0.0,0.0,False,0.0008861146634444,0.000412604160374,0.000495133223012
+i'm giving the farewell four and a half out of five stars,0.08330294,0.9988676309585571,0.1666666666666666,0.0,False,0.0006589156109839,0.0004404166538733,0.0008564186864532
+"it was really close to perfect for me, and i think it's going to do great on repeat viewings as well, and that's it for this quick review",0.020130653,0.0,0.0,0.0,False,0.0005561800790019,0.0003755803336389,0.0002746062236838
+"let me know what you guys thought of the movie if you've seen it already, and if you haven't seen it, you just have to go check it out, as i've said multiple times already",0.0334178,0.0,0.0,0.0,False,0.0005561633734032,0.0006458824500441,0.0010940644424408
+"if it's not playing anywhere near you, because it's been out for a couple of weeks and it's not limited release, but it's not super wide release either",0.037194733,0.9997701048851013,0.0327380952380952,0.173,False,0.0006814873777329,0.0004012141725979,0.0005765592795796
+"i'm sorry that sucks, but do keep it in mind for when it comes out for rent, and definitely see you then because it is absolutely worth your time",0.41665444,0.0,0.125,0.085,False,0.8144044876098633,0.7803390622138977,0.4706273674964905
+as always,0.02517722,0.0,0.0,0.0,False,0.0007749466458335,0.0003605410456657,0.0004489113052841
+thank you so much for watching this video,0.019852988,0.0,0.0,0.0,False,0.0006680953083559,0.0003790725604631,0.0003310816246084
+i really hope you enjoyed it and i hope you like my new setup that i have going on here,0.023117077,0.0,0.0,0.0,False,0.0006584997172467,0.0009570372058078,0.0004289781791158
+i'm experimenting,0.0142302895,0.0,0.0,0.0,False,0.0007609048043377,0.0005452407640404,0.000390792149119
+"if you did enjoyed, please don't forget to give it a thumbs up",0.1019289,0.0,0.0,0.0,False,0.0005574508686549,0.0006835232488811,0.0005091827479191
+share it,0.033246122,0.0,0.0,0.0,False,0.0008052061893977,0.0029441267251968,0.0005171871744096
+subscribe to my channel,0.015549194,0.9973228573799133,0.0,0.0,False,0.010033618658781,0.0004144277190789,0.0006824540905654
+"if you haven't already, and i hope you're having an awesome day",0.045778666,0.0,0.0,0.0,False,0.0014498836826533,0.0118940779939293,0.0006545977084897
+i will see you very soon in my next video,0.12180476,0.0,0.0,0.0,False,0.0011671258835121,0.0045393798500299,0.002567634684965
+bye,0.055732824,0.0,0.0,0.0,False,0.0059144631959497,0.0005959753761999,0.000621129933279

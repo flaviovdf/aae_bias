@@ -1,0 +1,96 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+this is how long my review is,0.03616466,0.0,0.05,0.0,False,0.0010871248086914,0.0005416529020294,0.0008363858796656
+can you see it from? look how long it is,0.045091953,0.9337887167930603,0.05,0.0,False,0.0008180356817319,0.0008666297653689,0.0039221341721713
+look how long my review is,0.031701013,0.6405282616615295,0.05,0.0,False,0.0010989619186148,0.0007806973881088,0.001460718223825
+it didn't end,0.0253489,0.9950607419013977,0.0,0.0,False,0.0010235586669296,0.0003247180429752,0.0005867150612175
+didn't finish,0.028954152,0.9994636178016663,0.0,0.0,False,0.0010512182489037,0.0005011651664972,0.0003696798230521
+look at that,0.036336336,0.0,0.0,0.0,False,0.0012142915511503,0.0004153698100708,0.0007364766206592
+look how long it is,0.031357653,0.9342266321182251,0.05,0.0,False,0.001055514672771,0.0006748684099875,0.0021240573842078
+that's how much i enjoyed moonlight,0.046122026,0.0,0.0,0.0,False,0.0006915088742971,0.0018363293493166,0.0016160665545612
+i should just read this,0.02517722,0.6832664012908936,0.0,0.0,False,0.0006229921709746,0.0005245818174444,0.0004440005286596
+"i want to see moonlight again so badly, hula is so good",0.2945986,0.0,0.0,0.221,False,0.0008895555511116,0.0111542176455259,0.0103991096839308
+it's so sad,0.048525527,0.9937054514884949,0.5,0.629,False,0.0024951547384262,0.0008231213432736,0.0019874316640198
+malay is a film directed by barry jenkins and it started with three actors who i've never seen before,0.029812546,0.0,0.0,0.0,False,0.001026835059747,0.0008945776498876,0.0003894720575772
+i don't know if you've seen them before,0.019852988,0.7257806658744812,0.0,0.0,False,0.0007933888118714,0.0007752513629384,0.0006147127132862
+"i don't remember their names, but they're fantastic",0.03856816,0.0,0.0,0.0,False,0.0006015168037265,0.0004265125025995,0.0021307463757693
+they play a boy named sharon who turns into a man in the movie and then split into three acts and he,0.13017663,0.0,0.0,0.0,False,0.0012392186326906,0.0024761953391134,0.0048032337799668
+it's awesome,0.025005542,0.0,0.0,0.0,False,0.0007703196024522,0.0003238604404032,0.0007794083794578
+"it's boyhood, but better it stars mashallah ali, janelle monae, naomi watts, naomie harris, um dos, i'm tired",0.17380224,0.0,0.0,0.162,False,0.0008384874090552,0.008656432852149,0.0038314296398311
+i'm gonna breathe,0.05253629,0.0,0.0,0.0,False,0.0428643822669982,0.0008536383975297,0.0046274531632661
+review the road,0.020963646,0.0,0.0,0.0,False,0.0007922352524474,0.0011479153763502,0.0003405770403333
+"okay, i saw moonlight over a week ago in the theater and i have been holding off on this review because i want to do it justice",0.124380715,0.8027015328407288,0.0,0.0,False,0.0006191679276525,0.0006194270099513,0.0006534311687573
+"i saw it on november 26, number of 2016, one day after my birthday i felt in order to do that, i needed to sit with it",0.064523295,0.9997085928916931,0.0,0.0,False,0.0005618646973744,0.0005856490461155,0.0004292025405447
+i wanted to ponder all of its concepts and to fully get it,0.024147147,0.0,0.0,0.0,False,0.0005674076383002,0.0003919547016266,0.0004225606680847
+i'm ready,0.031701013,0.0,0.0,0.0,False,0.0009205021779052,0.0013161608949303,0.0009832240175455
+now i saw this film in the theater on purpose,0.03770977,0.0,0.0,0.0,False,0.0006541624316014,0.0003778285754378,0.0007193848723545
+i intentionally want to make sure i paid money to see it because i want to support the message that it is okay to make a black film that is not about slavery or any other kind of servitude or oppression,0.27856,0.9952074885368347,0.0,0.0,False,0.0140525111928582,0.0807053595781326,0.0143216075375676
+"to have it be a success, ie, 12 years a slave, lee daniels, the butler, the help, nothing wrong with those films",0.17587385,0.0,0.1,0.0,False,0.0014546784805133,0.0851286202669143,0.0055482485331594
+i think they are great,0.031357653,0.0,0.0,0.0,False,0.0006072060787118,0.000360200414434,0.0011667963117361
+"however, we can be great and powerful another way as well, we are not a one-dimensional people",0.050585672,0.5283326506614685,0.0,0.0,False,0.0006722460966557,0.0004646845336537,0.000560823304113
+there is more to us than the disgraces of our history,0.14777246,0.0,0.0,0.0,False,0.0399853065609931,0.0036233221180737,0.0085010323673486
+"i'm actually really pleased with the way i wrote that immediately after viewing it, i couldn't get it out of my mind that i still can't",0.050585672,0.0,0.0,0.0,False,0.0005654243868775,0.0051895207725465,0.0005411760648712
+there is so much about it and so much happening,0.0495556,0.0,0.0,0.0,False,0.0007286758045665,0.000356819567969,0.0005063122371211
+"what's out so much happening? if that makes sense, moonlight isn't a film that overthrows you with so much dialogue or too many subplots",0.14193995,0.9922553300857544,0.0,0.0,False,0.0010402342304587,0.0025016302242875,0.0056107225827872
+it's smart and quite simple,0.10763696,0.0,0.0,0.0,False,0.0006439951830543,0.0005546759930439,0.0034846477210521
+"in fact, there's a boy becomes a man, and all of the in-between is completely sheltered in his mind and heart, because he doesn't really know where to look",0.10031791,0.0,0.0,0.0,False,0.0009273668401874,0.0034273962955921,0.00410509807989
+it's quite beautiful,0.0717155,0.0,0.0,0.0,False,0.0006528273806907,0.0002992175577674,0.0012130730319768
+"the structure of the film is set in three acts, little boy, young man, grown man, all the same person, but somehow different",0.025863936,0.0,0.021875,0.0,False,0.0008693412528373,0.0014713100390508,0.0018094005063176
+"we as an audience go on this journey with our protagonist sharone, and we learn things about him as he does",0.03753809,0.0,0.0,0.0,False,0.0005597389535978,0.0003884108737111,0.0015610927948728
+"it's all done very subtly, and the film takes its time, which is very abstract and rare in this day and age of hollywood",0.040284947,0.0,0.0,0.0,False,0.000666630512569,0.0004086098924744,0.0009659422794356
+everything is always now now now and exciting,0.05413456,0.0,0.0,0.0,False,0.0006620437488891,0.0003421972214709,0.0005566064501181
+"moonlight is careful and delicate, and it forces you to be so as well",0.062925026,0.0,0.2,0.0,False,0.0006010317010805,0.0011819134233519,0.0044794748537242
+"to be honest, we need that",0.020408317,0.0,0.0,0.0,False,0.0006141742342151,0.0004783234617207,0.0014830147847533
+"sometimes i particularly appreciate that pacing because it leaves space for us to understand these characters and see ourselves in them, as well as interpret what will happen based on the little nuances it leaves us with",0.016729267,0.0,0.0104166666666666,0.0,False,0.0005231240647844,0.000308899761876,0.0004285825125407
+this film treats its audience with dignity and shows us how we genuinely are,0.03599298,0.0,0.0,0.0,False,0.0006544935749843,0.0004220059199724,0.0005176048725843
+there are scenes in this film that feel way too real,0.087430015,0.9984868764877319,0.0,0.0,False,0.0006805874290876,0.000329170259647,0.0004777827998623
+that is the brilliance of the direction,0.029984225,0.0,0.0,0.0,False,0.0006244726828299,0.000361297163181,0.0006875487160868
+it is entertaining,0.028267438,0.0,0.0,0.0,False,0.000905503926333,0.0003837244876194,0.0006199801573529
+and the filmmakers made this script compelling without contrivance,0.124380715,0.0,0.0,0.0,False,0.0007109866710379,0.0003705066628754,0.0007518918719142
+"contrivance contrivance contra mints the lighting in this quiz below the lighting, the lighting",0.054534122,0.8805084228515625,0.0,0.0,False,0.0007965200347825,0.0003872294328175,0.000727730570361
+this is always better for me to read it,0.032902762,0.0,0.0,0.0,False,0.0006078904843889,0.0004966699634678,0.0009023039019666
+that actually try to remember things because it's not going to be a structured as when you write it,0.029469188,0.9950116872787476,0.0,0.0,False,0.0006716304342262,0.0005333188455551,0.0006952573312446
+the way they use colors,0.036336336,0.0,0.0,0.0,False,0.000758885173127,0.0007322147721424,0.0006350171752274
+here is amazing,0.030842619,0.0,0.0,0.0,False,0.000617149809841,0.0003701202804222,0.0008018494118005
+"the music is also super dope and actually puts you in the setting of role florida, as well as make you feel the heat of the area",0.35870504,0.0,0.0,0.0,False,0.0012486183550208,0.0590427331626415,0.0702451094985008
+i said the same thing about mississippi,0.020269485,0.9839491248130798,0.0,0.0,False,0.0006779565592296,0.0012835848610848,0.0017520822584629
+"damn, the film is extremely tense and it makes you tense",0.630413,0.0,0.3333333333333333,0.493,True,0.6981200575828552,0.9805532097816468,0.9248276948928832
+watching it,0.04131502,0.0,0.0,0.0,False,0.0008533277432434,0.0013647946761921,0.0004181803087703
+i love it,0.03461955,0.0,0.0,0.0,False,0.0008277694578282,0.0005054052453488,0.0002849914017133
+in conclusion,0.021518974,0.0,0.0,0.0,False,0.0007120282389223,0.0003392692888155,0.0004579744709189
+what we have here is a beautiful telling of a coming of age story with wonderful performances across the board,0.028610796,0.0,0.0,0.0,False,0.0006263499963097,0.00034201782546,0.0004656199016608
+every actor here is fantastic,0.03736641,0.0,0.0,0.0,False,0.0007073726155795,0.000724533572793,0.0022746983449906
+i expect nominations,0.036679696,0.0,0.0,0.0,False,0.0007704991148784,0.0004353833210188,0.0002774359600152
+i wrote this before the golden globes came out,0.013466713,0.0,0.0,0.0,False,0.0007318732677958,0.0004120642552152,0.0007747923955321
+by the way i rolled this november 26,0.1668969,0.590662956237793,0.0,0.0,False,0.0006909545627422,0.0009322482510469,0.0004264275194145
+2016 nominations came out,0.045091953,0.0,0.0,0.0,False,0.0006844184827059,0.0003724657872226,0.0002600658917799
+i think a few days after a week after the cinematography is on point with the way they use color to highlight the tone of the scene,0.024490505,0.0,0.2,0.0,False,0.0005623825709335,0.0003884401230607,0.0005346452235244
+the scoring for the score is the score and screenplay are on point,0.030155903,0.0,0.0,0.0,False,0.0010557319037616,0.0003451865341048,0.0005656718276441
+"the score and screenplay are intimate, subtle, silent and intense, moonlight is a narrative character story about a real person and it feels very lifelike",0.04268845,0.0,0.0,0.0,False,0.0006298354128375,0.0004240419366396,0.0006342022097669
+sometimes silence is very loud,0.059728492,0.9665738344192505,0.0,0.0,False,0.0146307721734046,0.0007485813111998,0.0005486342706717
+you can say a lot by not saying anything at all,0.06372416,0.8593339920043945,0.0,0.0,False,0.0007771045784465,0.0005043193232268,0.0008252952829934
+i cannot wait to watch from let again,0.045778666,0.5155585408210754,0.0,0.0,False,0.0219834223389625,0.0010955365141853,0.0009731881436891
+"i want to watch it too right now today, but i can't",0.049212243,0.9048171043395996,0.0,0.0,False,0.0006855175015516,0.0012883866438642,0.0006203809170983
+ps,0.032559406,0.0,0.0,0.0,False,0.0011275520082563,0.002379409270361,0.0006912262178957
+for some reason this film reminded me of frank ocean,0.05773066,0.0,0.0,0.0,False,0.0008286960073746,0.0003679322544485,0.0007287705666385
+i know i'm not alone in that because i saw someone else write that online somewhere that it's like a mixture of something,0.029812546,0.7233003973960876,0.0,0.0,False,0.0006969037931412,0.0005096789682283,0.0012293959734961
+and frank ocean was another review that i saw online,0.017423427,0.0,0.0,0.0,False,0.0006655392935499,0.0003735167265404,0.0003539951576385
+someone else wrote that i wanted to share because i thought it was it,0.035306264,0.0,0.0,0.0,False,0.0006235422333702,0.000481378956465,0.0005394092295318
+invite,0.04268845,0.0,0.0,0.0,False,0.0007906134123913,0.0119875576347112,0.0005149031057953
+it embodied everything that i thought about moonlight,0.039598234,0.0,0.0,0.0,False,0.0006721401005052,0.0006581840571016,0.0007620996329933
+see here it is the thing about frank ocean,0.018881164,0.0,0.0,0.0,False,0.0007318328716792,0.0003730418393388,0.0006015887483954
+someone says,0.025005542,0.888830304145813,0.0,0.0,False,0.0011568421032279,0.0004755239933729,0.000668289780151
+"to put it in the most reductive, too tantalizing terms possible",0.089041,0.8387483954429626,0.0,0.0,False,0.0009363608551211,0.000740073795896,0.0098392032086849
+"think carol, by way of frank ocean, and if you like carol, you'll definitely like",0.03461955,0.0,0.0,0.0,False,0.0006590742268599,0.0019929392728954,0.0012620282359421
+wait,0.030327583,0.9772418737411499,0.0,0.0,False,0.0020275935530662,0.000691199209541,0.0010427887318655
+"ok, this review i'm going to read it",0.02054715,0.0,0.0,0.0,False,0.0006235811742953,0.0005967336473986,0.0003047024656552
+"this is from eli hayes on letterbox, this is what he said",0.021657806,0.0,0.0,0.0,False,0.0008019570959731,0.0073051704093813,0.0017719190800562
+he gave it five stars,0.04680874,0.0,0.0,0.0,False,0.0007279317942447,0.0005282404017634,0.0010336894774809
+"the hype has never ever ever been so real, and the best birthday present that i ever could have asked for",0.067320265,0.0,0.0,0.0,False,0.0007481288048438,0.0004762931494042,0.0026209573261439
+"it's funny because i saw them with you to a a marvel, a modern master work of on adulterated understanding, understanding of isolation of the video cut off before i could finish what i was saying about the online review that i saw them in moonlight, so i'm gonna finish that now",0.112788886,0.0,0.0,0.082,False,0.000736548914574,0.0006421708967536,0.0006303152185864
+"i believe this is where i left off understanding of isolation of indian do synchronicities, understanding of care of compassion, understanding of darkness and disparities of spectrums of sexuality, understanding of memories and maliciousness of forced numbness of nostalgia, understanding of catharsis, catharsis, they said it twice",0.13610743,0.9390749335289001,0.15,0.172,False,0.0017298177117481,0.0057178987190127,0.0014598269481211
+"the third act of this film is nothing short of the puree shaping and structuring of cathartic cinema, one of, if not the finest sophomore features of the last half decade, a miracle of film, a miracle of a film and experience which we are blessed to have exists in our current rapturously unsympathetic reality",0.14328592,0.0,0.0333333333333333,0.0,False,0.0011205363553017,0.0005077911773696,0.0066383075900375
+the reason the phone is disclosed to because i'm blind,0.09065199,0.9988200068473816,0.5,0.231,False,0.0042466167360544,0.0067149028182029,0.0085563762113451
+"i can't say, can see",0.025863936,0.0,0.0,0.0,False,0.0007504583918489,0.0004737628332804,0.0004482820804696
+so that is what i've that's in a nutshell how i feel about moonlight,0.11472086,0.0,0.0,0.0,False,0.0018873653607442,0.0014971373602747,0.0039970609359443
+it's incredible,0.030327583,0.0,0.0,0.0,False,0.0006202520453371,0.0003361783747095,0.0005924112047068
+"go see it, and that is the end of the serve you, because the sun is going down, and that's so much more",0.123736724,0.0,0.0,0.0,False,0.0018849148182198,0.0007976285996846,0.0017259856685996

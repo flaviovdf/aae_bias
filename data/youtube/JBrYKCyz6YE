@@ -1,0 +1,71 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+book-smart is a movie that is great,0.02637897,0.0,0.0,0.0,False,0.0010482580401003,0.0010438174940645,0.0011219596490263
+there's a good interest,0.025520578,0.0,0.0,0.0,False,0.0005859977682121,0.0003460605512373,0.0007157479412853
+death,0.35870504,0.9999592304229736,0.0,1.0,False,0.8176950812339783,0.4348239004611969,0.4393669366836548
+i really nailed it,0.16035037,0.0,0.0,0.0,False,0.0006858379929326,0.0006647921982221,0.0016585449920967
+"hello, my dude, steph cozy here and welcome to my channel",0.089577995,0.0,0.0,0.0,False,0.0047284769825637,0.0021399925462901,0.0480068400502204
+today,0.017076347,0.0,0.0,0.0,False,0.0014067447045817,0.0005867970176041,0.0004676020471379
+"we're talking about a movie that has been out for a while, but i, for some reason i haven't seen it until recently",0.03204437,0.8433920741081238,0.0,0.0,False,0.0005585081526078,0.0004302844172343,0.0003512952243909
+"i don't know what's wrong with me, so i don't know how relevant this review is gonna be",0.036679696,0.9991934895515442,0.0499999999999999,0.0,False,0.0006764276186004,0.001446608104743,0.0006198274204507
+but i loved this movie so much that i want to talk about it anyway,0.05373499,0.0,0.0,0.0,False,0.0006190640851855,0.0005070190527476,0.0004518144705798
+so here we go,0.03049926,0.0,0.0,0.0,False,0.0011301441118121,0.0005082383868284,0.0006889221258461
+"book smart is directed and written by olivia wilde, which cool love, olivia wilde, didn't know that she did that, but she does, and she's great at it",0.015826859,0.0,0.0,0.0,False,0.0006989244138821,0.0005455108475871,0.002030192874372
+"apparently, this is her directorial debut very exciting for her, very exciting for people like me who like her words",0.062925026,0.0,0.0,0.0,False,0.0006202369695529,0.0005131928483024,0.0004162616969551
+what am i saying? and it's a movie about two female best friends who are graduating high school and realizing that they didn't have any fun in school,0.11407687,0.805234432220459,0.0,0.077,False,0.0011973188957199,0.0016853340202942,0.0013602529652416
+"all of they did was work and study and try to get into a good college, and they find out that everyone else in their school that most of high school partying and having fun, and they also got into really good colleges and so they're realizing like oh, we up",0.04131502,0.9845024943351746,0.0,0.0,False,0.0018065131735056,0.0003828019544016,0.0008635020349174
+we didn't have any fun in high school,0.044748597,0.999945878982544,0.0,0.278,False,0.0011363918893039,0.0009195112506859,0.0019837343133985
+we're going to the same schools as everyone else,0.023460433,0.9952762126922607,0.0,0.0,False,0.0025985725224018,0.0008428860455751,0.0007817261503078
+"so what we did? we did it wrong, so they decide to fix it all in one night before graduation to just go crazy",0.29558796,0.9971181154251099,0.55,0.2,False,0.0054738726466894,0.1884193420410156,0.3237608075141907
+go to a party,0.04165838,0.0,0.0,0.0,False,0.0758366733789444,0.0032827893737703,0.0016547217965126
+"do all the things that they didn't get to do in the four years they were in high school, and it's so much fun",0.10828095,0.0,0.0,0.0,False,0.0014219526201486,0.0005001063109375,0.0010632920311763
+"it felt to me very much like a modern day super bad, because it all takes place in one night",0.12309273,0.9999921321868896,0.0,0.129,False,0.0012279797811061,0.0011936920927837,0.0018273774767294
+it's a lot of crazy and partying with high schoolers and it's that like coming-of-age two best friends trying to become more than what they are,0.34388447,0.6893589496612549,0.0,0.067,False,0.0317128337919712,0.0143272494897246,0.1976955831050872
+i don't know,0.017770508,0.9742851853370667,0.0,0.0,False,0.0010861124610528,0.0022731318604201,0.0004278314299881
+"it's not as deep as that, but you know what i'm trying to say, and it was just perfect",0.0495556,0.0,0.0,0.0,False,0.000654106028378,0.0004237453977111,0.0017860007937997
+"it was so perfect in every way, kaitlyn dever and beanie feldstein who play the two best friends",0.014993866,0.0,0.0,0.0,False,0.0012068736832588,0.0008698177407495,0.0013637876836583
+the two main characters have amazing chemistry,0.034962907,0.0,0.0,0.0,False,0.0006503945915028,0.0003492334217298,0.001262511475943
+"they're so funny, so phenomenal together and just everything they did throughout this film was amazing and i loved every second of it",0.046122026,0.0,0.0,0.0,False,0.0006984816282056,0.0003224958491045,0.000448305538157
+they're really really funny and also just very good actors like,0.06771983,0.0,0.0,0.0,False,0.0008081933483481,0.0005264224018901,0.00204315665178
+"i was very impressed with their performances, but it's just a really fun female buddy comedy high school comedy and it has that really great like triumphant feel-good moment at the end like all of these movies always have, and it has a really compelling arc like it's these two best friends",0.051737156,0.0,0.0,0.0,False,0.000665737199597,0.000913945143111,0.0004475495661608
+they've been through a lot together,0.033761155,0.0,0.0,0.0,False,0.0008290561381727,0.0003112116246484,0.0007748850039206
+they're growing up,0.050585672,0.0,0.0,0.0,False,0.0325191393494606,0.0004649453330785,0.0009462372981943
+they're moving on,0.050242316,0.0,0.0,0.0,False,0.0009307385771535,0.0009536539437249,0.0006963500636629
+"there's a lot of growth, a lot of character development",0.029469188,0.0,0.0,0.0,False,0.0005636519636027,0.000399393524276,0.0003259170625824
+"it's kind of a coming-of-age sort of film, so it has a perfect balance of comedy and ridiculousness mixed with heart and compassion and growth",0.17242117,0.0,0.0,0.057,False,0.0009799448307603,0.393105536699295,0.2701114118099212
+and it just leaves you feeling really good and i loved that,0.044748597,0.0,0.0,0.0,False,0.0005686661461368,0.0003839714918285,0.0007592008914798
+i think this is one of the funniest movies i've seen in a long time,0.0471521,0.0,0.05,0.0,False,0.0012132371775805,0.0004182365373708,0.0008006895659491
+i was crying,0.05253629,0.9991083741188049,0.2,0.608,False,0.0165311619639396,0.0147169390693306,0.0087101086974143
+i was laughing so hard,0.11407687,0.0,0.2916666666666667,0.231,False,0.0044803423807024,0.0010387651855126,0.0195269528776407
+"it's so funny from beginning to end like just ridiculously funny, so funny",0.31714454,0.0,0.0,0.108,False,0.0046750083565711,0.0330926440656185,0.3779543936252594
+"and after thinking about it, i honestly feel like this might be my favorite movie of the year",0.027237365,0.0,0.0,0.0,False,0.0005817971541546,0.0003999116888735,0.0003624202217906
+so far it had everything that i want in a good film,0.070516795,0.0,0.0,0.0,False,0.0007540858350694,0.0004867608950007,0.0008638926083222
+it was funny,0.03736641,0.0,0.0,0.0,False,0.0008988167392089,0.0003536580188665,0.0006143413484096
+it was heartwarming,0.039598234,0.0,0.0,0.0,False,0.0008534269290976,0.0004165111749898,0.0015383375575765
+it was entertaining consistently and i just had a really great time and i would totally buy this movie,0.036851373,0.0,0.0,0.0,False,0.0005738569889217,0.0004385617794468,0.0003656170156318
+watch it again,0.05093802,0.0,0.0,0.0,False,0.0015282066306099,0.0005874998751096,0.0005838967626914
+i think it's an instant classic,0.05613239,0.0,0.0,0.0,False,0.0006619888590648,0.0003257800999563,0.0005092227365821
+it felt kind of timeless,0.052935857,0.0,0.0,0.0,False,0.0008315641898661,0.0003360252303536,0.0005324853118509
+i feel like it's a movie that i'll watch anytime anywhere with friends by myself,0.03856816,0.0,0.0,0.0,False,0.0008274465217255,0.0009897485142573,0.000639569829218
+10 years from now,0.014438537,0.0,0.0,0.0,False,0.0009672448504716,0.0003618386690504,0.0004681046993937
+like it,0.028267438,0.0,0.0,0.0,False,0.0063489554449915,0.0005549711058847,0.0008045032736845
+just it holds up,0.032559406,0.0,0.0,0.0,False,0.0008268144447356,0.001008482882753,0.0009064301266334
+"like i said, it felt very much like superbad, which is one of my favorite movies",0.079307266,0.0,0.0,0.0,False,0.0006312714540399,0.0006648260750807,0.0010752871166914
+and i think that film is gonna hold up forever,0.06931809,0.0,0.0,0.0,False,0.0009862327715381,0.0005182750755921,0.0005339526105672
+"so if you like superbad, you're gonna love this movie",0.1024659,0.0,0.0,0.0,False,0.000903085747268,0.0099486140534281,0.0023034675978124
+"there's just no question, so yeah, i'm gonna hands down and give book-smart a 5 out of 5",0.09494796,0.0,0.1555555555555555,0.106,False,0.0023723430931568,0.0046568890102207,0.0005424788105301
+i don't have any complaints,0.026722329,0.0,0.0,0.0,False,0.0008741532219573,0.0008209124207496,0.0006122916238382
+"i thought it was great, so that's it for my review",0.023288755,0.0,0.0,0.0,False,0.0005744868540205,0.0003805311862379,0.0003065863566007
+did you guys see book-smart let me know in the comments below what you thought about it,0.23189566,0.6632537245750427,0.0,0.0,False,0.0007124364492483,0.0022856264840811,0.0005584123427979
+i'd love to hear your thoughts,0.025692256,0.0,0.0,0.0,False,0.000623399624601,0.0011589244240894,0.0004566305142361
+i'd love to talk about it,0.02517722,0.0,0.0,0.0,False,0.000584065914154,0.0007520577637478,0.0007181843975558
+"i know it's been a while since it came out, so maybe you've all seen it already",0.03204437,0.0,0.0,0.0,False,0.000611102906987,0.0003746205475181,0.0004898631596006
+i don't know,0.017770508,0.9742851853370667,0.0,0.0,False,0.0010861124610528,0.0022731318604201,0.0004278314299881
+"tell me what you thought and if you didn't see it, go see it",0.032559406,0.0,0.0,0.0,False,0.0008161643636412,0.0053043374791741,0.0080238040536642
+it's really really good,0.037194733,0.0,0.0,0.0,False,0.0005678867455571,0.0003140206681564,0.0012844910379499
+but that's it for this video,0.07571117,0.0,0.0,0.0,False,0.0010123337851837,0.00040143285878,0.0003828688932117
+thank you guys so much for watching my name's steph codes,0.035477944,0.0,0.0,0.0,False,0.0006559097673743,0.0033778771758079,0.0018109841039404
+would be sure to subscribe to my channel if you haven't already be sure to smash that like blah,0.31629145,0.9998382329940796,0.0,0.145,False,0.1037475243210792,0.0048718219622969,0.1987451612949371
+"my camera just died and i don't have another battery, so i'm just gonna finish it like this, like this video",0.28874767,0.0,0.0,0.133,False,0.0091536976397037,0.0012293116888031,0.0021148195955902
+"if you like to dive cefco, so thank you for watching",0.033074442,0.0,0.0,0.0,False,0.0149327833205461,0.000640585552901,0.0006326489383354
+i'll see you guys in the next video,0.1250247,0.0,0.0,0.0,False,0.0008214202825911,0.0007012137793935,0.0010991921881213
+bye,0.055732824,0.0,0.0,0.0,False,0.0059144631959497,0.0005959753761999,0.000621129933279

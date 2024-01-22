@@ -1,0 +1,206 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hello, everybody, i'm tiffany and today i am doing another movie review",0.026894007,0.0,0.0,0.0,False,0.0007485817186534,0.0013357792049646,0.00580715527758
+let's go,0.02655065,0.8309038281440735,0.0,0.0,False,0.0032068595755845,0.0015907373744994,0.0007967022247612
+"i went to the movie theaters recently with eddie, hi, eddie, hi, kevin",0.019297661,0.0,0.0,0.0,False,0.0007087741978466,0.000782873481512,0.0006053731194697
+i had a great time,0.025863936,0.0,0.0,0.0,False,0.0006430040812119,0.0003701398381963,0.0010291575454175
+it was superduper fun,0.03187269,0.0,0.0,0.0,False,0.0014609422069042,0.0005908050225116,0.0007851686095818
+got to go to my theater where i work,0.04783881,0.0,0.0,0.0,False,0.0010796099668368,0.0019383286125957,0.0016924693481996
+i have been dying to see this movie,0.20742953,0.0,0.0,0.0,False,0.0013720584101974,0.001347153680399,0.0027692927978932
+ever since it came out in theaters,0.02517722,0.0,0.0,0.0,False,0.00065936637111,0.0003347263264004,0.0006846008473075
+it's really really new,0.03358948,0.0,0.0,0.0,False,0.000769387523178,0.000330701470375,0.0004538534267339
+i've been super excited about it and i finally saw it,0.09816993,0.0,0.0,0.0,False,0.0005503390566445,0.0003457479178905,0.0004409190441947
+thanks to eddie,0.00999591,0.0,0.0,0.0,False,0.0011840543011203,0.0005432001198641,0.0004039801424369
+the movie i am talking about is dunkirk by christopher nolan is a war movie directed by christopher nolan,0.07091636,0.0,0.0,0.178,False,0.0011270617833361,0.0051167723722755,0.0002294275036547
+"i don't think you know this, but christopher nolan is my favorite director",0.019714156,0.0,0.0,0.0,False,0.0006618879269808,0.0015355430077761,0.0006855178507976
+i love his movies,0.03770977,0.0,0.0,0.0,False,0.000950543442741,0.0007742989691905,0.0002474741195328
+i love them,0.031357653,0.0,0.0,0.0,False,0.0008571913931518,0.0005093712825328,0.0002290799602633
+my favorite movie is inception that,0.07131593,0.0,0.0,0.0,False,0.0006574505823664,0.0004482111544348,0.0004083554085809
+"i don't think people would think that i think they think it's titanic, but its inception because that movie has christopher nolan and leader eric caprio, who is my favorite actor",0.034791227,0.0,0.0,0.0,False,0.0005917306407354,0.0030185019131749,0.0006716810166835
+"so anything that christopher nolan comes out with, i will jump on to see whether people say they like it or not",0.1024659,0.0,0.0,0.0,False,0.0007754327962175,0.0061163427308201,0.0007954839384183
+"i really like this jacket, too",0.05413456,0.0,0.0,0.0,False,0.0006249975413084,0.0003555765433702,0.0007642206619493
+"it kind of had the army green, so that's why i wore it and it's really comfortable",0.08581903,0.0,0.0,0.0,False,0.0005874352063983,0.0004918458289466,0.0007363576442003
+i wanted to wear it,0.11343288,0.5570061802864075,0.0,0.0,False,0.0021389622706919,0.0011780849890783,0.0012675418984144
+"i was definitely a little bit worried going into this movie just because when you work at the movie theatres, you do hear a lot of the feedback from guests on movies sometimes and i got really mixed reviews",0.044405237,0.9611623883247375,0.09375,0.046,False,0.0005360627546906,0.0004674289666581,0.0005340663483366
+there were some people saying it was great,0.024833864,0.0,0.0,0.0,False,0.0005628040526062,0.0003397852415218,0.0006336856167763
+"it was wonderful, and then i had people saying it was slow and kind of boring, and some even said it was a little bit confusing",0.14911842,0.5892630815505981,0.03125,0.136,False,0.0007062295335344,0.0014874542830511,0.0004956804914399
+"but that's a little bit of christopher nolan, because let's face it, every movie is kind of confusing till it comes to its end and then you get it and it's this mind-blowing asset, so i was a little bit worried going in, but it's off the christopher nolan and you always produce this good content",0.094410956,0.0,0.0,0.08,False,0.0009664163226261,0.0021034311503171,0.0006449109641835
+"so even his movies that maybe consider not as good, really really good",0.08689302,0.0,0.0,0.143,False,0.0008021172252483,0.001310460967943,0.0005220653256401
+"i knew, despite what i heard, i was going to see it anyway, and i got a lot of good reviews",0.04268845,0.0,0.0,0.0,False,0.0005789491697214,0.0014974779915064,0.0003194791206624
+more than anything,0.0186035,0.0,0.0,0.0,False,0.0012081152526661,0.0004209277685731,0.0006445493199862
+i really wasn't that worried about not liking this movie,0.118584804,0.9970236420631409,0.0,0.182,False,0.0009737320360727,0.0006686086417175,0.0017941847909241
+"i really loved it and i'm not sure if it's because i'm biased towards christopher nolan and i'm gonna love everything he did, but i thought it was awesome",0.06771983,0.0,0.0,0.08,False,0.000641094346065,0.0054136840626597,0.0006067455979064
+it was a great movie,0.03221605,0.0,0.0,0.0,False,0.000741308031138,0.0004950220463797,0.0004155620990786
+"it's not that long of a movie which is weird, christopher nolan, so i don't know if that throws people off a little bit",0.19716066,0.9954107403755188,0.2458333333333333,0.069,False,0.0015617299359291,0.0051900232210755,0.0037425071932375
+it's holding in our and 46 minutes,0.03753809,0.0,0.0,0.0,False,0.000696494767908,0.0004789766098838,0.0005704459035769
+"so the fact that christopher nolan and it's a war movie, which usually doesn't pretty well, was kind of shocking",0.14193995,0.9998056292533875,0.1,0.415,False,0.0007830984541215,0.0027486830949783,0.000900529907085
+"it was that short, but i really did like the pace of it overall",0.083939545,0.8608682155609131,0.0,0.0,False,0.0006306625436991,0.0003914194530807,0.0008209221996366
+i felt it was well built throughout and i thought everybody did a really great job in this movie,0.0334178,0.0,0.0,0.0,False,0.0005507504683919,0.0003563621721696,0.0003637698246166
+definitely an anxiety ridden leto,0.123736724,0.7286213040351868,0.0,0.23,False,0.005605949088931,0.0076569924131035,0.0028043705970048
+"just letting you know, um, people told me they were bored, but for me i was just panicking, and throughout this entire movie i'm pretty sure i jumped and scared eddie a lot",0.15859914,0.0,0.0,0.208,False,0.002815215382725,0.0028832694515585,0.0039955996908247
+"i'm sorry about that can be frustrating a little bit at times, and i think the music score in the background makes it that much more intense because the music in the background is literally o'clock",0.08689302,0.0,0.0774999999999999,0.108,False,0.000573196040932,0.0005564504535868,0.0006554111023433
+"and when you hear the clock going to tick, tick, tick, tick, you're like what is coming? what is going right now and the music was built, and then something would happen, but then i go back to the speaking clock",0.10763696,0.9646545648574829,0.0,0.0,False,0.0074291075579822,0.0019004081841558,0.0030993712134659
+"i just like you know, if you're not looking for a super super, be nervous throughout the entire movie experience to enjoy watch it",0.055333257,0.0,0.0,0.061,False,0.000672168273013,0.0006149684777483,0.0008730618865229
+just watch something mellow and calm when you're wanting to feel that nervous heart pounding energy,0.10763696,0.0,0.0,0.093,False,0.0011562289437279,0.0004238193214405,0.0010456024901941
+watch this movie,0.030327583,0.0,0.0,0.0,False,0.010456764139235,0.0005099520785734,0.0002901071857195
+"for those of you who want statistics, this right now has 8",0.031185975,0.0,0.0,0.0,False,0.0007388540543615,0.0004651895433198,0.0005539698759093
+5 out of 10 on imdb,0.043375164,0.8354982733726501,0.0,0.0,False,0.0009229492861777,0.0005847254651598,0.0003250157169532
+i don't know,0.017770508,0.9742851853370667,0.0,0.0,False,0.0010861124610528,0.0022731318604201,0.0004278314299881
+"it's going to stay there, because again, it just came out really recently",0.03187269,0.0,0.0,0.0,False,0.0006407803739421,0.0004648533649742,0.0004516684857662
+that's a really good rating and i really don't think it's going to drop that much farther,0.043718524,0.0,0.0,0.103,False,0.0006328418385237,0.0003871137741953,0.000521850597579
+that's a reasonable,0.021796638,0.0,0.0,0.0,False,0.0007324876496568,0.000388890504837,0.0008294769795611
+t,0.025520578,0.5898464322090149,0.0,0.0,False,0.0053512956947088,0.0986982285976409,0.0008998814737424
+the movie is that rating? it's really really good,0.065721996,0.0,0.0,0.0,False,0.0006342587294057,0.0004289579228498,0.0007007388630881
+i think it definitely deserves an 8 or above,0.2015616,0.0,0.0,0.0,False,0.0007139922818168,0.0012722911778837,0.0027391100302338
+i loved it,0.03461955,0.0,0.0,0.0,False,0.0012182901846244,0.0003761246043723,0.0003676701453514
+i thought it was fantastic for the actors,0.030155903,0.0,0.0,0.0,False,0.0005567003390751,0.0004967745626345,0.0006748063024133
+"one thing that i love about this movie, especially being a young aspiring actress myself is seeing all of these new faces that are getting their breakthroughs",0.103539884,0.0,0.0,0.0,False,0.000620731327217,0.000603019609116,0.0003145240189041
+"i'm pretty sure they've been in the business forever, because if you don't know, the system takes forever seeing a movie that's really big, directed by this really big known director and seeing that he put all of these newer faces on the screen along with some veterans that have been in there forever, it felt really nice to see that and the fact that the main characters in there are played by newer actors was really nice",0.024147147,0.0,0.0,0.0,False,0.0005561413709074,0.0003729891614057,0.0004557888314593
+you're mainly following these newer actors and doing a warning right now,0.1008549,0.0,0.0,0.179,False,0.0010301930597051,0.0008060486870817,0.0011646831408143
+"i'm sorry about the nasty names, mom",0.34388447,0.9506025910377502,0.75,0.495,False,0.0251775309443473,0.1114305779337883,0.0684451758861541
+"there's phelan whitehead, i don't know",0.09333697,0.6751280426979065,0.0,0.0,False,0.0007934247259981,0.343941330909729,0.7261170148849487
+pronounced that way,0.03049926,0.0,0.0,0.0,False,0.0006973502459004,0.0003535909054335,0.0017271593678742
+"i'm sorry, jamie and lonard ineuron bernard, a bunch of other people, harry styles in this",0.15568043,0.9983144998550415,0.3125,0.08,False,0.0006582772475667,0.0133132357150316,0.0145885897800326
+"if you like one direction bow, harry styles",0.0717155,0.0,0.0,0.0,False,0.0006837770342826,0.001615339773707,0.0009851402137428
+he did actually good job in this so good job harry style,0.021102477,0.0,0.0,0.0,False,0.0084314588457345,0.0008688729722052,0.0009253086755052
+"there's more violence, cecilia murphy, there's kenneth branagh tom hardy, a lot of really great actors",0.12180476,0.0,0.0,0.179,False,0.0007927234400995,0.0038368280511349,0.0023839387577027
+and then these newer people and i really liked that combination for those of you learning synopsis,0.055732824,0.0,0.0,0.0,False,0.0005664722411893,0.0004131821624469,0.0004490549035836
+it recreates the historical events that happened,0.0253489,0.0,0.0,0.0,False,0.0007404064526781,0.0003676829510368,0.0004871315031778
+"it was a battle on dunkirk, france, and basically the battle was lost",0.09333697,0.96608966588974,0.0,0.429,False,0.0007645801524631,0.000697718176525,0.0012482348829507
+"the allies realized that, so the british army decided to try and evacuate their troops to safety before they can actually all get injured",0.09602194,0.9969863295555115,0.0,0.098,False,0.0025264301802963,0.0035167280584573,0.0013337051495909
+"the story is done, basically trying to get these troops back home to england, while the axis powers are constantly coming at them and trying to stop them, and they're on this whole little beach alone and out in the open, so they're pretty easy targets and they're not afraid to go for those targets",0.14014533,0.0,0.0,0.064,False,0.0010259408736601,0.000609042821452,0.0009262789390049
+the historical event can learn about it,0.02124131,0.0,0.0,0.0,False,0.0005886615253984,0.0003649873833637,0.0002371825539739
+"go learn about it, lauren",0.06492286,0.0,0.0,0.0,False,0.0009542747284285,0.0005518381367437,0.000934577838052
+history,0.01263372,0.0,0.0,0.0,False,0.0008611758821643,0.0004820718313567,0.0003657639608718
+"overall, it was really really good",0.035306264,0.0,0.0,0.0,False,0.0005800400394946,0.0003216628101654,0.0006414805538952
+i really liked it overall,0.039598234,0.0,0.0,0.0,False,0.000638696947135,0.0003278939402662,0.0002964018494822
+"i don't know if everybody will like it just because again getting the mixed reviews, i think some people will some people long",0.051737156,0.8674893379211426,0.025,0.0,False,0.0005997256375849,0.0004297164850868,0.0012436795514076
+i appreciated the length of it,0.035306264,0.0,0.0,0.0,False,0.0005835390184074,0.000342305022059,0.0002991533838212
+"it's weird, see christopher nolan in a war movie combines not being superduper long",0.087430015,0.9740927219390869,0.275,0.318,False,0.0008827690617181,0.0041408482939004,0.0010398878948763
+"but i do appreciate that it was short because it kept that intense energy level throughout the movie for me, and i saw it in so many mills, which is really cool",0.057331093,0.0,0.0,0.0,False,0.0005500285769812,0.0003584202495403,0.0005755876773037
+being a film fanatic,0.21715863,0.0,0.3,0.0,False,0.0032013389281928,0.0020879802759736,0.1371281594038009
+i was really happy my theater was playing it in some new millimeter,0.057331093,0.0,0.0,0.0,False,0.0006436724215745,0.0003836540854535,0.0008297765743918
+that's really all i can tell you without spoiling you,0.16035037,0.0,0.0,0.0,False,0.0189549904316663,0.0468196384608745,0.0811303630471229
+goodbye,0.04818217,0.9752628207206726,0.0,0.0,False,0.001472481759265,0.0004338905273471,0.001053872401826
+"non-spoilery people, go watch john kirk and then come back",0.20009461,0.0,0.0,0.0,False,0.0243314821273088,0.0215868782252073,0.0111852912232279
+and then we can discuss all the fields and your anxiety levels when you come back,0.06012806,0.0,0.0,0.102,False,0.0006503000622615,0.0174068566411733,0.0026123393326997
+love you guys,0.059328925,0.0,0.0,0.0,False,0.0007988871657289,0.0006402684375643,0.0004555809719022
+goodbye thunder,0.13700475,0.8630340099334717,0.0,0.0,False,0.0263792164623737,0.0009177059982903,0.0036769886501133
+"now, i don't know why when i first saw the trailers, i thought tom hardy was a bad guy, because they always showed him in the airplanes, and i, airplanes were always long the beach where all these helpless soldiers are",0.29021257,0.9982105493545532,0.1666666666666666,0.138,False,0.0011956919915974,0.0023613686207681,0.0483267493546009
+"and my mind, i'm thinking that tom hardy is the bad guy",0.34792873,0.9829794764518738,0.6999999999999998,0.216,False,0.0161727014929056,0.0152705907821655,0.0214154366403818
+"luckily he wasn't i loved rooting for tom hardy throughout that, and he saves there",0.07451247,0.0,0.0,0.149,False,0.0006483405013568,0.0009411039063706,0.0009561131009832
+but i was really proud of tom hardy,0.048868883,0.0,0.0,0.0,False,0.0007128379074856,0.002021133666858,0.0020412276498973
+even though his name is an actually tom hardy,0.027065687,0.9742931127548218,0.0,0.0,False,0.0012433727970346,0.0438663437962532,0.0241902023553848
+"in this sun, i'm still going to call him tom hardy",0.051737156,0.0,0.0,0.0,False,0.0012130377581343,0.0222670342773199,0.0159858483821153
+that was a really nice moment in hearing them cheer and seeing him finally defeat those plays,0.089041,0.0,0.0,0.123,False,0.0006481038872152,0.0004710089124273,0.0009259700891561
+those planes were mourning,0.08290337,0.9733427166938782,0.0,0.492,False,0.0007868392858654,0.0004746789054479,0.0119059989228844
+"oh my gosh, i cannot tell you how many times you would hear it and you just wanted to scream, duck at the screen and take cover",0.29855597,0.9952971339225769,0.0,0.094,False,0.3924202024936676,0.0774155259132385,0.1167824566364288
+"and you knew people were going to die and it was soul-crushing because it's every time they got into i, they're reloading ship",0.22982925,0.9640783667564392,0.0,0.151,False,0.5816800594329834,0.0447628945112228,0.2495790123939514
+they launch the ship and it slips and boom,0.17957193,0.9928867220878601,0.0,0.0,False,0.014017479494214,0.0231939498335123,0.0046499981544911
+"i do think that out of everything you do get a personal connection to some of the characters, but not a ton of them",0.0471521,0.983562171459198,0.0,0.0,False,0.0006405959138646,0.0003481894091237,0.0007480180356651
+you don't get a super super super super deep connection to anybody,0.07690986,0.9970230460166931,0.0,0.138,False,0.0037189018912613,0.0009581557824276,0.0031524579972028
+"if you got a deep connection to anybody, i think it'd be more violence is character, and to dawson and his son, i think those are the characters i personally was invested in the most, and i really wanted them to get to dunkirk and be able to help all be soldiers",0.08420804,0.0,0.0,0.077,False,0.0006584520451724,0.0021627829410135,0.0037975572049617
+"not just because i wanted them to help all these soldiers, but because they were genuine good people",0.027752401,0.0,0.0,0.0,False,0.0007154590566642,0.0008836716297082,0.0012284887488931
+all the other ones,0.020824814,0.0,0.125,0.0,False,0.0043761203996837,0.0006230529979802,0.0021092018578201
+i have sympathy for them,0.023460433,0.705715000629425,0.0,0.0,False,0.0017313334392383,0.0005585182807408,0.0006941529572941
+"don't get me wrong, and i felt really bad for all the soldiers, but there wasn't a moment of complete utter panic for one character for me, like the moment where gifts and i think dice that didn't impact me",0.09494796,0.9972257018089294,0.2749999999999999,0.151,False,0.0010152405593544,0.0004783250915352,0.0013596371281892
+"i think as much as it should have, i really felt for him and i didn't wanted today",0.043718524,0.0,0.0,0.0,False,0.0006214141612872,0.0008171032532118,0.0005182506283745
+and seeing him struggle in that water was painful,0.15276173,0.9982940554618835,0.7,0.426,False,0.0022555829491466,0.0010073146549984,0.003632492152974
+"it didn't really make me cry or anything like that, because there wasn't enough personal knowledge about the character for me to actually have an emotional impact on that",0.06492286,0.9999363422393799,0.0,0.101,False,0.0007625412545166,0.0004275662067811,0.0013544402318075
+don't hit me,0.1884524,0.9998918771743774,0.0,0.0,False,0.1216812208294868,0.127898707985878,0.0817001089453697
+don't get me wrong,0.03204437,0.971754789352417,0.5,0.0,False,0.0095332991331815,0.0006363591528497,0.0049359495751559
+"and for me, what hit me more were situations they were put in, then the actual characters getting hurt themselves",0.21186037,0.8134447336196899,0.0,0.152,False,0.0008261481416411,0.0028975068125873,0.0069544501602649
+"it was the risk of danger they were in and all the soldiers were sitting in that boat, waiting for the tide to come portrayed, so they were able to move the ball and get out of there, and they are being shot at, and that one guy gets shot in the eye and then water swirling in and they're threatening to kick gifts and out because he's french and he should stay behind",0.2712817,0.9848421812057495,0.0,0.111,False,0.0645037591457367,0.1056415438652038,0.1165953204035759
+that was all really intense and i wanted to prevent them,0.15976663,0.6588981747627258,0.0,0.0,False,0.0010424391366541,0.0017428634455427,0.01605418138206
+just get out of the stupid boat,0.8457076,0.993915855884552,0.7999999999999999,0.362,True,0.9874969720840454,0.9941310286521912,0.9822487831115724
+this is pointless,0.23365098,0.999859094619751,0.25,0.0,False,0.0543563850224018,0.0906295031309127,0.1452636867761612
+you're not going into where you're going to drown and then get some done,0.28874767,0.0,0.0,0.222,False,0.6678009629249573,0.3229872584342956,0.0792687907814979
+"you should just listen, so that's what i meant if those intense situations i felt for that, but there wasn't a moment in there for me where you saw a really tragic kuroh of destiny",0.07251463,0.9868537187576294,0.275,0.115,False,0.0006228030542843,0.0004529082798399,0.0021538340952247
+"even the end with tom hardy, he gets taken in by the german soldiers, and i get that and he probably dies and that's heart was powerful with the airplane burning and sacrificing himself, knowing that he's going to probably die",0.29021257,0.0,0.0,0.077,False,0.6507647037506104,0.3665226101875305,0.3843496441841125
+that was powerful,0.043375164,0.0,0.0,0.0,False,0.0019847939256578,0.0003316034562885,0.0010157601209357
+the younger soldiers,0.031014297,0.0,0.0,0.0,False,0.0013379717711359,0.0026834895834326,0.0022445085924118
+"i didn't have as much of an impact, mr",0.048868883,0.9996030926704407,0.0,0.0,False,0.0009533236734569,0.0004391371912788,0.0005949135520495
+"dawson and his son, and then tom hardy's character in the pilots, i really felt for throughout, and i felt for the soldiers, too",0.020269485,0.0,0.0,0.0,False,0.0006233645253814,0.0009129803511314,0.0011274644639343
+don't get me wrong,0.03204437,0.971754789352417,0.5,0.0,False,0.0095332991331815,0.0006363591528497,0.0049359495751559
+just not as much as the others,0.016382186,0.9999003410339355,0.0,0.0,False,0.000950532965362,0.0004563139518722,0.0014799019554629
+i think it's because the pilots and mr,0.020269485,0.0,0.0,0.0,False,0.0006342034321278,0.0008767453837208,0.0007307013729587
+"dawson in them, we're the ones who could go and save them all",0.14283726,0.0,0.0,0.0,False,0.0089946519583463,0.0443383567035198,0.0169898644089698
+where the soldiers themselves were really helpless,0.1250247,0.9999666213989258,0.0,0.354,False,0.0033687313552945,0.0015015953686088,0.0118021592497825
+"so you felt helpless with them, but there really wasn't anything you could do, so you were really rooting for the people who could actually go out and do something",0.09333697,0.0,0.0,0.068,False,0.0006661675288341,0.0005284116487018,0.0007001550984568
+and the soldiers in here,0.027752401,0.0,0.0,0.0,False,0.0207030698657035,0.0013466296950355,0.0009003857849165
+"it's them trying to survive and you feel that and they don't always do the most righteous thing, but they want to survive",0.05773066,0.0,0.0,0.0,False,0.0016472426941618,0.0008318023756146,0.00064756302163
+"i thought philly, a murphy's character was really interesting, though the shell-shocked soldier i was really obsessed on",0.10828095,0.9641126394271851,0.0,0.095,False,0.0009247732232324,0.0030173740815371,0.0602862015366554
+he killed george,0.42631236,0.7354034781455994,0.2,0.692,False,0.3813971579074859,0.1557554602622985,0.3813663125038147
+i was really mad,0.20449556,0.9989713430404663,0.625,0.538,False,0.0428922772407531,0.0508656129240989,0.1064169704914093
+"i like spud orders in the paper at the end, though i did like his character",0.12051678,0.6390878558158875,0.0,0.0,False,0.0015433612279593,0.010437473654747,0.0052523021586239
+"overall, he was really interesting",0.032559406,0.0,0.0,0.0,False,0.0006157252937555,0.0003229262656532,0.0004754759720526
+i just wish he was in the movie more,0.05253629,0.0,0.0,0.0,False,0.0007319479482248,0.0101306987926363,0.0008432595641352
+"i think that's the only problem with the length that i do like the pace, but it kind of feels like your interactions with each character gets cut short",0.11665283,0.9993937015533447,0.0,0.13,False,0.0007635884103365,0.0006012611556798,0.0014429105212911
+if the movie was longer and we get more invested in the characters and learn about them,0.038911518,0.98732590675354,0.0,0.0,False,0.0005687775555998,0.0004746576596517,0.0004328907234594
+more,0.04406188,0.0,0.0,0.0,False,0.0039369943551719,0.0009624041849747,0.000428491825005
+julie emerges character,0.018187003,0.0,0.0,0.0,False,0.0007078264607116,0.002025093184784,0.000565456750337
+"it was really impactful and you saw war before the guy, but he knocks down this kid and then to have mr",0.1689685,0.0,0.0,0.104,False,0.0215150471776723,0.0025966588873416,0.0088550439104437
+"dawson son telling him that yeah, he's going to be okay when the boy is actually really died to save the soldier from any more grief",0.1550967,0.0,0.0,0.205,False,0.0134514402598142,0.0292904209345579,0.0325973518192768
+"so that's the only thing is that i feel like if the movie was longer, i'd have more of an impact with the characters because you whip them longer",0.112788886,0.9828072786331177,0.0,0.0,False,0.0024787464644759,0.0297613963484764,0.0155128194019198
+"not only like characters to be tortured, don't get me wrong",0.34792873,0.9967324733734131,0.25,0.351,False,0.0147003522142767,0.1023124381899833,0.1852178126573562
+"i just want to be really personally invested in them, and i was in a way, just not another way",0.037023053,0.5759479403495789,0.0,0.0,False,0.0005836613709107,0.0003897409478668,0.0007554084877483
+that scene at the beginning with them trying to get the injury man,0.1019289,0.0,0.0,0.189,False,0.0006794500513933,0.0016709937481209,0.0077227200381457
+i thought they were gonna miss it,0.03599298,0.9754255414009094,0.0,0.211,False,0.0011616322444751,0.0008964638691395,0.0007382333278656
+i'm sorry,0.023117077,0.9998569488525391,0.5,0.565,False,0.0010547674028202,0.0010944564128294,0.0005002485704608
+i thought that was that type of movie,0.036336336,0.9993734955787659,0.0,0.0,False,0.0007134638144634,0.0005073818610981,0.0006202018121257
+"luckily they did it, but did",0.030670939,0.8255485892295837,0.0,0.0,False,0.0007414020365104,0.0003405023890081,0.0004431128327269
+"oh, my gosh",0.06931809,0.0,0.0,0.0,False,0.0165594574064016,0.0026983169373124,0.0145701672881841
+"then the bone explodes and the guy's still on there and i was just sitting there, one of my hands, my face, thinking this was all for nothing",0.15743166,0.9998852014541626,0.0,0.0,False,0.0073204534128308,0.0030842830892652,0.0043488992378115
+they just saved this guy,0.045091953,0.0,0.0,0.0,False,0.001079884590581,0.0036936744581907,0.0008159236749634
+he's a tunnel,0.3609816,0.8944336771965027,0.0,0.0,False,0.8075198531150818,0.0243911780416965,0.192849189043045
+then he's been,0.017284594,0.7046902775764465,0.0,0.0,False,0.0014179514255374,0.00063310819678,0.0035908240824937
+"you know, we dead",0.22510603,0.9958145022392273,0.2,0.589,False,0.0612314380705356,0.0527933426201343,0.0327429547905921
+i was really mad,0.20449556,0.9989713430404663,0.625,0.538,False,0.0428922772407531,0.0508656129240989,0.1064169704914093
+"that was me and christopher nolan, because that was a tease, because you think they're going to miss the boat",0.12309273,0.9651511311531067,0.0,0.178,False,0.0013030804693698,0.0021689403802156,0.012752991169691
+"because christopher nolan isn't all about super happy, happy",0.050585672,0.8788576126098633,0.0,0.19,False,0.0013851526891812,0.0209267660975456,0.0079074036329984
+"you don't think they're going to make the boat, but then they do make the bull, and then they can't go on the boat, so that's that",0.1019289,0.5368974208831787,0.0,0.0,False,0.0216911192983388,0.0008923748973757,0.0040747425518929
+"but then you realize that the guy that they just put on the boat, they just doomed it even more because this ship tips over",0.13969667,0.9994490742683411,0.0,0.195,False,0.0019427274819463,0.0024075566325336,0.0023934643249958
+wow,0.019158829,0.0,0.0,0.0,False,0.0010622789850458,0.0014408288989216,0.00061311974423
+way to just play with my emotion and make me think this guy was somehow going to survive,0.16482529,0.0,0.0,0.0,False,0.001036109519191,0.0020419182255864,0.0008359448984265
+i did get a little bit how people said,0.046122026,0.6633958220481873,0.1875,0.0,False,0.0006257342174649,0.0004013170837424,0.0005309617845341
+"it was kind of confusing, though there was a timeline element that they did, and at first i was a little confused",0.03994159,0.9996408224105835,0.0074999999999999,0.174,False,0.0006289377924986,0.0003810321213677,0.0002226635406259
+"enjoyed by that when it really first happened to me, that was the cillian murphy's character again, because we see him on the boat with mr",0.0495556,0.0,0.0,0.0,False,0.0006210461724549,0.0004311228112783,0.0008765661623328
+"dawson, but then it cuts to this moment where he's denying soldiers to be in this boat",0.048525527,0.6511908769607544,0.0,0.282,False,0.0034953919239342,0.001672810758464,0.0021229682024568
+not enough room,0.019575324,0.9940991401672363,0.0,0.0,False,0.0025983045343309,0.0017833478050306,0.000499157118611
+"the boat he says, and so find another one",0.059728492,0.0,0.0,0.0,False,0.0021563896443694,0.0006891923840157,0.0050669284537434
+and the characters he's talking to are the main soldiers that you're following and so i was really confused at that because it showed him before he was shell-shocked and i was just like wait,0.07131593,0.9997643828392029,0.0777777777777777,0.068,False,0.0009822114370763,0.0013428196543827,0.0030440338887274
+he was just shell-shocked on this boat,0.12695669,0.9940343499183655,0.0,0.0,False,0.0022588958963751,0.0065149799920618,0.1015755608677864
+"wait, what her moments like that, timeline wise, where it wasn't clear that i was jumping back and moving forward and drumming, documenting forward english go, deuces, deuces deuces, just like that",0.17380224,0.8816973567008972,0.0,0.057,False,0.0007808592054061,0.0012764862040057,0.0009126689983531
+that was a little bit confusing,0.065721996,0.9911056160926819,0.24375,0.245,False,0.0007455283193849,0.0003661267692223,0.000595043413341
+"everything that was rebecca know had to do with water because since they were on a beach and surrounded by water, they're all drowning it, somali, where the pilot is docked at the plane and the water is coming in",0.1510105,0.9998465776443481,0.0,0.0,False,0.0009824758162721,0.0006087703513912,0.0044633960351347
+i was panicking in family,0.059328925,0.0,0.0,0.42,False,0.0104178711771965,0.0052237319760024,0.0074424352496862
+i did not know they were going to make it asking about for carolyn,0.018325835,0.9787803888320923,0.0,0.0,False,0.0006808838807046,0.0005903296405449,0.0006200073985382
+"if you don't know, you really don't know if they're going to be kick or not",0.28996843,0.843998372554779,0.0,0.0,False,0.020060334354639,0.385328084230423,0.2110223919153213
+the main moments were when the water was slowly rising and i'm just like this keeps happening,0.02262963,0.0,0.0666666666666667,0.0,False,0.0006119439494796,0.0004797161382157,0.000458956870716
+they all keep getting stuck in water,0.12051678,0.999488115310669,0.0,0.25,False,0.003935205284506,0.010229161940515,0.1331231296062469
+channel of water,0.037023053,0.0,0.0,0.0,False,0.0008493241039104,0.000684144324623,0.0019156403141096
+i'm a swimmer,0.06132676,0.0,0.0,0.0,False,0.0037861750461161,0.0013480103807523,0.0007321886369027
+"this may be not like water in the movie i'm sorry, water",0.10699297,0.9986957907676697,0.5,0.254,False,0.0010138530051335,0.0011007975554093,0.0014862465905025
+i love you,0.040284947,0.0,0.0,0.0,False,0.0009022768936119,0.0007631599437445,0.000410184438806
+you,0.053335425,0.0,0.0,0.0,False,0.3588186204433441,0.0098251458257436,0.0210788920521736
+keep me refreshed,0.030842619,0.0,0.0,0.0,False,0.0012303676921874,0.0018927222117781,0.0025341783184558
+i have a glass right here,0.048868883,0.0,0.0,0.0,False,0.0008491979097016,0.0004407158994581,0.0023288822267204
+"i love you, but in the movie you were mean and i promise characters a little bit confused about again",0.13476147,0.9101828336715698,0.1,0.101,False,0.00064162426861,0.01762555539608,0.0015825740993022
+i think it was the lack of not really getting to know him,0.039254878,0.9995421171188354,0.1,0.161,False,0.0008603827445767,0.000847129675094,0.0007866236846894
+"it's supposed to be this really nice moment when he says he's going to stay behind and help his fellow countrymen and help the french in some way, and i think that was really noble",0.11021292,0.0,0.0,0.0,False,0.0005912314518354,0.0014028282603248,0.0015909123467281
+i just feel again,0.025005542,0.0,0.0,0.0,False,0.0009824562584981,0.0003143819049,0.0007019987679086
+"if we had more of a connection to him personally, then it'd be even more impactful that he's staying behind",0.08581903,0.0,0.0,0.0,False,0.0005964237498119,0.0004746759950648,0.0010059620253741
+but it still was a really good strong statement,0.017770508,0.0,0.0,0.0,False,0.0005878034280613,0.0003442223824094,0.0006757755763828
+everything needed here was strong statement and i really enjoyed it,0.03204437,0.0,0.0,0.0,False,0.0005415811901912,0.0003794760850723,0.0003652258019428
+"it's just upping the level a little bit, and then it would have been completely mind-blowing though it was so basically mind blowing",0.101391904,0.9857186675071716,0.04375,0.0,False,0.0012373763602226,0.0093498732894659,0.0019645679276436
+that's really all i have to say about this movie,0.05093802,0.0,0.0,0.0,False,0.0007430925616063,0.0004253090883139,0.001937850844115
+"if you haven't seen dunkirk, i don't get why you stayed through spoilers, but you know what, go go and watch dunkirk, because it's a really good movie overall",0.103539884,0.0,0.0,0.0,False,0.0007385077187791,0.0008354281308129,0.0014327561948448
+"i think i would have wanted it to be a little longer just to have more character development, but at the same time i really liked the pace of it and it made me really anxious throughout this entire thing",0.06412373,0.0,0.0,0.065,False,0.0005293331341817,0.0003684125840663,0.0004206955200061
+"thank you, eddie for coming with me",0.015549194,0.0,0.0,0.0,False,0.0010122335515916,0.0009417551336809,0.00056028686231
+that was really fun,0.0471521,0.0,0.0,0.0,False,0.0007436217274516,0.0003290557360742,0.0005614463589154
+let's go again,0.03204437,0.0,0.0,0.0,False,0.0021526108030229,0.0008705432410351,0.0004701483412645
+thank you so much for joining me today,0.039254878,0.0,0.0,0.0,False,0.000721193908248,0.0004324917099438,0.0004075373581144
+"if you have any other book or movie recommendations, you can always be down in the comments below",0.05253629,0.0,0.1402777777777777,0.0,False,0.0005981466383673,0.0010893844300881,0.0011186326155439
+"i love your comments, so continue to bring them to me",0.034104515,0.0,0.0,0.0,False,0.0006298342486843,0.0006508912192657,0.0004190758045297
+i love it,0.03461955,0.0,0.0,0.0,False,0.0008277694578282,0.0005054052453488,0.0002849914017133
+thank you so much and have a wonderful day evening afternoon,0.03204437,0.0,0.0,0.0,False,0.0005694455467164,0.0004012740391772,0.0002113909577019
+"whatever time to do your washing, this and forget the awesome good boy",0.19789414,0.8541216254234314,0.0,0.101,False,0.0094544971361756,0.0037003150209784,0.0311691556125879

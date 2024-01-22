@@ -1,0 +1,94 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hello, friends, yes, you read this title correctly",0.013952625,0.0,0.0,0.0,False,0.0006365666049532,0.0004089013382326,0.000479071837617
+i am going to see a quiet place and this is not a sit down review,0.044405237,0.9097623825073242,0.0777777777777777,0.0,False,0.0008986797765828,0.0008540676790289,0.0015320983948186
+"this is a come with me style video, but i did want to get this bit in while i'm sitting at home just before we head out the door",0.27856,0.0,0.0,0.0,False,0.0065685948356986,0.0012648410629481,0.0005623372853733
+"i'm having my coffee because i'm actually watching this at nine o'clock, nine o'clock showings every time for me, so i'm going to get this done really quickly for you guys and then wrap it up and send it straight out to the world so you can see what i thought of a quiet place",0.13251819,0.0,0.0,0.0,False,0.0006663351668976,0.0013772629899904,0.0083753867074847
+"i'm actually taking dean with me, which will be really exciting because for you guys who want to see this movie with maybe a friend or partner who doesn't like our movies, we can get his perspective",0.080905534,0.0,0.0,0.049,False,0.0005847775610163,0.0007728073978796,0.0008320782217197
+he is not thrilled,0.11085691,0.9999507665634155,0.3,0.445,False,0.0009246542467735,0.0082330331206321,0.0016434461576864
+he is actually scared out of his mind,0.22333995,0.6509055495262146,0.0,0.293,False,0.0357626043260097,0.0484781824052333,0.1245770826935768
+i do want to address really quickly,0.039254878,0.0,0.0,0.0,False,0.0006125806248746,0.0004529483849182,0.0006706700078211
+this is a spoiler-free review and all of you guys do rely on my feedback to see if you want to see it in cinemas,0.11472086,0.0,0.0,0.0,False,0.0016579239163547,0.0004345211200416,0.0006860304856672
+so that's why i'm here,0.026894007,0.0,0.0,0.0,False,0.0009460493456572,0.0007481747888959,0.0009433459490537
+let's get into what the film is about,0.027752401,0.0,0.0,0.0,False,0.0006929246010258,0.0004887978429906,0.0005210501258261
+"as you guys know, i try and avoid trailers before seeing films",0.09548495,0.0,0.0,0.167,False,0.0005931914201937,0.0025108829140663,0.0011883185943588
+especially this trailer,0.06971766,0.0,0.0,0.0,False,0.0010631172917783,0.0005478728562593,0.0004067801055498
+"it's been everywhere, so i've been trying to look the other way every time it's on tv",0.035306264,0.9987849593162537,0.125,0.0,False,0.0006280108354985,0.0005527312168851,0.000592773547396
+"but from what we can tell, a quiet place is about a family that are in a secluded place",0.022351967,0.0,0.0,0.0,False,0.0006831164937466,0.0004591476754285,0.0009030710789375
+it seems like it's out in the woods and they can't make any noise,0.06372416,0.9812962412834167,0.0,0.0,False,0.0019612188916653,0.0007489391718991,0.0013937955955043
+otherwise something will come and get them,0.05253629,0.5132811069488525,0.0,0.0,False,0.1533839404582977,0.0020281206816434,0.0017163580050691
+that's all i know about the film's storyline,0.029469188,0.985519289970398,0.0,0.0,False,0.0006537429289892,0.000404808204621,0.0003623637021519
+"what we do know is it is directed and starred john quin ciske, who's actually married to emily blunt, who is in the film as well",0.02397547,0.5216907858848572,0.0,0.0,False,0.0006351497722789,0.0005883765988983,0.0005274427239783
+the story is,0.017076347,0.0,0.0,0.0,False,0.0007237648824229,0.0004150812746956,0.000361441343557
+"apparently, emily encouraged krinsky to direct the film after reading the first draft of the script and then also asked if she could start opposite him in the film",0.029812546,0.9311829209327698,0.0,0.0,False,0.0006353489588946,0.0003601202333811,0.0002426873252261
+"also, apparently, the original screenplay only had one sentence of dialogue, so this will be really interesting going into the film and seeing how much dialogue there is another really interesting and exciting thing about this film is that the original script was actually named one of the best scripts of the year",0.02637897,0.0,0.0,0.0,False,0.0005518994294106,0.0003409350465517,0.0002282107743667
+"i think it was top 10 in 2017 by the tracking boards 2017 hit list, so i'm super excited to see how it works",0.014993866,0.0,0.0,0.0,False,0.000536183360964,0.0003573681751731,0.000272505916655
+i hope there's some twists and turns throughout this and i just really hope it's a good cinema experience,0.0729142,0.0,0.0,0.0,False,0.0005378036294132,0.0004161602992098,0.0004291869699954
+"i know a lot of people are really excited to see this film, so i hope you guys enjoy this and come along with me",0.052136723,0.0,0.0,0.0,False,0.0005236069555394,0.0004807928635273,0.0003777733072638
+we're gonna go see a quiet place and i'm really hoping it's gonna live up to all of our hives,0.15451296,0.0,0.0,0.0,False,0.0011223518522456,0.0451277121901512,0.0034342403523623
+let's go,0.02655065,0.8309038281440735,0.0,0.0,False,0.0032068595755845,0.0015907373744994,0.0007967022247612
+hi guys,0.040284947,0.0,0.0,0.0,False,0.0009369208128191,0.0028342904988676,0.0006203126395121
+we just finished watching a quiet place and the film was great,0.04165838,0.0,0.0,0.0,False,0.0006068655638955,0.0003676841442938,0.0005480201798491
+dean actually even liked it himself,0.046465382,0.0,0.0,0.0,False,0.0009273500763811,0.000972100184299,0.0007321152952499
+you thought it was quite good,0.055333257,0.0,0.0,0.0,False,0.0005743009969592,0.0003428877098485,0.0015878856647759
+"yeah, yeah, it was better than i thought",0.05493369,0.0,0.0,0.0,False,0.0006977507728151,0.0005253947456367,0.0008581549045629
+it was gonna be,0.029984225,0.0,0.0,0.0,False,0.0063335509039461,0.0008609071373939,0.0004353882977738
+"yes, and that's great because that's exactly what we wanted to hear from like a non horror lover",0.08330294,0.0,0.0,0.124,False,0.0007666353485547,0.005276673939079,0.0022867368534207
+"just to be clear, guys, this is not gonna have any spoilers at all, just because i know a lot of you guys won't see this til next week, and i just kind of want to give you my shorthand review",0.10892494,0.9369626641273499,0.0,0.0,False,0.0006495737470686,0.000888709211722,0.0010704329470172
+"talking about technique, acting and structure",0.010759487,0.0,0.0,0.0,False,0.0005908160237595,0.000440079224063,0.00055074255215
+not really the content of the film,0.02124131,0.9998193383216858,0.1,0.0,False,0.000665443832986,0.000375169358449,0.000331067101797
+"the story, though is about what i thought it was about",0.019019997,0.5085546970367432,0.0,0.0,False,0.0005855519557371,0.0004904161323793,0.0004201384144835
+"that's as much as i'll say, the tension in the film was amazing and i think that that was definitely made by the actors",0.06851897,0.0,0.0,0.077,False,0.0005446327850222,0.0003796236997004,0.0003775862860493
+"emily blunt was like such a standout for me, the situations that they get into his dire, and is in saying, as i said before earlier that there wasn't gonna be much talking in the film",0.09118898,0.0,0.0,0.076,False,0.0007162286201491,0.000374136987375,0.0021689154673367
+"that is definitely correct, and it was such a good film to see in the cinema because of that, although you got to be careful what session you go to, because i could imagine if someone was talking or you've been eating something loudly",0.09924392,0.0,0.0,0.0,False,0.0007245236192829,0.0004234370717313,0.0017235137056559
+the guys on their phone,0.027752401,0.5860259532928467,0.0,0.0,False,0.0037937096785753,0.0031833294779062,0.0015649549895897
+"yeah, there was a guy in front of me",0.046122026,0.0,0.0,0.0,False,0.0011007933644577,0.0048039681278169,0.0014790368732064
+he was on,0.04131502,0.0,0.0,0.0,False,0.0259698759764432,0.0009553240379318,0.0024694472085684
+"he's fine, but i guess the light wasn't as bad as i think the sound would have been to affect the situation and the feel of the film",0.043718524,0.996855616569519,0.0,0.0,False,0.0005991645739413,0.0003673297760542,0.0005840414669364
+"there was a guy next to me eating popcorn and it definitely took me out a couple of times, but the film was such like a simple kind of story, and all of the actors and characters were really straightforward, definitely because the sound design of the film was such a huge aspect of the film",0.07131593,0.0,0.0,0.0,False,0.0006819671252742,0.000799449509941,0.0003669617581181
+"they really played with it and they brought in some music and then they also had like a lot of like highs and lows, and it definitely kept you on the edge of your seat",0.07131593,0.0,0.0,0.043,False,0.0013809333322569,0.0003987017553299,0.0010928623378276
+"but the main thing for me was just it was a straightforward story, but the tension was just done so well",0.062125895,0.7665485739707947,0.0,0.115,False,0.0005714325234293,0.0003153494035359,0.0003394956002011
+i just thought it was amazing,0.023803791,0.0,0.0,0.0,False,0.0005727185052819,0.000337434670655,0.0005829838919453
+"i think those are good balance, cuz, normally for those high tension movies if you sit through them for too long, even if they're gripping the whole time, you feel exhausted like having anxiety for the entire movie right and you're just exhaust at the end of it",0.094410956,0.9969889521598816,0.0,0.155,False,0.0008720417390577,0.0004950215807184,0.0011625981424003
+"so it wasn't like that, but at the same time it wasn't like",0.043718524,0.9990921020507812,0.0,0.283,False,0.0007767988136038,0.0004333589458838,0.0008986604516394
+i felt quite short,0.04818217,0.9996401071548462,0.0,0.0,False,0.001065952819772,0.0005042943521402,0.0025756899267435
+even though it was,0.0186035,0.9576749205589294,0.0,0.0,False,0.0012139047030359,0.0003710678138304,0.0008901067194528
+it was very kind of movie,0.040628307,0.0,0.0,0.0,False,0.0008412150782532,0.0004713360685855,0.0004241100687067
+"yeah, it was a very concise storyline that is quite heartbreaking at points and very straight forward, but it just definitely yeah, you hold some tension and you throughout the whole time",0.08581903,0.0,0.0,0.125,False,0.0007077667978592,0.0003512607363518,0.001611903659068
+"and wow, i feel like emily blunt was just such a standout for me",0.07131593,0.0,0.0,0.0,False,0.000734667351935,0.0004108769353479,0.0118723716586828
+i don't know if you felt the same,0.015688026,0.9962795376777649,0.0,0.0,False,0.0014228819636628,0.0007372413529083,0.0009877043776214
+"i thought she was amazing this movie and i, i've seen her in a lot of movies, but i never thought much of her this film like she was amazing",0.061726328,0.0,0.0,0.0,False,0.0005671273102052,0.0004646422748919,0.0006614275625906
+they know anything was that they showed the trailer before,0.040284947,0.9943966865539551,0.0,0.0,False,0.0008188288193196,0.0005389564321376,0.0006461309385485
+"yeah, but i watched a bit of the trailer, which i know that you tried not to it",0.073313765,0.9993060827255249,0.0,0.0,False,0.0006861073197796,0.0008773900917731,0.0005228987429291
+"actually, i thought it gave away the movie and then when i watch the movie it didn't so if you feel like you've watched the trailer and it's giving away the movie, you don't have to worry that it hasn't",0.033932835,0.9701552987098694,0.0,0.0,False,0.0007121398230083,0.0004953553434461,0.0008413630421273
+"actually, i guess all in all, i want to say, definitely check this one out the cinema",0.04234509,0.0,0.0,0.0,False,0.0007608841406181,0.0005380140501074,0.0005247046356089
+"i'm sure you guys already were, but it gets our thumbs up",0.048868883,0.0,0.0,0.0,False,0.0010273668449372,0.001419952022843,0.0017378382617607
+if you want me to talk about this in more detail,0.033074442,0.0,0.0,0.0,False,0.0006086349021643,0.0004972665337845,0.0022884053178131
+i real,0.022213135,0.0,0.0,0.0,False,0.007812088355422,0.0004200397233944,0.0005929190083406
+"i'm really just trying not to ruin it for any of you guys, but thumbs up",0.103539884,0.0,0.0,0.0,False,0.0007404329371638,0.0045641874894499,0.0041881641373038
+the film was beautiful,0.028954152,0.0,0.0,0.0,False,0.000770611106418,0.0003821022692136,0.0007472310680896
+"obviously the sound mix was amazing, but the emotion of the characters are really what pulled it through for me",0.04680874,0.0,0.0,0.0,False,0.0005495294462889,0.0003495911951176,0.0004963651299476
+i'm gonna give this one an 8 out of 10,0.10515087,0.0,0.0,0.0,False,0.0087063824757933,0.0091987429186701,0.0005942519055679
+i thought it was an amazing film scare school,0.057331093,0.0,0.0,0.229,False,0.0007559921941719,0.0006116267177276,0.0013359104050323
+i'm gonna give it a 7,0.09816993,0.7373188138008118,0.0,0.0,False,0.0020070155151188,0.00254836701788,0.0012623858638107
+just because of the tension,0.03187269,0.0,0.0,0.365,False,0.0010207103332504,0.0003543383791111,0.0004799476009793
+"it was just the stress levels during that film was like insane, andra jolly",0.28825936,0.9603700041770935,1.0,0.258,False,0.0047797271981835,0.0501996725797653,0.3096461296081543
+i'm gonna give it like a,0.10828095,0.9504908323287964,0.0,0.0,False,0.0426587052643299,0.0096338121220469,0.0095806503668427
+"it's like a 6 or 7, maybe like a, and i'll give it a 7",0.09602194,0.9822805523872375,0.0,0.0,False,0.0007797869038768,0.0005346981924958,0.0007270717178471
+i'd say it's about a 6 for me,0.06332459,0.9766513705253601,0.0,0.0,False,0.0007651559426449,0.0008710771799087,0.001216534525156
+really,0.015757442,0.0,0.0,0.0,False,0.0014107627794146,0.0003701640234794,0.0006866139592602
+"yeah, i thought you liked it",0.030842619,0.0,0.0,0.0,False,0.0007282322039827,0.0005816435441374,0.0003799937258008
+"yeah that, but man, you have different right",0.040971663,0.9131431579589844,0.0,0.0,False,0.0008479485986754,0.0020218705758452,0.0039730663411319
+i don't like about something,0.049898956,0.9992712140083313,0.0,0.345,False,0.0012172317365184,0.0048887217417359,0.0019065574742853
+"it's under 50% okay, i think that if you do want to take somebody who is scared of horror films, dean can say it's not the scariest horror film you've definitely seen",0.1024659,0.9999817609786987,0.0,0.159,False,0.0010873626451939,0.0028972188010811,0.0044308635406196
+it was more attention,0.040284947,0.6876336336135864,0.0,0.0,False,0.0009230390423908,0.0010334295220673,0.0009343628189526
+i'd recommend if you don't like our eyes,0.23189566,0.0,0.0,0.199,False,0.0015981764299795,0.0452929362654686,0.0124223986640572
+show them that,0.050242316,0.0,0.0,0.0,False,0.0013668166939169,0.0013507129624485,0.0017806437099352
+anyway,0.017284594,0.6682016253471375,0.0,0.0,False,0.0013368750223889,0.0004841468471568,0.0005255279829725
+i hope you guys enjoyed this,0.07131593,0.0,0.0,0.0,False,0.000580740335863,0.0005581510486081,0.0003888726932927
+please let me know if you want a more in-depth kind of review,0.028439116,0.0,0.0,0.0,False,0.0005789028364233,0.000475516251754,0.0004376897413749
+because i'm happy to do that,0.022351967,0.0,0.0,0.0,False,0.0006319961976259,0.0004780370218213,0.0023695798590779
+i'm just really conscious that a lot of you guys haven't seen it yet,0.03616466,0.9995623230934143,0.0,0.0,False,0.000662975013256,0.0004413700953591,0.0005852988688275
+"get excited, guys",0.1668969,0.0,0.0,0.0,False,0.0010788866784423,0.0019412264227867,0.000851415505167
+it's definitely worth the hype,0.045778666,0.0,0.0,0.0,False,0.0008037270745262,0.000361622456694,0.0013029786059632
+i'll talk to you guys very soon,0.09065199,0.0,0.0,0.0,False,0.0007170444005168,0.0009322957484982,0.0017935954965651
+stays boogie,0.08170467,0.0,0.0,0.0,False,0.0021653880830854,0.0154726654291152,0.0453954488039016

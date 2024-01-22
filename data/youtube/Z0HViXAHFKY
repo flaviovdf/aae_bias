@@ -1,0 +1,82 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"a few weeks ago, i had the pleasure of seeing one of my most anticipated films of the year",0.060527626,0.0,0.0,0.0,False,0.0005755926249548,0.0003741744440048,0.0003188127593602
+"ladybird, ladybird is a film about a high school girl named ladybird, played by saoirse ronan, and about her relationship with her mother, played by laurie metcalf, and how it's affected when ladybird meets boys when she's moving after college and a bunch of other small things",0.03856816,0.0,0.0716666666666666,0.032,False,0.0009825339075177,0.0019644184503704,0.0012890108628198
+i'm gonna cut to the chase and say that i really really liked this movie,0.11085691,0.0,0.0,0.114,False,0.0008621204760856,0.0017127098981291,0.0020401612855494
+it's really rare to see a dramedy that balances comedy and drama so flawlessly,0.14328592,0.0,0.0,0.0,False,0.0008319728076457,0.000894829572644,0.0006462288438342
+this movie blends the two together in an almost invisible way,0.0741129,0.0,0.0,0.0,False,0.0008139527635648,0.0003755276848096,0.001369075034745
+"the movie is hilarious and sad, but not a depressing way",0.09333697,0.0,0.0,0.14,False,0.0015556892612949,0.0008160138968378,0.0019885709043592
+it's more of a,0.027752401,0.9194788932800293,0.0,0.0,False,0.0017864428227767,0.0005255329888314,0.0066075008362531
+it gets you to understand the emotions that the characters are getting across while at the same time making you laugh again,0.074912034,0.0,0.0,0.0,False,0.0011200960725545,0.0006180427153594,0.0007398281595669
+the humor is super clever and very consistent,0.042001735,0.0,0.0,0.0,False,0.0007580261444672,0.0004647525493055,0.0013194524217396
+usually in comedies it'll be really funny and then it'll get really dramatic and then it'll go back to being funny and it would be some really good parts and some really bad parts,0.078108564,0.9983117580413818,0.0261904761904761,0.085,False,0.0008962917490862,0.000384085898986,0.0004389823589008
+but this movie is hilarious all the way through,0.13924801,0.0,0.0,0.0,False,0.0014132425421848,0.0004191491461824,0.0008904116693884
+"i don't want to spoil anything, but there are some extremely clever and unpredictable cuts throughout this thing that are super sad but also hilarious, which is kind of confusing at times, but it ends up working really well",0.1473238,0.0,0.0,0.186,False,0.0007540890946984,0.0005626474157907,0.0004805280477739
+it's super interesting because throughout the film i'm trying to figure out if i'm just a jerk for laughing at certain things or if it's actually supposed to be that funny,0.4489545,0.0,0.0,0.057,False,0.0240282416343688,0.8080542087554932,0.5719470381736755
+"as for the drama, it works insanely well",0.16275369,0.0,1.0,0.0,False,0.0016245880397036,0.0004470937128644,0.0167500507086515
+the film does a great job at making you actually feel for these characters and not like they're just people on a screen,0.03994159,0.0,0.0,0.078,False,0.0006987382657825,0.0004424550279509,0.0008025878923945
+"it makes you feel like you're in that world and that these people have feelings, and it's that aspect of the film that makes it super convincing",0.0471521,0.0,0.0,0.0,False,0.000942202983424,0.0004347678332123,0.0008543553412891
+"as for the actual plot, it's actually a pretty cliche idea",0.043375164,0.9995241165161133,0.0,0.0,False,0.0010576779022812,0.0004377765289973,0.001105701434426
+"it's really just about a girl that's going off to college and sort of her relationship with her mother, and swear the troubles that come with that, but it's done in such an interesting and unique way that honestly i've never seen before",0.055732824,0.0,0.0,0.062,False,0.0016970363212749,0.002534573432058,0.0016395756974816
+i almost got a bit of a napoleon dynamite vibe coming from it because it's able to get this high school story across in a very interesting and non cliche way,0.07690986,0.0,0.0,0.0,False,0.0011137133697047,0.0003683913382701,0.000493372848723
+"i mean, it was able to take a scene where one student gets an a and the other gets a c",0.043718524,0.9844350218772888,0.0,0.0,False,0.001179734012112,0.0015829899348318,0.01831666380167
+and it made it convincing for once,0.04680874,0.0,0.0,0.0,False,0.0006689050351269,0.0003216134209651,0.000572741148062
+"usually those scenes, i'm just kind of like",0.047495455,0.9870971441268921,0.0,0.0,False,0.0006942512118257,0.0004950437578372,0.0008964544977061
+"yeah, okay, but this one i actually felt for the characters",0.031014297,0.0,0.0,0.0,False,0.0005486287991516,0.0003521103062666,0.0002974566305056
+"i owe a lot of this to greta gerwig, the director, who by the way is very at her job",0.023803791,0.0,0.0,0.0,False,0.000839659885969,0.0010412604315206,0.0026785349473357
+considering this is her directorial debut and she did a pretty much perfect job,0.021657806,0.0,0.0,0.0,False,0.0008004481205716,0.0004418866301421,0.0007696713437326
+"i mean throughout the entire film, the direction is on point",0.03444787,0.0,0.15625,0.0,False,0.0006175437010824,0.0003554885915946,0.0004701783473137
+"i mean, there's not a single flaw with what she did",0.050585672,0.0,0.1383928571428571,0.0,False,0.0008388258283957,0.0018353445921093,0.0021657836623489
+the whole thing is super exciting and fresh,0.22991583,0.0,0.0,0.0,False,0.0005924623110331,0.000334850163199,0.0006443184101954
+"there's an adult and for the acting, i mean, saoirse, ronan, laurie mcafee, locust, hedges, the whole cast did a really fantastic job",0.024147147,0.0,0.0,0.0,False,0.0007050967542454,0.0151898339390754,0.0016159190563485
+probably one of my highlights is laurie mccaffrey gave a phenomenal performance as the mother,0.1250247,0.0,0.0,0.0,False,0.0018721421947702,0.001294017303735,0.003604128723964
+"i mean, every time she was on the screen, i was completely drawn into the film, and on top of that i want to give a shout out to beanie feldstein",0.05133759,0.0,0.0,0.0,False,0.0096400370821356,0.0019429861567914,0.0022383171599358
+i've never heard of her prior to this,0.02655065,0.0,0.0,0.0,False,0.0006522676558233,0.0004584166454151,0.0011139510897919
+"i looked her up, and she really hasn't had that much experience before this film and she was by far the funniest part of the movie",0.050242316,0.0,0.0,0.0,False,0.0008564223535358,0.000482579198433,0.0007587232394143
+i felt like i connected to her and i thought that she was hilarious,0.11536485,0.0,0.0,0.0,False,0.0010338617721572,0.0004666333843488,0.0089056240394711
+i mean it was,0.019158829,0.0,0.3125,0.0,False,0.0009415764943696,0.0004384056665003,0.0011209761723876
+she was just a great character,0.033761155,0.0,0.0,0.0,False,0.000812423590105,0.000409152067732,0.0041256020776927
+overall,0.023632111,0.0,0.0,0.0,False,0.0009697820059955,0.0014175759861245,0.0004327050992287
+"in reality, every character felt so much like they belong in this world",0.055333257,0.0,0.0,0.0,False,0.0007528989226557,0.0006277717184275,0.0007755314582027
+"each one felt so important and vital to the story, which is so rare",0.033761155,0.0,0.0,0.0,False,0.0005195276462472,0.0003502735926304,0.0005008588195778
+like i said earlier to a film about high school that is also a dramedy,0.11600884,0.0,0.0,0.0,False,0.0011666646460071,0.0004864382790401,0.0016051916172727
+i mean it all just felt really natural,0.02637897,0.0,0.10625,0.0,False,0.000604422413744,0.0002906500885728,0.0007797933067195
+in terms of cinematography,0.010273575,0.0,0.0,0.0,False,0.0006327827577479,0.0003927568322978,0.0005283383652567
+this film is just beautiful,0.039254878,0.0,0.0,0.0,False,0.000861887645442,0.0003531432012096,0.0014211877714842
+"there's nothing incredibly striking or out-of-this-world about it, but it works really well with the story and doesn't make you feel you know, distracted or like it's anything more than what it is",0.02929751,0.0,0.0,0.079,False,0.0007343820761889,0.000443424883997,0.0008706863154657
+the whole aesthetic of the film is just very pleasing,0.06132676,0.0,0.0,0.0,False,0.000624488457106,0.0003597794857341,0.0008315836312249
+"it's very dark red, kind of golden",0.052935857,0.0,0.0,0.0,False,0.0008356248144991,0.0012299447553232,0.0032936367206275
+i don't know,0.017770508,0.9742851853370667,0.0,0.0,False,0.0010861124610528,0.0022731318604201,0.0004278314299881
+"despite all of what i've said, i do understand that there are probably going to be some people that don't like this movie",0.084745035,0.9880220890045166,0.0,0.088,False,0.0007665385492146,0.0010854128049686,0.0007410484249703
+"for one, their major plot points in this film that are addressed within the matter of seconds",0.027065687,0.0,0.0,0.0,False,0.0005552377551794,0.0003667506971396,0.000470373139251
+"now, that's usually done for the sake of humor, and it actually works very well, but i can see why some people might not like that very much",0.048868883,0.6752014756202698,0.0,0.086,False,0.0006468745996244,0.0003904918266925,0.0004304460599087
+"i know a lot of people like a big buildup in a super dramatic climax, but this film isn't like that",0.090114996,0.9999637603759766,0.0333333333333333,0.107,False,0.0006305390852503,0.0003901454037986,0.0009816430974751
+"if anything, this film makes fun of dramatic movies well, at the same time being a dramatic film very well",0.08050597,0.0,0.0733333333333333,0.0,False,0.0005869242595508,0.0005966079770587,0.0004092997405678
+"on top of that, there are a few parts of the film that don't come full circle necessarily",0.037023053,0.9985929131507874,0.0,0.0,False,0.0006495706620626,0.0004061582149006,0.000472822895972
+"if you want to avoid spoilers, i suggest skipping to this part of the video",0.10699297,0.9986502528190613,0.0,0.133,False,0.0009304702980443,0.0004140073433518,0.0004206263402011
+"i mean, for one near the end of the film, we figure out that lady's father is depressed",0.10461388,0.9579814672470093,0.10625,0.163,False,0.0035982311237603,0.0073773432523012,0.0103627564385533
+we figure out that the drama teacher is seeking help and there's a scene where lady's father runs into her brother while applying for the same job,0.059328925,0.9672631621360779,0.0,0.0,False,0.0009474448161199,0.0022671613842248,0.0021864541340619
+i mean for that last one i don't think necessarily needed an end,0.028267438,0.9935328960418701,0.1041666666666666,0.0,False,0.0006596190505661,0.0008895382052287,0.000417629344156
+"it kind of spoke for itself, but for the others it would have been nice to learn a little bit more about these characters and where this would have gone",0.0334178,0.9991077780723572,0.0,0.0,False,0.0005392457242123,0.0003643114177975,0.0003679238434415
+"but again, as is, i thought that the film worked incredibly well without it",0.040971663,0.0,0.0,0.0,False,0.0005949067417532,0.000384845508961,0.0004278993292246
+i thought i'd kind of fit with the overall story that you know,0.020685982,0.9969670176506042,0.0,0.0,False,0.00063755660085,0.0004501306102611,0.0004571535682771
+it's life is kind of unpredictable and there are loose ends and you don't know what's gonna happen next and you know it's it works,0.045778666,0.0,0.0,0.087,False,0.0029614120721817,0.000538480177056,0.0006728617590852
+"besides that, this film is absolutely amazing",0.04131502,0.0,0.0,0.0,False,0.0005974808591417,0.000337500940077,0.0007929912535473
+it's stunning,0.048525527,0.0,0.0,0.0,False,0.000621908577159,0.0004271146608516,0.0005707110394723
+the writing is great,0.02124131,0.0,0.0,0.0,False,0.0005910114268772,0.0004168199957348,0.0007143840193748
+it's hilarious,0.10031791,0.0,0.0,0.0,False,0.0025356577243655,0.000511402671691,0.0017844107933342
+it's sad,0.03994159,0.994083821773529,0.5,0.756,False,0.0019580565858632,0.0007844009669497,0.0016195671632885
+it's basically everything you would want in a dramedy,0.1024659,0.0,0.0,0.0,False,0.0027092371601611,0.0009125663200393,0.0233839880675077
+"to be honest, it might be my favorite film of the year",0.04406188,0.0,0.0,0.0,False,0.0005885964492335,0.000371880014427,0.0004773598921019
+"if not, it's up there",0.027580723,0.0,0.0,0.0,False,0.0006655979668721,0.0004921009531244,0.0008205183548852
+"if you are a senior in high school or a freshman in college, or even a sophomore in college, you should definitely check out this film",0.14866976,0.0,0.0,0.0,False,0.0008291564881801,0.0005696841399185,0.0006202074582688
+same goes for,0.018742332,0.0,0.0,0.0,False,0.0011972915381193,0.0003635249158833,0.0004757672431878
+"if you are a parent who is going through this entire process as well, the film is incredibly relatable",0.02809576,0.0,0.0,0.0,False,0.0008529144106432,0.0004338414873927,0.0006735829520039
+it is insanely emotional,0.2224569,0.0,0.0,0.0,False,0.2216153740882873,0.0007244459702633,0.0318167880177497
+it's unique,0.021518974,0.0,0.0,0.0,False,0.0006929529481567,0.0003449039941187,0.0005852283211424
+"it touches on aspects of this process that i haven't seen done in any other films about this, and it does so in a really enjoyable and unique way",0.03427619,0.0,0.0,0.0,False,0.0005620768060907,0.0003413408994674,0.0002768364502117
+i cannot recommend this film enough,0.12116077,0.0,0.0,0.297,False,0.0009883869206532,0.0008305375231429,0.0004323876055423
+please go see it,0.032559406,0.0,0.0,0.0,False,0.000623007887043,0.0007366594509221,0.000487048382638
+if you get the chance,0.0224908,0.0,0.0,0.0,False,0.0014290702529251,0.0006795271183364,0.0006086827488616
+"in terms of a rating, i'm probably gonna give it a 5 out of 5",0.03187269,0.0,0.0,0.0,False,0.0009200111380778,0.0005709711113013,0.0003298928495496
+"just i can't really come up with anything that's wrong with it and i'm just gonna leave it at that so seriously, go support this film if you get the chance, and let me know in the comments what you thought of it if you saw it and - if you would like me to keep doing the reviews, i know i asked that in the last video, but i want to keep asking it just in case people get sick of it or you know whatever, i just want to hear your thoughts, so don't forget to subscribe",0.09333697,0.6174547672271729,0.2695238095238095,0.085,False,0.0006889950018376,0.0020076967775821,0.0006033760146237
+"go see this film if you get the chance, and thank you so much for watching",0.02262963,0.0,0.0,0.0,False,0.0006084510241635,0.0005015713977627,0.0004615794750861

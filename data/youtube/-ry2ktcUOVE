@@ -1,0 +1,29 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hello, so today i'm going to be reviewing the movie spotlights, and when we're talking about it from the perspective of a journalist who has to manage a lot of content and make sure that it's you know, good quality, and make sure that it meets a certain criterion, especially with regards to ethics",0.029125832,0.6142500638961792,0.0,0.0,False,0.0005321501521393,0.0004132824251428,0.0005596120026893
+"so the movies based on catholic priest who were caught abusing specifically molesting young boys, and the story was very sensitive",0.35870504,0.9701488018035889,0.0,0.264,False,0.1430221945047378,0.0864143669605255,0.215425431728363
+it was going to target the catholic priest,0.3282253,0.9994822144508362,0.0,0.0,False,0.2923707365989685,0.5229483246803284,0.2602729201316833
+"i was going to be targeting the church, and there was going to be very difficult challenge for the journalist to really uncover such a hidden story",0.21186037,0.9987471103668213,0.1541666666666666,0.095,False,0.0007501137442886,0.0028186549898236,0.0010189808672294
+"but they did it very well, and in doing so they taught their audience a lot about",0.031701013,0.0,0.0,0.0,False,0.0006858634878881,0.0003504606429487,0.0003552864945959
+you know the things that go with journalism,0.030327583,0.0,0.0,0.0,False,0.0010217777453362,0.0005207371432334,0.0006839132402092
+one of the things that they really dealt with was the importance of transparency,0.027237365,0.0,0.0,0.0,False,0.0006225375109352,0.0003741448454093,0.0004112586029805
+you have to be as a journalist when you're interviewing people,0.04268845,0.0,0.0,0.0,False,0.0011698640882968,0.0010966234840452,0.0012264747638255
+be transparent,0.038911518,0.922887921333313,0.0,0.0,False,0.0149130932986736,0.0019804593175649,0.0011501712724566
+you have to let them know the agenda of the interview and go straight to the point,0.033761155,0.0,0.0,0.0,False,0.000696770963259,0.0004383481864351,0.0006550676771439
+don't you know? beat around the bush and try to pretend as if you're sort of counseling them or providing them with some sort of therapy,0.15918289,0.9973176121711731,0.0,0.053,False,0.0691805779933929,0.0214330852031707,0.1349285244941711
+these are people who seek closure,0.1019289,0.7199215888977051,0.0,0.0,False,0.0006162689533084,0.0004364635387901,0.0014509264146909
+"they want a story to be told and they're not interested in, you know, sort of dealing with the emotional part",0.05613239,0.9992496371269226,0.0625,0.098,False,0.0007170392782427,0.0005286181694827,0.0005879505188204
+they want a story to be told so that they can give you know voice to the voiceless,0.18450552,0.7308098077774048,0.0,0.0,False,0.0226508844643831,0.0009526023641228,0.0062038083560764
+another aspect that was dealt with in the movie was the importance of face to face interviews,0.02517722,0.0,0.0,0.0,False,0.0007729900535196,0.0004120475496165,0.0003529592941049
+in the movie it has shown that face to face interviews are very important because they give you more insight into the person that you're interviewing,0.018881164,0.0,0.0,0.0,False,0.0005812908057123,0.0004294564714655,0.0004263592418283
+one of the victims i was interviewed,0.040628307,0.9781308770179749,0.0,0.277,False,0.0006006085313856,0.0005957584362477,0.0004824924399144
+apparently had some physical marks,0.09709594,0.9628961682319641,0.0,0.0,False,0.0018556921277195,0.000517027452588,0.0008727121748961
+"i think he had bruises or something like that, and it was important for them to take note of that and keeping track of what is being said by taking notes as references",0.080905534,0.0,0.0,0.0,False,0.000581994827371,0.0003477264835964,0.0017135229427367
+it's very important because you cannot just say something happened or someone says something without a reference,0.021380141,0.0,0.0,0.0,False,0.0005747686373069,0.0003997828462161,0.0003555165603756
+"so you know, old-school pen and paper always works because you know i need something that is easy",0.061726328,0.0,0.0,0.0,False,0.0009598557371646,0.001635363092646,0.0009851086651906
+something that is on the move,0.03049926,0.0,0.0,0.0,False,0.0011736087035387,0.0005131908692419,0.0013078325428068
+"you know where you can easily take notes, and the last aspect i think was very important was trusting your gut feeling",0.23803931,0.0,0.0,0.0,False,0.0006168689578771,0.0004599692474585,0.0008013773476704
+doesn't matter how bad you think a story will be,0.112144895,0.9999711513519287,0.6999999999999998,0.09,False,0.0152578465640544,0.0031345156021416,0.0019660568796098
+"but if you go with your gut instinct, if you feel that the story has substance, then follow through with it, and you know, do your research, do your interviews",0.07371333,0.0,0.0,0.0,False,0.0010488344123587,0.0004489665152505,0.0008491254993714
+and i think that's that's what spotlight really did touch on,0.042001735,0.0,0.0,0.0,False,0.00060652353568,0.0003671491576824,0.0009745984571054
+"it touched on the importance of journalistic ethics, and i think it's a fantastic movie for any aspiring journalist, so definitely recommend it for anyone",0.024662184,0.0,0.0,0.0,False,0.0005348534323275,0.0004306291230022,0.000439064373495
+thank you,0.014369122,0.0,0.0,0.0,False,0.0006253210594877,0.0005706180236302,0.0004497025802265

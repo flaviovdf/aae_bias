@@ -1,0 +1,99 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"in many ways, star wars the last jedi is the perfect star wars movie not just from a fan's perspective, but also from disney's because it becomes crystal clear that this franchise is never going anywhere",0.060927194,0.0,0.0,0.109,False,0.0006990389665588,0.0007367286016233,0.0004010602715425
+literally so much happens and yet nothing happens,0.04234509,0.9992138147354126,0.0,0.0,False,0.0126972123980522,0.0004109047586098,0.0010007708333432
+there are so many deaths and yet nobody dies,0.16965903,0.0,0.0,0.0,False,0.4695193767547607,0.0104746986180543,0.0091258222237229
+"basically at the end of the movie, you realize for as much fun as you had watching it",0.046122026,0.0,0.0,0.0,False,0.0006345746805891,0.0004806791839655,0.0005321585340425
+"although i don't know if everybody's gonna have that experience, we'll get to that, but even i, who loved every minute of it well, almost every minute of it",0.027237365,0.0,0.0,0.0,False,0.0006356436060741,0.0004551117308437,0.0004365153727121
+"but still i even had to realize that we were at the exact same place that we were when the movie started, and that's unfortunate",0.044748597,0.9844028949737549,0.0833333333333333,0.143,False,0.0007062070071697,0.0004172785556875,0.0006321666878648
+"or is it if these movies keep making so much money? i mean, to be honest, i predict that casual fans will fall away because of the episodic nature that's taking over",0.089041,0.9964764714241028,0.003125,0.0,False,0.0009116395376622,0.0005368663114495,0.0007381407776847
+"get it episode 8 of infinity episodes, but there are so many star wars fans from hardcore to casual that i think it will continue to do very healthy business anyway",0.07091636,0.0,0.0,0.134,False,0.0006355079240165,0.0005049316678196,0.0005206170026212
+"i mean, i'll keep watching them if they're this good",0.062925026,0.0,0.0,0.0,False,0.0006347182788886,0.0016600309172645,0.0019555795006453
+"so on that note, what exactly did i love about the movie? alright, so it's a long list",0.04131502,0.0,0.0,0.0,False,0.0007135841296985,0.0004832132253795,0.0005656397552229
+"yay, first",0.022074303,0.0,0.0,0.0,False,0.0011662628967314,0.0004915156750939,0.0006453074747696
+the movie is very much a saturday morning cartoon like,0.068918526,0.8045713901519775,0.0,0.0,False,0.0027751035522669,0.0009183528018184,0.0016554427566006
+it took me a couple of moments to understand the tone,0.029812546,0.9890362620353699,0.0,0.0,False,0.0006235312321223,0.0004234251682646,0.0005898319650441
+i was like,0.020269485,0.0,0.0,0.0,False,0.0018684471724554,0.0012496832059696,0.0013088413979858
+what are you doing? you're crazy like general hux,0.62792164,0.9980661273002625,0.2749999999999999,0.202,False,0.9144113063812256,0.909313976764679,0.9443823099136353
+"this is a non-spoiler review so i can't give anything away, but let's just say the movie starts with general hux, and at first i was like this is horrible, but then i realized what they were doing and i was like this is fabulous accepting what the franchise is, but they're turning the episodes into not the spin-off movies, but the episodes",0.22952124,0.9359941482543945,0.0749999999999999,0.061,False,0.0009442307637073,0.0007141712703742,0.0005403910763561
+"once you accept that it's a lot of fun right so next up boy, is this movie funny? it's surprisingly funny",0.10892494,0.0,0.0,0.0,False,0.0006614190642721,0.000949204491917,0.0011430014856159
+"remember in the force awakens when the stormtroopers were walking down the hall and they saw that kylo, ren was throwing a temper tantrum, and they turned around and walked way more of that, but just so much more of that and i loved it, like undercover boss kind of humor",0.09065199,0.0,0.0,0.063,False,0.0009298556833527,0.0010318588465452,0.0008894144557416
+"to some degree, and by that, i mean, not just clever, but almost in some ways self-aware what you i loved",0.089577995,0.0,0.0,0.067,False,0.0007327330531552,0.0057196607813239,0.0033715181052684
+"i don't know how all star wars fans or other people are gonna feel about it, but it was perfect for me, but also, by extension, there's a very strong focus on average joes that populate this world, and i love me some average joe moments",0.10300289,0.0,0.0,0.038,False,0.0007008800748735,0.0005735264276154,0.0004472397558856
+"they're my favorite thing, and more than anything they make me feel like i could be a part of this world, so i thought that was great",0.02792408,0.0,0.0,0.0,False,0.0006590688717551,0.0004428731917869,0.000628994370345
+it's like there are no small parts in star wars,0.03616466,0.8630924820899963,0.0,0.379,False,0.0009521712781861,0.0007716906256973,0.0023991684429347
+i thought that was fabulous,0.028782474,0.0,0.0,0.0,False,0.0007263618754222,0.0003498677688185,0.0007899555494077
+there are also a couple of great battle sequences in the movie,0.05133759,0.0,0.0,0.156,False,0.0006248468416742,0.0003648475103545,0.0002535858948249
+and will some people find battle sequences boring? i am not one of those people,0.13835071,0.9990971088409424,1.0,0.274,False,0.0022049765102565,0.0026611606590449,0.0021714514587074
+like,0.022945397,0.0,0.0,0.0,False,0.001461298437789,0.0005631173844449,0.0007380700553767
+"if you loved the big battle secret sequence at the end of rogue one, then you will love this movie because this is definitely an extension of that",0.06652113,0.0,0.0,0.07,False,0.0005874466733075,0.0004870595585089,0.0006146828527562
+"i mean, i could watch x-wing formations all day long",0.045778666,0.0,0.18125,0.0,False,0.0007747905328869,0.0008440301171503,0.0005204619374126
+"i would love to pilot an x-wing now next, there are also some stunning visual moments here, and one in particular that was heightened by an audience members response",0.11794081,0.0,0.0,0.0,False,0.0005643389886245,0.0006720837554894,0.0005316656897775
+"in fact, it instantly became one of my best movie going experiences of all time, and i will tell you about it in the spoiler review",0.028954152,0.0,0.0,0.0,False,0.0006557297892868,0.0003807588946074,0.0003723677946254
+"i wish that this person could be in every one screening to say what she did at that moment, because it would make the movie better for everybody",0.07131593,0.9948750138282776,0.0,0.0,False,0.0006027345662005,0.0035894953180104,0.0013968151761218
+it was great,0.02637897,0.0,0.0,0.0,False,0.0006623113295063,0.0003214273310732,0.0007804117631167
+"alright then next, although i have to say, for the most part, you could hear a pin drop in the theater, people were paying rapt attention, but also i really enjoyed the practical effects which made the porks and some other characters that we can't talk about have the quaint cozy factor that so many characters did in the original trilogy",0.17661177,0.0,0.0,0.023,False,0.0008294366416521,0.0004823581839445,0.0244161132723093
+"i mean, you knew they were puppets, but i know that was great, and i and i love porks",0.29558796,0.0,0.0,0.0,False,0.110018789768219,0.2810934484004974,0.3036689758300781
+"by the way i went in hating porks, but now i hope that they never ever go away, and by the way, i would like to say that of all the merch that i've seen so far, the copious pork merch, none of it has captured the fabulous essence of the porks, so i hope they keep working on it because i'd like to buy something with a poor guy on it now, but i haven't seen anything that would again captures the spirit of the porks from the movie",0.37083253,0.9879953265190125,0.0,0.057,False,0.0630204156041145,0.1473802775144577,0.0607375651597976
+they're so funny,0.07091636,0.0,0.0,0.0,False,0.0012294860789552,0.0003556869050953,0.0021390682086348
+now,0.018742332,0.0,0.0,0.0,False,0.0014697305159643,0.0004906950052827,0.0007275509997271
+"what did i? what did i not like? personally right, wasn't anything that i didn't like about the movie or a myka saying",0.07571117,0.0,0.0,0.179,False,0.0009691866580396,0.0021864771842956,0.0019098968477919
+only other people are gonna have problems,0.2712817,0.0,0.0625,0.31,False,0.0035250559449195,0.0045582638122141,0.0149274403229355
+"no, i'm afraid i had some problems, jim",0.037881445,0.9796334505081177,0.0,0.278,False,0.0023343018256127,0.0058338483795523,0.004000561311841
+"as i said, nothing really happens, so it's difficult for me",0.042001735,0.9989847540855408,0.15,0.217,False,0.0007225922308862,0.0005957572720944,0.0016593023901805
+i know some people who aren't really into star wars and they didn't like the force awakens and that that bro guan was a little boring,0.22987647,0.9996343851089478,0.3291666666666666,0.258,False,0.0132915861904621,0.0294962078332901,0.0069556985981762
+i know right,0.020963646,0.0,0.0,0.0,False,0.0008411706076003,0.0004081709485035,0.0005446076393127
+"how could you find? although the beginning, rogue one, once you've seen it a couple times, you start to understand where people are coming from",0.08330294,0.0,0.0,0.0,False,0.0006525963544845,0.0008240258321166,0.0022930935956537
+"but anyway, it's hard for me to recommend this movie to them, cuz, i'm like",0.04406188,0.9470503330230713,0.2916666666666667,0.08,False,0.0006818026886321,0.0010795107809826,0.0018539705779403
+"i think you might be bored, but i don't see how you could miss it either, but also the pacing is off like two thirds in",0.09763293,0.9995183944702148,0.5,0.116,False,0.0006303339032456,0.0008863084367476,0.0016990142175927
+"even i was like, dude, i love what you're doing here, but it's taking you way too long",0.08290337,0.9978660941123962,0.0,0.0,False,0.0009312272886745,0.0067794150672852,0.0032883812673389
+and then on that note i think it was a mistake,0.07371333,0.9984935522079468,0.0,0.194,False,0.000918544945307,0.0005236528813838,0.0009179193875752
+"i don't want to give too much away, but i think it was a mistake",0.083939545,0.9935209155082703,0.0,0.245,False,0.0008593516540713,0.0010479096090421,0.0017957406817004
+i'll just say this for the rebels to basically be parked for most of the movie and the rebels come across is pretty incompetent by the way,0.34388447,0.9992789626121521,0.0,0.204,False,0.0007709408528171,0.2676413655281067,0.4229425191879272
+"like wow, they got a really step up their game",0.032902762,0.0,0.0333333333333333,0.0,False,0.0010930029675364,0.0006645150715485,0.0007163698901422
+they're starting to embarrass themselves,0.28683078,0.9986843466758728,0.0,0.355,False,0.0420799031853675,0.1695450097322464,0.2702352702617645
+"however, i would like to add though that, i'm amazed that self-sacrifice and war has become such a big part of star wars after rogue one and now the last jedi",0.09333697,0.0,0.0,0.187,False,0.0012442707084119,0.0040047280490398,0.0083356602117419
+"that is such a complex, adult, sophisticated concept, and it's crazy that family-friendly star wars from disney would become the franchise that best embodies that and promotes that",0.18055865,0.0,0.0,0.153,False,0.0012228220002725,0.0005299369222484,0.0018065442563965
+"i mean, it makes her some of the most emotional emotional gut punches of the movie",0.2712817,0.9016277194023132,0.0,0.0,False,0.0036993869580328,0.0166548136621713,0.0170991290360689
+"i mean, they work their earned",0.03616466,0.0,0.3125,0.0,False,0.0036142079625278,0.0006112488335929,0.0011566735338419
+they're not cheating,0.08635602,0.0,0.0,0.0,False,0.0062812650576233,0.0022476536687463,0.0015075403498485
+they,0.02054715,0.0,0.0,0.0,False,0.0147170908749103,0.0013960419455543,0.0021094267722219
+"really, i was amazed by them",0.049898956,0.0,0.0,0.0,False,0.00061606784584,0.000404864171287,0.0010358493309468
+"in fact, however, it does seem that that's the rebels only strategy, and considering the real world history of that from kamikaze flyers to what's happening across the globe today like ripped from the headlines",0.076110736,0.9986804127693176,0.0,0.048,False,0.001192120485939,0.0004580453969538,0.0008270326652564
+i would just be really careful about romanticizing that star wars,0.046465382,0.9997351765632629,0.1,0.226,False,0.0005827475106343,0.0113558294251561,0.0019408985972404
+you have your moments,0.047495455,0.0,0.0,0.0,False,0.0163234751671552,0.0006389995687641,0.0022405611816793
+you didn't cheat,0.07211506,0.0,0.0,0.0,False,0.0540728978812694,0.0011664184276014,0.0012000536080449
+"you earn them, but let's maybe move in a different direction",0.031014297,0.0,0.0,0.0,False,0.0006803653086535,0.0006763779674656,0.0005579739226959
+"okay, especially because they keep doing it again and again and again",0.03856816,0.0,0.0,0.0,False,0.0007838644087314,0.0003804702137131,0.0004907942493446
+"as for the characters, though i think the kathleen kennedy, you know, she's really been championing women in star wars and trying to really push them in the mythology, right, and she's been a little heavy-handed about it, but i can say with the last jedi that she finally found a balance in the force between female and male characters, and a lot of that has to do with rey and kylo, ren",0.06412373,0.0,0.0,0.031,False,0.0006172962603159,0.0020133482757955,0.0026270097587257
+i liked them both a lot here and we have so much to talk about,0.048868883,0.0,0.0,0.0,False,0.0005861251265741,0.0003502717299852,0.0006217050249688
+in this boiler review i loved it,0.048525527,0.0,0.0,0.0,False,0.0006884459871798,0.0004112997849006,0.0003926454519387
+okay,0.017145762,0.5601295828819275,0.0,0.0,False,0.0009591358248144,0.0007199328392744,0.0004994064802303
+there's also luke and leia acting as a balance,0.047495455,0.0,0.0,0.0,False,0.0007990127778612,0.0030170541722327,0.0022571224253624
+"there's also finn and rose, just really good",0.043031808,0.0,0.0,0.0,False,0.0006118608289398,0.000329101254465,0.0004106042033527
+"equal gender representation men, speaking of representation, po, by the way, he has a lot of great moments here",0.092262976,0.0,0.0,0.0,False,0.0007631453918293,0.0016489365370944,0.0055759688839316
+they really up to screen time and the character of benefits,0.0334178,0.0,0.0,0.0,False,0.0006349174072965,0.0004992682370357,0.0005950493505224
+"because of it, however, there was some question as to whether or not he was a member of the lgbt community",0.054534122,0.8655561208724976,0.0,0.0,False,0.0009429232450202,0.0321212634444236,0.0132709713652729
+"i mean, even oscar isaac seemed to be hinting at that, but i can tell you in this movie that they have completely shut that down and stepped away from it, and i think to some degree have even i think hinted of going in the other direction",0.16035037,0.9991446733474731,0.1232638888888889,0.0,False,0.0007309440989047,0.0008587054326198,0.0009744684793986
+that's gone,0.052136723,0.6325812935829163,0.0,0.0,False,0.0012091288808733,0.0005317447939887,0.0014212838141247
+also for those looking to finn for representation,0.04165838,0.0,0.0,0.0,False,0.0008384741959162,0.0003969354438595,0.0004648670728784
+he continues to be a clownish character,0.5174561,0.0,0.0,0.0,False,0.0054371035657823,0.899818480014801,0.8900181651115417
+i liked john boyega's performance,0.021518974,0.0,0.0,0.0,False,0.0006711991154588,0.0013144980184733,0.000717464077752
+here,0.024147147,0.0,0.0,0.0,False,0.0018970671808347,0.0005158214480616,0.0005431196186691
+"he had some nice moments, but boy do i wish that finn had more dignity and they continue to really push this the space janitor angle, you know, for comedic effect tonight it is helpful, but still he's supposed to, you know, represent something for a lot of people, and it's unfortunate, the movie though has some excellent villains",0.09709594,0.7544355392456055,0.0,0.122,False,0.0008906372822821,0.0006235315231606,0.000388045591535
+i love them,0.031357653,0.0,0.0,0.0,False,0.0008571913931518,0.0005093712825328,0.0002290799602633
+"from the seriously menacing snoke, huge snoke fan to the comedic ly, sniveling general hux, again",0.29261994,0.0,0.1833333333333332,0.081,False,0.1011534258723259,0.0290715787559747,0.0711908712983131
+"once i got general hooks, i loved general hooks",0.18549223,0.0,0.0,0.0,False,0.0005999145796522,0.0005735390004701,0.0578859150409698
+"both andy serkis and donald gleeson, damo gleeson, i always mispronounce his name, but they are both huge assets to the movie, but needs you, del toro and gwendoline christie, though not so much",0.08420804,0.0,0.0,0.0,False,0.0009984684875234,0.0015047838678583,0.0015898946439847
+"finally, while the battle sequences again are very well thought-out and visually striking, they desperately need to hire a better fight choreographer because the lightsaber battles are unforgivably weak like wow, so in conclusion i feel this is a don't miss for star wars fans and cinephiles because even though the sum is a bit satisfying, the individual parts are just too good to miss",0.15246986,0.9970777034759521,0.0,0.209,False,0.001074441941455,0.0007751804660074,0.0006903115427121
+"also, even if you're not into star wars, you know what i say, roll the dice, because again there was so much here that was great",0.09655894,0.0,0.0,0.0,False,0.0014033768093213,0.0004614048229996,0.0063898861408233
+there's so much that was so funny,0.05613239,0.0,0.0,0.0,False,0.0007690796628594,0.0002948837354779,0.0020393547601997
+i just said go in anyway and prepare to be a bit bored,0.2712817,0.9999419450759888,0.5,0.149,False,0.0026635588146746,0.0074918833561241,0.0064103384502232
+you know what? the more i think about it,0.06971766,0.0,0.0,0.0,False,0.0007334889378398,0.0005325228557921,0.0016076902393251
+this reminds me a lot of lord of the rings,0.047495455,0.0,0.0,0.0,False,0.0011359049240127,0.0009114480344578,0.0044439304620027
+"you know, everyone can share their moment when they dozed off, and a lord of the rings movie or a hobbit movie, right? and speaking of the hobbit, this franchise, that franchise ultimately became too boring to continue, at least on the silver screen",0.22990009,0.999937891960144,0.2535714285714285,0.049,False,0.0011809658026322,0.0011334712617099,0.0028551721479743
+"and that's something kathleen kennedy should keep in mind if you don't have some reinvention and you get too steeped in mythology, even if you have a ton of like oh moments and this movie has them",0.09655894,0.0,0.0,0.0,False,0.0008750995039008,0.0005207939539104,0.0019896235316991
+you know,0.03994159,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+it's ultimately just not enough to continue,0.034104515,0.9936566948890686,0.0,0.0,False,0.0008068198221735,0.0004523813840933,0.0004891094285994
+boy with all the average joe moments,0.06652113,0.9815220832824707,0.15,0.0,False,0.0189286861568689,0.0086027486249804,0.0062260404229164
+"i'm like, i really want that disney streaming star wars series as well, but anyway, we can't talk about too much because this is my non-spoiler review of the last jedi and i will definitely be seeing it again in theaters, and i think that's a pretty high vote of confidence",0.045091953,0.0,0.0,0.036,False,0.0005638794973492,0.0005134918028488,0.0003893404500558
+"so now you can go see it for yourself and then join me for the spoiler review, because if you're into this movie there is so much to talk about, and until then, of course you can always check out some other videos right now",0.09655894,0.0,0.0,0.0,False,0.0007425407529808,0.0008222468313761,0.0006225215038284

@@ -1,0 +1,52 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+stop you,0.229845,0.92259281873703,0.0,0.688,False,0.0790303573012352,0.1696611791849136,0.0996661409735679
+"so, um, what i want to do is do? what? kind of a difficult review? i know it's difficult, but i don't know",0.0471521,0.979957103729248,0.1333333333333333,0.16,False,0.000695267226547,0.0007594595663249,0.0005373132880777
+"it's a review of the movie inside out, pixar movie that just came out",0.029812546,0.0,0.0,0.0,False,0.0007459259359166,0.0006152833229862,0.0006403099396266
+i saw this weekend,0.02262963,0.0,0.0,0.0,False,0.000714550144039,0.000368430832168,0.0003638192429207
+i just went to review of it,0.025005542,0.8195921182632446,0.0,0.0,False,0.0005646865465678,0.0004113693721592,0.0004083215317223
+"um, i enjoyed the movie just not as much as i, um, thought i would",0.060927194,0.9670562744140625,0.0,0.0,False,0.000600435945671,0.0008651575190015,0.000987235456705
+"i thought it was a good movie, just not as good as i thought it would be heard a lot about it",0.080905534,0.996941864490509,0.0,0.095,False,0.0005930959596298,0.0005986035102978,0.0011118375696241
+"a lot of people seem to like it and i thought i would too, but i don't know",0.023288755,0.9009841084480286,0.0,0.0,False,0.0005999620188958,0.0005990212666802,0.000430436222814
+i just gone to a couple reasons,0.032387726,0.9953435063362122,0.0,0.0,False,0.0006612092256546,0.0004137160140089,0.0006366576417349
+why i'm having this conflict with it with with the movie,0.09118898,0.9967479705810547,0.0,0.208,False,0.0007108955760486,0.0005185055779293,0.0041136997751891
+why may not have enjoyed as much as i did,0.067320265,0.764790415763855,0.0,0.231,False,0.0010158398654311,0.0005434994818642,0.0007674989756196
+"the first reason is, um, i don't know",0.028439116,0.9965317845344543,0.0,0.0,False,0.0007163842674344,0.0077854376286268,0.0012821612181141
+it was sort of like watching my own private struggles played out on the screen,0.25447917,0.9992498755455017,0.0,0.131,False,0.0010324680479243,0.0004516188055276,0.0006825500749982
+"um, you know, this battle between sadness and joy, um, and just trying to see you know who went out, um, and then there was just like little parts where they kept talking about this memory where she missed the goal and everybody came and chilled her up, and that was a happy memory and i kept like the whole time he talked about it thinking you know, why wouldn't she be sad about that? also, um, which i guess led into the overall lesson of the movie that you know sadness can be bring joy",0.059728492,0.0,0.0,0.095,False,0.0009226583060808,0.0003785659209825,0.0003176762256771
+"and really, the story of um, moving from you know, childlike emotion to more complex, emotions and things growing and expanding",0.046465382,0.0,0.0,0.0,False,0.0007166417199186,0.0003923435288015,0.0009362248238176
+"and um, yeah, just watching all that",0.05653196,0.5608106255531311,0.0,0.0,False,0.0006992335547693,0.0004446275706868,0.0010748216882348
+i know,0.022773718,0.0,0.0,0.0,False,0.0014815481845289,0.0004874771111644,0.0003751765179913
+i just had conflicted emotions about it,0.043718524,0.9948193430900574,0.0,0.0,False,0.0006836932152509,0.0003556408046279,0.000695624097716
+"um, and you know, i, i guess it was a huge movie talking about kayla motion and i'm sure to pass that and it's just something that i know",0.04543531,0.9993005990982056,0.0,0.0,False,0.0006054648547433,0.0005022608092986,0.0005142022273503
+i guess we all struggle with it and i just i don't know,0.07371333,0.9993001222610474,0.0,0.161,False,0.0006959669408388,0.0011171991936862,0.0007431736448779
+i had issue with it,0.06252546,0.9992007613182068,0.0,0.0,False,0.0011177613632753,0.0005790385766886,0.0011977683752775
+i didn't have issue with it,0.0224908,0.0,0.0,0.0,False,0.0008796326001174,0.0004698859993368,0.0006923479959368
+just i find it distracting,0.10461388,0.9974939823150635,0.0,0.355,False,0.0009503297042101,0.0003849264176096,0.0010224359575659
+it's probably the best um way to describe it,0.021657806,0.0,0.0,0.0,False,0.0006599959451705,0.0007871628622524,0.0037816006224602
+i found it distracting,0.11600884,0.9994394183158875,0.0,0.423,False,0.0016095640603452,0.0003904706100001,0.0008249434176832
+um,0.012811388,0.0,0.0,0.0,False,0.0011565451277419,0.0034721060656011,0.0014047900913283
+the other thing that i knew a cop i kind of had issue with was that the emotions were sort of in complete control,0.054534122,0.9832327961921692,0.0,0.0,False,0.0011164364404976,0.0009842915460467,0.0006544265197589
+"that riley didn't really seem to have any say, and what she was doing",0.0669207,0.9982540011405945,0.0,0.0,False,0.0008078669197857,0.0005093986983411,0.0032930527813732
+it was just all the emotions at the controls directing everything it,0.034791227,0.0,0.0,0.0,False,0.000625743472483,0.0003634396707639,0.0006862031295895
+"maybe it was something that i missed something i didn't quite understand, but i just i didn't see like her as an individual propelling anything",0.0741129,0.9999173879623413,0.0,0.156,False,0.0007415454601868,0.0005964692099951,0.0008722915081307
+it was just always doing the emotions,0.022074303,0.0,0.0,0.0,False,0.0007202859269455,0.0003397577092982,0.0004338558064773
+"and then, um, i don't know",0.024833864,0.9853898286819458,0.0,0.0,False,0.0007874854491092,0.0051269507966935,0.0009866612963378
+maybe i was trying to reach much into it,0.032902762,0.9998975992202759,0.0,0.0,False,0.0006150174303911,0.0005152646917849,0.0006018055719323
+"um, and i mean, i've heard really good things",0.031701013,0.0,0.0,0.0,False,0.0005605058395303,0.0004163910925853,0.001022481243126
+i've come from the movie,0.025863936,0.0,0.0,0.0,False,0.0008075924706645,0.0005873321788385,0.000646598462481
+"i heard a story on npr where some kid had trouble jumping off the high dive for his class, and then one day he, when he did it and they congratulate them asking how i did",0.020685982,0.0,0.02,0.068,False,0.0006566209485754,0.000695087655913,0.0006117468583397
+"he said that, um, that he thought that fear had been in control for too long, and that he decided, but that just to meet goes into saying that you know that we as individuals have a little bit more control her emotions",0.03856816,0.9943242073059082,0.0,0.048,False,0.0006993394927121,0.0004263004811946,0.0003622754593379
+that our emotions,0.016451603,0.0,0.0,0.0,False,0.0014633761020377,0.000367053435184,0.0007578874938189
+"how controlling us and again, it made me something that i'm miss reading that i'm not understanding",0.0681194,0.9958205223083496,0.0,0.091,False,0.0022270255722105,0.0071119405329227,0.001152875716798
+"um, maybe it's something that comes with complex emotions",0.029469188,0.0,0.3,0.0,False,0.0007008196553215,0.00036837728112,0.000908117624931
+i don't know,0.017770508,0.9742851853370667,0.0,0.0,False,0.0010861124610528,0.0022731318604201,0.0004278314299881
+that's the basic review,0.016590435,0.0,0.0,0.0,False,0.0007170792669057,0.0004437276220414,0.0004374553100205
+go ahead with the movie,0.032731086,0.0,0.0,0.0,False,0.0094372387975454,0.0007617885130457,0.0006164490478113
+it's a good movie,0.035134587,0.0,0.0,0.0,False,0.000685975945089,0.0006418150733225,0.0004981568199582
+i encourage everybody to go and see it,0.046122026,0.0,0.0,0.0,False,0.0006549858953803,0.0004875988524872,0.0002878710802178
+"um, nothing i will say is",0.03221605,0.91049724817276,0.0,0.0,False,0.0008914562058635,0.0008969269692897,0.0032654500100761
+i think it might be cool if they do a sequel to the movie,0.112788886,0.9984275102615356,0.0,0.0,False,0.0007254525553435,0.0004511850420385,0.0003639189817477
+"and instead of just luring growing up or something like that, they do somebody with a mental illness and how you know out of control their emotions can be, or i don't know, be something to explore",0.1710401,0.0,0.1,0.066,False,0.096256248652935,0.03489301353693,0.0183913148939609
+"although it never happened, so yeah, if you see, tell me what you think and if you haven't seen it, i encourage you to go see it",0.034962907,0.0,0.0,0.0,False,0.0005782162770628,0.0009548999951221,0.0007021282799541
+"love, peace, we do",0.021380141,0.0,0.0,0.0,False,0.0006142456550151,0.000341859384207,0.0006771777989342
+"my is my, my",0.022351967,0.0,0.0,0.0,False,0.0095355184748768,0.0009212453151121,0.0032931892201304

@@ -1,0 +1,59 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"you coming back to visit? yes, would you like to see some words to the audience? yes, okay, rebecca was a 1940",0.08367105,0.0,0.0,0.0,False,0.0023835317697376,0.0004570559831336,0.0011094205547124
+"dogs are not fans, rebecca was a 1940",0.24242763,0.9952255487442017,0.0,0.0,False,0.0158438067883253,0.0547868981957435,0.0035612920764833
+"a black-and-white motion picture starred laurence olivier and joan fontaine, and i thought this was really a good film",0.07850813,0.0,0.0,0.0,False,0.0006541272159665,0.0288194473832845,0.0141501650214195
+isn't really he? the dogs didn't like it,0.23101798,0.9999725818634033,0.0,0.232,False,0.0056601739488542,0.0093861855566501,0.0318073220551013
+that's when the bump in the camera,0.13879937,0.9738953709602356,0.0,0.0,False,0.0006698785582557,0.0006941615720279,0.0265465453267097
+"um, it was a really good film",0.042001735,0.0,0.0,0.0,False,0.0006614291924051,0.0004043141962029,0.0012652978766709
+they kind of kept you guessing,0.04165838,0.0,0.0,0.0,False,0.0009315210627391,0.0005447358707897,0.0008833672618493
+never really knew it,0.020408317,0.6809577345848083,0.1,0.0,False,0.0007542101666331,0.0003875899419654,0.0006421148427762
+one point or another,0.014855034,0.0,0.0,0.0,False,0.000714247173164,0.0004553074541036,0.0003739887906704
+what exactly was going on? the bottom line of this story is joan fontaine,0.021518974,0.8239647746086121,0.0,0.0,False,0.0006840455462224,0.0004772195243276,0.0005028528976254
+"well, i had never seen before in anything",0.02517722,0.5615128874778748,0.0,0.0,False,0.0008569721831008,0.0004084622778464,0.0006639380590058
+"she plays this very young, my innocent girl, who falls in love with this laurence olivier's character, and they have a very quick marriage, and then before you know it, she swept away to this crazy big castle that he lives in with a bunch of spooky people that work there",0.22990796,0.0,0.0,0.047,False,0.0024479704443365,0.0288186464458704,0.3741126656532287
+"and as the film kind of progresses, you see that laurence olivier's character is haunted and tormented by the memory of his wife rebecca, under creepy and mysterious circumstances",0.07211506,0.713574230670929,0.0,0.1,False,0.0006611903081648,0.0008240740862675,0.0070116990245878
+i don't went on with this one,0.03599298,0.9998973608016968,0.0,0.0,False,0.0008825247641652,0.0010537684429436,0.0011083272984251
+"i don't really want to dig very far at all into it, i'll always say is, you'll see an amazing transformation in joanne fontaine's character and she starts to become more wary",0.055333257,0.0,0.0,0.041,False,0.0006615177262574,0.0004274808452464,0.0012904996983706
+my paranoia to what's going on with laurence olivier? was there a murder involved and so on? you got to really follow the story how it unfolds,0.17587385,0.0,0.0,0.22,False,0.0010872480925172,0.000884988636244,0.0018117773579433
+"i don't want to drop too many bombs or secrets or anything, if you haven't seen it",0.22987647,0.9445057511329651,0.0,0.068,False,0.0011309323599562,0.1145971938967704,0.023475557565689
+watch it without reading anything about it,0.05373499,0.9959767460823059,0.0,0.0,False,0.0009529418894089,0.0009818653343245,0.0030792157631367
+because it's a really cool mystery that,0.01999182,0.0,0.0,0.0,False,0.0006214754539541,0.0003910871455445,0.0013785088667646
+"if you don't know anything about the story, who was who? it's just really neat events of this film",0.09387396,0.0,0.0,0.0,False,0.0006182541837915,0.0004027865361422,0.0005175200058147
+"wonderful and again, joan fontaine was amazing",0.01263372,0.0,0.0,0.0,False,0.0006648657144978,0.000425803969847,0.0006240669172257
+i'll prove my ignorance here,0.2297899,0.8122239112854004,0.0,0.385,False,0.1684810817241668,0.3645215630531311,0.1230214163661003
+"i've never seen her at anything before, but i absolutely loved her in this film and i actually got to see her in another film recently",0.034791227,0.0,0.0,0.0,False,0.0005651816609315,0.0003999433247372,0.0003898269496858
+"i'll do that review soon for alfred hitchcock's suspicion, another really good film",0.052935857,0.0,0.0,0.155,False,0.0006637773476541,0.0004109286528546,0.000329044443788
+"but uh, the film is great",0.052136723,0.0,0.0,0.0,False,0.0006632566219195,0.0003865125181619,0.0005434722988866
+it's in this really lush black and white,0.17449278,0.0,0.0222222222222222,0.0,False,0.0014038940425962,0.0939652100205421,0.0795977339148521
+the castle they live in is like uber-creepy and the i thought was really neat is the head maid woman who works there,0.2406723,0.9987693428993225,0.0,0.0,False,0.0034272773191332,0.0046256654895842,0.0426957532763481
+her name was judith anderson,0.016173938,0.0,0.0,0.0,False,0.0009653170709498,0.0012957352446392,0.0055857650004327
+i'm watching her,0.1024659,0.0,0.0,0.0,False,0.0013289029011502,0.0008957005338743,0.0005258251330815
+i'm like,0.020963646,0.0,0.0,0.0,False,0.0016913731815293,0.0007702653529122,0.0006794263608753
+"wow, this is creepy old actress",0.5933793,0.9989655017852783,0.1,0.0,False,0.4159980714321136,0.191829040646553,0.4557146728038788
+i know her from somewhere and then i had to do a little research,0.029125832,0.0,0.1875,0.0,False,0.000613662530668,0.0004486627294681,0.0004576584906317
+"she was the vulcan high priestess from star trek 3, you know, remember when mr",0.082104236,0.0,0.0,0.0,False,0.0009864616440609,0.0118014756590127,0.0195949897170066
+"spock, he has to get his brain back from mccoy, and then they do the vulcan ritual where you know - over over nerdy here",0.42390585,0.9770715832710266,0.0,0.048,False,0.4371607601642608,0.3348003327846527,0.3986209630966186
+"anyhow she was the vulcan high priestess in that film, and like i mentioned in my previous review, i love it when i can kind of bridge a really old film with a semi old film from like the 1980s, so it's kind of my little skip board of like i'm getting back to the 1940s to review films, but i can kind of tie it in every now and then, like hume cronyn or this judith anderson woman from hades, you know, and that's the era i grew up in and watching films",0.03770977,0.0,0.0,0.0,False,0.0008094939985312,0.00172594061587,0.001085149589926
+"it's like wow, that's really cool",0.03839648,0.0,0.0,0.0,False,0.0006135832518339,0.0003726501017808,0.0025281263515353
+so she was in that,0.0334178,0.6571327447891235,0.0,0.0,False,0.0020370474085211,0.0003715598431881,0.000985967926681
+what was a little bizarre? i just wanted to make a mention of this is laurence olivier,0.118584804,0.0,0.0,0.111,False,0.0005860692472197,0.0004044219385832,0.0018735129851847
+know he does a great job,0.028610796,0.0,0.0,0.0,False,0.0007978152134455,0.000598770333454,0.001306872582063
+and what i love about this actor is he,0.07091636,0.0,0.0,0.0,False,0.0008418486104346,0.0014836469199508,0.0036203162744641
+"he sounds like wesley from the princess bride, carrie carrie use",0.050242316,0.0,0.0,0.0,False,0.0007324234466068,0.0010805446654558,0.0211162772029638
+"i'm sure if i'm saying /name right, his character",0.023117077,0.9911540150642395,0.0,0.0,False,0.0005758480401709,0.0006840386777184,0.0008241616305895
+he just kind of has that posh english voice,0.15276173,0.5442703366279602,0.0,0.0,False,0.0027424308937042,0.0025275982916355,0.1284493505954742
+"well, if you listen to lawns, olivia in this film it reminded me a lot of wesley from princess bride",0.06492286,0.0,0.0,0.0,False,0.0006996521260589,0.001205162028782,0.0017140556592494
+"there's another little bridge to the 1980s and i thought that was great, but what is weird is and i know they did this a lot in the older films",0.068918526,0.0,0.0,0.063,False,0.0006168155232444,0.0003737076185643,0.0003949201491195
+"he's clearly a lot older than joan fontaine, but he kind of adds to the creepiness of that by making comments like you can't be too careful with children, referring to his wife or don't be such a little idiot",0.7569718,0.0,0.031547619047619,0.121,True,0.8593072295188904,0.9931681156158448,0.9731611013412476
+"i guess i mean, that's not something i would say to my wife",0.036679696,0.9902632236480713,0.3125,0.0,False,0.0010591737227514,0.0025243724230676,0.002677243668586
+"i guess another thing i wanted to mention too was the actor george sanders, who was in this film",0.030327583,0.9461183547973633,0.0,0.0,False,0.0005248038796707,0.0007973915198817,0.0008695236174389
+"was, he was kind of the untrustworthy character",0.26132804,0.9932191967964172,0.0,0.0,False,0.0008744776714593,0.0111410403624176,0.0459307804703712
+"he was the voice of the share, come, shall sher khan, from jungle book i said, read shara shere khan, and you can tell, like his voice, he stopped that sinister voice",0.3609816,0.0,0.5,0.151,False,0.0021854983642697,0.0059881443157792,0.0056036240421235
+it's really cool,0.035649624,0.0,0.0,0.0,False,0.0006269331788644,0.000327474088408,0.0009125907090492
+but it's like not a tiger,0.055732824,0.7332794070243835,0.0,0.0,False,0.0013345584738999,0.0009687315905466,0.0020591786596924
+"obviously, it's you know a human actor and he does a really great job in the film",0.039254878,0.0,0.0,0.0,False,0.0006714973133057,0.0007524337852373,0.0011467169970273
+so that's rebecca,0.0224908,0.0,0.0,0.0,False,0.0028435478452593,0.0005029116291552,0.0009928060462698
+the film is about the mystery of who is rebecca,0.027409043,0.0,0.0,0.0,False,0.0010127428686246,0.0005188127979636,0.0004507972917053
+"what was her importance? and why is everybody seems so haunted by her? and is she actually haunting the mansion? i mean, there's so many great questions you can you get to resolve watching? i'm gonna leave it at that, and since this has been a generally goofy review to begin with, i'm gonna end it with kermit kermit",0.32304016,0.9980631470680237,0.0,0.103,False,0.000980045646429,0.2992575168609619,0.1775825768709182
+what were your thoughts about rebecca? i know you should really take the time to get to know someone first before you get married,0.08850401,0.0,0.0,0.0,False,0.0013339822180569,0.0012929067015647,0.0014240856980904
+why is that correct?,0.012078391,0.784974992275238,0.0,0.0,False,0.0008192947716452,0.0004812820989172,0.0005909461178816

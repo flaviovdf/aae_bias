@@ -1,0 +1,128 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hi, my name is an angel, and today i will be reviewing the movie ladybird, a 20-17 coming-of-age story of a young girl going through high school and dealing with emotions, family drama, hormones, all of that, it was written and directed by greta gerwig",0.02929751,0.0,0.0,0.0,False,0.0008527535246685,0.001128923962824,0.0008909543394111
+oh go girl,0.05653196,0.0,0.0,0.0,False,0.021379604935646,0.0113891111686825,0.0032775544095784
+i think this is like her debut and she was nominated at the oscars,0.05373499,0.0,0.0,0.0,False,0.0007773708202876,0.0006503006443381,0.0008364608511328
+"if you're like me, you're not really into coming-of-age movies",0.101391904,0.9875112771987915,0.1,0.0,False,0.0312556251883506,0.0331512838602066,0.0409645624458789
+i've mentioned before that it's like somebody moving a rock from one place to another where you see a tiny evolution in the character,0.02637897,0.8618797063827515,0.0,0.0,False,0.0006022361922077,0.0006121026235632,0.0007727016927674
+it doesn't mean much to me,0.035477944,0.999983549118042,0.0562499999999999,0.0,False,0.0009036852861754,0.000404238468036,0.011848603375256
+"that being said, i really enjoy lady bird",0.04234509,0.0,0.0,0.0,False,0.0006604153313674,0.0071228146553039,0.0094578377902507
+i didn't expect to seeing the trailer and hearing about it,0.045091953,0.9927873015403748,0.0,0.0,False,0.0006220411160029,0.0005538869882002,0.0004879501648247
+it didn't seem like i would be able to relate to it first of all,0.023460433,0.9998284578323364,0.0,0.131,False,0.0006394531228579,0.000442771211965,0.0004186549631413
+"not only was it a coming-of-age story, but it's also about this young girl and the dynamic in a home with a mother that i could not relate to are identify with because of cultural differences, so i really thought i would just sit there and be like",0.045091953,0.0,0.0,0.0,False,0.000681567529682,0.0017561434069648,0.0006844133022241
+"oh, she has nothing to complain about",0.09333697,0.0,0.0,0.0,False,0.0039911558851599,0.0029696738347411,0.0050553022883832
+"she's just gonna be why, me and the typical distressed teenager that were so used to seeing on tv",0.18154536,0.0,0.1666666666666666,0.135,False,0.0026634575333446,0.0007313680835068,0.0111272064968943
+luckily i was wrong,0.03444787,0.0,0.0833333333333333,0.369,False,0.0008124471642076,0.0008487169397994,0.00101659365464
+"it's a bit of that, but not that much",0.046122026,0.9529544115066528,0.0,0.0,False,0.0007652642671018,0.0003328691236674,0.0008139659767039
+"this movie is really about being a teenage girl, being so wrapped up in your own life and your journey to self-discovery that you don't realize how you are such a small part of a larger scale called the world, and how your actions can really affect the people around you",0.105704986,0.0,0.0,0.0,False,0.0201406590640544,0.0054976372048258,0.0027892787475138
+i was once a teenage girl and i know that for a fact i was terrible,0.23540631,0.9998307228088379,0.5,0.171,False,0.0028966043610125,0.020627187564969,0.0284636449068784
+i hope to never have a teenage daughter of my own,0.2712817,0.0,0.0,0.0,False,0.0332475453615188,0.1745976060628891,0.0389960445463657
+"you are so much so in your head and dealing with so many things, especially if you're in a kind of toxic home environment that only adds layers to it, and a toxic school environment where you're being bullied or ostracized or whatever, you don't understand yourself and you're comparing yourself to others and you're just trying to figure out who am i? who are my role models? do i look to the bible, do i look to tv? do i look to magazines? do i look to my own mother? i don't know",0.18549223,0.0,0.0,0.052,False,0.3486287891864776,0.1775950491428375,0.1028951257467269
+"none of these examples seem to fit me, and there's just an inner frustration that fuels a lot of your actions",0.10956893,0.9992125034332275,0.0,0.126,False,0.0030144234187901,0.0005418282817117,0.000912380288355
+if you're that type of teenage girl,0.13969667,0.9533351063728333,0.0,0.0,False,0.3430333137512207,0.0259156879037618,0.0335833132266998
+"not all obviously are that way, but lady bird is, and that's what we see",0.04680874,0.0,0.0,0.0,False,0.0007784635527059,0.0018669527489691,0.0053198654204607
+"lady bird, aka christine, played by saoirse ronan",0.022351967,0.0,0.0,0.0,False,0.0009977890877053,0.0053231036290526,0.0102285053580999
+"i hope i got her name right, is your rebellious teenager who is having an identity crisis in high school",0.22988434,0.0,0.0,0.24,False,0.0346678048372268,0.0036336451303213,0.2644430100917816
+she is also in a catholic high school,0.034962907,0.0,0.0,0.0,False,0.0015230001881718,0.0143102155998349,0.0019513515289872
+i grew up with a catholic mother,0.087430015,0.0,0.0,0.0,False,0.0129035599529743,0.0156181016936898,0.0011850534938275
+i went to church,0.032731086,0.8284491896629333,0.0,0.0,False,0.0126664405688643,0.0040625329129397,0.0007409538375213
+it's an inflexible environment for a girl to really discover who she is,0.0669207,0.0,0.1,0.0,False,0.0007512179436162,0.0039346371777355,0.0022059094626456
+"saoirse did such a great job at portraying this girl so naturally you could see her being frustrated and angsty, and wanting to be loved and wanting to be understood and not knowing who she is, but she's got that cockiness that young girls have, like i know everything",0.34388447,0.0,0.0,0.04,False,0.257489949464798,0.022920312359929,0.2609811723232269
+"i've got this whole world figured out, and she's careless sometimes with her words, and doesn't realize that they actually carry weights, especially with her parents, for example, and college is her savior",0.09494796,0.989534318447113,0.075,0.072,False,0.0010644920403137,0.0009149361867457,0.000995799084194
+her saving grace,0.06532243,0.0,0.0,0.0,False,0.0007743457681499,0.0008941008709371,0.0006746250437572
+we cannot wait to go to college and leave her world behind and i can totally relate to that feeling,0.21804169,0.0,0.2,0.058,False,0.0031059123575687,0.0024863700382411,0.0041681616567075
+"what makes this movie so sweet and endearing is the relationships between all of the characters, especially as they relate to lady bird",0.045091953,0.0,0.0,0.0,False,0.0006750301690772,0.0011087349848821,0.00193408341147
+laurie metcalf plays the mother and she plays her so so well,0.15976663,0.0,0.0,0.0,False,0.011530427262187,0.0013219492975622,0.0309639628976583
+"there are layers of complexity between a mother that is reaching out for her daughter, but also pushing her away",0.06132676,0.0,0.0,0.0,False,0.0016700013075023,0.0016977756749838,0.0018723888788372
+"because her daughter consistently hurts her, she doesn't always know how to take it without taking it personally and understanding that she's just a teenager",0.09763293,0.9981456995010376,0.0,0.114,False,0.0090374136343598,0.0107046952471137,0.0546172484755516
+she's gonna say harsh things,0.23189566,0.9887009859085083,0.2,0.42,False,0.0059165772981941,0.0008369041024707,0.0419866666197776
+she's the matriarch holding this family together,0.17957193,0.0,0.0,0.0,False,0.015988428145647,0.0011832369491457,0.0018741016974672
+"she has so much on her shoulders, a very demanding job as a nurse, financial hardship, she's trying to get her daughter through college",0.068918526,0.0,0.0,0.17,False,0.0140872374176979,0.0055483854375779,0.0014127801405265
+she's also the spouse of a person dealing with depression and who has been for years,0.026207292,0.0,0.0,0.198,False,0.0010472140274941,0.0031366036273539,0.0021529898513108
+all of these things are super heavy for one person to carry on their shoulders,0.101391904,0.9993420243263245,0.0,0.0,False,0.0008793903980404,0.0007043048972263,0.0105827338993549
+and that's what a lot of mothers out there do,0.07251463,0.0,0.0,0.0,False,0.1820494979619979,0.0031994329765439,0.0083193853497505
+and then she has a deal with her daughters and teenage news,0.17759849,0.0,0.0,0.0,False,0.0016716881655156,0.003165527479723,0.0059387180954217
+"a daughter only sees her relationship with her mother, so she believes that everything her mother is feeling the way her mother is a moaning",0.2712817,0.5499891638755798,0.0,0.054,False,0.4145536720752716,0.068094290792942,0.074067398905754
+"it's all because of her, and that's why the relationship can be often combative and that's why she can come to conclusions like",0.056931525,0.0,0.0,0.0,False,0.0006578564061783,0.0004332038515713,0.0005518878460861
+do you even like me? i felt so bad for my own mother when i watched the thinking about everything she went through that was behind closed doors,0.1689685,0.677049994468689,0.1499999999999999,0.136,False,0.0103626642376184,0.012321607209742,0.009111875668168
+"you know you don't know as a kid all the layers of your parents lives, but i'm not saying that the parents are blameless",0.11472086,0.0,0.0,0.0,False,0.0044415006414055,0.0201669745147228,0.0198878366500139
+"i mean, her mother's words are really harsh sometimes, and as the female role model for a daughter, you were supposed to build your child up, not cut her down in such petty ways",0.21980777,0.800969123840332,0.1336111111111111,0.132,False,0.0220376346260309,0.0101194251328706,0.0202120915055274
+a lot of moms are like that,0.09065199,0.0,0.0,0.0,False,0.4698240458965301,0.003615606110543,0.0026967136655002
+they don't realize it that all their compliments are backhanded,0.10892494,0.9368964433670044,0.0,0.0,False,0.0009917061543092,0.0051993005909025,0.0079514412209391
+"oh, i didn't know that you were capable of such heights",0.2298686,0.0,0.0,0.0,False,0.0006923073669895,0.0079762479290366,0.0059359744191169
+"thank you, helps with self-esteem the mom mentions that she had a hard mother of her own, so she kind of learned to be not so caring",0.059328925,0.0,0.0,0.143,False,0.0030473787337541,0.0018732304451987,0.0039003896526992
+"that way, it reminded me of tonya harding's mother in i, tania, who also had the excuse of i didn't like my mother, so get over it",0.13251819,0.9827841520309448,0.05,0.074,False,0.004782787989825,0.0206796303391456,0.009409544058144
+"there are slight similarities between the two mothers, but also vast differences",0.06771983,0.0,0.0833333333333333,0.0,False,0.000651191920042,0.0011263507185503,0.0039036811795085
+"i would say, the only similarity is that you see these mothers that are working so hard to create a financially stable as much as possible environment for their families for their kids, but at the cost of an emotional relationship, a bond time spent with these kids with these teenagers especially, and also at the cost of their own personal happiness",0.040284947,0.0,0.0,0.021,False,0.0011424489784985,0.0007453833241015,0.0004981090896762
+"they feel an obligation to do certain things, and that may be noble, but their unhappiness is kind of heavy and kids aren't stupid",0.42465788,0.6573613286018372,0.0,0.145,True,0.6414141654968262,0.8899270296096802,0.8944150805473328
+they notice these kind of things they can tell when mom's not alright and it affects them,0.11665283,0.0,0.0,0.098,False,0.0037279799580574,0.001016961177811,0.0042131645604968
+"it was also interesting to see the father/daughter relationship as opposed to the mother-daughter and father was played by tracy letts, and for quite frankly i loved him",0.029812546,0.0,0.0,0.0,False,0.0007106222328729,0.003012012457475,0.001433360739611
+why wasn't he nominated for best supporting character at the oscars is beyond me,0.036679696,0.8704291582107544,0.0,0.0,False,0.0007444469956681,0.0010046000825241,0.0022875170689076
+"he is such a sweet caring father, he's gentle",0.04165838,0.0,0.0,0.0,False,0.0014935716753825,0.0008629661751911,0.022397244349122
+"he's patient, human and warm and present for his family, and going through his own things, you know, his own struggles, his own life issues, and i love how he did want to interfere",0.061726328,0.0,0.0,0.063,False,0.0010899314656853,0.0006382083520293,0.0003590068954508
+he did not want to come in between his daughter's relationship with her mother,0.20522906,0.0,0.0,0.086,False,0.0093340389430522,0.003278326941654,0.0133882882073521
+"he seemed to respect boundaries, although he tried to, in subtle ways, push them closer together and help them with the gaps in communication that would exist",0.038911518,0.0,0.3333333333333333,0.0,False,0.000519290275406,0.0003490031231194,0.0003899611765518
+he was an exceptional father and we're so used to seeing either absent fathers or angry fathers were bumbling homer simpson's of fathers,0.14822112,0.0,0.0,0.13,False,0.0716551169753074,0.0189263578504323,0.0185734331607818
+it was a real person,0.021796638,0.0,0.0,0.0,False,0.0012256193440407,0.0003716423816513,0.0026601622812449
+that's what i love about this movie,0.03839648,0.0,0.0,0.0,False,0.0007141627720557,0.0005284959916025,0.0005561501020565
+"every character is a full person, not just uni-dimensional like we're used to seeing, not just accessories to the main characters",0.018464668,0.0,0.0,0.095,False,0.0006201736978255,0.000550236494746,0.0006476481794379
+"life behind them, there's a whole other movie",0.05253629,0.0,0.1083333333333333,0.0,False,0.0011298082536086,0.0009602151694707,0.0179800279438495
+beanie feldstein plays julie ladybirds best friend and i absolutely adored their friendship,0.054534122,0.0,0.0,0.0,False,0.0027021514251828,0.0013480797642841,0.0022291510831564
+it's so innocent and pure and silly,0.40016344,0.0,0.0,0.0,False,0.2933656275272369,0.9341668486595154,0.9458837509155272
+they have an arc in their friendship that is not uncommon at all,0.06612156,0.0,0.4,0.0,False,0.0006865050527267,0.0003714078920893,0.0013397352304309
+it's actually refreshing to see that kind of arc where sometimes in the journey to self-discovery we lose touch with our childhood friends or very close friends,0.043031808,0.0,0.0,0.081,False,0.0005335651803761,0.0003534978895913,0.0002631314273457
+they really had such a sweet friendship,0.046122026,0.0,0.0,0.0,False,0.0007837486919015,0.0003121030167676,0.0016276574460789
+i loved it so so much,0.058929358,0.0,0.0,0.0,False,0.0022283163852989,0.0003269665176048,0.0008017336949706
+"i loved the nun, played by lois smith at the school, she was so sweet",0.094410956,0.0,0.0,0.0,False,0.0009021355072036,0.0014692378463223,0.0011741537600755
+she had such a great soul and a great sense of humor,0.042001735,0.0,0.0,0.0,False,0.0008490756736136,0.0004927660920657,0.0030038403347134
+"this movie is not making fun of catholics or showing them in the typical stick up the, but super serious, super judgmental",0.1943727,0.9962642788887024,0.0,0.103,False,0.0224215425550937,0.071278415620327,0.0383796393871307
+she was warm,0.124380715,0.0,0.0,0.0,False,0.0013587232679128,0.001115751103498,0.0057179499417543
+"she was exactly what you would want a religious person to be tolerant, light hearted, almost like a therapist who can see through your bowl and see the real you loved it",0.07131593,0.0,0.0,0.0,False,0.0011312486603856,0.0008463825797662,0.0094129368662834
+and her line about love is paying attention,0.07371333,0.0,0.0,0.0,False,0.0032445662654936,0.001071156701073,0.0006694771000184
+"greta, mind-blown i had never thought of love that way, and ever since i've been trying to pay attention to the things i'm paying attention to and the people i'm paying attention to to see if i am actually expressing my love for people and things properly, and when you boil it down, that's basically what lady bird and all teenagers want",0.10515087,0.0,0.0,0.07,False,0.0013166636927053,0.0107683567330241,0.00346972909756
+they want attention,0.05852979,0.0,0.0,0.0,False,0.0047537786886096,0.0096221081912517,0.0015807562740519
+they want that love,0.07690986,0.0,0.0,0.0,False,0.0018187947571277,0.0016649550525471,0.0009003977756947
+"they want their parents to notice them, their friends to notice that they want to be seen",0.037881445,0.0,0.0,0.0,False,0.0044629639014601,0.0010275444947183,0.0004538322100415
+and what's interesting is that ladybirds parents do,0.11665283,0.0,0.0,0.0,False,0.0008736585732549,0.0019287208560854,0.0237470138818025
+what a lot of parents do,0.03049926,0.0,0.0,0.0,False,0.0164307057857513,0.0005282600177451,0.0009521818137727
+"they work really hard to create a safe environment for their kids, and it's in this kind of environment that lady bird actually has the luxury of time to overthink her life, her actions herself",0.04268845,0.0,0.0,0.043,False,0.001015079440549,0.0029914176557213,0.0039412286132574
+"whereas there are a lot of kids around the world who are illegally working, also contributing to the family's finances or taking care of siblings, or dealing with situations that a kid should not be dealing with",0.055333257,0.9264281988143921,0.5,0.0,False,0.0033899266272783,0.0007838838500902,0.0005175286787562
+they don't have that privilege of being angsty and broken and sorrowful,0.21036349,0.8869709968566895,0.4,0.483,False,0.0052434434182941,0.0015422403812408,0.3456297516822815
+they just so traumatized that they're just barreling through life,0.1550967,0.8841623663902283,0.0,0.279,False,0.0679719224572181,0.0037532057613134,0.0055669099092483
+there is a privilege to being an angry teenager who can just mouth off without the fear of repercussions,0.355017,0.0,0.5,0.135,False,0.0532518774271011,0.0100347883999347,0.0534289963543415
+"ladybirds boyfriend, danny reminded me of the whole call me by your name plots and again, the movie portrays him with such love and care and sweetness, and in their dynamic they're both going through very different things, and lady bird takes his of evolution personally, and she makes about herself because i, what teenagers do, but then they have a sweet moment where she actually realizes",0.034962907,0.0,0.0,0.0,False,0.0011913429480046,0.0019299072446301,0.0013402559561654
+"oh, i'm in his story",0.029125832,0.0,0.0,0.0,False,0.0010159614030271,0.0004930258728563,0.0009703097166493
+i'm in his narrative right now,0.036508016,0.0,0.0,0.0,False,0.0006662234081886,0.0003938957815989,0.0007697659311816
+i need to be there for him as a friend,0.04818217,0.0,0.0,0.0,False,0.0009967871010303,0.0058393711224198,0.0023681859020143
+"speaking of, call me by your name",0.03616466,0.0,0.0,0.0,False,0.0047399466857314,0.003312652464956,0.0078060105443
+we got team with deshyla made makes an appearance,0.048868883,0.0,0.0,0.0,False,0.0017672282410785,0.0005397584172897,0.0014086905866861
+"yes, kyle and his group of friends",0.027409043,0.0,0.0,0.0,False,0.0006419154233299,0.0006763112614862,0.0009009311324916
+i know those kids,0.043718524,0.0,0.0,0.0,False,0.0015106063801795,0.000492371909786,0.0003851851797662
+they just are so blase blase,0.355017,0.932684063911438,0.0,0.0,False,0.0307215750217437,0.1107902899384498,0.2745566666126251
+"i call them they think they're woke, but they're really just extra and those kids are usually like the cool kid",0.11021292,0.0,0.0,0.0,False,0.000932355702389,0.0008772204164415,0.0060355472378432
+that's cool,0.029469188,0.0,0.0,0.0,False,0.0006651087314821,0.0003589131520129,0.0006713968468829
+"the people that just don't care and they're just themselves and they're so chill and emotionless and just like yeah, we do bad things",0.28683078,0.0,0.6999999999999998,0.199,False,0.0574298091232776,0.003438365412876,0.0510180704295635
+"i can so relate, ladybird wanting to be like them, being approved and accepted by the cool kids makes you cool",0.15859914,0.0,0.0,0.0,False,0.0007242619758471,0.0007250209455378,0.0051159569993615
+"and i like that she had the opportunity to get close enough to see the truth that these kids are usually dealing with a lot also back home, and it's harder than them",0.0495556,0.0,0.0875,0.0,False,0.0007255666423588,0.0004503327945712,0.0016804552869871
+"in a way, they actually have a usually very absentee parents, wealthy but absentee",0.11407687,0.9885404706001282,0.0,0.252,False,0.0028653624467551,0.0004142643592786,0.0022775386460125
+i'm just gonna reference the last scene without going too much into it,0.040971663,0.0,0.0,0.0,False,0.0006223405362106,0.0004378188750706,0.0007140304078347
+but this movie did remind me of when i went away to college and how happy and emotionless i was,0.14328592,0.0,0.0,0.0,False,0.0008512876811437,0.0010067587718367,0.0005186728667467
+"i couldn't wait to leave and how emotional my mom and the tears and i was just like, why are you crying? i'll see you in a few months",0.112144895,0.0,0.1333333333333333,0.146,False,0.0447380058467388,0.0608285404741764,0.0535607263445854
+i'll come back for the holidays,0.02792408,0.0,0.0,0.0,False,0.0010538161732256,0.0007945710094645,0.0006456846604123
+"i'm just excited to be alone, living on my own in a city with other teenagers my age, going to school and being crazy and having access to things i never had access to before, but over time coming and going, leaving home, evolutions in my relationships with my own mother made the departures a little harder every time until you get to the point where you really do cry when you leave home",0.123736724,0.0,0.0,0.114,False,0.1172306910157203,0.0097714019939303,0.0129024842754006
+"luckily, i got to that place, so when i was watching momma mcpherson, i could really feel her heaviness and running away from that pain",0.050585672,0.9800145626068115,0.0,0.111,False,0.0059436522424221,0.0020935325883328,0.0061296881176531
+i thought it was nice that they also showed us a little more and the last scene was sweet,0.05253629,0.0,0.0,0.0,False,0.0006035114638507,0.0003434055543038,0.0004073047603014
+this movie really is kind of like a love letter to mother-daughter relationships,0.09548495,0.0,0.0,0.0,False,0.0010745289037004,0.0013612210750579,0.0032733681146055
+i'm so glad i enjoyed it and i really hope that a lot of people can open their hearts to it and see what happens,0.028610796,0.0,0.0,0.0,False,0.0006232977029867,0.0004263003065716,0.0003638888010755
+it's enjoyable,0.033074442,0.0,0.0,0.0,False,0.0005982729489915,0.0003942868497688,0.0007917329785414
+it's sweet,0.026207292,0.0,0.0,0.0,False,0.0009204964735545,0.0003709017473738,0.0011028101434931
+it's funny,0.04406188,0.0,0.0,0.0,False,0.0007317456183955,0.0003574528382159,0.0006171980057843
+it's consistently entertaining,0.028782474,0.0,0.0,0.0,False,0.0006896076374687,0.0003386549651622,0.0008735978044569
+i never got bored and that's saying a lot for a coming-of-age movie,0.074912034,0.0,0.5,0.0,False,0.0008868681034073,0.0020128693431615,0.0011919524986296
+"so yeah, i recommend it",0.027409043,0.0,0.0,0.0,False,0.0006355830701068,0.0004366370849311,0.0003388578188605
+"lady bird thumbs-up there, you have it",0.18647896,0.0,0.0,0.0,False,0.00083256396465,0.0037074836436659,0.023203045129776
+that's my review of lady bird,0.026894007,0.0,0.0,0.0,False,0.0007977916393429,0.0039912830106914,0.0058646406978368
+what did you think if you saw it? please let me know in the comment section below,0.02929751,0.9256197810173035,0.0,0.0,False,0.0005862298421561,0.0004265806055627,0.000653410970699
+thank you for watching another review before you go like this video,0.027409043,0.8685973882675171,0.0,0.0,False,0.000681486329995,0.0007616342627443,0.0010523383971303
+subscribe to music game news,0.019158829,0.9864404797554016,0.4,0.0,False,0.0009672849555499,0.0005168067291378,0.0002992352528963
+"turn on your notification bell, and take care of yourself",0.13969667,0.0,0.0,0.0,False,0.0300266090780496,0.054404117166996,0.0019120952347293
+now fly,0.036508016,0.0,0.0,0.0,False,0.0332091115415096,0.001369283767417,0.0027137603610754

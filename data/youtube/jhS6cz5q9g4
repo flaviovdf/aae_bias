@@ -1,0 +1,81 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"singing in the rain, directed by gene kelly and stanley donnan, starring gene kelly, donald o'connor debbie reynolds and jean hagen is a 1952 musical that follows the career of don lockwood and cosmo brown to lifelong friends that go into the movie business during the silent age of hollywood, but now during the advent of sound pictures, they must adapt or die all the while being dragged down by lina lamont, a silent aged film star with a terrible voice, who threatens to ruin all of their careers",0.016382186,0.0,0.1194444444444444,0.186,False,0.0125361988320946,0.1029218435287475,0.0099479835480451
+"singing in the rain is one of those movies that i hadn't seen yet, even though it's always at the top of the greatest musicals ever made lists, and all these other things, and you hear about it all the time, i just hadn't seen it, because frankly, while i enjoy current-day style musicals where the songs are a key part of the storytelling, old musicals, old hollywood musicals tend to just have these musical numbers that come out of nowhere",0.036508016,0.9685362577438354,0.0,0.0,False,0.0009275427437387,0.0004114929179195,0.0005486261215992
+"mean nothing, take forever",0.07131593,0.996136486530304,0.3125,0.0,False,0.0030531440861523,0.0009198503103107,0.008012012578547
+"and while they might be visually interesting, have cool choreography",0.0717155,0.0,0.0,0.0,False,0.0005709640099667,0.0003718090883921,0.0009135184809565
+they're pointless and so they feel annoying and and like a huge waste of time after watching this movie,0.4292556,0.9999929666519165,0.2124999999999999,0.225,False,0.0634518936276435,0.3949564397335052,0.7638109922409058
+the one thing that is abundantly clear is the fact that this movie is carried almost entirely by the actors,0.05493369,0.0,0.0,0.0,False,0.0005953352665528,0.0005057360976934,0.0004230110207572
+the actors are the heart and soul of this movie,0.022213135,0.0,0.0,0.0,False,0.0011744530638679,0.0004925254033878,0.0034433195833116
+"gene kelly does an amazing job as this hyper popular, really famous film star who is in all the big movies, and he just has this charm about him in every scene, whether he's pretending to be acting, or whether he's just talking to people or he's feeling down",0.034104515,0.0,0.0,0.0,False,0.0008109840564429,0.0005972121143713,0.000702231307514
+it doesn't matter what the scenario is,0.06492286,0.9920284152030945,0.0,0.152,False,0.0040130005218088,0.0004709943023044,0.0007960796356201
+he is so charming and so instantly likeable and lovable,0.07970683,0.0,0.0,0.0,False,0.0011148225748911,0.0004011501441709,0.033339936286211
+it's just incredible,0.031701013,0.0,0.0,0.0,False,0.000642980216071,0.0003298371739219,0.0005704317591153
+his performance,0.035134587,0.0,0.0,0.0,False,0.0008509802864864,0.000450444407761,0.0011964935110881
+"donald o'connor is interesting too, because he plays the best friend of gene kelly and he is really a supporting role",0.032731086,0.0,0.0,0.0,False,0.0006160499760881,0.0006410384085029,0.0015384363941848
+he doesn't have much of an arc,0.053335425,0.99983811378479,0.0,0.0,False,0.001020441064611,0.0011707581579685,0.0240647047758102
+"he doesn't have a whole lot to offer in terms of the story, but in terms of what he brings to the film is a lot",0.05373499,0.0,0.0,0.0,False,0.0006505873752757,0.0004870407574344,0.0009847469627857
+"i mean, he brings this hyper amazing energy",0.027065687,0.0,0.0,0.0,False,0.0006084869964979,0.0004637128440663,0.0017150375060737
+"like every scene he is in, he elevates it by a lot",0.070516795,0.0,0.0,0.0,False,0.0008418834768235,0.0004259134293533,0.001483833999373
+"i mean, he is so charismatic and so energetic and so excited to be part of every scene he's in",0.08290337,0.0,0.0,0.0,False,0.0006980979233048,0.0003702188841998,0.0023622347507625
+debbie reynolds is our main female lead in the movie,0.03049926,0.0,0.0,0.0,False,0.0014794496819376,0.0031720525585114,0.0056254910305142
+does a really great job,0.028782474,0.0,0.0,0.0,False,0.0008437454816885,0.0004863284120801,0.0011560427956283
+"whenever i see a female character in a movie from the 50s or earlier, i always have to really reset my expectations for what characters are gonna be like because back then a lot of female characters were just cardboard cutouts, but in this movie we get a sense of her wants, desires her frustrations",0.20963,0.0,0.0,0.068,False,0.0007089481223374,0.0024103068280965,0.0027697153855115
+"you know, she feels like a more well-rounded character than i honestly would have expected for the time period, so it's surprising and she does a really good job with her character",0.043375164,0.0,0.0,0.0,False,0.0005973148508928,0.0004297812411095,0.000650291040074
+"she sings, amazing her physicality in terms of the way she moves and dances and stuff is amazing as well",0.040284947,0.0,0.0,0.0,False,0.0008151030633598,0.0005447550793178,0.0017121009295806
+"she just does a really really good job and she is just pitch perfect for the part and then jean hagen, who plays our de-facto villain in the movie, who is this over pampered starlet who gets everything she wants and is hyper demanding? she has this hyper, screechy, awkward accent / voice, and the entire plot of the movie is about how awful her voice is",0.42234805,0.999617338180542,0.0,0.127,False,0.0099248010665178,0.1556797474622726,0.2307679206132888
+that's the entire plot of the movie,0.029640866,0.0,0.0,0.0,False,0.0008105611195787,0.0004138972435612,0.0005976386019028
+"and so if that didn't work, though movie would have fallen apart and it works beautifully because the first time i was watching the movie and i saw her talk for the first time it correctly made me go",0.043031808,0.0,0.0,0.058,False,0.0005861874087713,0.0004052916774526,0.0005700187175534
+"ah, your voice is terrible",0.8086813,0.9999209642410278,1.0,0.437,False,0.2803330719470978,0.2759242653846741,0.7500900626182556
+"so when the whole plot revolves around everyone trying to hide her voice from the public, so they don't find out how terrible her voice is as an actress, it, you buy it all the way as a musical",0.35642847,0.966040849685669,0.2,0.115,False,0.0013361597666516,0.0013835652498528,0.0055197915062308
+we of course have to talk about some of the musical numbers,0.028954152,0.0,0.0,0.0,False,0.0005696029402315,0.00032589721377,0.000566212052945
+"oh man, the physicality on display by the actors here and the dancers here is in sane",0.07970683,0.0,0.0,0.0,False,0.0009554974967613,0.0015008656773716,0.0040651829913258
+this is some of the most impressive dancing i've ever seen in a movie,0.06652113,0.0,0.0,0.0,False,0.0008918750681914,0.0005356594920158,0.0044021690264344
+ever,0.02262963,0.0,0.0,0.0,False,0.0062883705832064,0.0007074339664541,0.0020717345178127
+choreography is ridiculous and the execution of that choreography is even more ridiculous,0.5810591,0.9998799562454224,0.0555555555555555,0.325,False,0.2935318052768707,0.959711492061615,0.8584870100021362
+these are,0.022945397,0.0,0.0,0.0,False,0.0009959831368178,0.0005003120168112,0.000915314129088
+these are incredibly long takes of really complicated movements with multiple characters interacting with each other and strict timing,0.07850813,0.0,0.16875,0.0,False,0.0006978425080887,0.0003708337026182,0.0005113383522257
+"i mean, it's just unbelievable",0.04131502,0.0,0.28125,0.0,False,0.0006851739599369,0.0003278329677414,0.0044773081317543
+every scene is so complicated and they're all executed with such precision,0.124380715,0.0,0.25,0.0,False,0.0008299872861243,0.0848195552825927,0.2533388137817383
+it's it's a wonder to behold,0.027409043,0.0,0.0,0.0,False,0.0010677161626517,0.0003579392796382,0.0051833796314895
+"i think by far my favorite musical number was good morning, which was a trio number with gene kelly, donald o'connor and debbie reynolds, and they are all doing these complicated movements",0.09655894,0.0,0.0,0.0,False,0.0005892037879675,0.0004706411273218,0.0010631806217133
+they're dancing together,0.04818217,0.0,0.0,0.0,False,0.0013100466458126,0.0007727539050392,0.0056261634454131
+they're arm and arm,0.33341047,0.0,0.0,0.0,False,0.0281892456114292,0.0041095996275544,0.0034285935107618
+they're like dancing upstairs and downstairs and using props left and right,0.13251819,0.789700984954834,0.0,0.0,False,0.0013491085264831,0.0008036519866436,0.0123147508129477
+"and just oh, it's crazy and it has so much character to it and so well done like they're going from room to room",0.24769363,0.0,0.1999999999999999,0.083,False,0.0013453535502776,0.0053305993787944,0.0583139173686504
+it's um,0.05253629,0.9284490942955017,0.0,0.0,False,0.0007269539637491,0.0014820208307355,0.0063564199954271
+it's unbelievable,0.032731086,0.0,0.25,0.0,False,0.0006911682430654,0.0003576166345737,0.0039448859170079
+"donald o'connor's big number is make him laugh, which is this incredibly physical dance number where he's flipping over props and he's like getting up and falling down on the floor and you know he does it with so much energy and so much character and he's flipping upside down over walls, and like wow, man, wow, it's unreal as i'm watching it",0.20449556,0.0,0.0,0.021,False,0.0011133288498967,0.0011711451224982,0.0039608324877917
+"i'm thinking okay, he's he's got to stop like it's gotta go down like he's got to start winding this down and it just keeps ratcheting up to another level and going and going going",0.124380715,0.9853180646896362,0.0,0.055,False,0.0033817978110164,0.0016865788493305,0.0013191998004913
+and the energy is insane broadway melody,0.22991583,0.0,1.0,0.276,False,0.0117524061352014,0.0013685197336599,0.1303000301122665
+"i have to mention, because it's in the tail end of the movie and i think, and the tail end of the movie, there's more musical numbers that are more irrelevant",0.08050597,0.9979591369628906,0.0,0.0,False,0.0006559597677551,0.0005244988133199,0.001282887533307
+"they feel longer, they feel more stretched out, and while there's interesting things happening in them, it does feel a little overwrought, but there's two parts of the broadway melody that are so interesting and so beautiful and cool that i have to mention them",0.05852979,0.0,0.0,0.0,False,0.0005581401637755,0.0003182831278536,0.0005252818227745
+"there's this sexy dance between gene kelly and cyd charisse, where she's wearing this green dress and she's dancing around him, and they basically play out an entire intimate relationship in a dance, and like the power on display of the physicality of both gene kelly and said, cherie, says she's jumping into his arms and he's lifting her up or dipping her, flipping her around, and it is really impressive",0.38953075,0.0,0.0,0.0,False,0.0013692445354536,0.0082024512812495,0.0081908954307436
+just the physicality of that dance and the sensuality of that dance is something else,0.09118898,0.0,0.0,0.0,False,0.000912208633963,0.0004255824023857,0.0028206552378833
+"the other part of the broadway melody is the melody ballet, which is just insane",0.3905958,0.9415026903152466,0.5625,0.162,False,0.0049542160704731,0.0364481732249259,0.1953534930944442
+"it's this really long segment where gene kelly and cyd charisse are dancing, but cyd charisse has this shawl, this like white scarf thing that's just draping forever behind her",0.15159425,0.8707289695739746,0.15,0.0,False,0.0018826384330168,0.0208795517683029,0.0146987363696098
+it's just it,0.019575324,0.9532293677330017,0.0,0.0,False,0.0010378398001194,0.0003775353252422,0.0020641938317567
+it's incredibly beautiful,0.039254878,0.0,0.0,0.0,False,0.0007247643079608,0.0003075289714615,0.0006832981598563
+"it's long takes, these long, long takes of them dancing like this, and it just looks so unwieldy and difficult to film that i can't imagine how many takes it would have taken to get that right",0.16151784,0.9995748400688171,0.0,0.069,False,0.0010261265560984,0.0008567059994675,0.0008246879442594
+"i mean, wow, it was impressive",0.039254878,0.0,0.0,0.0,False,0.0006093148258514,0.0003489703522063,0.0019167982973158
+it was just unbelievable,0.046122026,0.0,0.25,0.0,False,0.0007302830927073,0.0003555143484845,0.0031593434978276
+i watch that and i think they would never do that today,0.049898956,0.0,0.0,0.0,False,0.0008026761934161,0.0010371779790148,0.0004134100745432
+like dave,0.015340946,0.0,0.0,0.0,False,0.0177499372512102,0.0133700855076313,0.0123927220702171
+"if they were gonna do that scene, they would do this the entire shawl of cgi because they would not want to deal with the headache of trying to get that to work practically",0.12695669,0.9999741315841675,0.0,0.036,False,0.007626574486494,0.0005341692012734,0.0035333132836967
+"but back then they didn't have a choice, and i mean to have the the khones to go for it",0.048868883,0.9870495200157166,0.15625,0.0,False,0.0033107085619121,0.0007759727304801,0.002813434228301
+it's crazy,0.2712817,0.0,0.6,0.706,False,0.0754371136426925,0.0724568739533424,0.1274412125349044
+"it's crazy, but the the results speak for themselves",0.2298686,0.0,0.6,0.175,False,0.0011444820556789,0.0109310010448098,0.1369302123785019
+it's beautiful,0.023632111,0.0,0.0,0.0,False,0.0007076807669363,0.0003216382465325,0.0009048514184542
+"i mean, this movie is so fun like it's funny to like the comedy in this movie is is real",0.058929358,0.0,0.0,0.0,False,0.0008175440016202,0.0004759411967825,0.0007031373097561
+i was laughing out loud at a lot of the jokes,0.08050597,0.0,0.0,0.0,False,0.0011930593755096,0.0012915349798277,0.0033200143370777
+"the character dynamics are so good, and it's just this hyper real world",0.03461955,0.0,0.0,0.0,False,0.0006011462537571,0.0003591759887058,0.0007021784549579
+the colors are bright and lively and everybody in this world seems to be loving what they're doing in life,0.043031808,0.0,0.0,0.0,False,0.0006743566482327,0.0004193967324681,0.0006467904895544
+"and and nobody seems down-and-out nowadays there's so many films that are so cynical and so dark and but this just has a really refreshing, beautiful air about it",0.15217799,0.0,0.0,0.062,False,0.0008826235425658,0.0142163569107651,0.0070239836350083
+my final rating for singing in the rain is going to be a 10 out of 10,0.0495556,0.9791676998138428,0.0,0.0,False,0.0024462917353957,0.0006350214243866,0.0013331979280337
+there's really nothing to complain about the the musical numbers as they are are really good,0.045778666,0.0,0.0,0.0,False,0.0006374056683853,0.0003452184901107,0.0012471748050302
+the characters are great,0.0224908,0.0,0.0,0.0,False,0.0006083428743295,0.000338059850037,0.0008439926896244
+"the story is simple, but well-executed and funny",0.1423886,0.0,0.0,0.0,False,0.0006069208029657,0.0003871211083605,0.0005117469117976
+"i mean, this is just a great movie and i, i think everyone should watch this one cuz, i can't imagine there'd be many people who hate this movie",0.1731117,0.0,0.0,0.106,False,0.0291758608072996,0.0086338501423597,0.0031175669282674
+thank you guys so much for watching my review of singing in the rain,0.020408317,0.0,0.0,0.0,False,0.0006331914919428,0.0006944596534594,0.0009070797823369
+"if you guys liked the content, please do all that standard youtube stuff like comment and subscribe",0.035477944,0.9855616688728333,0.0,0.0,False,0.0006546311196871,0.0007856333395466,0.0005961185670457
+i'm a new channel trying to grow and so it would help me out a ton,0.06532243,0.0,0.0,0.0,False,0.0008838602807372,0.0004456015885807,0.0005877480143681
+"thanks a lot, guys, and i'll see you next time you",0.042001735,0.0,0.0,0.0,False,0.000591225514654,0.0015525122871622,0.0005502323037944

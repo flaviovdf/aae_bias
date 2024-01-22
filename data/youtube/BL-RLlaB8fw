@@ -1,0 +1,75 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hey, oh, hey, what's up, bradley? just want to take another look at you all right",0.05773066,0.0,0.0,0.0,False,0.0006523506599478,0.0087541854009032,0.0066440482623875
+"wow, i really need to shave",0.083939545,0.9747321009635925,0.0,0.0,False,0.0285386852920055,0.2412882000207901,0.0149663845077157
+"hey guys, carsten rehnquist year, if you've been to any movie in the last few months, you've probably seen the trailer for a little movie called a star is born",0.055333257,0.9799484014511108,0.1291666666666666,0.0,False,0.0008514134096913,0.0013269975315779,0.001026356825605
+"this film was been getting a lot of buzz and it stars lady gaga and bradley cooper, who i believe also directed it",0.045778666,0.0,0.0,0.0,False,0.0006444722530432,0.0009435311658307,0.0009725443669594
+"it's a remake of the original 1977 film and it's been getting a lot of buzz like i just said, so, of course i had to see it now, based on the trailer and the poster",0.043375164,0.8019269108772278,0.0,0.0,False,0.0006516413413919,0.0003509049420244,0.0002505495795048
+this really didn't seem like my type of thing,0.039254878,0.999806821346283,0.0,0.229,False,0.0008891272591426,0.0003588488034438,0.0005549065535888
+"it seemed more like a film for people that live in the suburbs who also have waller above their leather couches, that says live, laugh, love and thing is, this movie is not at all like that",0.13146462,0.9999966621398926,0.0,0.046,False,0.0019520284840837,0.0007657529786229,0.0021920977160334
+"it's not at all what it was promoted, as in my opinion, it seems like a story that's all about this woman's rise to fame",0.08501353,0.9995335340499878,0.0,0.0,False,0.0010234372457489,0.0027122537139803,0.0046624289825558
+but at least to me it was more about this old country stars battle with addiction and alcoholism,0.08689302,0.7987743616104126,0.0,0.167,False,0.0905286893248558,0.002138010924682,0.0069787390530109
+it's actually a pretty heavy film that deals with some very dense subject matter and i feel like it tackled these subjects incredibly well,0.0717155,0.0,0.0,0.0,False,0.0007140123634599,0.0003752353368327,0.0004510549188125
+my thing with a star is born' is that it's essentially a few different movies,0.034104515,0.9981911778450012,0.1,0.0,False,0.0015078325523063,0.0012180187040939,0.0010299707064405
+"these characters go through different stages of their lives and careers, and with each stage comes a different movie to me, and while some of these stages felt very consistent and good, others didn't making the whole film in general feel a little messy",0.119228795,0.0,0.0,0.047,False,0.0006216312176547,0.0003548819513525,0.0011579903075471
+"i guess i should address the first stage the the coming-up era, which in my opinion, was done the absolute best",0.049212243,0.0,0.0,0.0,False,0.0005671907565556,0.0003677023923955,0.000299516657833
+i think this section of the film is almost flawless,0.20449556,0.0,0.0,0.0,False,0.0006047211936675,0.00034873970435,0.0007703794399276
+it's amazing,0.02655065,0.0,0.0,0.0,False,0.0006052465178072,0.0003327057638671,0.0005483265849761
+there's really nothing to not enjoy about it,0.062925026,0.9999822378158569,0.0,0.0,False,0.0011481870897114,0.0016273405635729,0.0007489733980037
+i loved the acting,0.18746567,0.0,0.0,0.0,False,0.0010549054713919,0.0004968600696884,0.0003098379820585
+"i loved the writing, the pacing, the cinematography",0.016382186,0.0,0.0,0.0,False,0.0006027395138517,0.0003778451646212,0.0003442445304244
+all of it felt so fragile and careful and i loved how it was done,0.057331093,0.0,0.0,0.0,False,0.0006615801830776,0.0003862813464365,0.0024585684295743
+it was some of the most enjoyable and smoothest filmmaking i've seen all year,0.047495455,0.0,0.0,0.0,False,0.000624650332611,0.0003267244028393,0.0003757037047762
+"but then as ally, our main character started to get bigger, and her relationship with jack seemed to get a bit more complicated",0.03444787,0.6561986804008484,0.0,0.0,False,0.0007012579008005,0.0004862373170908,0.0009623087826184
+"similar to the characters, the film got really out of control, whereas in the first section, the film really had a clear grasp on what these characters wanted and who they were",0.03736641,0.0,0.0,0.0,False,0.0006389876944012,0.0003780872793868,0.0004266186151653
+throughout the remainder of the film they seemed to lose that grasp,0.13431281,0.9997214674949646,0.0,0.197,False,0.0007445063092745,0.0004529378202278,0.0063227652572095
+as each character seemed to separate further from each other,0.025692256,0.9887906312942505,0.0625,0.0,False,0.0007338339928537,0.0004006632079835,0.0007545188418589
+it felt like they took a lot of time to craft those first 30 minutes and then seemed to rush the rest of the film,0.1019289,0.9999289512634277,0.0,0.0,False,0.000662412319798,0.0003526639484334,0.0005120403948239
+to me,,0.0,0.0,0.0,False,0.0010418572928756,0.0006258896319195,0.0006254867766983
+the heart of this was the editing,0.035134587,0.0,0.0,0.0,False,0.0006869818316772,0.0005508901085704,0.0008634408004581
+i felt like the editing was super awkward and rushed,0.25447917,0.9998688697814941,0.1333333333333333,0.107,False,0.0005549628986045,0.0007157516665756,0.0269019044935703
+"it's very clear that there were scenes that they really wanted to hold on and focus on, but due to time constraints, they probably had to cut them down",0.06532243,0.997215747833252,0.0,0.084,False,0.0006165312952362,0.0011146807810291,0.0014999019913375
+"the movie is already 2 hours and 13 minutes, as is, so it would not surprise me if they wanted to cut this thing down for the sake of selling more tickets",0.09279997,0.9911448359489441,0.0,0.115,False,0.0007280455902218,0.000445900746854,0.0005291668931022
+this film at one point would spend like 20 seconds on a certain location and then move on to the next and repeat that over and over again,0.10763696,0.9946117401123047,0.0,0.0,False,0.0008440132369287,0.0004079062491655,0.0005155793623998
+but it wasn't like a montage,0.029812546,0.9940139651298523,0.0,0.348,False,0.0013612982584163,0.0009377563255839,0.0003010537475347
+that's just how the film went,0.045778666,0.0,0.0,0.0,False,0.000754298933316,0.0003771923074964,0.0006166170933283
+it made a very smooth and kind of calm drama feel way more chaotic and fast-paced than it needed to be,0.09816993,0.0,0.0,0.143,False,0.0006231254665181,0.0003905755584128,0.0007261736318469
+a clear example of this is when jack proposes to ali,0.040284947,0.0,0.0,0.0,False,0.0010184164857491,0.0013191201724112,0.0027903509326279
+out of nowhere,0.073313765,0.0,0.0,0.0,False,0.0017541233683004,0.000951497524511,0.0007638824754394
+it was like the weirdest edit i saw this year,0.19634613,0.9999741315841675,0.0,0.153,False,0.0136758675798773,0.0027640513144433,0.0263621751219034
+it was just so fast and awkward and uncomfortable,0.20376207,0.9998000264167786,0.3,0.389,False,0.0010910829296335,0.0009931859094649,0.0111889783293008
+the whole audience was just like,0.03856816,0.0,0.0,0.0,False,0.0028148954734206,0.0003807399771176,0.0011586833279579
+"wait, what",0.023803791,0.9965407252311707,0.0,0.0,False,0.001035115448758,0.0012339894892647,0.0017277101287618
+my last major flaw with the film,0.15976663,0.9998956918716431,0.0,0.0,False,0.008699208498001,0.0019009897951036,0.0016870133113116
+it would be how many different times it ended,0.04131502,0.9968319535255432,0.0,0.0,False,0.0009770981268957,0.0003887068596668,0.000967486819718
+"you think it's over and then it's not, and then it keeps going, and then they build it up into the ending and then you're like oh, this is not the ending, and then it repeats that over and over and over again",0.043375164,0.934123158454895,0.0,0.0,False,0.0050683282315731,0.000484417163534,0.0007362888427451
+"the issue here is that on paper, this isn't actually that bad of an ending",0.067320265,0.9640445113182068,0.3499999999999999,0.0,False,0.0013308388879522,0.0004246296884957,0.0012166429078206
+it actually kind of makes sense,0.020130653,0.0,0.0,0.0,False,0.0006609112024307,0.000316022982588,0.0004145855491515
+it was just pasted and edited so awkwardly to make you feel like it was coming to an end when in reality you still have like 20 minutes left,0.22983712,0.9999390840530396,0.3,0.088,False,0.0009102446492761,0.0006305886199697,0.0011241157772019
+"i will say the film did have a lot going for it, though the clear highlight that a lot of people are talking about is the acting",0.05133759,0.8839062452316284,0.0,0.0,False,0.0005389797734096,0.0003666685370262,0.0004454204463399
+everybody is talking about how amazing lady gaga is,0.033932835,0.0,0.0,0.0,False,0.0007736020488664,0.0026648105122148,0.0045231790281832
+"and yeah, they're right",0.02054715,0.0,0.0,0.0,False,0.0007911650463938,0.0003820146957878,0.0012189354747533
+"she killed it, especially for someone who has limited to no acting experience",0.355017,0.9999370574951172,0.0678571428571428,0.462,False,0.0074728103354573,0.2804857790470123,0.2719385325908661
+"but in my opinion, i think bradley cooper did just as good",0.021657806,0.0,0.0,0.0,False,0.0006158981705084,0.0003920232702512,0.0015495391562581
+if not better,0.059728492,0.0,0.25,0.546,False,0.0007176788058131,0.0008702927734702,0.000681868288666
+he destroyed this performance,0.30187345,0.999115526676178,0.0,0.516,False,0.0043410523794591,0.0043061417527496,0.0066793439909815
+"i mean, i mean, like maybe the best of the year, he totally became this character in a really dark way that left me at the edge of my seat",0.07451247,0.0,0.0,0.0,False,0.0008125148597173,0.0005364947137422,0.002716951072216
+also that sweet southern accent,0.05253629,0.0,0.0,0.0,False,0.000766105891671,0.0005022486438974,0.0010977826314046
+"i mean, oh, i hear a lot of people complaining about the cinematography of the film, and to be honest, i kind of disagree",0.047495455,0.9994825124740601,0.0,0.162,False,0.0005861360114067,0.0005625184858217,0.0008101140265353
+a lot of the shots are very claustrophobic,0.1710401,0.9996564388275146,0.975,0.0,False,0.0143729634582996,0.0103744994848966,0.0532874092459678
+"there are either mediums or close-ups and i think this really enhances the feel that this film is going, for",0.0358213,0.0,0.0,0.0,False,0.0006053641554899,0.0003796928504016,0.0002565804461482
+"it's really not a controlled environment that these characters are living in, and while the tight editing didn't do much for me, this claustrophobic cinematography really worked",0.15451296,0.0,0.1257142857142857,0.0,False,0.0010778803844004,0.0005111419013701,0.0017183331074193
+"and of course i can't really talk about this film without mentioning the music specifically shallow, which is basically already won the oscar for best original song",0.065721996,0.9996650218963623,0.0,0.0,False,0.0006318396190181,0.0004592640907503,0.0005866955034434
+it was great,0.02637897,0.0,0.0,0.0,False,0.0006623113295063,0.0003214273310732,0.0007804117631167
+it gave me goosebumps,0.19634613,0.0,0.0,0.0,False,0.0822770372033119,0.0131013672798872,0.0382521748542785
+i listened to it on the way home,0.03616466,0.0,0.0,0.0,False,0.000618819554802,0.000423237128416,0.0006641361396759
+not much to say that hasn't already been said,0.0186035,0.0,0.1,0.0,False,0.0006250204751268,0.0003657134075183,0.0003562624624464
+"overall, a star is born was basically built to win oscars, but i can't really complain",0.04406188,0.0,0.0,0.0,False,0.0012027972843497,0.0008692585397511,0.0005187881179153
+i think it'll deserve every nomination and or win that it gets read,0.04234509,0.0,0.0,0.0,False,0.0008323855581693,0.0007122287061065,0.0010784715414047
+lee cooper will get a best actor nomination,0.03049926,0.0,0.0,0.0,False,0.0012502432800829,0.0006451454828493,0.0013120820512995
+lady gaga will get a best actress nomination,0.05133759,0.0,0.0,0.0,False,0.0017157926922664,0.0024127778597176,0.0030614079441875
+"and as we all know, shallow, would you know yada, yada, yada, but to be honest, i'm not too upset about it",0.14911842,0.0,0.0,0.0,False,0.0014118602266535,0.0041016526520252,0.0048992927186191
+i think it definitely deserves these,0.06851897,0.0,0.0,0.0,False,0.000628221896477,0.0011046344880014,0.0006395347882062
+"it's a powerful film that definitely deserves the hype it's been getting, even though it's a little messy and overstays its welcome just a tad",0.15568043,0.0,0.0,0.07,False,0.0007537240744568,0.0005571053479798,0.0102227423340082
+i'm gonna give a star is born' a 3,0.07571117,0.0,0.0,0.0,False,0.2334003150463104,0.0103776827454566,0.0576872825622558
+5 out of 5,0.042001735,0.0,0.0,0.0,False,0.0013495949096977,0.000542284687981,0.0003642586234491
+"thank you all so much for watching, and i will see you guys in the next one",0.040971663,0.0,0.0,0.0,False,0.0005520365084521,0.0012019606074318,0.0004248670011293

@@ -1,0 +1,68 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"what's up, guys? i'm shane, and this is spare change here on the channel we discuss all things audio and video, like new movies and new a/v equipment",0.087430015,0.0,0.0,0.0,False,0.0006759845418855,0.0057583786547183,0.0005517540266737
+"so if it's your first time here, consider tapping that subscribe button for new weekly videos",0.055333257,0.9998111128807068,0.0,0.0,False,0.0010503012454137,0.0005343430675566,0.0004761458549182
+"alright, this is the second video in my rewatch series",0.055333257,0.8745484948158264,0.0,0.0,False,0.0013641339028254,0.000376587617211,0.0004733653913717
+these are movies that i've either done years ago that i think still look and sound great,0.0358213,0.0,0.0,0.0,False,0.0006974266725592,0.0004559417720884,0.0004429084365256
+"or maybe i just haven't gotten the time to do a review, which brings us to the movie that i just re-watched 2015's mad max fury road on 4k and 3d blu-ray",0.05253629,0.9111478924751282,0.625,0.187,False,0.0005987064796499,0.0007222768617793,0.0005658872541971
+i won't be reviewing the movie itself,0.04268845,0.9632934331893921,0.0,0.0,False,0.0006219972274266,0.0010322610614821,0.0003966944932471
+i'm just going to be sharing with you some of my thoughts on the video and the audio quality now,0.040284947,0.0,0.0,0.0,False,0.0005486214649863,0.0004183150886092,0.0003035869740415
+let's just go over a few tech specs,0.024318827,0.9967525005340576,0.2,0.0,False,0.0006240740185603,0.0004703908052761,0.0005109651247039
+the movie was shot in 2,0.0681194,0.7227602005004883,0.0,0.0,False,0.0006715577328577,0.0008742147474549,0.0003406866453588
+8 k,0.019158829,0.0,0.0,0.0,False,0.0070291869342327,0.0018526925705373,0.0004116386699024
+it's got a 2k di,0.019297661,0.9996837377548218,0.0,0.0,False,0.0027105207554996,0.007208286318928,0.0009555488941259
+it's rated r,0.14687516,0.0,0.0,0.0,False,0.0013429871760308,0.0008900600951164,0.0007582352845929
+runtime is 120 minutes,0.033761155,0.0,0.0,0.0,False,0.0009179569315165,0.0004294535901863,0.0006178925395943
+"there's also a 3d version of the movie, but it wasn't shot natively so it is a 3d conversion",0.034962907,0.9637178778648376,0.0,0.0,False,0.0006060416344553,0.0006443466409109,0.0002856134960893
+"aspect ratio is to 400 by 1, which means it'll have those black letterbox bars",0.051737156,0.9585004448890686,0.1666666666666666,0.0,False,0.000857961596921,0.0062473309226334,0.0053692134097218
+"yes, i watched both the 4k and 3-d blu-rays and honestly i can watch this either way because they're both knockout transfers",0.07371333,0.0,0.0,0.0,False,0.0006537971785292,0.0005905767320655,0.0008154009701684
+"as for sharpness and clarity, the 4k version is the clear winner, environmental textures, like individual grains of dirt and sand, the rock formations and even the clouds get a big boost",0.033932835,0.0,0.0,0.056,False,0.0006459059077315,0.0003901481977663,0.000542837777175
+over the 1080p version,0.032387726,0.0,0.0,0.0,False,0.0006937363068573,0.0004519420035649,0.0001555986527819
+"the close-up shots are crazy detailed to where you can make out the dry caked on makeup on a more and joe's face and body, and those details, such as wrinkles, pores, and scars, or rendered multitudes better than the standard blu-ray where the 4k really takes a big leap, is in the hdr department, colors are highly saturated to the point you might think they're overly saturated, so the image tends to look a bit hot",0.21362646,0.0,0.0,0.03,False,0.0010350350057706,0.0012603068025782,0.0075239366851747
+"the desert shots are a lot warmer coming from the regular blu-ray, and those fiery explosions and flames shooting from the exhausts are extremely red and overcooked",0.112144895,0.9999786615371704,0.0,0.147,False,0.0012775163631886,0.0006613128934986,0.0026817084290087
+the flames can come off a little too cgi looking and sometimes flat,0.08850401,0.9999226331710815,0.10625,0.0,False,0.0321529060602188,0.0008979299454949,0.0029121146071702
+what hdr does is boost the overall picture brightness,0.060527626,0.6783021688461304,0.0,0.0,False,0.0007041032658889,0.0007241304847411,0.0005072839558124
+it's not one of those dim hdr transfers,0.038911518,0.9973142743110657,0.0,0.0,False,0.0011771355057135,0.0438674613833427,0.0017635662807151
+it's actually really really bright,0.039254878,0.0,0.0,0.0,False,0.0007504276582039,0.0003102686605416,0.0026886260602623
+"from beginning to end, expect to see a ton of specular and peak highlights from reflective chrome surfaces, explosions, and anything that might look shiny",0.038911518,0.0,0.0,0.0,False,0.000572123506572,0.0003535867144819,0.0009930765954777
+black,0.26589394,0.5999993085861206,0.1666666666666666,0.0,False,0.6853779554367065,0.4953819811344147,0.3438851833343506
+"levels are extremely dark and contrasting and just elevates the image depth and separation, and speaking of image depth, the 3d version, while it doesn't have the same color, pop, or added resolution, does make for a fun and i think more engaging viewing experience",0.040628307,0.0,0.0,0.0,False,0.0006215270259417,0.0005842101527377,0.000328507827362
+"first off, the color seemed more balanced without the overly cooked color grade",0.068918526,0.0,0.0,0.0,False,0.0006311435718089,0.0004906024551019,0.0014709269162267
+"not that anything is terribly wrong with the hdr version, but you might find yourself preferring the more toned down standard and 3d versions",0.16275369,0.0,0.0388888888888888,0.165,False,0.0005963327712379,0.0005264241481199,0.0007212056079879
+i found the separation between foreground middle and background layers to reach pretty deeply inwards,0.038224805,0.9022683501243591,0.0,0.0,False,0.0005907236482016,0.0003347917227074,0.000364930863725
+on my projection setup,0.011592479,0.0,0.0,0.0,False,0.0006770442123524,0.0005182143067941,0.0002851697208825
+"the sandstorm never fails to impress, as you'll see sand and debris blowing right past your face",0.30053464,0.580662190914154,0.0,0.122,False,0.027260698378086,0.0087357209995388,0.0605907924473285
+"there is one point in the movie where max's foot breaks the black bar barrier, but other than that there's still a good amount of things coming towards the screen",0.065721996,0.0,0.0,0.038,False,0.0006629207637161,0.0038194276858121,0.0105220787227153
+i should also mention that there are some times you get that flat cardboard cutout look,0.08367105,0.9995156526565552,0.025,0.0,False,0.1786577999591827,0.0005092055071145,0.0025450359098613
+"i found some of the flames to look at a place, and some of the billowing smoke looked oddly converted audio",0.052136723,0.9999951124191284,0.1666666666666666,0.0,False,0.0008747793617658,0.000469105259981,0.0006052303942851
+isn't you'll be atmos for both the 4k and 3d versions and it's straight demo material,0.024833864,0.9998156428337097,0.0,0.0,False,0.0015767727745696,0.0007653823704458,0.0009419198031537
+"right from the opening you'll hear distinctly plays voices talking through different speakers there in front of you to the sides behind you, and you'll even hear that little girl whisper right above your head",0.092262976,0.0,0.0,0.0,False,0.0250823479145765,0.00832399725914,0.0352729000151157
+don't forget how crisp that lizard sounds when it's running across the sand right before it gets stomped on,0.2406723,0.6521427035331726,0.0,0.0,False,0.0011470600729808,0.0027305940166115,0.1314608007669448
+"the sandstorm is another demo worthy scene with whirling effects engulfing the entire listening space, but the car chases have excellent front to back panning with bad guys dropping from the above channels when they're swinging on those poles",0.22687212,0.0,0.0,0.099,False,0.0009162394562736,0.0013255676021799,0.0020014350302517
+"the roar of the engines has some crazy db room shaking bass and again, that sandstorm is going to put a working on your subwoofers",0.21539254,0.5321347117424011,0.375,0.151,False,0.0037193596363067,0.0036860925611108,0.0104844747111201
+"the sound stage is cinematically wide and spacious, with an intense rockin soundtrack",0.037194733,0.0,0.0,0.0,False,0.0006168428226374,0.0003779901890084,0.0013513402082026
+"dialogue was fine for the most part, although hearing max mumble can be kind of hard to make out if you can't fix what's broken",0.074912034,0.0,0.0,0.06,False,0.0006243048119358,0.0003888774954248,0.0008207646314986
+"now when i originally reviewed this, i gave the movie an 8",0.055333257,0.0,0.0,0.0,False,0.0005912283086217,0.0005166414775885,0.0003306857252027
+5 for audio,0.029812546,0.0,0.0,0.0,False,0.0006538174347952,0.0004366383363958,0.0003088408557232
+"i've upgraded many parts to my home theater, so after we watching this, i'm gonna have to give the audio on 9",0.046122026,0.7103809118270874,0.0,0.0,False,0.0005879182717762,0.0004655023221857,0.0003862631274387
+9 this is a killer mix right from the get-go it's loud,0.31629145,0.0,0.0,0.281,False,0.001009464263916,0.0016284799203276,0.0456404834985733
+it's bombastic,0.13655609,0.8926125168800354,0.0,0.0,False,0.0298449415713548,0.093337558209896,0.0316012576222419
+"it's got everything you'd want from a dolby atmos mix aggressive surrounds and aggressive, high channel usage and bass just rocks if you've got a surround sound setup, but i'm sure that you've probably already got this movie in your collection for video, which i previously gave an 8",0.17173064,0.0,0.0,0.05,False,0.0006654508179053,0.0006875204853713,0.0011930071050301
+it's going to get bumped up to a 9,0.2015616,0.9975305199623108,0.0,0.0,False,0.0007434184080921,0.0018812716007232,0.0085565140470862
+6 i think the increase in detail over the regular blu-ray is a noticeable difference,0.030327583,0.0,0.0,0.0,False,0.0006880806758999,0.0003614578745327,0.0003328640596009
+"whether or not you like the way the hdr looks well, there's no denying the color pops right off the screen and those crazy highlights aren't quite the attention grabber for 3d video",0.17587385,0.9992414712905884,0.1571428571428571,0.12,False,0.0011471108300611,0.0143799157813191,0.0110083371400833
+we're gonna go with the 9,0.23365098,0.0,0.0,0.0,False,0.0020192647352814,0.0009325364953838,0.0004533496976364
+8 i always forget this movie comes in 3d,0.06931809,0.6901209354400635,0.0,0.192,False,0.0009602193604223,0.0007152177859097,0.0004966810811311
+whenever i put it in for a quick look,0.119872786,0.0,0.0,0.0,False,0.0006403020233847,0.001057646702975,0.0007402448682114
+i always get stuck watching the entire thing,0.119872786,0.9978833794593811,0.0,0.222,False,0.0010757042327895,0.0009397244430147,0.0012127588270232
+"it's got some heavy 3d separation with a little flatness thrown in, but overall, for me personally, i think the added depth, the bright 3-dimensional image and the rich color palette make this my preferred way to watch this movie",0.03358948,0.0,0.0,0.0,False,0.0005749018164351,0.0003863467136397,0.0003804143925663
+now,0.01999182,0.0,0.0,0.0,False,0.0014697305159643,0.0004906950052827,0.0007275509997271
+"no matter which way you like to watch mad max, i think you'll find it is a complete audio and visual assault",0.16151784,0.9749500751495361,0.175,0.283,False,0.0010649595642462,0.0043299887329339,0.0184027068316936
+"if it's not in your collection, and you need something to show off your home theater system, then you need to pick up this movie right now",0.044405237,0.0,0.0,0.0,False,0.0008623423054814,0.0006867131451144,0.0007581370882689
+it's a must own,0.02397547,0.0,0.0,0.0,False,0.0123552167788147,0.0012195737799629,0.000520042667631
+so what are your thoughts on mad max on 4k and 3d blu-ray,0.07970683,0.0,0.625,0.211,False,0.000884776643943,0.0116483820602297,0.0031954904552549
+"which version did you prefer to watch? leave a comment and let us know now if you'd like to pick up this movie, i'll leave some links for in the video's description",0.046122026,0.0,0.0,0.071,False,0.0006992681883275,0.0005240910686552,0.0003539634344633
+"as always, guys",0.035134587,0.0,0.0,0.0,False,0.000868372619152,0.0034132832661271,0.0008503784192726
+thanks for watching,0.017423427,0.0,0.0,0.0,False,0.000749543251004,0.000431915075751,0.0002572489029262
+"if you want, you can find us on social media",0.026207292,0.8146529793739319,0.0,0.0,False,0.000651819340419,0.0008318942855112,0.0005380355869419
+"and if you want to support the channel and get exclusive content and great discounts on audio and video gear, then stop by our patreon page",0.0741129,0.7609238624572754,0.0,0.067,False,0.0006629684357903,0.0007502899970859,0.0019024679204449
+"don't forget to like, share and subscribe, we'll see you guys again in the next video",0.074912034,0.0,0.0,0.111,False,0.0015720729716122,0.0006788911414332,0.0005823966348543

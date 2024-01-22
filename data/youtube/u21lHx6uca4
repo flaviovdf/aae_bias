@@ -1,0 +1,62 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+jordan said you thought i was done,0.040971663,0.9985663294792175,0.0,0.0,False,0.0011923511046916,0.0009190640412271,0.0007310646469704
+you thought i'd have more of my sleep,0.058929358,0.9994933605194092,0.0,0.0,False,0.001552733941935,0.0058505237102508,0.0067058987915515
+jordan came to play,0.037881445,0.0,0.0,0.0,False,0.0019274271326139,0.0006807849858887,0.0005816041957587
+"okay, he was brad d",0.032387726,0.0,0.0,0.0,False,0.0025692582130432,0.059349350631237,0.0708532184362411
+because i guarantee that you not gonna be ready for this movie,0.13790205,0.9986249208450317,0.0,0.15,False,0.0046833781525492,0.0213552452623844,0.0062181921675801
+"hey, everyone is shauna from paperweights and today i'm going to be reviewing us, which is directed by jordan pill, and the stars lupita nyong'o, elizabeth moss and winston duke",0.09978092,0.0,0.0,0.0,False,0.0017706215148791,0.0039666122756898,0.0033760475926101
+and so i have the pleasure of seeing this film as the opening night film of the southwest,0.03839648,0.0,0.0,0.0,False,0.0007285657920874,0.0004080184444319,0.0004350080853328
+"i'll host film festival here in austin, which is where i'm still at right now",0.07011723,0.0,0.0,0.0,False,0.0005599739961326,0.0004844596260227,0.0004355339915491
+"it doesn't end until this weekend, and so first and foremost that when i was pets, jordan, i went outside in the hot sun",0.101391904,0.0,0.0,0.0,False,0.0006559469620697,0.0009282030514441,0.0015435082605108
+i was sweating in places,0.10699297,0.9998761415481567,0.0,0.0,False,0.0047573712654411,0.0009554505813866,0.0108208367601037
+"i didn't know that i could sweat in just to see this movie and i'm happy to say that it was actually worth it, and hopefully i lost a couple of pounds in the process of being a high at sweating outside",0.13017663,0.0,0.0,0.047,False,0.0009439986897632,0.0006250213482417,0.0053030918352305
+"um, so first and foremost is film centers around this family who's basically going on a vacation",0.03753809,0.0,0.0,0.0,False,0.0005933633656241,0.0006686714477837,0.0005325484671629
+they're chilling at their little summer vacation home,0.02517722,0.0,0.34375,0.136,False,0.0007162975380197,0.0004489673301577,0.0006968340603634
+"i say who had a summer vacation cause i sure as hell did it, but they're on their way to vacation",0.22985287,0.0,0.0,0.119,True,0.0739892795681953,0.0699403211474418,0.0343129970133304
+everything seems to be going well,0.024318827,0.0,0.0,0.0,False,0.0006060606683604,0.0003323576820548,0.0003434219397604
+everyone's having a great time,0.022351967,0.0,0.0,0.0,False,0.0007242826977744,0.0004234830848872,0.0017115166410803
+i'm having a great time watching them have a great time until they are confronted by the evil doppelganger versions of themselves and then you know what,0.22982138,0.0,0.0,0.166,False,0.0213341489434242,0.0034312633797526,0.1581377983093261
+it's just hits the fan after that and then i was taking on the sterling and suspenseful ride that i was just like whoo,0.17449278,0.0,0.0,0.0,False,0.0016193451592698,0.0022898623719811,0.0125167816877365
+i was screaming,0.10892494,0.9998729228973389,0.0,0.565,False,0.0448380894958972,0.0049875606782734,0.0040411450900137
+i was jumping,0.0789077,0.0,0.0,0.0,False,0.011958590708673,0.0017820987850427,0.0015671708388254
+always be screaming and jumping,0.20302857,0.5025542378425598,0.0,0.394,False,0.0769710466265678,0.0277891084551811,0.0078262714669108
+"people's looking to be crazy in the movie i was like, yeah, this is actually scary",0.22977416,0.0,0.55,0.251,False,0.0232538450509309,0.0836649537086486,0.1062017828226089
+"i don't understand what you're watching, but i know what i'm watching right now, but i have to say i really did enjoy this film",0.03049926,0.0,0.0,0.0,False,0.0006125034997239,0.0005154125392436,0.0006331776385195
+"one of the main things that i loved about this film was how they were able to balance the use of suspense, and there's even a little bit of blood and gore in this film as well, kind of with the comedy",0.1250247,0.0,0.0,0.0,False,0.0006929407827556,0.0014223989564925,0.0004923522355966
+there's actually a lot of comedy in this film,0.0717155,0.0,0.0,0.0,False,0.0006776077207177,0.0004701373400166,0.0004329557414166
+"i'm mainly given by winston dukes character, but i was just like wow",0.0765103,0.0,0.0,0.0,False,0.0005961565766483,0.0016512036090716,0.0009447486954741
+this is kind of like a dark comedy and i'm actually loving the vibe because i feel as though the comedy hit in the best parts,0.049212243,0.0,0.0,0.0,False,0.0007146274438127,0.0005048277089372,0.0006012514350004
+it didn't take away from you still being scared and didn't take away from the suspense that the film was giving,0.10300289,0.9980441331863403,0.0,0.119,False,0.0020568526815623,0.0003902447060681,0.0011139176785945
+"i just thought that everything was so well balanced and i have to say, can we go ahead and put dukan a romantic comedy because after watching him at us, i was just like he can definitely pull this off and i am so here for it",0.10892494,0.0,0.0,0.0,False,0.0005801857332699,0.0012608669931069,0.0009631871362216
+and thank you,0.014716201,0.0,0.0,0.0,False,0.0006130426190793,0.0004033265868201,0.0003909132501576
+"listen, dupe for letting people know that thick thighs matter because they do",0.355017,0.997776210308075,0.3,0.171,False,0.0016381720779463,0.0026256272103637,0.0323229171335697
+"yeah, also too, lupita",0.036508016,0.0,0.0,0.0,False,0.0020392490550875,0.0021532552782446,0.0096913091838359
+"yeah, lupita did the damn thing",0.62792164,0.0,0.0,0.303,True,0.7408233284950256,0.964625597000122,0.9440943598747252
+i was just like girl,0.09172598,0.0,0.0,0.0,False,0.0067758322693407,0.0063481368124485,0.0021250662393867
+"so you gonna sort of parent? give us this little oscar-worthy performance like this plan, these two characters, which i have to give kudos to the entire cast for doing so, because they're not only just playing kind of this, the regular versions of themselves",0.08796701,0.0,0.0,0.032,False,0.0060702450573444,0.0006753715570084,0.0007991155725903
+they also do a very great job of showing the distinct difference between who their evil doppelganger is versus to the characters that we were introduced to in the beginning of the film,0.12695669,0.0,0.0,0.111,False,0.0012154909782111,0.0005223482730798,0.0221864040941
+"i thought it was very well done and kudos to everyone, but lupita lupita is the one who took it all the way home",0.04783881,0.0,0.0,0.0,False,0.0010668574832379,0.0007330483640544,0.0012496986892074
+she knocked it out of the park,0.2022951,0.0,0.0,0.0,False,0.010898970067501,0.014952597208321,0.0422327555716037
+"i was like, yes, girl, yes, i was here for everything that she was possibly in",0.07451247,0.0,0.0,0.0,False,0.0012057309504598,0.0024459811393171,0.0022270795889198
+"so also - i do appreciate that this is a different tone a film than what we were used to and get out, and i really do feel as though i have to make sure i've set the correct expectations for those who are watching the film because i think it will help enhance your viewing experience",0.0186035,0.0,0.0,0.0,False,0.0005265558720566,0.0003476607089396,0.0003659535141196
+"this is not a political movie as get out was, this is not a racial movie as get out was, there are certain type of political things, but not what you were thinking in regards to race, and get out was kind of more in-your-face as to what was happening throughout the course of the film, and i have to say that i appreciate jordan going into a different route now for those of you who might be, for those of you who might be more caught up, or and get out, i do feel as though some people may feel as though get out was the better film",0.16620636,0.9966622591018677,0.0,0.0,False,0.0055112284608185,0.0006285470444709,0.0005738129257224
+"however, because i love that he brings in more aspects of the horror, the blood, the gore, and then even to this underlying story of you know, where are these people coming from? who are they? you know? trying to figure out what that plan is? i love how the movie makes you leave the theater continuously thinking",0.08290337,0.0,0.0,0.072,False,0.0009052485693246,0.0025441052857786,0.0024666357785463
+"okay, and if you thought that you had all these theories, forget out",0.08850401,0.9926884770393372,0.0,0.128,False,0.0089336140081286,0.0021030786447227,0.0053075007162988
+you're definitely gonna have a ton of theories,0.03187269,0.0,0.0,0.0,False,0.0010405142093077,0.0007671867497265,0.0010880858171731
+as far as what us brings to the table,0.0224908,0.0,0.0,0.0,False,0.0007044153753668,0.0004748812061734,0.0012021872680634
+and what i will say is this is definitely a movie that you're not gonna get everything the first time,0.07251463,0.0,0.0,0.0,False,0.0013490018900483,0.001195979071781,0.0010194756323471
+"um, i think i talked to someone from the studio who actually saw the movie over six times",0.04131502,0.9783068895339966,0.0,0.0,False,0.0005757761537097,0.0003839284763671,0.0005774967139586
+"they were just like there's something new that i gathered from the film each time that i watch it, so this is definitely going to be a multiple repeat viewing",0.040284947,0.0,0.0,0.0,False,0.0005741482600569,0.0003946162760257,0.0004144393606111
+i don't know if there's necessarily anything that i didn't like more from a nitpicky standpoint will be more,0.13745339,0.8894805908203125,0.0,0.105,False,0.0007105352706275,0.0151122072711586,0.3361937999725342
+"so i wanted to know more about a certain subtype that was happening in the film and i didn't feel as though all those questions were answered, but i don't know if they were necessarily supposed to be answer",0.026894007,0.9858762621879578,0.0,0.0,False,0.0005612205713987,0.0004014775913674,0.00031206998392
+"i think it was really supposed to make people leaving the theater thinking like, i wonder if this is what happened, and so for that i will have to say overall, for us, you gotta pay to see the film and theater",0.09763293,0.9997811913490295,0.0,0.032,False,0.0006147267413325,0.0004210724437143,0.0008592091617174
+it's okay,0.019852988,0.9940611720085144,0.0,0.0,False,0.0006813557702116,0.0003838635166175,0.0004456666065379
+it gave me horn,0.19789414,0.9990683197975159,0.0,0.0,False,0.7189648151397705,0.0042653153650462,0.0399214029312133
+it gave me suspense,0.13082063,0.0,0.0,0.0,False,0.0013103536330163,0.0004485222743824,0.0008539540576748
+it gave me last,0.09709594,0.9854873418807983,0.0,0.0,False,0.0044145709834992,0.0006201001233421,0.0008743359940126
+it gave us great performances,0.050242316,0.0,0.0,0.0,False,0.0005828130524605,0.0003543131751939,0.0007571370806545
+that would definitely keep you thinking,0.04406188,0.0,0.0,0.0,False,0.0007171291508711,0.0005307178944349,0.0008783566299825
+"from the time that you sit, you're a little behind in that movie till you walk out, and probably for the rest of the year because i guarantee there's gonna be some great series popping up from this movie",0.09602194,0.0,0.0,0.0,False,0.0121166929602622,0.0006061808671802,0.0061843707226216
+so those are pretty much my thoughts on us,0.030155903,0.0,0.0,0.0,False,0.0006833669031038,0.0004166376311331,0.0005080141127109
+"it's always running maturana from para waits, and if you liked what you saw today, make sure you hit the like button",0.052136723,0.0,0.0,0.0,False,0.0009571242844685,0.0074774627573788,0.0008992960792966
+"hit subscribe, share this video with your friends and make sure you hit the notification bell, and i will see you soon",0.17759849,0.0,0.0,0.0,False,0.0009802562417462,0.4565868973731994,0.0022050593979656

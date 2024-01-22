@@ -1,0 +1,47 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+i used to want to save the world beautifully,0.026035614,0.0,0.0,0.0,False,0.0013072367291897,0.0007186228758655,0.0014269173843786
+"with the closer you get, the more you see the great darkness within",0.043718524,0.0,0.0,0.117,False,0.0010127534624189,0.0007900425116531,0.0023666024208068
+"well, there's a new superhero movie on the horizon",0.03994159,0.0,0.0,0.0,False,0.000788080447819,0.0004881008644588,0.0005695399595424
+"of course, it's summertime are just about, and no doubt one of the most awaited in a long, long time",0.026035614,0.0,0.0,0.065,False,0.0008052345947362,0.0003437424602452,0.000422299694037
+and that's because it's different,0.022351967,0.0,0.0,0.0,False,0.0008357808110304,0.0003678312641568,0.0014640375738963
+we have wonder woman finally on the big screen,0.0669207,0.0,0.0,0.0,False,0.0011763704242184,0.0052573224529623,0.0607778392732143
+"of course, there was the famous television series let's start, lynda carter, and that was all comic book stuff fun in its own right, but not on the level of what they've hooked up here for the big screen",0.050585672,0.9956608414649963,0.0,0.0,False,0.000662185717374,0.0004413378774188,0.0005730253760702
+i'm so happy,0.036851373,0.0,0.0,0.0,False,0.0007556925993412,0.0003717210202012,0.0004967047134414
+"finally we have this movie and that it's in the hands of director patty jenkins, who really knows what she's doing here",0.060927194,0.0,0.0,0.0,False,0.000607761030551,0.0007772960234433,0.0009860261343419
+and of course a woman directing wonder woman seems entirely appropriate,0.07850813,0.0,0.0,0.0,False,0.0006725108250975,0.0068568838760256,0.023149250075221
+"in fact, it is the most expensive movie ever made directed by a woman, and she has not let anybody",0.2712817,0.9857494831085205,0.0,0.0,False,0.0025477779563516,0.007604394108057,0.0133339399471879
+are the studio down,0.104076885,0.6753736734390259,0.1555555555555555,0.0,False,0.010043878108263,0.0007930910214781,0.0035363584756851
+i have a feeling this is going to make a boatload of money,0.07251463,0.8593708872795105,0.0,0.0,False,0.0014848673017695,0.0005466837901622,0.0008697517914697
+it stars gal gadot,0.023632111,0.0,0.0,0.0,False,0.0020671642851084,0.0031621966045349,0.024805886670947
+"it was introduced as wonder woman in batman v superman, and gets so much more to do here",0.04783881,0.0,0.0,0.0,False,0.0007405370706692,0.0023155843373388,0.0097977956756949
+"everything we see the human side of this person, who, oddly enough, was created from the gods and zeus, and we first meet her on an island of all women, and she is a young girl of being initiated into what this world is like",0.045091953,0.0,0.0,0.0,False,0.0035740446764975,0.0034085598308593,0.0022536693140864
+never let your guard down,0.06012806,0.0,0.1555555555555555,0.0,False,0.0882481336593627,0.0037027327343821,0.0034814218524843
+you respect the battle to be fair about the woman,0.12309273,0.6849880218505859,0.0,0.173,False,0.0006717062788084,0.0057479459792375,0.0092813856899738
+never be fair,0.08581903,0.0,0.0,0.495,False,0.0075285276398062,0.0004477842594496,0.00316799338907
+"there is the queen, played by connie nielsen, her aunt, played by robin wright, and they lured over this island of women who are very good with bow and arrows, learned the ways of this very unique and ancient kind of world that they exist on kind of an odd island",0.078108564,0.0,0.0,0.04,False,0.0008513777283951,0.0021806478034704,0.0038304543122649
+"they're all unto itself when all of a sudden who crash-lands into it by chris pine, who plays a military intelligence officer from britain and he's here during world war one and doesn't know what to make of what he's about to find out there, but neither does diana, as she is named, who later becomes",0.08635602,0.975440502166748,0.0333333333333333,0.042,False,0.0020366585813462,0.0009847169276326,0.0011199200525879
+"of course, wonder woman and their scenes together are really fun, full of sexual tension and the whole politics of men and women",0.31389946,0.0,0.0,0.086,False,0.007743117865175,0.0480511970818042,0.1070455908775329
+i really love the dialogue between them,0.036679696,0.0,0.0,0.0,False,0.0005977773107588,0.000446214544354,0.0003665860276669
+it's snappy,0.09602194,0.0,0.0,0.0,False,0.0010222372366115,0.0741823017597198,0.0079514486715197
+it's smart,0.029984225,0.0,0.0,0.0,False,0.0007649139151908,0.0006829892517998,0.0053236512467265
+their whole relationship is,0.0224908,0.0,0.0,0.0,False,0.0010203680722042,0.0003479163278825,0.002981528872624
+you're drawn into it immediately,0.064523295,0.0,0.0,0.0,False,0.0007449218537658,0.0006590685807168,0.0093732345849275
+both these actors are so well cast in this movie and so much fun to watch,0.039598234,0.0,0.0,0.0,False,0.0007019556360319,0.0005192377720959,0.0006234070751816
+"got a second? why don't i meet you back to the office? i mean what, i'll take this",0.094410956,0.0,0.1041666666666666,0.0,False,0.0008123120642267,0.0353378541767597,0.0135749643668532
+"no, no, i don't think they gotta put the sword down, diana, please",0.065721996,0.757278323173523,0.1555555555555555,0.0,False,0.0093557350337505,0.0021178154274821,0.0040603480301797
+it doesn't go with the outfit down oil,0.070516795,0.0,0.1555555555555555,0.0,False,0.0017382485093548,0.0006959699094295,0.001296937931329
+"it's a great sequence, sort of a fashion socio sequence where she's trying to figure out what to wear and not her",0.06492286,0.0,0.0,0.0,False,0.0007700403803028,0.0004774372500833,0.0004508756974246
+a skinny wonder woman outfit,0.1334155,0.9997954964637756,0.0,0.0,False,0.145818144083023,0.0063196923583745,0.0482284538447856
+that is very funny,0.080905534,0.0,0.0,0.0,False,0.0007492321892641,0.0003154404985252,0.0008313166326843
+"how she lens in into this whole town, and how she takes matters into her own hands",0.07571117,0.0,0.0,0.0,False,0.0007150589372031,0.0006448854110203,0.0009152957936748
+this is a true feminist,0.28996843,0.0,0.0,0.0,False,0.0703230649232864,0.0148211941123008,0.0070663378573954
+"believe it or not, she really knows what she's doing, and the whole relationship between her and chris klein, as it goes on, really really is fun to watch",0.034962907,0.0,0.0,0.0,False,0.0006920191226527,0.0006606067181564,0.0007222613785415
+"of course, there's the requisite villains",0.11794081,0.8361021876335144,0.0,0.468,False,0.0006947803776711,0.0004155306087341,0.0004132766625843
+we have danny huston and elena anaya as a pair who are determined to develop the most up-to-date chemical weapons to take over the world,0.12695669,0.0,0.0,0.111,False,0.0015551375690847,0.026950629428029,0.002089993096888
+this is world war 1,0.1414913,0.0,0.0,0.494,False,0.0067310626618564,0.0007528070709668,0.0006249212892726
+"now, the comic books on which it's sort of based here from the 40s, were set in world war 2, but it's been moved to the war to end all wars, and that's a smart tactic",0.042001735,0.0,0.0,0.263,False,0.0008448451990261,0.0004312602977734,0.0004838866589125
+i think there's of course tons of action sequences,0.031701013,0.0,0.0,0.0,False,0.0006665695109404,0.0004093327152077,0.0003330612089484
+"we see her really with a lot of smart move and tics, and everything you would expect wonder woman to do in this lots of action for anybody who loves that kind of movie",0.13745339,0.0,0.0,0.0,False,0.0007422347553074,0.002358617959544,0.0072199357673525
+but this is a smart and funny and really fine take on the comic book genre and i really applaud,0.039254878,0.0,0.0,0.0,False,0.0006446184124797,0.0003897290444001,0.0007080983486957
+"it stars gal gadot and chris pine, perfect casting in the perfect summer movie",0.037023053,0.0,0.0,0.0,False,0.0008793740998953,0.0015063930768519,0.0007562664104625
+i loved it and i said go,0.04680874,0.0,0.0,0.0,False,0.0010881009511649,0.000500644033309,0.0005168813513591

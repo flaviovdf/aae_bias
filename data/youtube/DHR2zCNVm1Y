@@ -1,0 +1,148 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hi, shane, here, you're watching sam for god's this is march",0.040971663,0.0,0.0,0.0,False,0.0023459831718355,0.0026057779323309,0.0023568908218294
+check around,0.019575324,0.0,0.0,0.0,False,0.0013168468140065,0.000514120387379,0.0005930478801019
+so hi guys,0.053335425,0.0,0.0,0.0,False,0.0009444665629416,0.0010717251570895,0.0003816861426457
+how you doing today? i will talk about a film that i've been wanting and waiting to see for so long,0.04680874,0.0,0.05,0.0,False,0.0006253690226003,0.0005361695657484,0.0021082628518342
+i can't speak to how excited i was for it to finally come out of the uk,0.08290337,0.0,0.0,0.0,False,0.00065150228329,0.0323586091399192,0.0010287556797266
+because it came out in the uk about a month and a half dated in america,0.036851373,0.9998786449432373,0.1666666666666666,0.0,False,0.0005759501364082,0.0016492577269673,0.0006799267721362
+which what is this like? why does america get everything early anyway? i'm the 24th of july 2015,0.056931525,0.937442421913147,0.0,0.0,False,0.000732232176233,0.0008052276680245,0.0011648706858977
+"pixar's new film inside out finally came out of the uk, and i went to watch it that same day",0.040628307,0.0,0.0,0.0,False,0.0007594270282424,0.0014726443914696,0.0003934043634217
+it was a friday and i absolutely loved it,0.036336336,0.0,0.0,0.0,False,0.0008863600087352,0.0005447602597996,0.0017618697602301
+"okay, so if you've read anything about inside out, you'd probably know that this film has been getting positive reviews after positive reviews after positive reviews",0.032731086,0.5588645339012146,0.0,0.0,False,0.0005640375893563,0.0004188789171166,0.0004109417786821
+hardly anyone,0.026207292,0.9616224765777588,0.2916666666666667,0.0,False,0.0019708101172,0.0014937679516151,0.0008508744649589
+"in fact, there having been a single negative review about this movie and so i was very excited about seeing it because i was like whoa",0.10892494,0.0,0.0,0.116,False,0.0005718667525798,0.0008236485882662,0.0006142896017991
+everybody is giving this film like amazing reviews,0.051737156,0.0,0.0,0.0,False,0.0006241109222173,0.0004848014796152,0.0006536613218486
+"i was also a bit apprehensive because i was like, surely there must be at least something wrong with a film like this movie can't be so good that no one said anything bad about it, so i went in hoping for the best, but also being open to things i didn't like in the film",0.08796701,0.9979999661445618,0.0,0.13,False,0.0005938403191976,0.0006942313630133,0.0005546464235521
+there weren't any,0.018881164,0.9954759478569031,0.0,0.0,False,0.0008752337889745,0.0003716815263032,0.0010397696169093
+the film is perfect,0.035649624,0.0,0.0,0.0,False,0.0007711616926826,0.0004335795820225,0.0005269778775982
+"if you didn't know, inside-out is about a girl called riley",0.05253629,0.0,0.0,0.0,False,0.0007224121363833,0.0065472712740302,0.0127260740846395
+"she's like 11 or something, and she moves away",0.18154536,0.9764271974563599,0.0,0.0,False,0.0293227322399616,0.007250559516251,0.0336224995553493
+she moves from like one place to another to another state or whatever,0.03856816,0.0,0.0,0.0,False,0.0051462985575199,0.0018398532411083,0.0015058926073834
+"she actually moved to san francisco, which i thought was really cool because i've been san francisco",0.033932835,0.0,0.0,0.0,False,0.0007167732110247,0.000831973971799,0.0007282925653271
+"i mean, like san francisco",0.016173938,0.0,0.3125,0.0,False,0.0015439639100804,0.0008139024139381,0.0015309404116123
+"so it was cool to see that in the film, but she doesn't like it fair enough",0.12953265,0.9898741245269775,0.0,0.245,False,0.0006000060238875,0.0004485973331611,0.0040031215175986
+you know she's young,0.040971663,0.0,0.0,0.0,False,0.0013197440421208,0.0019583790563046,0.0153345167636871
+"it's not really easy moving from one place to another because like she didn't have her friends anymore, she doesn't live in her old house where she liked her room and whatnot",0.04165838,0.9971269965171814,0.0,0.135,False,0.0027128509245812,0.0015515723498538,0.0003577356401365
+so the whole room is a bit difficult on her,0.21539254,0.9866014122962952,0.15,0.217,False,0.000816982879769,0.0008634576224721,0.0011024598497897
+"and yeah, basically if we go inside whitey's brain and find out how her brain is controlled doing this move, it's genius",0.14373457,0.0,0.0,0.0,False,0.0030506108887493,0.1643693149089813,0.5611647963523865
+it's the coolest thing,0.02792408,0.0,0.0,0.0,False,0.0007058198098093,0.0003658792120404,0.003323225537315
+"basically the main characters in the film involve characters like joy and sadness and anger and fear and disgust, and the movie is just so unique, so original and i honestly wasn't sure how they were gonna play out like because they is quite difficult",0.14866976,0.0,0.0,0.268,False,0.0008139458368532,0.0004875173035543,0.0004290724173188
+"you know, you go back and forth between seeing riley in her life and then seeing the emotions in her brain, but they did a great job at it like there were no moments of boredom, no moments of confusion",0.04783881,0.0,0.0,0.209,False,0.0010037414031103,0.0038618776015937,0.0241435673087835
+it was just done very very well,0.027580723,0.0,0.0,0.0,False,0.0005917309317737,0.0002907409798353,0.0003654664906207
+what i love most about the film is that it's just so clever and it's so deep,0.0729142,0.0,0.0,0.0,False,0.0006159894401207,0.0004451470740605,0.0043513653799891
+it's so meaningful,0.062925026,0.0,0.0,0.0,False,0.0007997970096766,0.0003188088303431,0.001892416854389
+"there are so many underlying themes go on, and it's something that i genuinely think adults would enjoy more than children",0.11021292,0.0,0.0,0.0,False,0.0009538407321088,0.0003989542310591,0.0004352859978098
+"like kids can go and watch the film and like it because it's entertaining and funny and there's loads of colors in the film, but they probably won't understand the deeper meanings behind the film and those are the things that adults going to watch the film would notice, and they'd be amazed by them like i was",0.045091953,0.0,0.0,0.0,False,0.0008154662209562,0.0004593768389895,0.0004356020945124
+"if you're actually in psychology even just a little bit, you're gonna love this film because it just goes inside your brain and it explains how brains work in a very unique way",0.08330294,0.0,0.0,0.0,False,0.0280539989471435,0.0082920370623469,0.0684427917003631
+"obviously, that's not necessarily how brains actually work",0.10461388,0.9959366321563721,0.0,0.0,False,0.0676668956875801,0.0210940949618816,0.0763994008302688
+this is fiction,0.0813051,0.0,0.0,0.0,False,0.0019807477947324,0.0004547782591544,0.0007341197342611
+this is a fictional story,0.056931525,0.0,0.0,0.0,False,0.0010128387948498,0.0003442464803811,0.0005176186677999
+"it's a fictional film, but it's just so clever and unique and amazing, ingenious how they've come up with this system like it's a whole system in your head according to this film, and all these emotions are like characters who like, have to work hard every day to make sure you know your levels of emotions are like balance and everything",0.037881445,0.0,0.0,0.02,False,0.0009177763131447,0.0007128327270038,0.0004185244906693
+"oh, i just loved it so much",0.04680874,0.0,0.0,0.0,False,0.0008718972094357,0.000351454509655,0.0009267291170544
+every single character in the film and there's loads of them was great to watch,0.04131502,0.0,0.0,0.0,False,0.0005860935198143,0.0004565954441204,0.001211978145875
+there weren't any annoying people,0.21109697,0.0,0.8,0.0,False,0.0038140066899359,0.0042868116870522,0.0337097868323326
+there's actually one character called bing bong and he easily could have been annoying,0.18647896,0.9990586638450623,0.1222222222222222,0.158,False,0.0088104428723454,0.0105400364845991,0.0082823112607002
+"like i remember watching him at some point and thinking to myself, why am i not annoyed that this character because he did some things and he said some things that could have become a bit annoying, but somehow they don't seem annoying",0.17173064,0.0,0.4666666666666667,0.039,False,0.0006470290827564,0.0007745982729829,0.0005795391043648
+like you still absolutely love bing bong and bing bong,0.1256687,0.0,0.0,0.0,False,0.0539241209626197,0.0163849014788866,0.0452167466282844
+the character bing bong is actually one of the reasons that i cried a lot during the film because there are some emotional sad moments i'm not going to spoil for you,0.14687516,0.0,0.1666666666666666,0.157,False,0.0019040347542613,0.0021590527612715,0.0382776595652103
+"but yeah, there was one point involving bing bong that made me literally cry like a baby",0.2406723,0.9747807383537292,0.0,0.171,False,0.0495015978813171,0.013255525380373,0.02688679844141
+it was ugly crying,0.45353866,0.999969482421875,0.4499999999999999,0.762,False,0.2117306143045425,0.2196420580148697,0.4454119801521301
+it was the most i've cried,0.052935857,0.9334706664085388,0.0,0.365,False,0.0009127245866693,0.0018925608601421,0.0080711068585515
+missing him in a very long time,0.031357653,0.995303750038147,0.1325,0.268,False,0.0007210630574263,0.0712474733591079,0.0019072808790951
+they've got,0.022945397,0.0,0.0,0.0,False,0.0039305337704718,0.0003754266072064,0.0011131215142086
+joy is probably my favorite character,0.019019997,0.0,0.0,0.0,False,0.0008472669869661,0.0004339465813245,0.0005266580265015
+just because i related to her,0.06372416,0.0,0.0,0.0,False,0.0009963746415451,0.0004051560827065,0.0007717156549915
+"i'm somebody who normally likes even very happy and joyful and tries to see the best in every situation and tries to make everyone feel happy like i don't like sadness, which is kind of what joy is about the character of joy of the feeling of joy",0.029984225,0.0,0.0,0.028,False,0.0006606523529626,0.0003294358612038,0.0003149528056383
+and to like whenever something sad,0.05493369,0.9571653604507446,0.5,0.323,False,0.0014839895302429,0.0006493450491689,0.0014343876391649
+all that happens,0.031185975,0.8741491436958313,0.0,0.0,False,0.0171666257083416,0.0004582606779877,0.0036576008424162
+"instead of like being sad, i like to avoid it, and like tell people to not be sad and just be happy again, which in the film you learn that that's not necessarily the best thing to do",0.06252546,0.9964634776115417,0.0,0.165,False,0.0009445295436307,0.0009575607255101,0.0006253159954212
+"sometimes you need sadness, you know in your life",0.15130237,0.0,0.0,0.266,False,0.0024370630271732,0.0152345160022377,0.0061088078655302
+sometimes it's good to have a bit of a cry or just feel sad for a while,0.14597784,0.5826246738433838,0.0,0.268,False,0.0011607396882027,0.0036669317632913,0.0032426342368125
+"oh, it's just so clever",0.13206954,0.0,0.0,0.0,False,0.0008937516831792,0.000514812534675,0.012243247590959
+thinking about it just makes me you think like,0.035134587,0.0,0.0,0.0,False,0.0006927569047547,0.0009116225992329,0.0031404392793774
+whoa,0.022773718,0.0,0.0,0.0,False,0.0009375347872264,0.0006379787810146,0.0007048478000797
+it was amazing,0.02809576,0.0,0.0,0.0,False,0.0006152613204903,0.0003547495580278,0.0004811107646673
+sadness has the character was was awesome again,0.056931525,0.5605616569519043,0.0,0.223,False,0.0013155894121155,0.0004605049616657,0.0034233154729008
+she does quite a lot of annoying things in the film like in the beginning i was like,0.34388447,0.9940521121025085,0.8,0.119,False,0.0025547347031533,0.0112046524882316,0.0036168983206152
+"i'm not sure if i'm gonna like her, but as a film went on, i was like she's awesome",0.058130227,0.0,0.0,0.055,False,0.0008259258465841,0.0005800383514724,0.0017656576819717
+she's apps,0.04783881,0.0,0.0,0.0,False,0.0193245261907577,0.0020154113881289,0.0021351054310798
+the awesome she made me laugh a lot,0.09065199,0.0,0.0,0.0,False,0.0021442987490445,0.0004532863677013,0.0014493438648059
+she was just the voice i'm acting as well as done really well in the film,0.03994159,0.0,0.0,0.0,False,0.0006423878949135,0.0004063148517161,0.0005354307941161
+"throughout the whole film, every single character was brilliant",0.035649624,0.0,0.0,0.0,False,0.0006277310894802,0.0003820758720394,0.0011084718862548
+"there isn't a villain in the film, which is another thing i like in a lot of films, especially kids films",0.07970683,0.0,0.0,0.0,False,0.0008367398404516,0.0005939761758781,0.0004081304941792
+"there always seems to be a villain that the protagonist of the film has to go and fight against or something, but inside out does not have a villain",0.09763293,0.0,0.0,0.121,False,0.0008940349216572,0.0005157447303645,0.000293429067824
+"they go on an adventure, but the adventure doesn't have to do anything with a villain",0.085282035,0.0,0.0,0.218,False,0.001118276733905,0.000438968767412,0.0004661159473471
+it's just things happen and they get to a point where they have to solve things,0.03049926,0.7972753643989563,0.0,0.0,False,0.0008742397767491,0.0003602268698159,0.0007718814886175
+"basically, i actually have some of their inside-out characters with me right now in tsumtsum form, so we've got joy over here",0.07571117,0.0,0.0,0.0,False,0.0007123631658032,0.0011252772528678,0.0004156165814492
+she looks pretty joyful,0.09494796,0.0,0.0,0.0,False,0.0007431860431097,0.0006570080877281,0.0043924511410295
+they've got sadness,0.086087525,0.9723467826843262,0.0,0.592,False,0.0019397516734898,0.0004705587634816,0.0074753784574568
+"she looks really sad, lesser or blue and sad",0.22983712,0.9985413551330566,0.25,0.481,False,0.0075138411484658,0.0439871773123741,0.0388533286750316
+this is fear,0.112788886,0.9980562925338745,0.0,0.615,False,0.0037273087073117,0.0006596391322091,0.0008111239876598
+it was actually one of the funnier characters in the film,0.03187269,0.0,0.0,0.0,False,0.0006113592535257,0.000349223264493,0.0022229605820029
+they've got anger,0.12953265,0.9075581431388855,0.7,0.649,False,0.0551670044660568,0.0014961559791117,0.0056524747051298
+"looks pretty angry, i'd say, and this guy's is bing bong, who i talked to you about earlier",0.20302857,0.9267609119415283,0.0833333333333333,0.147,False,0.0229615047574043,0.0098821176216006,0.0966908857226371
+"yep, he's like a half elephant, half something else",0.41256893,0.996418833732605,0.1666666666666666,0.0,False,0.4243472218513489,0.1874300837516784,0.039754319936037
+kind of thing,0.026722329,0.9900968074798584,0.0,0.0,False,0.0010568434372544,0.0003620646602939,0.0008335606544278
+"i'm not gonna give anything away, but yeah, this is bing bong taking off steam",0.1835188,0.0,0.0,0.0,False,0.0661763101816177,0.0244667679071426,0.0026904011610895
+assumes,0.051737156,0.9983134269714355,0.0,0.0,False,0.0007662702118977,0.0053033209405839,0.00076926255133
+"actually, if you want me to do a tsumtsum collection video at some point, do you leave a comment down below and let me know anyway? back to the film? um, honestly, i was so amazed by it",0.1250247,0.0,0.0,0.027,False,0.0008445112034678,0.0006445994367823,0.0006491680978797
+i loved it so much,0.049212243,0.0,0.0,0.0,False,0.0013099680654704,0.0003321432159282,0.0006432523368857
+i loved so much,0.048525527,0.0,0.0,0.0,False,0.0012316621141508,0.0003380983544047,0.0010178233496844
+there are so many funny moments in the film,0.048868883,0.0,0.0,0.0,False,0.000699465512298,0.0003226176195312,0.0003059824521187
+so many great lines for visuals are just amazing,0.04268845,0.0,0.0,0.0,False,0.0005577150150202,0.000364244217053,0.000788100704085
+"like ah, pixar",0.02124131,0.0,0.0,0.0,False,0.0074273175559937,0.0042120884172618,0.0637425631284713
+pixar just knows how to make films like,0.05653196,0.0,0.0,0.0,False,0.001171022420749,0.0007143097463995,0.0087407231330871
+i'm probably one of the biggest pixar fans out there,0.03599298,0.0,0.0,0.0,False,0.0020873015746474,0.004340405575931,0.1225052401423454
+as much as i love disney with pixar,0.024147147,0.0,0.0,0.0,False,0.0010018965695053,0.0026079947128891,0.0607001148164272
+it's just something else,0.024318827,0.9759204387664795,0.0,0.0,False,0.0008170825312845,0.0003472087555564,0.0026087660808116
+i've always preferred what pixar do to what disney does without big star and they just did it with this film like it's been a long time since pixar sports out of film,0.043718524,0.5163360834121704,0.025,0.0,False,0.0007956378394737,0.0006712893373332,0.0017112217610701
+that's good as inside out,0.062125895,0.0,0.0,0.0,False,0.003360538277775,0.0009299079538322,0.0009155414300039
+"i will say it's probably as good as toy story 1, or at least nearly as good as that, and that's a lot coming for me, because i adore toy story",0.033932835,0.0,0.0,0.0,False,0.0009024290484376,0.000406243809266,0.000360995036317
+i think it's one of the best films ever made,0.055333257,0.0,0.0,0.0,False,0.0007024534861557,0.0004778986913152,0.0008003707043826
+"be it inside out, especially in terms of originality and uniqueness, is probably pixar's best film",0.029469188,0.0,0.0,0.0,False,0.0009431401267647,0.0011198293650522,0.0008122423896566
+i'd say it was just awesome,0.026722329,0.0,0.0,0.0,False,0.0006486785714514,0.0003284805861767,0.0007935056346468
+i could not find any faults with their like,0.045778666,0.0,0.0,0.0,False,0.0053312648087739,0.0011724728392437,0.0161805544048547
+just go and see it,0.03444787,0.0,0.0,0.0,False,0.0010198204545304,0.0008544966112822,0.0007859842153266
+please go and see it,0.0495556,0.0,0.0,0.0,False,0.0006688135326839,0.0007265795720741,0.0004579792439471
+"i mean, you don't really need me to tell you to go and see",0.076110736,0.0,0.0562499999999999,0.0,False,0.0012050970690324,0.0079433880746364,0.0025958304759114
+you probably already have seen it yourself because it's doing really well,0.032559406,0.0,0.0,0.0,False,0.000660526799038,0.0004726255137939,0.0010496375616639
+everyone's saying good thing about it,0.03049926,0.0,0.0,0.0,False,0.0005924137076362,0.0003999164619017,0.0010547784622758
+"but even if you're not a fan of disney and pixar, give this one the girl",0.085282035,0.0,0.0,0.14,False,0.0022010030224919,0.0079943416640162,0.0306979920715093
+"because it played with my emotions, i cried",0.058929358,0.0,0.0,0.236,False,0.0007982886745594,0.0006860592984594,0.0182644464075565
+i laughed,0.04131502,0.0,0.0,0.0,False,0.0031442958861589,0.0003736137587111,0.0008317967876791
+"it was just for me, i say, he's probably the best film i've seen in 2015, and i've seen a lot of films this year like i don't know if you remember or not, but one of my name is resolutions, was to watch as many films as i could this year, and i have my mom's a member in the cinema, the cinema, so i get to go free quite a lot",0.037023053,0.0,0.0,0.0,False,0.0007683431613259,0.0006711102323606,0.0005391467711888
+"so i've seen so many different films since january of this year, different kinds of films have been join us and stuff, but oh my god, inside, that was the best one i've seen so far",0.073313765,0.0,0.0,0.0,False,0.0006253183819353,0.000464771175757,0.0006206562393344
+it's definitely gonna be an oscar like,0.044748597,0.0,0.0,0.0,False,0.0042862435802817,0.0039748060517013,0.0061564133502542
+"no doubt, it was just done so cleverly like i came home, and i could not stop thinking about it and i loved every single character and also i want to mention lava as well, lava was the short pixar film before inside out, in case you didn't know any pixar film that comes out in the cinema, has a short piece of film that precedes it before that, and i've seen knows a great short pixar films, but um, yeah, novel was a really good one",0.049212243,0.0,0.0,0.0,False,0.0005810243892483,0.0006059275474399,0.0003788478497881
+"not the best one, not the best short",0.1019289,0.9995657801628113,0.0,0.529,False,0.0008893377962522,0.0012948235962539,0.0019490830600261
+"to pick something i've seen, but it was so good like it was so cute",0.055333257,0.0,0.0,0.0,False,0.0005958827678114,0.0003688112483359,0.0033749423455446
+there's a song if you've seen the film,0.022074303,0.0,0.0,0.0,False,0.0006316945655271,0.0004474303859751,0.0011253859847784
+"if you've seen things i haven't seen are, but you know which is on i'm talking about, but the whole short film is basically taught through a song, a ukulele song, a very simple song, but a very effective and cute song",0.032902762,0.0,0.0,0.0,False,0.0006699979421682,0.0005389733705669,0.0004381875623948
+and that goes something like i have a dream,0.04543531,0.0,0.0,0.0,False,0.0010910102864727,0.0012386398157104,0.0023068715818226
+"i'm not going to sing it for you, but just look it up if you want, but it's such a cute song and it's a very basic story, which is why i don't thing, is one of the best short pixar films, and because normally you know the short film short, because of films have a twist and there was something just one",0.0753116,0.0,0.0,0.0,False,0.0006203762022778,0.0008818333735689,0.0012117420556023
+"didn't you have a twist? it was quite predictable, but it was still so cute",0.18253209,0.0,0.0,0.0,False,0.0009123755153268,0.0004846176016144,0.0028500736225396
+i felt emotional,0.024147147,0.0,0.0,0.0,False,0.001149647636339,0.0003886249323841,0.0004877520259469
+"i felt emotional for two volcanoes, guys",0.08796701,0.0,0.0,0.0,False,0.0005923434509895,0.0023579921107739,0.0027949612122029
+the story is about volcanoes,0.023803791,0.5971921682357788,0.0,0.0,False,0.0011273694690316,0.0004983529215678,0.0003034113324247
+"if you couldn't tell by the name lava, and i felt sorry and sad for them",0.044405237,0.8019208908081055,0.5,0.239,False,0.000734809495043,0.0008577580447308,0.0031021304894238
+what is my life? only pics? i could do that because i think that's all i want to say,0.06332459,0.0,0.0,0.0,False,0.0098533956333994,0.0284792799502611,0.0020666548516601
+i hope you enjoy this video,0.056931525,0.0,0.0,0.0,False,0.000887420552317,0.0006400034180842,0.0003870593209285
+if you see it inside out,0.0753116,0.0,0.0,0.0,False,0.0007982768584042,0.0019617117941379,0.0010854623978957
+"leave comments down below and let me know your thoughts, because i want to talk about it and i want to go see you again",0.13655609,0.0,0.1555555555555555,0.047,False,0.0006277280626818,0.0079756220802664,0.0006919630686752
+i probably will,0.021518974,0.0,0.0,0.0,False,0.0062680579721927,0.0007467854302376,0.0004108072316739
+at some point this week,0.021102477,0.0,0.0,0.0,False,0.0006289572338573,0.000368744804291,0.0002586122718639
+"also guys, let me show you something before i go",0.15001574,0.0,0.0,0.0,False,0.0012501653982326,0.0067610647529363,0.0019938840996474
+so this is my wardrobe,0.14104263,0.0,0.0,0.0,False,0.0133509961888194,0.0005526895984075,0.0010727221379056
+"if you can tell, this is normally the background of my videos",0.0669207,0.0,0.0,0.0,False,0.0006896966951899,0.0005161915905773,0.000721198040992
+this is the mirror,0.070516795,0.0,0.0,0.0,False,0.0135783683508634,0.001296280301176,0.0007556565105915
+"yeah, these are inside out stickers",0.06612156,0.0,0.0,0.0,False,0.0177227798849344,0.0014967779861763,0.0010297750122845
+i've started the collecting,0.030155903,0.0,0.0,0.0,False,0.0007614901405759,0.0006611326243728,0.0003251911257393
+i'll actually just support a few packs from w,0.04543531,0.0,0.1,0.0,False,0.0006000869325362,0.0006444271421059,0.0103740291669964
+"smiths the other day, and yeah, i decided to put them up because they're just so cute and i enjoy looking at them every night before i go to sleep",0.13700475,0.0,0.0,0.0,False,0.0009589192341081,0.0102066025137901,0.0036001564003527
+i think that was my favor because i love joining,0.026894007,0.0,0.0,0.0,False,0.000826436385978,0.0007437035092152,0.0007162132533267
+"it's all sparkly, but i'm there's being wrong here",0.08796701,0.0,0.5,0.342,False,0.0007515387260355,0.0004696475516539,0.0014443788677453
+"yeah, it's just very cute and i wouldn't be surprised if i end up feeling this whole thing with stickers depending on how many they are, but i'm yeah",0.065721996,0.0,0.0,0.04,False,0.0006328940507955,0.0007486865506507,0.0006987805245444
+"yep, those are my stickers and i think i've started a new collection already without even realizing it",0.049212243,0.0,0.0,0.0,False,0.0162283089011907,0.0009107309160754,0.0005387727869674
+"yeah, guys, thank you so much watching as always if you liked the video",0.03770977,0.0,0.0,0.0,False,0.0006047771312296,0.000728884129785,0.000388925342122
+give you a thumbs up and i'll see you next time,0.1580154,0.0,0.0,0.0,False,0.0009155021398328,0.0447629801928997,0.0066280234605073
+bye,0.059728492,0.0,0.0,0.0,False,0.0059144631959497,0.0005959753761999,0.000621129933279

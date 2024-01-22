@@ -1,0 +1,97 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"what our peeps, tony baker here back with another movie review? this time i'm reviewing spider-man into the spider verse",0.04406188,0.5868558287620544,0.0,0.0,False,0.0010597661603242,0.0183965135365724,0.0275472812354564
+"it's a dope little animated concept, a spider man, and this is spider man, this, miles morales",0.1894391,0.0,0.1875,0.0,False,0.0069563733413815,0.0169235114008188,0.0523921735584735
+"in comic books, they always do alternate universes all the time",0.027065687,0.0,0.0,0.0,False,0.0007727543124929,0.0004767868958879,0.0004708085034508
+"that way, they can always change the narrative",0.024318827,0.0,0.0,0.0,False,0.0006280407542362,0.0004587707808241,0.000357721466571
+"they can add new characters, keep the character the same, but make a little tweak on them, and then you don't have to restart anything else in the main universe",0.044748597,0.0,0.0,0.0,False,0.0006508199148811,0.0005070963525213,0.0005152519443072
+so spider-man miles morales is a kid from new york,0.09709594,0.9181249141693115,0.0,0.0,False,0.0023017872590571,0.0117573365569114,0.0326567478477954
+"now in this reality, okay, peter parker just died, spider-man and so this is kid from new york, miles morales, who is bitten by a radioactive spider",0.34388447,0.8258887529373169,0.0,0.118,False,0.0021290448494255,0.01466422714293,0.0514026023447513
+big surprise,0.02792408,0.0,0.0,0.0,False,0.000940992264077,0.0005094888038001,0.0005219710292294
+"he's in, viewed with the powers as well",0.043031808,0.0,0.0,0.0,False,0.0022337194532155,0.0004891639691777,0.0008899628883227
+this time he has a tweak on his powers,0.067320265,0.9455714821815491,0.0,0.0,False,0.0008899985696189,0.0023049793671816,0.0059478878974914
+he has a slow electric burst that he can do,0.2224569,0.7133572697639465,0.3,0.0,False,0.0023636354599148,0.0075215264223515,0.0335549525916576
+"any, could turn invisible miles morales, new york, kid, you know, i'm saying black and latino",0.34388447,0.9922822117805481,0.0151515151515151,0.0,False,0.0094597321003675,0.5630892515182495,0.2375028133392334
+"he's just in new york, you know, say, which is very new york",0.05852979,0.0,0.0,0.0,False,0.000795955187641,0.0471416413784027,0.0021457155235111
+to have a a biracial kid in new york city,0.16035037,0.0,0.0,0.0,False,0.0109809339046478,0.0038447184488177,0.0173048377037048
+that's this very realistic,0.029125832,0.0,0.0,0.0,False,0.0006331380573101,0.0003315386711619,0.0031806447077542
+"so peter parker dies and then there's interdimensional gate that's open, switches everything up",0.21892473,0.9985315799713135,0.0,0.0,False,0.026011012494564,0.0186095405369997,0.0041177691891789
+"so now peter parker from a different dimension shows up, and miles is dimension, and so it's like the peter parker that let himself go",0.08581903,0.7935716509819031,0.0,0.0,False,0.0008793513989076,0.0009259934304282,0.0007949391147121
+"him and mary jane split up, so he's just like you know",0.0717155,0.0,0.0,0.0,False,0.0047959978692233,0.0013361271703615,0.0073221791535615
+"he's gonna show him the ropes on being spider-man in his reality, but he still got to get peter parker back to his original reality",0.1580154,0.0,0.0,0.0,False,0.0014562336727976,0.0011255715508013,0.0035473322495818
+"it's kind of confusing, but it's not really",0.032902762,0.998132050037384,0.0,0.186,False,0.0007129475707188,0.0003704494156409,0.0006868564523756
+it's very easy to follow when you watch it,0.0741129,0.0,0.0,0.0,False,0.0005957411485724,0.000448369042715,0.0004182351403869
+but when you sit here and listen to me tell us you're probably like,0.049898956,0.0,0.0,0.0,False,0.0063882963731884,0.0034892738331109,0.0061144391074776
+what,0.022773718,0.0,0.0,0.0,False,0.0011035269126296,0.0008443402475677,0.0005939835100434
+"not only that there's other spider people from different dimensions that show up as well, so it's a whole bunch of spider people",0.22687212,0.0,0.0,0.0,False,0.0011988783953711,0.0012278483482077,0.1112957447767257
+they show up and they're like yo,0.05653196,0.0,0.0,0.0,False,0.2660216391086578,0.0016494343290105,0.009008364751935
+"we got to get back, cuz if they stay and miles is",0.033761155,0.0,0.0,0.0,False,0.0069862902164459,0.0006360826664604,0.0019165009725838
+i don't know how you say miles in poor form,0.060527626,0.9999122619628906,0.4,0.256,False,0.0025503556244075,0.0302977971732616,0.0039223241619765
+"if they stay in his dimension, they'll end up dying",0.28948012,0.9995031356811523,0.0,0.0,False,0.5282576680183411,0.468631237745285,0.3712837696075439
+so it's like we got to get you guys back,0.09924392,0.6111328601837158,0.0,0.0,False,0.0653235614299774,0.0150415198877453,0.0055294116027653
+you know that's the,0.019575324,0.0,0.0,0.0,False,0.0034605003893375,0.0004327492206357,0.0018233949085697
+and so that's pretty much what the movies about,0.027409043,0.8044982552528381,0.0,0.0,False,0.0008425547857768,0.0005896630464121,0.0005164876347407
+"and it's also you know, miles, coming to grip with, you know, i'm the spider-man how do i? how do i adjust to this new life? you got a spider ham in there",0.19862764,0.0,0.0,0.0,False,0.0061763077974319,0.0018377240048721,0.0123744215816259
+"the new are spider-man just like anime spider girl things, so it's all kind of different spider people coming together for this one mission",0.07011723,0.0,0.0,0.0,False,0.0013226261362433,0.0016038472531363,0.0071927933022379
+"in this dope, it's like a different concept",0.14597784,0.0,0.0,0.0,False,0.0424212031066417,0.0191854294389486,0.1691558212041854
+the animation is something i've never seen before and it looks like it's it looks like it's supposed to be 3d,0.048868883,0.0,0.0,0.0,False,0.0008275068248622,0.0012291588354855,0.0004439250042196
+"you know, a 3d movies look when you got the glasses off and you could tell like are they daddy's on? it kind of looks like that, except it's easier to see",0.092262976,0.9893959164619446,0.0,0.0,False,0.0010349369840696,0.0013228623429313,0.0008898823871277
+"and then when you watch it in 3d, it's pretty much dope",0.24242763,0.0,0.0,0.0,False,0.015993133187294,0.0845937952399253,0.1959038227796554
+to,0.03187269,0.0,0.0,0.0,False,0.0014529306208714,0.0006528429221361,0.0006768413004465
+"it feels very current, very fresh",0.052136723,0.0,0.0,0.0,False,0.0006003206362947,0.0003400989517103,0.0007490248535759
+very with the times myles is young,0.040284947,0.0,0.0,0.0,False,0.0008425551932305,0.0038270894438028,0.0144218429923057
+"you know a smart kid, you know the main, and so all of that works",0.119872786,0.0,0.0,0.0,False,0.000876308127772,0.0007072607404552,0.0091641265898942
+and then the original peter parker is coming to show them the ropes and everything works,0.09978092,0.0,0.0,0.0,False,0.0006869274657219,0.0004445879603736,0.0006797917303629
+it's like you know you care about spider-man spider-man is somebody that you always want to see,0.09924392,0.0,0.0,0.0,False,0.0029644859023392,0.0027105270419269,0.0071216644719243
+done well,0.01721518,0.0,0.0,0.0,False,0.0008689507958479,0.0003772457130253,0.0006146731320768
+"okay, even the bad spider-man 3, that was horrible",0.44670263,0.99979168176651,0.3999999999999999,0.47,False,0.0073411860503256,0.0122754490002989,0.0299352221190929
+everybody still wanted more spider-man it's not like they just give up,0.09387396,0.9950132966041565,0.0,0.161,False,0.0010322866728529,0.0029095362406224,0.0114862769842147
+nobody ever said,0.023632111,0.0,0.0,0.0,False,0.0009331808541901,0.001410833443515,0.000788407458458
+just give up on spider-man know you've like all right,0.09602194,0.9563274383544922,0.0,0.0,False,0.0023657255806028,0.0018930347869172,0.019080851227045
+let's try to get you always willing to try it again,0.02517722,0.0,0.0,0.0,False,0.0009459695429541,0.0018071859376505,0.0011463162954896
+"and i think this animated step is very fresh and dope, and i'm glad they didn't send it just straight to dvd",0.1943727,0.0,0.0,0.0,False,0.0021361471153795,0.0017485131975263,0.004845255985856
+"well, a lot of people overlook",0.029812546,0.0,0.0,0.0,False,0.0007594603230245,0.0005993064842186,0.0011768215335905
+"oh, it's a good time, man",0.04234509,0.0,0.0,0.0,False,0.0006980553735047,0.0026449880097061,0.0064369710162281
+there's a good time at the theater,0.039598234,0.0,0.0,0.0,False,0.0006191316642798,0.0003586533712223,0.0007874494767747
+it was funny you cared about the characters,0.11343288,0.0,0.0,0.0,False,0.0007856652373448,0.0004526039992924,0.0011182884918525
+i was just dope to see,0.21627559,0.0,0.0,0.0,False,0.0389040671288967,0.0977802649140358,0.021729527041316
+the action was cool,0.03204437,0.0,0.0,0.0,False,0.0006508149672299,0.0004594946512952,0.000376824842533
+"the jordans were fresh, you know what i mean, and that was dope to see, as well, one of the takeaways from this is the stanley effect",0.22990009,0.0,0.00625,0.0,False,0.0017611326184123,0.027854349464178,0.0142313204705715
+"know we all know he just passed, so it was like man, if he shows up in this movie will we fold up? cuz, stanley had an amazing run 95 years old with love, you know, just brought so much joy to so many people",0.09387396,0.0,0.0,0.0,False,0.0009122851188294,0.0010435545118525,0.0015312086325138
+"so when you see us, my home and he's in this, so you know, be ready for that",0.044748597,0.0,0.0,0.0,False,0.0006433231756091,0.0007646312005817,0.0008795852772891
+another takeaway is,0.029469188,0.0,0.0,0.0,False,0.0012146467342972,0.0004738222341984,0.0010010449914261
+i don't always wonder like who's cleaning up the spiderwebs in the in the city,0.08290337,0.9716655015945435,0.0,0.131,False,0.0010091608855873,0.0029140661936253,0.0011829051654785
+spider,0.036508016,0.8903830647468567,0.0,0.0,False,0.0037121700588613,0.0739417523145675,0.2282838523387909
+spider man's been web slinging all throughout the city,0.1334155,0.0,0.0,0.0,False,0.001256754505448,0.0029430198483169,0.0201987195760011
+who's cleaning that up? what happens to the spider? where do they dissolve after certain time? because in real life spiders are messy as hell and i'm sick,0.39230084,0.9999850988388062,0.125,0.295,True,0.046701356768608,0.2375828027725219,0.4337485730648041
+"oh, they don't clean up",0.089577995,0.9978023171424866,0.0,0.361,False,0.0136745618656277,0.0021655156742781,0.0041070417501032
+"they make spider webs in your house, and you're calling all your ceilings whatever, and they just leave them in like packages when you get across",0.11343288,0.0,0.0,0.043,False,0.0020790761336684,0.0006387569010257,0.0055381264537572
+reel it back in,0.05653196,0.0,0.0,0.0,False,0.0210306756198406,0.0917534232139587,0.0128937782719731
+take it with you,0.08447654,0.0,0.0,0.0,False,0.0036557333078235,0.0043881721794605,0.0015909478534013
+you don't say this very is very selfish,0.19789414,0.9950985312461853,0.65,0.343,False,0.0223908443003892,0.0701065883040428,0.1491262912750244
+the spiders,0.036508016,0.0,0.0,0.0,False,0.0074757672846317,0.0004387045919429,0.0096497116610407
+a spider man is just as selfless,0.30788645,0.0,0.0,0.0,False,0.0189390983432531,0.0074239405803382,0.29633828997612
+he's webbing up the whole city,0.17242117,0.0,0.0,0.0,False,0.0023767279926687,0.0008145704050548,0.0038961174432188
+i'd never see him cleaning it up,0.078108564,0.9987886548042297,0.0,0.0,False,0.0010200104443356,0.0056614782661199,0.0186749584972858
+i've never seen that,0.02517722,0.7357277274131775,0.0,0.0,False,0.0008649855735711,0.0003829776833299,0.0005198281141929
+i want to see him,0.10634898,0.0,0.0,0.0,False,0.0015521899331361,0.0407229401171207,0.0044889985583722
+my art,0.038911518,0.0,0.0,0.0,False,0.0028084367513656,0.0005203984328545,0.0008179795695468
+"sorry, guys, pulling it off the wall because in real life you'd be spider webs everywhere, man, spider-man saving the day with jesus, its webs all over the place",0.20522906,0.999947190284729,0.15,0.044,False,0.0157149154692888,0.0025310232304036,0.0223993062973022
+"i don't want answers on that front man, and in real life spiders",0.17518331,0.8822347521781921,0.0,0.092,False,0.0303931683301925,0.004121936392039,0.0392840914428234
+"if you're watching my youtube page, real spiders, clean your up, man, sick of y'all out here just leaving the way",0.3955794,0.7384957671165466,0.0492063492063492,0.132,False,0.65473872423172,0.0434534698724746,0.0878080651164054
+i'm walking through them every night in the summertime,0.08501353,0.0,0.0,0.0,False,0.0006907142233103,0.0010654918150976,0.0005268930108286
+no regard for nobody but yourselves and your meal,0.1580154,0.9651407599449158,0.0,0.167,False,0.0487764440476894,0.0295861903578043,0.0229860227555036
+i'll tell you this if i see a bug get trapped in your web,0.2712817,0.8280922770500183,0.2,0.207,False,0.0423802994191646,0.0607498884201049,0.5190926790237427
+"like right, i see it happen",0.025863936,0.0,0.0,0.0,False,0.0006816143286414,0.0036533146630972,0.0006108513916842
+"i'm saving that book just just out of spite, cuz, i'm like you wrong for not cleaning up after yourself and then when they leave the food behind, the disrespect of the food left, you don't even finish the carcass, you drink the insides, then you leave the whole carcass posted up in the kitchen in the ceiling, sick of y'all man",0.39284727,0.9999520778656006,0.2828571428571428,0.207,False,0.4443830549716949,0.2390444725751876,0.2138080149888992
+"anyway, y'all want to know the smooth jazz review",0.04818217,0.0,0.0,0.0,False,0.0006019343272782,0.0004728749336209,0.0008107160101644
+let's fight a man into the spider-verse would hear it,0.20449556,0.7169515490531921,0.0,0.224,False,0.0060634422115981,0.0126637276262044,0.2217123210430145
+i'm giving spider-man into the spider-verse four saxophones out of five,0.09763293,0.0,0.0,0.0,False,0.000989963999018,0.0069322469644248,0.0068764956668019
+"ah, but the spiderwebs",0.06492286,0.8212219476699829,0.0,0.0,False,0.0009184083901345,0.0029246243648231,0.0010205742437392
+"oh, man, for real, if i turn around, what if i turned around into the spider with? would they be there to clean it up? problem? alright, peeps, that's my review of spider-man into the spider verse",0.10634898,0.988228440284729,0.0,0.064,False,0.0010985542321577,0.0030820434913039,0.0067648952826857
+if you like spider-man of course spider-man 2,0.03994159,0.0,0.0,0.0,False,0.0014666112838312,0.0028103454969823,0.0054996525868773
+she's probably my favorite with doc ock,0.032387726,0.0,0.0,0.0,False,0.066579557955265,0.0506291463971138,0.0057526980526745
+and also gotta check out spider-man homecoming,0.037881445,0.0,0.0,0.0,False,0.0006825237069278,0.0018660768400877,0.0028140749782323
+"those are the strongest spider-man movies in my opinion, and this one is definitely in the mix as the best of the best for spider-man so check it out",0.055732824,0.0,0.0,0.0,False,0.0006450391374528,0.0010724860476329,0.0015415253583341
+let me know what you think of spider-man is the spider verse in the comment section below,0.031185975,0.0,0.0,0.0,False,0.0007466964889317,0.0012565510114654,0.0041042673401534
+let me know if you wanna see it,0.15159425,0.0,0.0,0.0,False,0.00090158887906,0.0023007318377494,0.0006352042546495
+"did you see it? did you like it? how do you rank him amongst the other spider-man movies? let me know in the comment section below, don't forget to like, share and subscribe, and as usual, we are here",0.04131502,0.0,0.3916666666666666,0.048,False,0.0009171657729893,0.0014399888459593,0.0010007875971496

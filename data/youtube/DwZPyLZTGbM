@@ -1,0 +1,44 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+so this is probably the most hyped movie this year when it comes to the award season,0.111500904,0.9982534050941467,0.0,0.0,False,0.0006911142845638,0.0021150643005967,0.0006077175494283
+"but from the first moment i heard about it, it seemed boring to me",0.17242117,0.9997947812080383,0.375,0.185,False,0.0005801235092803,0.0012254833709448,0.0017109822947531
+that was pretty much my initial reaction to it,0.031185975,0.0,0.0,0.0,False,0.0007671272032894,0.0003339438117109,0.00040804897435
+"oh, this looks boring and that's just me being honest here",0.16344422,0.9997090697288513,0.2,0.158,False,0.0093814609572291,0.004296563565731,0.0079064797610044
+and it doesn't really matter to me how much hype or praise the movie gets,0.10634898,0.9994686245918274,0.0,0.072,False,0.0015137663576751,0.0005158192361705,0.0025639650411903
+if it doesn't appeal to me on a gut level,0.317855,0.8933971524238586,0.0,0.0,False,0.0008966744644567,0.0019549503922462,0.0516470894217491
+i'm not gonna be that excited to watch it,0.104076885,0.9946951270103455,0.0,0.0,False,0.0011305527295917,0.0009201457141898,0.0011079763062298
+"that being said, there's still a pretty good chance i like it when i do sit down and watch it and i fully expected to be proven wrong here",0.07371333,0.0,0.0,0.082,False,0.000679597724229,0.0007096352055668,0.0005065205041319
+i expected to end up liking it,0.05093802,0.0,0.1,0.0,False,0.0009195059537887,0.0005296627059578,0.0847106501460075
+"well, you can probably tell where this is going",0.026722329,0.7956274151802063,0.0,0.0,False,0.0007292833179235,0.0004642126150429,0.0004299764987081
+"yeah, i didn't like it and i was pretty sure i wouldn't like it about five minutes into it, because the title sequence sets the tone for this thing pretty much perfectly",0.08050597,0.999859094619751,0.0,0.095,False,0.000691496010404,0.0007452743011526,0.0005338220507837
+"if you like the title sequence, you'll love this movie and i definitely didn't",0.05133759,0.9888179302215576,0.0,0.0,False,0.0006482240278273,0.0005452969344332,0.0005580015713348
+"i mean during the first scene after the titles, i just went oh, for sake, because at that point i knew exactly what i was in for and i just had no interest",0.1008549,0.9999513626098633,0.0,0.072,False,0.0006724527920596,0.0007483755471184,0.0009815579978749
+"so what's the deal here? it's a black-and-white movie by alfonso cuaron said in mexico in the 70s, the same guy who made children of men and gravity",0.19716066,0.9900259971618652,0.0,0.0,False,0.0008425844716839,0.052522175014019,0.0284763481467962
+"the first one is great, the other one visually stunning, but story-wise kind of meh",0.0669207,0.9908199906349182,0.0,0.104,False,0.0006702636019326,0.0004002543864771,0.0004044891975354
+but this one's a bit different,0.045778666,0.0,0.0,0.0,False,0.000704416714143,0.0003426395414862,0.0004897929029539
+this one is about a maid who lives with this wealthier family and she seems kinda like a part of the family,0.05093802,0.0,0.0,0.0,False,0.0009732196922414,0.0006749818567186,0.0014979999978095
+"actually, they treat her very well and the kids well her",0.04543531,0.0,0.0,0.0,False,0.0008494888897985,0.0004788143269252,0.0014823017409071
+"and it's almost as much about the family itself as it is about her, except the stories told entirely through her and the movie follows her, and i mean, i have nothing against the core story here or the characters or how its shot, or any of that",0.030842619,0.572616696357727,0.0375,0.0,False,0.0006862584268674,0.0004360007296781,0.0003998482134193
+quarren knows what he's doing,0.032902762,0.0,0.0,0.0,False,0.0011459842789918,0.0004813835257664,0.0026815198361873
+it's more about the pacing and how it's put together and presented,0.030327583,0.0,0.0,0.0,False,0.0005633063847199,0.000356816482963,0.0005813750321976
+this thing moves at a glacial pace,0.06851897,0.0,0.0,0.0,False,0.0006940953899174,0.0005900037358514,0.002300766762346
+"and the thing is, there's nothing complex going on here",0.031701013,0.9910637140274048,0.3,0.0,False,0.0008898679516278,0.0005526466993615,0.0007241784478537
+it's a very straightforward story,0.049898956,0.0,0.0,0.0,False,0.0006134423310868,0.0003314912610221,0.000400304183131
+"this is a 90-minute movie if i ever saw one, but it's actually 2 hours 15 minutes",0.06252546,0.9893991947174072,0.0,0.0,False,0.0007994952611625,0.0003975402214564,0.0005385266267694
+"i mean, i could tell you everything important that happens in this movie in about two sentences now",0.043031808,0.950397789478302,0.0,0.0,False,0.0006603634683415,0.0004946791450493,0.0009359010728076
+i'm obviously not gonna do that,0.031357653,0.9999653100967407,0.0,0.0,False,0.0054402193054556,0.0006847737240605,0.0005465470603667
+"there's some new ones there, but it's essentially a movie about changes challenges and moving on",0.04783881,0.0,0.0,0.0,False,0.0006646828842349,0.0004480671486817,0.0002502380521036
+"and my main issue was that i just didn't care about anything that was going on, not necessarily because the stuff itself wasn't compelling, but because of the way it was presented, the presentation board, the living out of me and i love dramas",0.10828095,0.9998511075973511,0.0,0.063,False,0.000809576944448,0.0004587511066347,0.0006972053670324
+"i don't mind a swell movie and i don't mind long movies either, but the pacing needs to be good and it needs to be either really interesting or really entertaining and this just wasn't",0.05413456,0.9999111890792847,0.0,0.0,False,0.0006421978469006,0.0004577603831421,0.0011388709535822
+"i mean, i just reviewed the house that jack built, which is longer than this, and it's a slow burn, too, but i liked it because for the most of it it was either interesting or entertaining and to me this wasn't however, that last act, the last 45 minutes or so, i didn't hate",0.094410956,0.0,0.0,0.0,False,0.0007797969155944,0.0010941373184323,0.0033149691298604
+i actually kind of liked it,0.030670939,0.8477210402488708,0.0,0.0,False,0.0007159563247114,0.0003140865301247,0.000371076806914
+at least i liked some aspects of it because it felt like an actual movie,0.040971663,0.0,0.0,0.0,False,0.0006148914108052,0.0003547079395502,0.0003116475127171
+it had some momentum,0.026035614,0.9606356024742126,0.0,0.0,False,0.0006686405395157,0.0003547630622051,0.0005036686779931
+it moved forward,0.025005542,0.0,0.0,0.0,False,0.0008623953326605,0.000975614413619,0.0003812468494288
+things happened,0.04131502,0.0,0.0,0.0,False,0.0008051267941482,0.0003900583833456,0.0006996381562203
+i even got a bit invested in what was going on,0.05613239,0.0,0.0,0.0,False,0.00061892013764,0.0004025017260573,0.0005223388434387
+"unfortunately, the first hour and a half didn't have that, and i can't remember being so utterly bored by a movie in a long time, and in the interest of being completely transparent here, i seriously considered shutting it off and i told myself no one knows you're gonna review this",0.09924392,0.9999924898147583,0.1714285714285714,0.155,False,0.0007715431856922,0.0005897521041333,0.0005208373768255
+no one cares,0.18154536,0.9999676942825317,0.0,0.824,False,0.0956251099705696,0.0094621181488037,0.0032869782298803
+"just shut it off and this misery now, but i stuck with it and well, i don't know if it was worth it, but at least it got better so there's that and now i'm sitting here trying not to be too harsh because this thing obviously struck a chord with people, but the bottom line is i thought this thing was incredibly boring for most of the runtime and that's just the truth and that's just my opinion, so take that for what it's worth",0.28923595,0.9999938011169434,0.0,0.142,False,0.1770267188549041,0.5097696781158447,0.0168050173670053
+"but it also means i don't see how i could possibly recommend it, so maybe skip it",0.027065687,0.9977154731750488,0.0,0.0,False,0.000705899845343,0.0005951329949311,0.0003899750881828
+maybe don't make up your own mind,0.13476147,0.9152565598487854,0.0,0.0,False,0.032778762280941,0.1904838383197784,0.05382527038455
+"i'm not your dad, you",0.07970683,0.5262597799301147,0.0,0.0,False,0.3055526316165924,0.0134668368846178,0.0193452481180429

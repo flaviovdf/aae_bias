@@ -1,0 +1,77 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"the farewell is written and directed by lulu wang, and stars aquafina as billy, a girl living in new york, that's with her parents, but away from her parents, she's struggling",0.059328925,0.0,0.0,0.11,False,0.0017570934724062,0.0023034447804093,0.0036616676952689
+she's kind of a disappointment,0.38261065,0.9998979568481445,0.0,0.452,False,0.0064302473329007,0.2252250015735626,0.4569259881973266
+she hasn't really met the expectations that her parents have set for her,0.04818217,0.9997435212135315,0.0,0.0,False,0.0007594675989821,0.0009950546082109,0.0008787555270828
+she has a really close relationship with her grandmother living in china,0.15071863,0.0,0.0,0.0,False,0.0009107963996939,0.0011145608732476,0.0015970552340149
+"however, but then she finds out from her parents that her grandmother does have cancer and they have yet to tell the grandmother either, she only has about three months to live and they're kind of holding it back so she doesn't have to live with the stress of dying, and the farewell was actually really well done",0.06652113,0.7087553143501282,0.0,0.144,False,0.0212228130549192,0.0018347296863794,0.0010652295313775
+i was very pleased with this trip to the movie theater,0.026035614,0.0,0.0,0.0,False,0.00059549161233,0.0004400758771225,0.0005512170610018
+i was very surprised i did not watch a trailer for this,0.10699297,0.9903585314750671,0.0,0.0,False,0.0006821998977102,0.0005528134061023,0.0004713192465715
+i heard this premiered at sundance and i think it did pretty well,0.03856816,0.0,0.0,0.0,False,0.0005647261277772,0.0003702614339999,0.0006072219694033
+i'm not exactly sure it has a 90% on rotten tomatoes and i actually do think it deserves that rating,0.1464265,0.9750120639801025,0.125,0.226,False,0.0009902007877826,0.0013304206077009,0.0011376169277355
+"i don't know about 99% there are some flaws of this film, but i think this film is overall really well done",0.08635602,0.0,0.0,0.0,False,0.0006873171078041,0.0003576161107048,0.0004360032326076
+first off,0.09279997,0.0,0.0,0.0,False,0.005533805117011,0.0037226651329547,0.0005131018697284
+"i just want to applaud lulu wang and her writing in this film because she is tasked with a really tough job of dealing with comedy along with very dramatic beats, especially like dealing with cancer",0.043031808,0.0,0.3174074074074074,0.135,False,0.0007463091169483,0.0017567940521985,0.0014353961450979
+like that's tough,0.07371333,0.0,0.3888888888888889,0.3,False,0.0009128933306783,0.0006746970466338,0.0027232647407799
+this is her story,0.022945397,0.0,0.0,0.0,False,0.0012900824658572,0.000398151576519,0.0009469835786148
+so she did live this,0.04268845,0.5794402956962585,0.0,0.0,False,0.0022352416999638,0.0004227647150401,0.0005841377424076
+this is an actual true story,0.022074303,0.0,0.0,0.0,False,0.0008135592797771,0.0003378571709617,0.0003987409290857
+"she does do a really good job telling it and it is a very personal project, but you can tell that she really knows how to work that comedy and drama together",0.032902762,0.0,0.0,0.0,False,0.0006493716500699,0.0004999974044039,0.0008168373606167
+she'll start out with a joke,0.14822112,0.9650281071662903,0.0,0.0,False,0.0056332587264478,0.0320821180939674,0.1142333820462226
+"it more towards the beginning of the film, and then, like later on, about halfway through the film, she'll call back to that joke where you thought that first joke was just like a throwaway line and easy laughing in the theater",0.086087525,0.9965728521347046,0.0,0.0,False,0.0007379758753813,0.0012320728274062,0.0006213158485479
+but then it plays into the dramatic plot and it makes it very enriching and it just has a better punch line,0.11665283,0.0,0.0,0.0,False,0.0006808339385315,0.0012059428263455,0.0256561376154422
+"it almost makes the humor funnier, because it's dark and you shouldn't be laughing at this point",0.14104263,0.9749072790145874,0.15,0.124,False,0.0008840375230647,0.0021446181926876,0.0119481552392244
+but it's good and it just seems very realistic what characters would actually do and i think that's the biggest part of this film that i just feel like these are real characters,0.04131502,0.0,0.0,0.0,False,0.0005673530395142,0.0003359052643645,0.0003286412684246
+"they really feel like they've lived in this world, and this leads to awkwafina where i haven't seen much of her, but what i've seen is very comedic supporting roles, so really not a ton",0.089577995,0.9998412132263184,0.0,0.0,False,0.0008183643803931,0.00043360402924,0.0004990526940673
+"she's really funny, but she hasn't really been able to flex the acting jobs, and in this film she does that and more she knocks it out of the park",0.22598907,0.0,0.0,0.0,False,0.0007943461532704,0.0010938263731077,0.0079494668170809
+she is a brilliant actress and i really hope to see her and more,0.050242316,0.0,0.0,0.0,False,0.0008258180459961,0.0006360941915772,0.0004365083004813
+"8:24 you know, independent genre type films like this",0.09279997,0.9980804920196533,0.0,0.0,False,0.0008223510812968,0.000489323225338,0.0005941335693933
+i think she'll do a really good job and i really look forward to seeing her,0.023117077,0.0,0.0,0.0,False,0.0006178103503771,0.0007826608489267,0.00109023519326
+she really just hits the dramatic beats,0.22952124,0.0,0.1166666666666666,0.0,False,0.0006252623861655,0.0130346845835447,0.0166994184255599
+"you can really feel the divide in herself, thinking whether or not to tell her grandma would be better, or just letting her grandma die happy",0.22981352,0.6700888276100159,0.0,0.116,False,0.0686958357691764,0.2466801702976226,0.1234985440969467
+"and you really identify with her and she does like i said, she does a really good job",0.028439116,0.0,0.0,0.0,False,0.00068863958586,0.000560853513889,0.0021871626377105
+"i, i really would like to see her be recognized by the academy later this year or early next year",0.016451603,0.0,0.0,0.0,False,0.0006472205859608,0.0005265639047138,0.0004658323596231
+whatever,0.028954152,0.9908562898635864,0.0,0.0,False,0.0013486704556271,0.0005180360167287,0.0006703447434119
+"but anyways, lulu wang, she does a really good job directing as well",0.030842619,0.0,0.0,0.0,False,0.000734772067517,0.0005065273144282,0.0025720165576785
+she gets a really good performance out of aquafina but also the entire cast is a plus caliber,0.09763293,0.0,0.0,0.0,False,0.000760868540965,0.0003863323654513,0.0010944965761154
+here,0.024147147,0.0,0.0,0.0,False,0.0018970671808347,0.0005158214480616,0.0005431196186691
+she does a really good job getting those performances and the entire cast deserves a lot of credit here,0.05493369,0.0,0.0,0.0,False,0.0006366379675455,0.0004928383859805,0.0005469824536703
+they are going full force and it's an entire chinese cast,0.15246986,0.0,0.0,0.0,False,0.0047760810703039,0.0350281782448291,0.0129504706710577
+that's like,0.025863936,0.5252866744995117,0.0,0.0,False,0.0014778774930164,0.0004725906183011,0.0015622036298736
+i think that's really cool,0.029640866,0.0,0.0,0.0,False,0.0006090883980505,0.0003312928311061,0.0007712337537668
+i also think that grandma was hilarious in this film,0.09065199,0.0,0.0,0.0,False,0.0148655204102396,0.0007827529916539,0.0119822435081005
+"she actually was almost identical in the way she acts and i thought it was really funny and i really connected to that part because she's always like hitting and smacking you, calling you stupid, but in a very loving manner, and i really enjoyed that it was very",0.44805592,0.0,0.0,0.036,True,0.4985619485378265,0.973198175430298,0.894858717918396
+it was a good way to connect to the film,0.025520578,0.0,0.0,0.0,False,0.0005427513970062,0.0003361514827702,0.0002981539582833
+not to mention the cinematography and sound design and score was just amazing,0.0186035,0.0,0.0,0.0,False,0.0005559475976042,0.0003379517293069,0.0012391891796141
+i think this is a beautiful film,0.032559406,0.0,0.0,0.0,False,0.0007340777665376,0.0003596915339585,0.0005223268526606
+i think beautifully shot film,0.05133759,0.0,0.0,0.0,False,0.0006126944790594,0.0004833124985452,0.0004506601835601
+let's be clear,0.02054715,0.0,0.0,0.0,False,0.0006568962708115,0.0005839125951752,0.0003393273509573
+there,0.02262963,0.5629404187202454,0.0,0.0,False,0.0009486791677772,0.0004445708182174,0.0009494753321632
+"it is a beautiful film as well, but the score was really good as well",0.05373499,0.0,0.0,0.0,False,0.0006454723188653,0.0003088234807364,0.0003917733847629
+i,0.018187003,0.0,0.0,0.0,False,0.0033499409910291,0.0023471140302717,0.0006465429905802
+it really stood out to me,0.0471521,0.0,0.0,0.0,False,0.0006214624154381,0.0003174267476424,0.0005243888590484
+"they use a lot of piano and strings, and it almost reminded me of the favorite just last year, which is, i think another 8:24 film could be wrong",0.07371333,0.0,0.0,0.094,False,0.0005974608939141,0.0004335264966357,0.0004978945362381
+but billy's characters,0.0131890485,0.0,0.0,0.0,False,0.0008961359853856,0.001453912584111,0.0004808861122
+"he played the piano, but she doesn't anymore",0.08367105,0.8514012694358826,0.0,0.0,False,0.0008454351336695,0.0004558337677735,0.0022857091389596
+"and i, there's something there when the piano is playing and it just really transforms you into the mindset that she's going through and just enhances her performance even more",0.04165838,0.0,0.0,0.0,False,0.0006151170819066,0.0004355880082584,0.0007372272666543
+"and i just think top to bottom, this film is really great and it's very well constructed",0.05773066,0.0,0.0,0.0,False,0.0005888312589377,0.0003852690861094,0.000581746106036
+"however, there are a few things that stood out to me that i didn't like so much",0.052935857,0.6160252094268799,0.0,0.117,False,0.0006661468651145,0.0008930813055485,0.0004736770351883
+"like i said, there is a cancer subplot and i feel like this film structurally is familiar and i, it's a nitpick",0.39230084,0.0,0.0,0.155,False,0.0026258756406605,0.0236927643418312,0.4080439209938049
+"there's just a few things like you know, with her struggling with money and stuff like that",0.068918526,0.9973760843276978,0.2,0.128,False,0.0010049236007034,0.0005787364789284,0.0010531999869272
+it's just kind of like,0.024662184,0.992088258266449,0.0,0.0,False,0.0009107365622185,0.0003685328993014,0.002242139307782
+"it seems a bit of a cliche when it comes to movies like this, you know, or dramas in general",0.054534122,0.9828312397003174,0.0,0.0,False,0.0013644483406096,0.0005943615105934,0.0016523492522537
+that and the third act is a little,0.14597784,0.6047706604003906,0.09375,0.0,False,0.0011443682014942,0.0006365560111589,0.0005760569474659
+it's paced a little slowly,0.08850401,0.9982194304466248,0.24375,0.0,False,0.000727794424165,0.0007955089677125,0.0014025757554918
+there are a lot of just hanging out giving speeches and drinking,0.11472086,0.7305738925933838,0.0,0.0,False,0.001582933589816,0.0013374123955145,0.0096126524731516
+that just doesn't seem necessarily,0.017909339,0.9998648166656494,0.0,0.0,False,0.0007808740483596,0.00031625747215,0.000413652305724
+"you know completely necessary, but at the end of the day with the farewell, having you know, slight mishaps towards the end of the film, i think it was really great",0.055333257,0.0,0.0,0.0,False,0.0005394911859184,0.0004038217011839,0.000710223452188
+i really connected to a lot of these characters,0.048525527,0.0,0.0,0.0,False,0.0005408602301031,0.0003224060637876,0.0003975574800278
+they're very compelling,0.15743166,0.0,0.0,0.0,False,0.0007487386465072,0.0003542176273185,0.0020905809942632
+they have really tough things they're going through and decisions they have to make,0.039254878,0.7509543895721436,0.3888888888888889,0.121,False,0.0007518262718804,0.0004191241750959,0.0016553434543311
+i think it's a very beautiful film,0.03599298,0.0,0.0,0.0,False,0.0006568346871063,0.0003436464467085,0.0005312584689818
+"i think it's touching, and if i had to choose one word to describe the farewell, i would say it's emotional, but in the good way, but what did you think of the farewell if you've seen it if you haven't definitely go check it out if you have",0.049212243,0.0,0.0,0.053,False,0.0005301402998156,0.0004536375927273,0.0011141973081976
+make sure you drop a comment down below to let me know what you thought of the farewell,0.07131593,0.9385014176368713,0.0,0.103,False,0.0011504342546686,0.0013008904643356,0.0012532119872048
+"if you liked what you saw here, make sure you hit the like button and subscribe to get more content",0.034104515,0.6702336072921753,0.0,0.0,False,0.0011413628235459,0.0036321587394922,0.0005819524521939
+"just like this, you can see a couple videos right there",0.10300289,0.0,0.0,0.0,False,0.0006436849944293,0.0003981271293014,0.0005328130209818
+"i don't know exactly what they are, but check them out and again",0.10699297,0.0,0.0,0.0,False,0.0006382578867487,0.0053586764261126,0.0014796863542869
+thank you so much and always remember to make time to watch movie,0.020824814,0.0,0.0,0.0,False,0.0006893891259096,0.0004722364537883,0.0003585261583793
+have a good one,0.03358948,0.0,0.0,0.0,False,0.0010896074818447,0.0003810049092862,0.0006918931612744

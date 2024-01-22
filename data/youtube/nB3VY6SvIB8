@@ -1,0 +1,59 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+i couldn't get enough,0.026894007,0.0,0.0,0.0,False,0.0241862703114748,0.005965017247945,0.0018874813104048
+"everybody, wendy here and welcome back to the movie couple channel",0.03994159,0.0,0.0,0.0,False,0.001079504028894,0.0014329677214846,0.0004677016986533
+here is my review for wonder woman,0.033932835,0.0,0.0,0.0,False,0.0008002399117685,0.0052412054501473,0.0072993007488548
+"wonder woman is directed by patty jenkins and it starts gal gadot chris pine, connie nielsen and robin wright, when a pilot crashes into the waters of san mascara, the amazons learn of war and conflict going on in the outside world",0.062925026,0.0,0.0,0.158,False,0.0010301601141691,0.0046052313409745,0.0038870030548423
+"diana decides to lease a mascara to fight, hoping to end all wars while discovering her to power",0.15743166,0.0,0.0,0.258,False,0.0013025221414864,0.0005324388621374,0.0037577373441308
+"so my anticipation for this movie was hi, and this is the first wonder woman movie",0.044405237,0.0,0.0,0.0,False,0.0007088754791766,0.002519998466596,0.0010959896026179
+"and ever since i saw a gal gadot in batman v superman, i was sold, so the movie is an origin story, and patty jenkins did a great job telling the story, telling the audience who dianna is",0.029812546,0.0,0.0,0.0,False,0.0006954143755137,0.002174828434363,0.0012724675470963
+where she came from and where she ends up,0.12309273,0.0,0.0,0.0,False,0.0007107410929165,0.0030524022877216,0.0026778229512274
+this movie had humor,0.10634898,0.0,0.0,0.0,False,0.0011526258895173,0.0005375978071242,0.0002826343406923
+there were a few heartfelt moments that brought tears to my eyes,0.06771983,0.0,0.1,0.123,False,0.0006715644849464,0.0004427457170095,0.0004458454495761
+"moments where i laughed out loud, and the action sequence you guys",0.12760067,0.0,0.0,0.0,False,0.0007128209108486,0.001575761125423,0.0021474885288625
+the action sequences were so good,0.0358213,0.0,0.0,0.0,False,0.0006451531662605,0.0003737913502845,0.0007723814924247
+"a lot of them had reminiscence of the battle things for 300, as far as using some of the ramping shops, where they slow down and speed it up, and just every single stunt double and or actor you could really tell train really hard, gave it their all, because these action scenes just have me leaning forward to my seats and i couldn't get enough",0.085282035,0.9948286414146423,0.0465167548500881,0.063,False,0.0006075334385968,0.0004972902825102,0.0004898143815807
+"i also really liked the interaction between gaga and chris pine, who played steve trevor",0.038911518,0.0,0.0,0.0,False,0.0006185441743582,0.0005324106896296,0.0007570624584332
+probably my favorite scenes were when the both of them were in it together,0.05413456,0.0,0.0,0.0,False,0.0007142910617403,0.0003713140904437,0.0007300867582671
+there was just so funny chemistry,0.068918526,0.0,0.0,0.0,False,0.000689105654601,0.0003552146954461,0.000706288497895
+we're on point and comedic timing was all there,0.033932835,0.0,0.0,0.0,False,0.000871583179105,0.0003803195722866,0.0003226465196348
+i definitely had those moments where i left out what laughed out loud,0.055732824,0.5371890664100647,0.0,0.0,False,0.0007067125989124,0.0005386400735005,0.0019972638692706
+"etta james, played by lucy davis, definitely helped with that",0.022074303,0.0,0.0,0.0,False,0.0007748019997961,0.0007337612914852,0.0008205010672099
+so she was a smaller character,0.058130227,0.9877701997756958,0.0,0.0,False,0.001038106274791,0.0017917064251378,0.0018118023872375
+"she's not in as many scenes, but she kind of stole all the things that she was in and i would have liked to see more of her",0.22989221,0.9958094358444214,0.0,0.0,False,0.0007415621075779,0.0176139343529939,0.0031561809591948
+"they also showcase how naive diana was to the outside world, so it's kind of funny to see her trying to interact in the world",0.19239926,0.0,0.0,0.076,False,0.0005969975609332,0.0008521698764525,0.0545592345297336
+i've you and i both know so well,0.04165838,0.0,0.0,0.0,False,0.0008165136096067,0.0003963928320445,0.0011026836000382
+when she first arrived in london,0.015896274,0.0,0.0,0.0,False,0.0006844641757197,0.0005670081009157,0.0003035849367734
+you see bits and pieces of that in the trailer and it's just as funny and the trailer is like,0.15071863,0.0,0.0,0.0,False,0.0009586059604771,0.0006792881758883,0.0007866398664191
+you know how sometimes trailers give away the best moments,0.085282035,0.0,0.0,0.0,False,0.0007357218419201,0.0004343438777141,0.0009814659133553
+"they definitely didn't do that, so know that going in and the one, even though you've seen already some of the funny stuff in the trailer, they'll still play out really really well in the movie",0.048525527,0.0,0.0,0.0,False,0.000602301035542,0.0003441260778345,0.0003624650998972
+"i also want to say connie nielsen and robin rose my favorites, so super fear these women",0.229845,0.9948511719703674,0.0,0.136,False,0.0435551553964614,0.0505413822829723,0.0212577860802412
+i wouldn't mess with them for the negatives,0.14104263,0.0,0.175,0.0,False,0.0059568095020949,0.0011860840022563,0.0188982523977756
+"honestly, there's really not much",0.024147147,0.9993133544921875,0.0,0.0,False,0.0008172959205694,0.0005178992869332,0.0005543528241105
+"um, i would say my only issue were probably pacing predominantly in the second act, where certain things would end very up roughly, and then they would go into the next one and you, and and they would end just as suddenly where he just kind of like",0.06332459,0.9902172088623047,0.0,0.0,False,0.0008236788562498,0.0004372526891529,0.0009866965701803
+"oh, what happened? another negative is, i would just say vigilance",0.05093802,0.9983886480331421,0.3,0.27,False,0.0008728713728487,0.0006005461327731,0.0018396088853478
+"they were just kind of, you know, i would say that the energy in the second act kind of just so, think of, like the movie was bookended by a really really great first and third act",0.03187269,0.9982256293296814,0.0,0.0,False,0.0006821384304203,0.0003602517826948,0.0004177491937298
+so it kind of did this,0.037194733,0.9985415935516357,0.0,0.0,False,0.0010797595605254,0.0003626666439231,0.0004539269721135
+"it dipped a little bit, but honestly, i think that was it",0.0801064,0.9917178153991699,0.0,0.0,False,0.0007135746418498,0.0003408997727092,0.0018342231633141
+"um, touching on gal gadot acting",0.11536485,0.0,0.0,0.0,False,0.0010104924440383,0.0029708235524594,0.0282233096659183
+i thought it was fine,0.018048171,0.0,0.0,0.0,False,0.0006291401223279,0.000400587421609,0.0005042955745011
+i think she's gotten better and better and there were,0.03994159,0.0,0.0,0.0,False,0.000814079598058,0.0006201160722412,0.0017002027016133
+"this is like miniscule, so i'm like nitpicking, because i really liked her as wonder woman",0.089577995,0.987637996673584,0.0,0.0,False,0.0012355037033557,0.0070721511729061,0.1058574020862579
+there are scenes where if we required her to really not act as she's kind of in the background more where she didn't,0.10699297,0.9983853101730347,0.0,0.0,False,0.0006774130742996,0.0009438075940124,0.0005247783847153
+"she just hadn't kind of had to react, but in her movement kind of she has to felt like she had to do something",0.06652113,0.9885042309761047,0.0,0.0,False,0.0007495518075302,0.0004094585601706,0.000582439941354
+"so it kind of made us seem unnatural, but again, i'm really nitpicking here and there's just not much negative to say",0.1019289,0.7852359414100647,0.0,0.0,False,0.0006677852361463,0.0012450900394469,0.0079446956515312
+in the end i am so thrilled that we finally have a wonder woman movie,0.09870692,0.0,0.0,0.0,False,0.0007402639603242,0.0028912918642163,0.0037633606698364
+the directing,0.020130653,0.0,0.0,0.0,False,0.0007183120469562,0.0004321302694734,0.000463881297037
+"the writing is solid, even if the second act",0.020408317,0.0,0.0,0.0,False,0.0006202109507285,0.000387418695027,0.0003875029215123
+it's a little,0.0729142,0.6729105710983276,0.1875,0.0,False,0.0011785710230469,0.0003908003563992,0.001510502770543
+"but for me the action sequences, you guys, i cannot wait for you to see them",0.070516795,0.0,0.0,0.0,False,0.0008171519148163,0.0030561757739633,0.0016439673490822
+i don't even want to tell you which ones like to look out for,0.105704986,0.0,0.0,0.078,False,0.004663327243179,0.0050121815875172,0.0030811543110758
+i just want you to see an experience for yourself and i hope you enjoy it just as much as i did,0.059328925,0.0,0.0,0.0,False,0.0005630548694171,0.0065882951021194,0.0071525112725794
+"and now i am so pumped, so ready to see wonder woman in justice league in action",0.19716066,0.0,0.0,0.0,False,0.0006971880793571,0.0026061669923365,0.0124681927263736
+my score for this movie is a out of ten,0.06771983,0.0,0.0,0.0,False,0.0032099355012178,0.0007897723116911,0.00072644877946
+"well, you guys",0.040284947,0.0,0.0,0.0,False,0.0014637699350714,0.000830594508443,0.0012393904617056
+that's it for this review,0.02809576,0.0,0.0,0.0,False,0.0007214029319584,0.0004069498099852,0.000533694634214
+thanks so much for tuning in,0.018048171,0.0,0.0,0.0,False,0.0006956689176149,0.0003370713384356,0.0003490744857117
+let me know your thoughts down below,0.16758743,0.0,0.1555555555555555,0.0,False,0.0008120709680952,0.0071287350729107,0.0006021113367751
+"once you've seen the movie, what did you think? are you ready to see wonder woman in justice league, come over",0.07451247,0.0,0.0,0.0,False,0.0008113091462291,0.0060548726469278,0.0060869539156556
+some of your favorite things in the movie,0.04234509,0.0,0.0,0.0,False,0.0007263106526806,0.0004572505422402,0.0006869759527035
+"don't forget to like share, subscribe, and i will see you in the next video",0.0729142,0.0,0.0,0.117,False,0.0012715401826426,0.0009266725974157,0.0005182718741707

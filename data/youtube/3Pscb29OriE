@@ -1,0 +1,50 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+aquafina in a dramatic role where she drives the story,0.08555053,0.0,0.4333333333333333,0.0,False,0.0007007848471403,0.000792886246927,0.0007145797135308
+we know,0.020685982,0.0,0.0,0.0,False,0.0008664262713864,0.0004118182696402,0.0003487431968096
+comedic actors can typically do drama really well,0.1689685,0.0,0.0,0.0,False,0.0007859070901758,0.003679774235934,0.0008882147958502
+how does she do taking this dramatically? the farewell is a movie based on an actual lie,0.22422299,0.9999408721923828,0.0,0.0,False,0.0042477725073695,0.0143229067325592,0.1136256083846092
+"the story's about a chinese family who finds out that their grandmother doesn't have long to live, and they choose as that family to keep the news from her, so under the guise of a wedding, they all come great in china to surround her and to be with her for one last time",0.03736641,0.0,0.0,0.0,False,0.0008513659704476,0.0024777681101113,0.0007420989568345
+"this is a beautifully shot film from a 24, and it's their first movie that received a pg rating",0.08367105,0.0,0.0,0.0,False,0.0007914278539828,0.0003867506165988,0.0005695348372682
+"it's great to see the film rely so heavily on the story, especially when it's very simple and pretty straightforward",0.047495455,0.0,0.0,0.0,False,0.0005710179102607,0.0003741293330676,0.0004311472875997
+"as an audience were exposed to this chinese culture and that was new to me, but it was still really accessible because down deep we all have family and we all have people that we care about, and so we were able to connect in ways, regardless if we understand the culture are familiar with it",0.018187003,0.0,0.0,0.019,False,0.0005654427222907,0.0011116511886939,0.0002396267809672
+"now it was awesome to watch, and i got to tell you that a lot of the food that they showed really made me hungry",0.14328592,0.0,0.0,0.0,False,0.0007858576136641,0.0008524341974407,0.0016770971706137
+"so when you watch us, make sure you've already eaten",0.14911842,0.0,0.0,0.0,False,0.0142839616164565,0.0058838236145675,0.0050107073038816
+otherwise you're gonna be upset for about 90 minutes until you can go chow down on something,0.23891698,0.0,0.1555555555555555,0.14,False,0.0167469326406717,0.012781124562025,0.045785691589117
+"aquafina is billy the granddaughter, and she is the lead of this film and she absolutely crushes it, and then she is just surrounded by a supporting cast who is spectacular",0.1731117,0.0,0.0,0.091,False,0.0012252253945916,0.0031404136680066,0.0336810275912284
+"i mean, they are all just genuine and human and so believable and that makes it really easy to relate and sympathize with them",0.040284947,0.0,0.0,0.0,False,0.0008175151888281,0.0003370846970938,0.0005361228249967
+now,0.018742332,0.0,0.0,0.0,False,0.0014697305159643,0.0004906950052827,0.0007275509997271
+"while there is a fair amount of heavy drama to this, i mean, because you, it's surrounding the idea of death",0.39230084,0.9707247018814087,0.0,0.155,False,0.0020753368735313,0.0134023474529385,0.085488237440586
+the filmmakers really sprinkle in just the right amount of humor at the right times to keep us from going into the bell jar,0.13565879,0.0,0.0,0.0,False,0.0009314314229413,0.0004176319343969,0.001925736432895
+but it's not like overly funny where you where you lose sight of the drama,0.0813051,0.9720268249511719,0.0,0.437,False,0.0014038239605724,0.0009465881157666,0.00113790796604
+"i mean, it's just that perfect balance",0.024662184,0.0,0.0,0.0,False,0.0006662976811639,0.000319419108564,0.0013454310828819
+"it's really easy to fall in love with a family because the interactions are genuine and heartfelt and they just feel so real and we get to know them quirks and all as they just navigate this grief that they're going with and dealing with the the imminent death of their grandmother, but also trying to keep that smile on their face so that she doesn't find out what's actually going on now",0.06252546,0.0,0.0,0.059,False,0.0008905613794922,0.0004558694199658,0.0006347621674649
+i know that seems a little bit weird and they expected to keep that secret from somebody that you are dying,0.17034957,0.9978468418121338,0.296875,0.066,False,0.5242215991020203,0.0333538092672824,0.0243740119040012
+"the movie does a really good job of explaining it and putting us into that culture, so that we do get a good understanding of why they would do that",0.03427619,0.0,0.0,0.0,False,0.0005733673460781,0.0003974917344748,0.0004137047799304
+"even though they may be struggling through it, filmmakers also employ some really great imagery",0.06332459,0.0,0.0,0.139,False,0.0006023320602253,0.0003321574768051,0.0004493077576626
+"i mean, it's subtle, but still really powerful",0.06612156,0.0,0.1152777777777777,0.0,False,0.0006950946408323,0.0003254560288041,0.0016617679502815
+i think the simplicity of the story mixed with the complexity of the emotions and the beliefs is really what makes this film stand out to me,0.05373499,0.0,0.0,0.0,False,0.000592453579884,0.0003361244162078,0.0003913528635166
+there were a few scenes that were funny but also touching as well,0.17449278,0.0,0.0,0.0,False,0.0006077937432564,0.0003219076024834,0.0002307567483512
+"i mean, there's one that involves the family going to visit the grave of their grandfather, and just that whole interaction, and even leading up to them getting to the grave, just everything that encompasses that, and the dialogue that they're using is very powerful, but also has some great humorous moments to it",0.02124131,0.0,0.0,0.057,False,0.0006631276919506,0.0003298984956927,0.0007141675450839
+there's also a drinking game that goes on at a wedding and it is just like some jacked-up version of the funky chicken,0.1621016,0.9962044358253479,0.5,0.056,False,0.0442957356572151,0.0033322321251034,0.012851377017796
+"i have no idea what's going on, but it's really funny and then leads to a very emotional scene",0.049212243,0.0,0.0,0.066,False,0.0006213274318724,0.0004145719285588,0.000611898722127
+"one other, one is part that we see in a trailer and it's aquafina learning some exercise moves from her grandmother, and just the interactions that they have, how touching it is and still being able to be funny all the while, and of course all of those add humor, but they also do such a good job to draw us into the characters and into the story",0.024318827,0.0,0.0,0.0,False,0.0007040630443952,0.0004249427292961,0.0004238267720211
+"now if i were gonna nitpick, there were two shots that just kind of seemed to go on a little too long",0.09333697,0.9998278617858887,0.0,0.0,False,0.0012550372630357,0.0368030704557895,0.0456565134227275
+one's an exterior of a building and the other is the cast walking and it looks like they're in a music video,0.079307266,0.9847951531410217,0.125,0.0,False,0.0014330053236335,0.0005126254400238,0.0005763343069702
+"it's just a slow-mo walk and both of those just seem to sit on them a little too long, even though they're great shots",0.1621016,0.9999189376831055,0.0,0.0,False,0.0009054120746441,0.0122177163138985,0.0365476422011852
+"but even if you were to trim them down, you're only gonna save about 10, 12 seconds at most, so it's just it's negligent and it doesn't really matter",0.1580154,0.9995747208595276,0.0,0.044,False,0.0027061107102781,0.0066055227071046,0.0036791607271879
+"and again, like i said, that's only if i'm nitpicking and really trying to find something that i felt was even remotely wrong with the movie",0.053335425,0.9996817111968994,0.0999999999999999,0.105,False,0.0007633956265635,0.0009599046315997,0.0026882307138293
+the relationships also are so well executed,0.15743166,0.0,0.0,0.0,False,0.0006673577008768,0.0071663707494735,0.013359566219151
+"i mean, they're grounded in reality and just so believable and you can see yourself in them",0.0669207,0.0,0.0,0.0,False,0.0007030157721601,0.0004506898403633,0.0006832871004007
+"i mean, i can see myself having one of these interactions or being part of this family, just being sucked in to the drama that i'm seeing, and then therefore the ride",0.355017,0.0,0.3125,0.088,False,0.091726578772068,0.0137280197814106,0.0101882554590702
+"i don't know what kind of distribution the film itself is gonna get, but you should take every opportunity you can to see the farewell",0.058130227,0.978171169757843,0.0,0.0,False,0.000577398459427,0.0004851001140195,0.0004752892418764
+it is that good,0.03599298,0.0,0.0,0.0,False,0.0005996956024318,0.0003330160980112,0.0026258307043462
+it's a perfect mix of drama and humor with a wonderful story in a spectacular cast,0.045778666,0.0,0.0,0.0,False,0.000639250210952,0.0004373510600998,0.0004113595932722
+"there's no sex, nudity or violence, but there is a little profanity",0.34388447,0.9954470992088318,0.1875,0.293,False,0.0680161044001579,0.1100299209356308,0.4469543397426605
+i give the farewell five out of five couches,0.1539292,0.9728142023086548,0.0,0.0,False,0.018106797710061,0.0013808010844513,0.0069251041859388
+are you planning on seeing it or have you seen it? let me know in the comments below,0.024833864,0.0,0.0,0.0,False,0.0006976277800276,0.0005836519412696,0.0004990505403839
+"if you enjoyed this review, please give it a like",0.035306264,0.0,0.0,0.0,False,0.0005508058820851,0.0006326588336378,0.0003522780316416
+"also, don't forget to share it with your friends and subscribe",0.0358213,0.0,0.0,0.129,False,0.0008408640860579,0.0008795973844826,0.0006118246819823
+if you haven't,0.016382186,0.0,0.0,0.0,False,0.001266278559342,0.0010185485007241,0.0006297988584265
+i'm chris,0.020963646,0.0,0.0,0.0,False,0.0031351682264357,0.0061350502073764,0.000498472189065
+this is movies and munchies,0.11472086,0.9990196228027344,0.0,0.0,False,0.0582803003489971,0.0226281136274337,0.0106882601976394
+thanks for catching with me,0.03358948,0.0,0.0,0.0,False,0.0012275442713871,0.0004613993223756,0.000771231832914

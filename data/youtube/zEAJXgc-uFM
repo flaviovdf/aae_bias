@@ -1,0 +1,79 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hi, welcome to reza",0.016451603,0.0,0.0,0.0,False,0.0007384567288681,0.000611376715824,0.000443288590759
+"views today, i'm gonna be reviewing thor ragnarok",0.03461955,0.0,0.0,0.0,False,0.0007576044299639,0.001190137816593,0.0015498726861551
+this is the third thor film and the 17th installment in the mcu,0.060527626,0.0,0.0,0.0,False,0.0014438487123697,0.0003482345491647,0.0009702237439341
+so by now you should know they're not you're into these movies,0.037023053,0.9349724054336548,0.0,0.0,False,0.0135904001072049,0.0040542879141867,0.0017763238865882
+"there's been a lot of hype surrounding this film, especially because its promotional materials seem to show that they're taking a completely different direction and a new tone when it comes to the thor movies, which was a welcome change for me, because i felt that the previous thor movie stuck themselves a little bit too seriously",0.0825038,0.9989109039306641,0.0,0.057,False,0.0005655958084389,0.0003929019439965,0.0004903894732706
+"this was directed by taika waititi, who's not a very well known director",0.06412373,0.9941515326499939,0.1,0.145,False,0.0010959190549328,0.0013299367856234,0.00053887499962
+"he's directed a small film called what we do in the shadow, which is a hilarious mockumentary that i definitely recommend and i'm a big fan of, so i'm very happy to see such a small-time director get his big shot and do a big marvel film, and i was looking forward to seeing what he's gonna do with it, and i think seen the film",0.08170467,0.0,0.0,0.0,False,0.000588160182815,0.0005679400055669,0.0002749370760284
+my first impression of it is that it was fun with a capital,0.0681194,0.0,0.0,0.0,False,0.0006008315249346,0.000464680546429,0.000683004851453
+s,0.0495556,0.0,0.0,0.0,False,0.0025115853641182,0.0012000821297988,0.0023576095700263
+"i generally liked thor ragnarok a lot and i definitely enjoyed it, but it has its ups and down, so i'm gonna dive in now and start talking about the ups",0.08447654,0.0,0.0,0.0,False,0.0006181905628181,0.0003719363885466,0.0003558013704605
+"the top three things that i liked about thor ragnarok number three, the visual style",0.040284947,0.0,0.0,0.0,False,0.0007000356563366,0.0003942972107324,0.0002605036715976
+i really liked how this film looked and felt,0.039254878,0.0,0.0,0.0,False,0.0005838844808749,0.0003353861102368,0.0003165886737406
+this movie is extremely colorful and it felt like it had this 80s cam to it which was really enjoyable,0.0825038,0.0,0.0,0.0,False,0.0005670278333127,0.0004061514628119,0.0003761161933653
+editing in the soundtrack together,0.020269485,0.0,0.0,0.0,False,0.0005746716633439,0.0003708328295033,0.0003265898558311
+"make up for this amazing visual extravaganza that you completely enjoy, especially when it comes to the fighting season",0.23891698,0.0,0.0,0.094,False,0.0008384690154343,0.0005122166476212,0.0010616719955578
+this movie has awesome fighting,0.09763293,0.0,0.0,0.26,False,0.0023125042207539,0.0005083488649688,0.0006247113342396
+"cease, really cool stuff",0.068918526,0.0,0.0,0.0,False,0.0012139382306486,0.0004989689914509,0.0035269560758024
+"the costume design is also very cool, so it gets his helmet",0.06771983,0.0,0.0,0.0,False,0.0009381709387525,0.0007585059502162,0.0010534296743571
+"finally, we get to see that and it looks pretty badass and the number one outfit in the whole thing for me was hellas costume",0.34388447,0.5354641675949097,0.0,0.0,False,0.0833292156457901,0.0344172269105911,0.1570448577404022
+it's so cool,0.035649624,0.0,0.0,0.0,False,0.0006867389893159,0.0003501680621411,0.0011589046334847
+i cannot wait,0.03204437,0.0,0.0,0.0,False,0.0036315429024398,0.0012010124046355,0.0006915213889442
+turn that into a cosplay,0.14911842,0.0,0.0,0.0,False,0.0067339902743697,0.0006864314200356,0.00347476801835
+the look and feel of this film takes a huge departure from the first and second thor movies,0.040971663,0.0,0.0,0.0,False,0.0007819609018042,0.0003689538280013,0.0003435822436586
+it looks more like guardians of the galaxy than anything else in them,0.062925026,0.9953747391700745,0.0,0.0,False,0.0008430028683505,0.0003784697328228,0.0022367916535586
+"see you, and it really helps make you feel like you are somewhere out of this earth, because come on, our real world, it's kind of boring when you compare it to the extravaganza of the cosmos",0.25219622,0.0,0.0,0.062,False,0.0020387074910104,0.0068423449993133,0.0029398074839264
+"the number two thing i liked about thor ragnarok was valkyrie, introducing a new character into the marvel cinematic universe is not easy because there's so many of them, so it's very hard for a new character to make an impact",0.05773066,0.645607590675354,0.0,0.092,False,0.0006396225653588,0.0003587506071198,0.0004556430503726
+"however, valkyrie, played brilliantly by tessa thompson, is an exception to the rule",0.025005542,0.0,0.0,0.0,False,0.0007376003777608,0.0003463559551164,0.00091741833603
+she's funny,0.09387396,0.0,0.0,0.0,False,0.000987171428278,0.0003906602796632,0.0101506914943456
+she's cool,0.046122026,0.0,0.0,0.0,False,0.0007184880087152,0.00047975522466,0.0086449300870299
+"she's but, uh, she's a great fighter",0.14193995,0.0,0.0,0.0,False,0.0013288523769006,0.0013741983566433,0.0183268636465072
+"she had really nice chemistry with thor and everybody else, and with the hulk, i really liked her and i can't wait to see more",0.06412373,0.0,0.0,0.0,False,0.0007248820620588,0.0003939000889658,0.0066466354764997
+"the number one thing i liked, but thor ragnarok was expanding the mcu similarly to guardians of the galaxy, and also doctor strange",0.044748597,0.0,0.0,0.087,False,0.0007003986393101,0.0003879444266203,0.0007305970066227
+"this movie expands the world of the marvel cinematic universe in a very nice way where it takes it outside of the human world and the human first world's problems, and ties us into what's coming, which is infinity war, turned out sweet in the previous floor films, especially the second one",0.036679696,0.0,0.0,0.105,False,0.0006374125950969,0.000376747600967,0.0004105155821889
+thor seem to always be compelled to come back to earth and interact with humans,0.060927194,0.0,0.0,0.0,False,0.0022642542608082,0.0060576684772968,0.0036521691363304
+"for some reason, it's like we can't enjoy the floor unless he was with other human characters, but this time he's completely free from those shackles and he's out there in the universe, interacting with crazy things and crazy characters and things that are as over-the-top and ask powerful as he is",0.18154536,0.0,0.0906249999999999,0.125,False,0.0018941125599667,0.002244469244033,0.054411020129919
+"and also, this movie expanded the universe in terms of the mythos, and it felt like it was very nordic in nature",0.065721996,0.0,0.0,0.0,False,0.0006287004216574,0.0006407253677025,0.0002633063413668
+we really felt like the mystical world of the vikings and their gods and their mythology really come through in this film more than any of the other films,0.04165838,0.0,0.0,0.0,False,0.0006064313929527,0.0008743776706978,0.0003411179059185
+"i didn't enjoy everything about thor ragnarok, so here are the top three things i didn't like about the movie number three",0.1024659,0.9987082481384277,0.0,0.183,False,0.0007624566787853,0.0006257640779949,0.000621743267402
+not all the characters work through,0.02792408,0.9997523427009583,0.0,0.0,False,0.000752167077735,0.0003855474060401,0.0003993809514213
+"i really like thor holic, and as i mentioned, valkyrie and a lot of other characters that were in this film, but there are two characters that didn't work for me at all, and one of them is jeff goldblum as grand master, an apologist, oh, jeff goldblum fans out there, but i haven't really enjoyed most of his recent performances because they all really feel like they are the same thing",0.09279997,0.9996551275253296,0.0,0.048,False,0.0006522378535009,0.0006458273855969,0.0006706597632728
+and in this movie it was no exception,0.05852979,0.0,0.0,0.239,False,0.0006939039449207,0.0003955548454541,0.0005559278069995
+"i always felt like whenever the grand master was on screen that oh, look, i'm watching jeff go boom",0.10699297,0.0,0.0,0.0,False,0.0008651344105601,0.0015568955568596,0.001624230062589
+it's a movie,0.02517722,0.0,0.0,0.0,False,0.0019196028588339,0.0006513069965876,0.0008749765111133
+"it really took me out of the film and disconnected me from it completely, which i never liked",0.1621016,0.9988518953323364,0.0,0.121,False,0.0009128820383921,0.0006963670020923,0.0015286738052964
+"another character that didn't work for me is keith urban's skirt, who i felt was kind of pointless",0.2945986,0.9998557567596436,0.0,0.0,False,0.0012079599546268,0.1600752919912338,0.1137622743844986
+i didn't really buy into his story,0.020963646,0.9997751116752625,0.0,0.0,False,0.0007112055900506,0.0004493974847719,0.0004820054746232
+i didn't really care about him and i felt like he was kind of a waste of time,0.31089294,0.9999948740005493,0.0,0.244,False,0.204831525683403,0.1170978397130966,0.0254964362829923
+"and now let's see, even the performance wasn't that great",0.089041,0.9992409944534302,0.0,0.268,False,0.0007574058836326,0.0004360042512416,0.000735851470381
+he felt like he was just there to be there,0.033932835,0.0,0.0,0.0,False,0.0007684309966862,0.0003944607451558,0.0012989505194127
+i really liked ella as a character and as a villain in this movie,0.06252546,0.0,0.0,0.193,False,0.0006406005122698,0.0004526894190348,0.0005117862019687
+"however, i felt like her character was a little bit mishandled in the sense that her scenes seem to clash so much with general tone of the film, and also we didn't spend enough time with her",0.101391904,0.9980311989784241,0.0,0.0,False,0.0005691679543815,0.0006277160719037,0.0006706182030029
+"she was mostly there to be a mock piece for certain exposition and explaining her backstory to us when i thought that her backstory was so compelling, i wish i actually saw it so as a character and as a concept was pretty cool, and as a performance catcher did an amazing job, and she looked good in this movie",0.082104236,0.0,0.0,0.038,False,0.0005548042245209,0.0004958288627676,0.0008443554397672
+"i mean, geez, look at that woman",0.22982925,0.0,0.3125,0.0,False,0.0295197702944278,0.0149463145062327,0.0423643365502357
+she looks incredible,0.04818217,0.0,0.0,0.0,False,0.0006861083675175,0.0005317924078553,0.0022723102010786
+"however, towards the end of the film, i felt her role was not as expansive as i wanted it to be, and i felt like it was cut a little too short, and i didn't also feel like she meshed well with the rest of the film",0.0765103,0.9956516623497009,0.09375,0.081,False,0.0006375724333338,0.0004123057005926,0.0003501522005535
+"speaking of the tone, the second thing i didn't like about thor ragnarok was the extreme tone change",0.08689302,0.0,0.0625,0.11,False,0.0008916910737752,0.0006559544708579,0.001025479985401
+"like i said earlier, i am a fan of the change of the tone from the other thor films, but this film felt like it went a little bit too far",0.05773066,0.9984006285667419,0.053125,0.0,False,0.000651727663353,0.0003877741692122,0.0006030828226357
+"change and experimenting is a good thing, and i like seeing a fresh take on a character or on a franchise",0.017909339,0.0,0.0,0.0,False,0.0005328259430825,0.0004267717595212,0.000263238325715
+"however, this film completely disconnected from the first and a second thor, so i feel like there is such a thing as too much fun or too funny",0.09118898,0.9977814555168152,0.0,0.0,False,0.0006612133001908,0.0003674119361676,0.0007846570224501
+i didn't recognize thor's character in this movie,0.028439116,0.9998726844787598,0.0,0.0,False,0.0006274777697399,0.0003971994738094,0.0005221389583311
+"he's so different from all of the other films, sometimes in a good way, but sometimes it's felt like i went a little too far, and the same applies to hulk as well, which leads me to the number one thing i didn't like about thor ragnarok, which is the fact that the stakes were not high due to the overtly comical fun times thing that the movie was doing",0.09816993,0.0,0.0,0.033,False,0.0011021979153156,0.0004404418577905,0.0004456298484001
+"i never felt like any of the characters were in any real danger, and no stakes are never a good thing for a movie, especially if it's action-packed because those action scenes lose their intensity if you don't think anybody's gonna get really hurt",0.11021292,0.9999427795410156,0.0,0.303,False,0.0012388180475682,0.0004690938512794,0.0005784461391158
+and the reason why i thought that's because everything was a joke,0.13017663,0.9994229078292847,0.0,0.0,False,0.0017662915633991,0.0011902449186891,0.0018080014269798
+even intense emotional scenes were overshadowed by jokes and people not taking things seriously,0.10763696,0.9997074007987976,0.0444444444444444,0.0,False,0.0007038171170279,0.0008535379893146,0.0004556839121505
+"i mean, if the characters don't take the situation seriously, i'm not gonna take the situation seriously, and i feel like this is gonna bother the comic book readers more than most people",0.073313765,0.9999929666519165,0.0,0.155,False,0.0009513946715742,0.0008533196523785,0.0006104724598117
+"but when you say ragnarok ragnarok is the end of days, it's a disaster of epic proportions and that kind of armageddon feel never really translated",0.13206954,0.999244213104248,0.0,0.184,False,0.0036010919138789,0.0008131135837174,0.0055664451792836
+"well, it's like, oh my god, the most horrible thing is about to happen",0.1710401,0.9998040795326233,0.25,0.185,False,0.0619060397148132,0.0207891725003719,0.0683184713125228
+"oh my god, this, also, girls would be a little bit emotionally disconnected from the movie and from the characters, and also didn't leave me with anything to contemplate or think about",0.13835071,0.9999755620956421,0.09375,0.0,False,0.0009933401597663,0.0038862836081534,0.0079384706914424
+"in terms of themes, in terms of character moments and character arcs",0.018048171,0.0,0.0,0.0,False,0.0006037531420588,0.0003674812905956,0.0002931659400928
+"it's just felt a little too shallow, which means i don't think this movie is going to leave a lasting impression, but only time will tell if i'm right or wrong",0.08635602,0.9999390840530396,0.1225198412698412,0.151,False,0.0007073480519466,0.0005531765636987,0.0008515295339748
+"oh, i had a good time watching this movie",0.040628307,0.0,0.0,0.0,False,0.0007543381070718,0.0005245193606242,0.0007402212941087
+"it's definitely my favorite thor movie, but it's not my favorite mcu movie",0.04234509,0.9753251671791077,0.0,0.189,False,0.0007102519157342,0.0004068410198669,0.0003068345831707
+"but if you've liked the mcu films so far, and you'll definitely enjoy this one as well, it's a solid fun marvel movie and i'm gonna give thor ragnarok and eight out of ten",0.06372416,0.0,0.0,0.0,False,0.0006956615834496,0.0004558159562293,0.0003285826824139
+so have you seen thor? did you like it? let me know what you thought? i'd also tell me in the comment section,0.07091636,0.0,0.0,0.0,False,0.000936898519285,0.000643549428787,0.0008032102487049
+what's your favorite marvel movie today? mine is still civil war,0.04165838,0.0,0.0,0.22,False,0.0010650615440681,0.0005918102106079,0.0018869737396016
+let me know in the comment section,0.014993866,0.0,0.0,0.0,False,0.0006584636284969,0.0004770585510414,0.0003839392738882
+"and as always like, share and subscribe, and don't forget to ask me what you would like me to review for you next",0.035649624,0.0,0.0,0.0,False,0.0007227058522403,0.0009193845908157,0.0004675813543144
+see ya,,0.0,0.0,0.0,False,0.0009457006235606,0.0005636836867779,0.0008193768444471

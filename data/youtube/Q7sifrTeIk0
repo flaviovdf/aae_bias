@@ -1,0 +1,67 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hello, everybody, welcome back to another review of one of the 100 essential films you've got to check out from pop chart this week",0.029984225,0.0,0.0,0.0,False,0.000738879374694,0.0004253181978128,0.0004143204423598
+"we're going over double indemnity, which i still don't think i'm saying correctly",0.032559406,0.9998292922973633,0.0,0.0,False,0.0008699312456883,0.0004978843498975,0.0003719282103702
+this is a 1944 american psychological thriller,0.13565879,0.0,0.0,0.0,False,0.0011189022334292,0.0013287004549056,0.0005380428046919
+"it opens up with our main character walter neff, stumbling into his office with a gunshot wound",0.20963,0.0,0.0,0.0,False,0.0071327593177556,0.0190775170922279,0.2086825966835022
+there,0.02262963,0.5629404187202454,0.0,0.0,False,0.0009486791677772,0.0004445708182174,0.0009494753321632
+he begins to record his confession on an old-time dictaphone which there are entirely too many jokes to make,0.17242117,0.9998114705085754,0.0,0.0,False,0.0013069477863609,0.0015328857116401,0.0215956233441829
+i couldn't settle on just one so i'll leave it up to you,0.064523295,0.9767054915428162,0.0,0.11,False,0.0006550576654262,0.0184858478605747,0.0112035851925611
+insert your joke there,0.1668969,0.9763954877853394,0.0,0.0,False,0.0359015613794326,0.0060955565422773,0.0124212587252259
+"uh, and this confession is admitting to his friend and co-worker barton keys, all of the details to a fraudulent life insurance claim murder conspiracy, adultery, the whole nine yards",0.20742953,0.959411084651947,0.0,0.279,False,0.0011079621035605,0.004216584842652,0.0404113829135894
+it is a nail-biter of a film in the sense of seeing if our main character is gonna get away with it,0.13790205,0.0,0.0,0.0,False,0.0026218586135655,0.0013962906086817,0.0018354355124756
+"uh, the interesting thing about this movie is the majority of it is done as a flashback, as walter is explaining how everything came to be",0.0669207,0.0,0.0,0.0,False,0.0005859499797224,0.0004911234718747,0.0005260017933323
+this crazy adventure gets started,0.22983712,0.0,0.6,0.312,False,0.0399262160062789,0.0042613940313458,0.018907556310296
+"when walter goes to the house of one of the insurance companies clients, walter is an insurance salesman, and during one of his routine checks of one of his clients who had a lapse in car insurance, he runs into phyllis dietrichson",0.018881164,0.687813401222229,0.0,0.0,False,0.0026317739393562,0.0010570301674306,0.0014435757184401
+"there's a little flirting back and forth and phyllis asks walter about a life insurance policy on her husband, and that gets everything started",0.04783881,0.0,0.09375,0.0,False,0.0011616981355473,0.0017589653143659,0.0076004941947758
+i don't want to go into all the details of the story because that's really all of the fun of a movie like this,0.06492286,0.8927061557769775,0.0,0.044,False,0.0007816982688382,0.0006539286696352,0.0006265195552259
+the only detail that i will tell about this movie and how it unfolds is that it gets its name double indemnity from a clause in the insurance policy in which the policy would pay out double if something were to happen in certain places,0.062125895,0.9994009733200073,0.0,0.03,False,0.000790687976405,0.0003966986550949,0.0004105304251424
+"uh, but there was a statement that walter had said during his confession about about when you work at a place and you try to figure out how somebody can cheat you so that you can protect yourself, and he said that it's only a matter of time until you start thinking",0.12180476,0.9991858601570129,0.0,0.07,False,0.0048073907382786,0.0027402809355407,0.0018067711498588
+"oh, i know all the ins and outs",0.0471521,0.0,0.0,0.0,False,0.0035237045958638,0.0005682890187017,0.0005261530168354
+"i know how to cheat this company, or i know how to steal from this company and i remember watching it and thinking like, oh my god, that is a thing that happens",0.38874862,0.999052107334137,0.0,0.156,False,0.0089378198608756,0.0067510236985981,0.0138202533125877
+"i won't name drop, but i had a friend who, after watching oceans 11 swore up and down",0.09279997,0.0,0.1555555555555555,0.0,False,0.0008229138911701,0.0006677407072857,0.0028411231469362
+he knew how to,0.029984225,0.0,0.0,0.0,False,0.0016531068831682,0.0008269782993011,0.000505757285282
+"i'm sorry, swore up and down",0.10763696,0.9998629093170166,0.3277777777777778,0.206,False,0.0024826780427247,0.0041523813270032,0.0283468179404735
+"he knew how to do the best heist, ever, and i was the voice of reason right off the bat and said no, that's not how it works",0.08290337,0.0,0.0,0.0,False,0.0050224890001118,0.0021342399995774,0.0044690291397273
+that's not gonna happen,0.033246122,0.9995228052139282,0.0,0.0,False,0.0013237042585387,0.0005332621512934,0.0003955175052396
+"and the more he kept telling me his foolproof plan, it sounded like it could have worked",0.23189566,0.9727003574371338,0.0,0.0,False,0.0329335518181324,0.0597273372113704,0.4572036564350128
+"luckily, uh, logic and intelligence prevailed, um, surprisingly from me, and i was able to talk him out of doing something very stupid, but let me know in the comments below, if you've ever even had that thought of, uh, i, i could get away with something",0.44805592,0.9106806516647339,0.0,0.046,True,0.0297076888382434,0.8624374866485596,0.775328516960144
+uh,0.02124131,0.6595472097396851,0.0,0.0,False,0.0012679392239078,0.0013462513452395,0.0007708244374953
+"i know i myself never would, because i'm a good person and good people don't think like that",0.067320265,0.0,0.0,0.092,False,0.0007279292913153,0.0089964373037219,0.0026749325916171
+there was one thing with the writing,0.023460433,0.9868082404136658,0.0,0.0,False,0.0006397414254024,0.0004478752380236,0.0003851225774269
+"um, and oh my god, it was like nails on a chalkboard",0.15451296,0.9979860782623291,0.0,0.0,False,0.0191501062363386,0.0097321653738617,0.0109481606632471
+every time i heard it,0.032559406,0.0,0.0,0.0,False,0.0006705271662212,0.0007370990351773,0.0007197472732514
+we've talked before in some of these past videos about how these older movies just really force fed you a love story,0.11085691,0.0,0.0,0.0,False,0.0006396658718585,0.0007248654146678,0.0006315205828286
+"within a couple of days of meeting, two people were madly in love and wanted to run away together",0.09333697,0.0,0.0,0.113,False,0.0008062388515099,0.0020571325439959,0.0070095807313919
+"and of course that is the premise of uh, the whole plot of this movie",0.02792408,0.0,0.0,0.0,False,0.0007872832939028,0.0004360693274065,0.0005347578553482
+"but walter keeps referring to phyllis as baby, almost like he forgot what her name is",0.08050597,0.9621084332466125,0.0,0.0,False,0.0018710981821641,0.0044828741811215,0.0132978539913892
+"so whenever there's a phone call or they see each other, it's oh hey, baby",0.05373499,0.538536548614502,0.125,0.0,False,0.0008193822577595,0.0018991938559338,0.002446757396683
+"i missed you, baby",0.09870692,0.0,0.0,0.423,False,0.0036929724738001,0.0119003504514694,0.0037427439820021
+"i love you, baby, and i'm like, jeez, just for the love of god, say her name once",0.1943727,0.0,0.0,0.0,False,0.0008541888673789,0.0020749608520418,0.0005388262216001
+wants to let me know that you know it,0.048868883,0.0,0.0,0.0,False,0.0008885530987754,0.001730813528411,0.0006981511833146
+i don't think i had heard about this movie until it popped up on the list of movies to do,0.03753809,0.0,0.0,0.0,False,0.0006303239497356,0.0006500289309769,0.0003419454151298
+"uh, i'm glad that i watched it",0.04406188,0.0,0.0,0.0,False,0.0006070886156521,0.0011165523901581,0.0003957685257773
+i don't know if it's essential,0.017354012,0.0,0.0,0.0,False,0.0007067075348459,0.0006257520872168,0.0005167675553821
+"uh, i don't think there was anything that really stood out as this was a movie that needed to be seen, but if you like noir films, you'll probably very much enjoy this one, and with that being said, we get to the scratching",0.118584804,0.979554295539856,0.0,0.0,False,0.0005762834334746,0.0009057857096195,0.0027554319240152
+so here is the scratching,0.12309273,0.9940745234489441,0.0,0.0,False,0.0017047541914507,0.0004167101287748,0.0057891700416803
+you'll understand the crutches when you watch the movie,0.11472086,0.9523606896400452,0.0,0.0,False,0.0350784659385681,0.0096851009875535,0.095674380660057
+i'm going to take a guess and say that maybe there is a train behind this one,0.11407687,0.9938642978668213,0.4,0.0,False,0.0008156834519468,0.0006249772850424,0.0010076266480609
+let's see,0.024833864,0.0,0.0,0.0,False,0.0007852299604564,0.0004815850115846,0.0006451137596741
+"oh man, i was thinking i was gonna be a trainer, but no, it is a guy using the crutches who would have thunk it all right",0.22987647,0.893103837966919,0.0,0.0,False,0.051382765173912,0.0105809224769473,0.0479862093925476
+so that is the scratching off of double indemnity,0.062125895,0.9947512745857239,0.0,0.0,False,0.0218267329037189,0.0005216802819631,0.0020588024053722
+next week we are going over,0.0717155,0.9656646251678467,0.0,0.0,False,0.0007895830785855,0.0010069841518998,0.0004769939405377
+"it's a wonderful life, which i am ashamed to admit i have not seen yet",0.14283726,0.0,0.0,0.15,False,0.001060580718331,0.002251063240692,0.001011918648146
+"so uh, i am",0.034791227,0.0,0.0,0.0,False,0.0012473963433876,0.0006407904438674,0.0007058107294142
+i am in for a treat,0.05852979,0.0,0.0,0.0,False,0.0078325578942894,0.0012098207371309,0.0044497312046587
+it's definitely been on my list of movies to check out,0.028782474,0.0,0.0,0.0,False,0.0007455836748704,0.0005228306981734,0.0002584902395028
+i just haven't pulled the trigger on it yet,0.15626417,0.9990952014923096,0.0,0.0,False,0.0011760566849261,0.120110422372818,0.0386715829372406
+"uh, i want to thank everybody for taking time out of the day to listen to me rant about this",0.14552918,0.9613511562347412,0.0,0.103,False,0.000898148107808,0.0013924482045695,0.0014375526225194
+make sure you hit those buttons down at the bottom and tell your movie love and friends to check me out,0.12824467,0.0,0.0,0.0,False,0.0015296697383746,0.06410863250494,0.0026437907945364
+"i want to send out a very big thank you to my patreon followers, whose names are going to pop up in just a second",0.101391904,0.0,0.0,0.0,False,0.0007525915279984,0.0065387478098273,0.0033380505628883
+i'll put a link down in the bottom if you guys want to check it out there,0.12760067,0.9982141256332397,0.1555555555555555,0.0,False,0.0007516586338169,0.0009647203260101,0.0007994171464815
+"um, there's also a my monday movie review that happens just for patreon followers",0.03839648,0.0,0.0,0.0,False,0.0007440148037858,0.0009484952897764,0.0013564463006332
+"uh, which doesn't go over any posters? it's random movies from every time place and dimension",0.08367105,0.0,0.5,0.0,False,0.0006686022970825,0.000635941454675,0.0012284056283533
+"all right, i don't know if that last one's true, but uh, we'll figure something out",0.05413456,0.0,0.0,0.0,False,0.0005983148585073,0.0004660397535189,0.0003221845254302
+maybe buck rubanzai or something,0.06971766,0.8612192869186401,0.0,0.0,False,0.0131306406110525,0.0032440386712551,0.0011024456471204
+"uh, guys, thank you very much",0.043718524,0.0,0.0,0.0,False,0.000593852775637,0.0010252490174025,0.0005328790284693
+enjoy the rest of your day,0.073313765,0.0,0.0,0.0,False,0.0074289636686444,0.0007352665415965,0.0009477996500208
+i love you all later days and i'll catch you next tuesday you,0.11794081,0.0,0.0,0.0,False,0.0044177891686558,0.0079604471102356,0.000716108828783

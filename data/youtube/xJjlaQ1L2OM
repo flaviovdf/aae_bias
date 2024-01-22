@@ -1,0 +1,68 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+so i recently be ghosted to shingle while i was playing it,0.1731117,0.9998831748962402,0.0,0.0,False,0.0009115196298807,0.1205733716487884,0.0216840021312236
+"i was like okay, i need to check out some more samurai movies",0.034962907,0.9997861981391907,0.0,0.0,False,0.0007470662822015,0.0007437762105837,0.0007649444742128
+"one of the films that uh that people's talked about a lot, seven samurai, uh, directed by kurosawa and i hope i didn't say that wrong",0.038053125,0.9136254191398621,0.5,0.0,False,0.0006145302322693,0.0004910029238089,0.00149047432933
+this movie is so good,0.0495556,0.0,0.0,0.0,False,0.0007570129819214,0.0004858277970924,0.0006652190932072
+"i got the criterion right here, and this is probably one of the coolest coolest criterions ever so before we get into this review",0.022773718,0.0,0.0,0.0,False,0.0006440283032134,0.0003558724420145,0.0003919904120266
+if you guys want to check out my novel to run around the hill,0.1008549,0.0,0.0,0.0,False,0.0021397299133241,0.0018791122129186,0.0016054514562711
+com links down description below,0.01228664,0.9675906896591187,0.1555555555555555,0.0,False,0.0006880796863697,0.000419188523665,0.0004062407242599
+thank you guys so much for checking it out,0.03599298,0.0,0.0,0.0,False,0.0006090372917242,0.0006129567045718,0.0003897749411407
+you guys are kick ass,0.93413806,0.0,0.0,0.467,True,0.9915773868560792,0.9921830296516418,0.9913461804389954
+hope you guys enjoy it,0.060927194,0.0,0.0,0.0,False,0.0006889392388984,0.0008177052950486,0.0004292960220482
+so seven samurai is a long movie,0.02655065,0.0,0.05,0.0,False,0.0031511154957115,0.0003814186202362,0.000991198932752
+"i am going to pretty much stray you away from this movie real quick, just so i can start talking like i want to praise this film",0.25219622,0.8045430183410645,0.0,0.0,False,0.0006316596409305,0.0757070407271385,0.032407559454441
+seven samurai is in the four by three aspect ratio with the black bars on the side,0.09065199,0.0,0.1666666666666666,0.0,False,0.0009823513682931,0.0066477027721703,0.066111221909523
+"black and white came out in the 50s and it's in japanese, but man is it one of the best? oh man",0.22982138,0.0,0.0,0.0,False,0.0011956685921177,0.0577865503728389,0.0316068343818187
+this movie was just absolutely fantastic,0.040971663,0.0,0.0,0.0,False,0.0006376648088917,0.0003747982846107,0.0005010854220017
+the biggest thing for this film that i think it has going for is character development,0.055333257,0.5603223443031311,0.0,0.0,False,0.0006086882785893,0.0004153198970016,0.0007762460154481
+"oh man, these characters in this the dialogue",0.04818217,0.0,0.0,0.0,False,0.0007617971859872,0.0016348797362297,0.0020646427292376
+"they're uh, pretty much",0.047495455,0.0,0.0,0.0,False,0.0008904260466806,0.0006291194004006,0.0043342318385839
+um,0.012811388,0.0,0.0,0.0,False,0.0011565451277419,0.0034721060656011,0.0014047900913283
+what is it? what am i? what word am i looking for their chemistry? it's amazing on screen,0.09709594,0.0,0.0,0.0,False,0.0006737142684869,0.0005578827694989,0.0034639055375009
+i absolutely loved watching these characters,0.037881445,0.0,0.0,0.0,False,0.0006269505247473,0.0003964844800066,0.0003302984987385
+i absolutely loved seeing each samurai and they,0.043375164,0.0,0.0,0.0,False,0.0009590745903551,0.0003566184022929,0.0016698717372491
+they each kind of have their own kind of personality,0.049212243,0.0,0.0,0.0,False,0.001231484930031,0.0013492087600752,0.0015661967918276
+"uh, there's one that's uh",0.027752401,0.0,0.0,0.0,False,0.0007219599792733,0.0006782049895264,0.0016575924819335
+they kind of call him i guess the john wayne of samurai movies,0.05653196,0.9913191199302673,0.0,0.0,False,0.0009537929436191,0.0007277118857018,0.0008242221665568
+i forget what his name is,0.02397547,0.9902148246765137,0.0,0.275,False,0.0012490530498325,0.0020553977228701,0.0007374074775725
+"he's also in a movie the hidden fortress, which is also directed by the same person that directed this",0.034104515,0.0,0.0833333333333333,0.0,False,0.0006731539615429,0.0004672716895584,0.000805448682513
+"and i really, kind of maybe really want to check that movie out and it's just really interesting seeing the dynamic between these characters",0.027409043,0.0,0.0,0.0,False,0.0005353180458769,0.0003911186358891,0.000291678297799
+it's really interesting,0.02655065,0.0,0.0,0.0,False,0.0006043521570973,0.0003234281612094,0.0004048985138069
+"uh, watching them interact with all the other side characters",0.06412373,0.0,0.125,0.0,False,0.0007287424523383,0.0005825128755532,0.0007176322978921
+this film is about the seven samurai and it is just absolutely magnificent,0.034791227,0.0,0.0,0.0,False,0.0008178603602573,0.0003283494152128,0.0027851515915244
+i'm gonna probably use that word at least one more time while you doing this review,0.13610743,0.0,0.0,0.0,False,0.0006976832519285,0.0011554693337529,0.0012795072980225
+the film centers around a town that's being attacked by bandits and they're pretty much going to be hiring these samurais to take care of it,0.20596254,0.0,0.0,0.093,False,0.0060543823055922,0.0046092001721262,0.054562009871006
+and let me tell you these samurais,0.09870692,0.0,0.0,0.0,False,0.2824701964855194,0.0005627329810522,0.0202872436493635
+they know exactly what they're doing,0.037881445,0.0,0.0,0.0,False,0.0013313638046383,0.0004141036770306,0.0007045251550152
+"there is uh, some dialogue in the movie",0.031185975,0.998950719833374,0.0,0.0,False,0.0005696596927009,0.000404703663662,0.0003025545738637
+"i'm probably going to butcher it because i don't remember it exactly, but they go to see the elder and they realize they got to get these samurai over here and the elders",0.21804169,0.9979003667831421,0.0,0.0,False,0.0041072485037148,0.0738293677568435,0.0455390587449073
+"uh, she's like we got to get samurai and they're like",0.087430015,0.0,0.0,0.0,False,0.2271429151296615,0.0005817902274429,0.0387459360063076
+"well, the only thing we can offer them is food",0.10892494,0.797164797782898,0.0,0.0,False,0.0015510478988289,0.0009000859572552,0.002622886095196
+we can't offer them money,0.089577995,0.9960960745811462,0.0,0.0,False,0.0017445790581405,0.0009492627577856,0.0004965484840795
+"and then he's like well, hire hungry samurai",0.11729682,0.5292624831199646,0.0,0.0,False,0.4103082120418548,0.0057004671543836,0.1575406789779663
+that part right there was awesome,0.04543531,0.0,0.0,0.0,False,0.0007394221029244,0.0003179792547598,0.0008254265994764
+i let me tell you the dialogue in this film is just it's perfect,0.040628307,0.0,0.0,0.0,False,0.0005736617022193,0.0003901961608789,0.0013663279823958
+it,0.017770508,0.0,0.0,0.0,False,0.0016468944959342,0.0015647209947928,0.0006399405538104
+there's nothing wrong with it at all,0.038911518,0.0,0.5,0.0,False,0.000799142930191,0.0004128555592615,0.001856044633314
+this,0.035134587,0.0,0.0,0.0,False,0.0022365439217537,0.0004711963993031,0.0005406324053183
+"i don't uh, like to pretty much say stuff is perfect because there's not really",0.03994159,0.9994226694107056,0.0,0.1,False,0.0006836747052147,0.0005979049601592,0.001038335263729
+there are perfect movies,0.042001735,0.0,0.0,0.0,False,0.0011585684260353,0.0005903912824578,0.0004604529240168
+"in my opinion, i do believe that, but i would honestly say that uh, seven samurai is perfect",0.023288755,0.0,0.0,0.0,False,0.000684667378664,0.0003789277106989,0.0036298437044024
+it really is,0.019575324,0.0,0.0,0.0,False,0.0011019569355994,0.0003561743360478,0.001186182256788
+"it is just a wonderful experience and it's something that i would oddly enough, want to watch in a movie theater",0.024833864,0.0,0.0,0.0,False,0.000600800558459,0.0003568275715224,0.0003509476082399
+"uh, because we had to pause this movie a bunch of times because of the length and stuff, and i just got off work and you know to just get off work, and you know, sink in three and a half hours into a movie",0.14463188,0.9984328150749207,0.1666666666666666,0.0,False,0.0016105696558952,0.0013714933302253,0.0011374468449503
+"you know, we're not able to do that often, but we wanted to do a seven samurai",0.035649624,0.5689871907234192,0.25,0.0,False,0.0008904167916625,0.0004226450109854,0.0153812794014811
+let me tell you it was absolutely worth it,0.0471521,0.0,0.0,0.0,False,0.0010276355314999,0.0005075833178125,0.0008859753143042
+"and oddly enough, too, if you're a fan of star wars, you can tell the cuts and stuff from the film, and like the slide ins and from the different locations, you can tell that george lucas was really inspired by this film, and i think honestly, you know that, and that's one thing me and my wife noticed whenever we were watching it was",0.036851373,0.0,0.0,0.076,False,0.0005996041581965,0.0005138120031915,0.0005476257065311
+we were like,0.019019997,0.0,0.0,0.0,False,0.0020392450969666,0.0005894300993531,0.0013946042163297
+"oh yeah, i can definitely see how george lucas was inspired by something like this",0.06132676,0.0,0.0,0.0,False,0.0005903699202463,0.0004515357140917,0.0008016465581022
+"apparently he was inspired even more so by hidden fortress, which i do need to check that out",0.058929358,0.0,0.0,0.0,False,0.0005363799282349,0.0003848271444439,0.0006597227184101
+so my final score for seven samurai is a 10 out of a 10,0.03770977,0.987366795539856,0.0,0.0,False,0.0123177785426378,0.0004049730196129,0.0015673791058361
+i couldn't give it anything less,0.061726328,0.0,0.1666666666666666,0.0,False,0.0013933536829426,0.0010425930377095,0.0014076653169468
+check this movie out,0.051737156,0.0,0.0,0.0,False,0.0010226716985926,0.0006606659153476,0.0002669226087164
+buy the criterion,0.017284594,0.0,0.0,0.0,False,0.0019775426480919,0.0004671995411626,0.0004970597219653
+what are you doing? i hope you guys enjoyed this review,0.14552918,0.0,0.0,0.0,False,0.0006415148382075,0.0008166860206983,0.0015147748636081
+if you guys did leave a thumbs up and maybe subscribe,0.12051678,0.5773047208786011,0.0,0.107,False,0.0007034664158709,0.0017927318112924,0.0009149348479695
+"if you guys want to check out my novel, links down the description below along with my instagram, and also, if you want to look me up on imdb",0.02054715,0.0,0.1555555555555555,0.0,False,0.0006493549444712,0.0021672546863555,0.0006675441400147
+"i'm on there as well, so you can see the stuff that i'm working on super exciting",0.11343288,0.0,0.0,0.0,False,0.0005556353717111,0.0004312771488912,0.0003228874702472
+"uh, but yeah, anyway, see you guys next time",0.058130227,0.7733502984046936,0.0,0.0,False,0.0008189771324396,0.0012024426832795,0.0007391290273517

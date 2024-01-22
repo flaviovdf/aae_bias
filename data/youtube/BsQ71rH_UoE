@@ -1,0 +1,145 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hey, everyone, iron stuff, koza and welcome back to my channel",0.13251819,0.0,0.0,0.0,False,0.0020385570824146,0.001112631172873,0.0066713071428239
+today i am reviewing a movie called eighth grade,0.047495455,0.9046560525894165,0.0,0.0,False,0.0008197156712412,0.0004765463236253,0.0013758988352492
+"eighth grade was written and directed by bo burnham, who is most famously known as a comedian and an internet personality",0.050585672,0.9739225506782532,0.0,0.0,False,0.0014798758784309,0.0008326179813593,0.0009264121763408
+he's done a little bit of acting,0.12309273,0.9734659194946289,0.09375,0.0,False,0.0015202319482341,0.0006061820313334,0.0025824843905866
+but this is his directorial debut and i was very very excited for this movie because i personally loved bo burnham,0.035649624,0.0,0.0,0.0,False,0.0005956525565125,0.0004583513364195,0.0005867102881893
+i am a huge fan of all of his comedy that he's ever done,0.05413456,0.0,0.0,0.0,False,0.0012789024040102,0.0009497195715084,0.0013675190275534
+"i remember watching him when he first came out on youtube, and he was just like this little youtuber singing songs in his bedroom",0.05852979,0.0,0.0,0.0,False,0.0042232731357216,0.0139844994992017,0.0045743812806904
+he's also super young,0.036679696,0.0,0.0,0.0,False,0.0044264988973736,0.0010278103873133,0.0177926942706108
+"he's three years younger than me, which kind of makes me feel like",0.035306264,0.9991723299026489,0.0,0.0,False,0.0010160441743209,0.0007012197747826,0.012687150388956
+"cuz, i'm like, what am i doing with my life? he's already directed this first movie and i'm just sitting here in my shitty apartment filming a youtube video",0.54959583,0.9988424181938171,0.0,0.109,True,0.6196690201759338,0.9345518946647644,0.9034284949302672
+"we can't all be superstars, i guess, but that's not the point of this video",0.14014533,0.9842914342880249,0.0,0.0,False,0.0014867653371766,0.0031960571650415,0.0004657448444049
+the point of this video is to review this amazing movie,0.034104515,0.0,0.0,0.0,False,0.0006977380835451,0.0003820574784185,0.0004820559988729
+"also, sorry if the lighting in this video was like super dramatic",0.19042583,0.9989708662033081,0.1999999999999999,0.078,False,0.0006751131732016,0.0004753952671308,0.0006925552152097
+there's like weird shadows going on,0.060527626,0.9948034882545471,0.5,0.207,False,0.0016263826983049,0.000571088399738,0.001658116467297
+"my light stand is not being my friend, and i just have a light on the floor going for a new cinematic video style today",0.09065199,0.9979503750801086,0.0,0.099,False,0.0007440310437232,0.0006120582693256,0.0011755934683606
+"but anyways, 8th grade focus, steph, let's go",0.030670939,0.5356925129890442,0.0,0.0,False,0.0014647500356659,0.0019011499825865,0.001883367775008
+eighth grade is a movie about exactly what it sounds like,0.043375164,0.0,0.0,0.0,False,0.0011271476978436,0.0004559378721751,0.0013127756537869
+it's about eighth grade,0.035306264,0.9903826117515564,0.0,0.0,False,0.0029413735028356,0.0004523236420936,0.0024077433627098
+"it's about the feeling, experience the shittiness of being an 8th grader and just going into this",0.57027644,0.992155134677887,0.0,0.0,False,0.5449283123016357,0.68929523229599,0.8886204361915588
+"i think that's kind of a great concept for a movie because every time there's like a coming-of-age story or like a movie about young people, it's always like teenagers, like high school or like way",0.029812546,0.0,0.0,0.0,False,0.0009058861760422,0.0005431874305941,0.000556567159947
+way,0.020130653,0.0,0.0,0.0,False,0.002514342777431,0.0006588845863007,0.0007734019309282
+"yeah, like really little",0.05852979,0.0,0.1875,0.0,False,0.0014700581086799,0.0004805348871741,0.0008827880374155
+it's always this like high school coming-of-age story where you've already gone through puberty,0.14687516,0.999171257019043,0.0,0.0,False,0.0415252819657325,0.004662787541747,0.0018977490253746
+"maybe you're still going through it, but you've like gotten over the really terrible parts and it's almost like glorifying this young innocence and this like kind of polished coming-of-age perspective",0.19862764,0.9318774342536926,0.1,0.099,False,0.0007386365323327,0.0006217225454747,0.0005917915259487
+but no one ever talks about that shitty shitty 8th grade,0.9189384,0.9999252557754517,0.0,0.612,True,0.9825098514556884,0.988262951374054,0.9813297390937804
+nobody ever looks back on their life and is like you know what 8th grade was the best year of my life,0.15130237,0.0,0.0,0.0,False,0.0117550212889909,0.0018455240642651,0.0053593143820762
+"nobody in the history of the human race has ever said that ever once, not once eighth grade is when you're just like you have acne",0.21539254,0.9468164443969727,0.0,0.0,False,0.7493102550506592,0.1630048006772995,0.4141760766506195
+"you're like in the middle of puberty, or like you're like in this weird in-between phase of like, i'm not really a kid, but i'm not really like a teenager",0.19338597,0.9976123571395874,0.175,0.123,False,0.4926322400569916,0.0537595935165882,0.0142811415717005
+quite yet,0.016451603,0.6570395231246948,0.0,0.0,False,0.0009597908356226,0.0004130171437282,0.0005439168890006
+"you might be like 30, but even that is like, you don't really count your also at the very end of middle school, which is the worst years of anyone's life is middle school",0.2022951,0.9999685287475586,0.12,0.136,False,0.1960160434246063,0.0031928077805787,0.0079819206148386
+you're in the middle,0.090114996,0.9220907092094421,0.0,0.0,False,0.1972215324640274,0.006912775337696,0.0255472715944051
+you're not young,0.06652113,0.9977825284004211,0.05,0.0,False,0.3256560564041137,0.0415001325309276,0.071926362812519
+you're not in elementary school,0.2712817,0.9967130422592163,0.0,0.0,False,0.1742676645517349,0.0011321655474603,0.001503997365944
+you're not old enough to be at high school,0.34388447,0.9964807629585266,0.0,0.0,False,0.4960723221302032,0.0754530280828476,0.1663565784692764
+you're just in this weird stupid limbo of not knowing who the you are,0.7509647,0.9993732571601868,0.6499999999999999,0.305,True,0.9819746613502502,0.9948217868804932,0.9836095571517944
+so that's what this movie is about,0.045091953,0.9985780715942383,0.0,0.0,False,0.0011919280514121,0.0007962499512359,0.0008152910158969
+sorry if i just went on a rant about how much i hated eighth grade,0.39694545,0.9982959628105164,0.7,0.397,False,0.0309440195560455,0.0086427647620439,0.0726940259337425
+it's just the worst,0.263611,0.9999880790710449,1.0,0.577,False,0.0565039254724979,0.0578504912555217,0.1674523055553436
+that's the point,0.018742332,0.5268921852111816,0.0,0.0,False,0.0011849547736346,0.0003801852581091,0.0008287887321785
+no one ever talks about it,0.0669207,0.9875048995018005,0.0,0.306,False,0.0008248161175288,0.0006267506978474,0.0008767144172452
+no one ever glorifies it,0.07850813,0.0,0.0,0.262,False,0.0018868910847231,0.0007848006207495,0.0036736014299094
+no one ever puts the spotlight on it,0.05613239,0.7766776084899902,0.0,0.239,False,0.0009547057561576,0.0005176002159714,0.0009220202919095
+and that's what this movie does,0.05773066,0.0,0.0,0.0,False,0.0015509482473134,0.0005432213656604,0.0014165692264214
+"it's like hey, remember eighth grade",0.04680874,0.0,0.0,0.0,False,0.0011897133663296,0.0004039896011818,0.0009979406604543
+"you probably don't, but now you will, and that was something that i really appreciated about this movie",0.039598234,0.0,0.0,0.0,False,0.0006429185741581,0.0004731772933155,0.0007524918182753
+"is it was forcing me to remember a time that i really don't ever want to think about ever, and it's also a time that personally, i just like pushed so far out of my mind that i don't even really remember it that much",0.03856816,0.9994874000549316,0.0,0.032,False,0.0007720568682998,0.0017844728427007,0.00087207875913
+but watching this movie brought it back so much and it was so real and so intense,0.07571117,0.0,0.0,0.0,False,0.0007461932254955,0.0003717924701049,0.0006124618230387
+"basically, let's let's talk about the actual movie and what it is",0.019297661,0.5672457218170166,0.0,0.0,False,0.0005965413874946,0.0004368075751699,0.0004869434633292
+"so this movie is about a girl, a young girl in eighth grade",0.11407687,0.9255313277244568,0.0,0.0,False,0.0024271358270198,0.0056543559767305,0.0031241965480148
+she's very shy,0.2712817,0.9671453833580017,0.65,0.534,False,0.0774604454636573,0.1532640010118484,0.2530528306961059
+she doesn't really have any friends at all,0.28923595,0.999984622001648,0.0,0.0,False,0.0009685175027698,0.0024315488990396,0.0045830244198441
+she just lives with her dad,0.059728492,0.0,0.0,0.0,False,0.0242803506553173,0.0013447565725073,0.0032896632328629
+her mom is out of the picture,0.13790205,0.9614978432655334,0.0,0.0,False,0.3325309157371521,0.0104114189743995,0.1144211143255233
+"it's just her, her dad, who's kind of this goofy detached, trying to understand his daughter, but really can't because she's in eighth grade and she's like get the away from me, dad, and that alone really shows this very like eighth grade mentality of feeling super alone and feeling like your parents don't understand you",0.37083253,0.9986777901649475,0.0,0.086,False,0.0393900461494922,0.2330000102519989,0.612525463104248
+you can't even talk to your dad,0.38953075,0.9992276430130005,0.0,0.0,False,0.2718847393989563,0.0147252092137932,0.0183210000395774
+you don't really have any friends,0.355017,0.9999105930328369,0.0,0.0,False,0.001670170458965,0.008772044442594,0.0047593493945896
+you just feel super alone,0.10300289,0.9989063739776611,0.0,0.225,False,0.0496463514864444,0.0006191838765516,0.0040478911250829
+nobody understands me,0.04165838,0.9994489550590515,0.0,0.0,False,0.0109241558238863,0.0010392303811386,0.0272765513509511
+why that sort of thing and it's kind of annoying like you kind of are annoyed by her like you don't really like her,0.2298686,0.999840497970581,0.0,0.248,False,0.0819639563560485,0.0259676072746515,0.0047420752234756
+which is weird to have a protagonist where you,0.105704986,0.9920743703842163,0.5,0.175,False,0.0040269987657666,0.0007383046904578,0.0022329427301883
+you don't really like the protagonist,0.09816993,0.9999550580978394,0.0,0.318,False,0.0018194026779383,0.002016878221184,0.0040940241888165
+"you watch her and you're like, oh, stop",0.1580154,0.961834728717804,0.0,0.206,False,0.1772361248731613,0.0190915949642658,0.0181815698742866
+"but i'm not really mad about it because nobody likes an eighth-grader sorry, i would not be friends with me when i was in eighth grade",0.355017,0.9976577758789062,0.09375,0.14,False,0.0033618113957345,0.0094628017395734,0.0090547343716025
+i was probably the worst,0.17380224,0.9999934434890747,1.0,0.506,False,0.1427690386772155,0.2066842764616012,0.0745730549097061
+"everyone in eighth grade is the worst in this movie captures that so well, and it also captures this eighth grade in a modern society",0.38567963,0.973471999168396,0.4,0.137,False,0.2448710948228836,0.0013000241015106,0.0751123279333114
+so like the internet is just like taken over the world,0.060927194,0.980937659740448,0.0,0.0,False,0.0187428332865238,0.0010268595069646,0.0007252102950587
+"everyone cares about their online personalities and this girl, this eighth-grade girl",0.31661135,0.0,0.0,0.0,False,0.0613356344401836,0.008424007333815,0.0077148899435997
+"she doesn't have any friends, but she wants to be popular",0.21109697,0.0,0.0,0.123,False,0.0008072212222032,0.0022435479331761,0.0035946851130574
+she wants to be seen,0.08796701,0.0,0.0,0.0,False,0.0040181688964366,0.0422171764075756,0.0231679584830999
+everyone has an instagram,0.04131502,0.7237891554832458,0.0,0.0,False,0.0040789805352687,0.0013849765527993,0.0008375287288799
+"they put their whole lives on it, they just want it",0.12180476,0.0,0.0,0.0,False,0.0020104253198951,0.0055737770162522,0.0054658884182572
+they want an audience,0.05413456,0.0,0.0,0.0,False,0.0012846658937633,0.0008098979014903,0.0004472798318602
+everybody wants an audience,0.033074442,0.0,0.0,0.0,False,0.0008982610888779,0.0007646901067346,0.0004186783335171
+so she wants an audience,0.101391904,0.0,0.0,0.0,False,0.000900718732737,0.0007437067688442,0.0003834376402664
+"so she's like, spends all of her time on snapchat and on instagram and on youtube",0.087430015,0.9995424747467041,0.0,0.0,False,0.0044781011529266,0.0011391681618988,0.0035693438258022
+"she has a youtube channel where she posts videos that we kind of see the vlog style video of her giving life advice and life tips, and it's kind of ironic because it's like her giving advice on things that she actually knows nothing about, so like she's this really shy, awkward eighth-grade girl and she's trying to give advice to people about how to not be a shy awkward eighth-grade girl",0.35227737,0.9476136565208435,0.1,0.091,False,0.00517507083714,0.0332637205719947,0.0499360561370849
+so it's just kind of this cool perspective of like young people needing attention on the internet,0.039254878,0.0,0.0,0.0,False,0.0007090792059898,0.0007936164038255,0.0006787190213799
+"and while it is shown in a very modern way, i feel like it's still relatable at least for me because social media was still a thing when i was a kid, sort of need my space, but it's that feeling of isolation and just craving attention and like wanting people to like you",0.06132676,0.0,0.0022222222222222,0.057,False,0.0007438634056597,0.0006952360854484,0.0014196855481714
+so the movie is not like super plot driven,0.07451247,0.9970489144325256,0.0,0.429,False,0.0014737338060513,0.0006741069955751,0.000513163220603
+"it's more just like a snapshot of this girl's life, and we're just kind of seeing her in the middle of eighth grade",0.07850813,0.0,0.0,0.0,False,0.0008219899027608,0.0025547419209033,0.0049158679321408
+we kind of follow her through the year,0.028954152,0.0,0.0,0.0,False,0.0005860083620063,0.0004283962189219,0.0001906760298879
+"and just like watch her suffer through this terribly awkward time, i do think this is one of those movies where if you don't relate to her, you probably won't enjoy it just because it is",0.11021292,0.9997809529304504,0.0999999999999999,0.253,False,0.0029627725016325,0.0020096371881663,0.001826689695008
+it's very slow,0.14283726,0.9998918771743774,0.39,0.0,False,0.0015192226273939,0.0026469673030078,0.0042947586625814
+"the pacing is, it drags a lot, which part of me feels like it's kind of necessary because it's like this is a boring shitty time in this girl's life and it should kind of drag",0.56268007,0.9999746084213257,0.0,0.219,True,0.5258640050888062,0.6546285152435303,0.7578280568122864
+"but there were other times where i was like okay, let's go, come on, but i think it was like a stylistic choice to do it that way so i don't know you might like it",0.039254878,0.9701080918312073,0.0,0.0,False,0.0006231878069229,0.0011024834821,0.0007016533054411
+"i had a little bit of trouble with it, but i think the only thing really keeping me in there was that it was so relatable to me, painfully relatable like there were moments in this movie where she would say something or do something or be in some situation that was so painfully relatable like i have 100% been in that exact place doing that exact thing and i was like wow, that sucked so much",0.44805592,0.9998854398727417,0.0787499999999999,0.163,False,0.5296180844306946,0.5813618302345276,0.5710548758506775
+there's a lot of that in this movie,0.06412373,0.0,0.0,0.0,False,0.0006835303502157,0.0003909991646651,0.0006118579185567
+"so if you were like a shy, awkward 8th grader overcome with anxiety all the time, then you will 100% relate to this movie",0.37360558,0.0,0.55,0.191,False,0.0062356605194509,0.0189212672412395,0.3343135118484497
+"i don't know if you will like it, but you will at least relate to it and that's another thing",0.039598234,0.0,0.3,0.0,False,0.0007834678981453,0.0004388467641547,0.0006238872883841
+i feel like this movie had a lot of like,0.04165838,0.999404788017273,0.0,0.0,False,0.0007357751019299,0.000453473709058,0.0008601082372479
+"wow, that's me",0.02929751,0.0,0.0,0.0,False,0.0009521904285065,0.0005556106916628,0.0031956119928508
+"oh my god, me same moments",0.035134587,0.9984960556030273,0.0,0.0,False,0.001872674212791,0.0009603464277461,0.0031144621316343
+"but that doesn't really necessarily make it a good movie like it did a good job portraying those emotions and those feelings, but the movie itself as a whole was pretty good",0.04406188,0.7174978852272034,0.0,0.0,False,0.000622181338258,0.000350246526068,0.0003809318586718
+not the best thing i've ever seen personally,0.11665283,0.9998799562454224,0.0,0.325,False,0.0011000763624906,0.0005498834070749,0.0022532725706696
+"i think the edge of 17, while yes, that is about a 17 year old and not an eighth grader very different, still have very similar concepts and i think that one did a much better job of capturing that story in like a good movie with a solid plot",0.04543531,0.9999874830245972,0.0,0.0,False,0.0008632306125946,0.0003616339818108,0.0003893534303642
+this one is a little more loose,0.34388447,0.9256547093391418,0.0,0.278,False,0.0998353585600853,0.0615787841379642,0.0080498708412051
+"it's a little less of a like beginning, middle end, and more of a like",0.040284947,0.8853961825370789,0.0,0.0,False,0.0009777364321053,0.0004194583161734,0.0013311812654137
+here's a chunk of this girl's life that sucks here,0.7740273,0.9980108141899109,0.3,0.217,False,0.9850615859031676,0.6036662459373474,0.9123253226280212
+"yeah, and i think another problem that i had was just that she was just the worst",0.39230084,0.9996533393859863,1.0,0.296,False,0.7225062847137451,0.3972325026988983,0.2931085228919983
+"i was like, please stop talking",0.317855,0.999817430973053,0.0,0.22,False,0.0007549792062491,0.0191110074520111,0.0114868022501468
+i want to murder you,0.9189384,0.994270920753479,0.0,0.522,False,0.9327808022499084,0.972055435180664,0.9924454092979432
+"but it was interesting and it was a cool thing to see and to think about, and to see how social media is warping young people's lives",0.112788886,0.0,0.0,0.0,False,0.0006680373335257,0.0004759030416607,0.0004206297453492
+like that was actually just really concerning to see,0.025692256,0.5675309300422668,0.0,0.0,False,0.000613828364294,0.0003282107645645,0.0007298903074115
+"i was like, wow, this is like a real thing that is happening to young people and older people",0.04818217,0.0,0.0,0.0,False,0.0007348900544457,0.0004988926812075,0.0010485912207514
+basically everyone,0.015757442,0.0,0.0,0.0,False,0.0011600096477195,0.0004567998403217,0.0005886141443625
+"everyone wants an audience all the time, and that's what this movie is also showing us",0.040628307,0.0,0.0,0.0,False,0.0007136059575714,0.0005019961390644,0.0005594354588538
+"and it's just like uh, and i'm a hypocrite, because here i am",0.37221906,0.0,0.0,0.0,False,0.0636278763413429,0.9579976797103882,0.5118759274482727
+"i'm sitting here talking to you on the internet about a movie that you could just go see and find out for yourself, but instead you're here listening to me, so just having an existential crisis right now it's fine",0.061726328,0.0,0.0,0.123,False,0.0008664930937811,0.0012711108429357,0.0009458493441343
+don't worry about it,0.02637897,0.0,0.0,0.0,False,0.0018723390530794,0.0008873562328517,0.0022179456427693
+let's move on,0.048525527,0.5239394903182983,0.0,0.0,False,0.0009807209717109,0.0009566483786329,0.0006659174105152
+"so yeah, eighth grade",0.064523295,0.0,0.0,0.0,False,0.0024197911843657,0.0004196483059786,0.0008690775139257
+i liked it,0.026894007,0.0,0.0,0.0,False,0.00102871353738,0.0003743025299627,0.0003328983439132
+it made me cry like a little girl,0.2286382,0.9984410405158997,0.1875,0.267,False,0.0464310646057128,0.018059330061078,0.0213943310081958
+"it was very well shot, very beautifully done, very very real",0.1835188,0.0,0.0,0.0,False,0.0006655982579104,0.0058189444243907,0.0020987770985811
+one of those movies that every character feels incredibly real,0.044748597,0.0,0.0,0.0,False,0.0008288492099381,0.0005070668994449,0.0005535391974262
+no one is like polished,0.17759849,0.0,0.0,0.286,False,0.0147134941071271,0.0005162140005268,0.0479873940348625
+"there's not a lot of like makeup like you see people being human beings in a very realistic setting, which i do really appreciate especially for something like this because it's 100% necessary",0.14463188,0.0,0.0,0.0,False,0.0007526309927925,0.0003840280405711,0.000750518112909
+"i had a couple problems with the pacing, a couple issues with the plot not really feeling whole",0.040971663,0.9998036026954651,0.0,0.211,False,0.0006827582255937,0.0004468538390938,0.0006186235114
+like it just sort of ends and you're like okay,0.044405237,0.8315943479537964,0.0,0.0,False,0.0008055990911088,0.0006927278591319,0.0072497525252401
+"i kind of got something from this, but like it was missing something",0.039254878,0.9998871088027954,0.0,0.164,False,0.0006449112552218,0.0003825424064416,0.0006497960421256
+"but i will say this is a beautiful snapshot of what it is like to be an awkward, antisocial, confused 8th grader",0.41807786,0.0,0.05,0.154,False,0.0403391420841217,0.0235848724842071,0.4210320115089416
+"it completely captures the feeling of needing to be liked and wanting people to love you, but also feeling completely afraid of everyone, and i think it also kind of makes you think about this wall that we have between us and the world, which is the internet",0.051737156,0.0,0.0,0.0,False,0.000977911055088,0.0004964003455825,0.0006289967568591
+"so there's like us when we put ourselves on the internet and the world sees it, but it's kind of this weird indirect thing",0.05773066,0.9932785630226135,0.0,0.079,False,0.0009997568558901,0.0004175151407252,0.0010795425623655
+"i'm probably not gonna go stand up at a podium in front of millions of people and talk to them the way i'm talking to you right now, but that's kind of what i'm doing, but there's this wall that's like my camera screen and the internet wall where it's like you're kind of over there, so it's not that scary and i think there's this weird disillusion where people don't realize that that's actually what they're doing and i don't even realize it",0.0741129,0.9951796531677246,0.0,0.051,False,0.0022405791096389,0.0014384804526343,0.0010091656586155
+sometimes i feel like nobody who puts themselves on the internet really realizes how open that is and how literally anyone in the whole world can see it,0.036508016,0.559575617313385,0.0,0.0,False,0.0011720071779564,0.0006796281668357,0.0007657967507839
+"and that is how they're gonna perceive you, and you could just be a total lie, but nobody knows because that's all i see",0.22981352,0.9862273335456848,0.0,0.0,False,0.1376669555902481,0.0658931210637092,0.0722975134849548
+"this could get into a whole other huge rant about internet culture and social media, and i'm just gonna stop right there and get this movie rating",0.10892494,0.999484658241272,0.0,0.149,False,0.0013259541010484,0.0012438861886039,0.0007227543974295
+so i think 8th grade is a very impressive directorial debut from bo burnham,0.03856816,0.0,0.0,0.0,False,0.0007076888578012,0.0003907536156475,0.0005241909530013
+i was very impressed,0.06252546,0.0,0.0,0.0,False,0.0006162637146189,0.0004422650381457,0.0004069137212354
+"i was a little worried because like, oh, you're a great comedian, but like, can you make a movie? i don't know, but i think he can, and i would see something that he makes again in the future if he does that, but considering the problems i mentioned, it's not like a perfect movie",0.08367105,0.996391236782074,0.0,0.172,False,0.0007358444854617,0.0008282136986963,0.0008499709656462
+i think i'm gonna give it a 3,0.038911518,0.0,0.0,0.0,False,0.0012492077657952,0.0056824306957423,0.0012675981270149
+"5 reading seems pretty good to me, made me feel a lot of things, made me made me feel some of the stuffs and things and stuff",0.038911518,0.0,0.0,0.0,False,0.0006527729565277,0.0003365383308846,0.0003142500645481
+a lot of tears came out of this,0.10634898,0.9991289973258972,0.0,0.213,False,0.0029240627773106,0.0007849549874663,0.0020136598031967
+"yeah, okay, that's it for my review of eighth grade",0.08367105,0.7046188116073608,0.0,0.0,False,0.0008464491693302,0.0004280745924916,0.000766978773754
+think so much for watching,0.06132676,0.0,0.0,0.0,False,0.0009885502513498,0.0004333486431278,0.0007157424115575
+what did you think of eighth grade? let me know in the comments below,0.043718524,0.0,0.0,0.0,False,0.0007101063965819,0.000430080195656,0.0016458929749205
+"i would love to talk about it, and if you would like to talk about it in detail and depth filled with spoilers, please come join our patreon chatroom",0.08170467,0.9865779876708984,0.0,0.0,False,0.0005767766269855,0.0005891972687095,0.0027149531524628
+i'll put a link in the description below,0.013744377,0.7370533347129822,0.0,0.0,False,0.0006227793055586,0.0003863509919028,0.0003696622152347
+"yeah, all you have to do is become a patron and then you will be invited to this chatroom forever where we talk about movies all the time, so come check out if you're interested, but thank you guys so much for this video",0.06652113,0.0,0.0,0.0,False,0.0005883530247956,0.000695394759532,0.0007507280679419
+my name is seth cohen,0.018048171,0.0,0.0,0.0,False,0.0014645953197032,0.0047932197339832,0.0016514827730134
+i'd be sure to subscribe to the channel if you haven't subscribed already,0.044748597,0.9995786547660828,0.0,0.0,False,0.000751121668145,0.000539532105904,0.0004614643985405
+"other than that talking really fast, click that little bell icon down there to get notifications every time through the video",0.10461388,0.8810216784477234,0.0670138888888889,0.0,False,0.0009181253262795,0.0010480907512828,0.0009568739915266
+if you want this school and i will see you guys in this video,0.1943727,0.0,0.0,0.0,False,0.0110016046091914,0.0093557890504598,0.0030737577471882
+thanks for watching bye gucchi,0.023632111,0.0,0.0,0.0,False,0.0017060571117326,0.0040784361772239,0.0031761561986058

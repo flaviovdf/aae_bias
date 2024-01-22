@@ -1,0 +1,42 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hey, this is our vici with your entertainment ticket at wwe ticket dot-com your entertainment ticket",0.048868883,0.0,0.0,0.0,False,0.0022421714384108,0.0007237121462821,0.0047701238654553
+"well, the film i'm gonna talk about right now is called the shape of water",0.043718524,0.9170027375221252,0.0,0.0,False,0.0006329359603114,0.0004563724796753,0.0007930189021863
+"no, i'm not talking about an ice cube",0.047495455,0.9847418069839478,0.0,0.0,False,0.0008482633857056,0.0014973867218941,0.0012800362892448
+i'm talking about a film by director camaro,0.031701013,0.0,0.0,0.0,False,0.0006468302453868,0.0004531261220108,0.0009396658279001
+they'll tour,0.04234509,0.0,0.0,0.0,False,0.0049108387902379,0.0006739011150784,0.0011608148925006
+"oh, i love his vision and i love the way he shoots television and film",0.11021292,0.0,0.0,0.0,False,0.0006379295373335,0.0014149654889479,0.0049519105814397
+"well, let me tell you about this story",0.02655065,0.0,0.0,0.0,False,0.0006493131513707,0.0003731433826033,0.0008140295976772
+this story's two main character is about eliza,0.017423427,0.0,0.0,0.0,False,0.0006235172622837,0.000594331533648,0.0002518599503673
+"she's a mute and she works in some place in baltimore, look like a government control, or might be a government control company",0.21980777,0.996046245098114,0.0,0.0,False,0.3621317446231842,0.121391162276268,0.8424139618873596
+"what she mops, and she also does that that worked with her great friend, who's played by octavia spencer, and her friend is named zelda",0.15568043,0.0,0.0,0.0,False,0.0011611559893935,0.0063503994606435,0.0393548756837844
+"well, they look out for each other, you know, they mop the floors clean up and things like that",0.105704986,0.0,0.0,0.0,False,0.0021314786281436,0.0010973319876939,0.0024799706880003
+now the other main character in this is a monster,0.29070088,0.9975298047065735,0.0,0.0,False,0.0024451075587421,0.2482900321483612,0.2966445684432983
+"actually, it's monster, looks like something from the black lagoon",0.2712817,0.9531958699226379,0.0833333333333333,0.0,False,0.0022436599247157,0.2820047438144684,0.1456263661384582
+"if you remember that movie, well, i do",0.027752401,0.0,0.0,0.0,False,0.0006522086332552,0.0004369324888102,0.0005868257721886
+"maybe you won't, and this is said in the 1960s, you know, at the height of the cold war, and because of that time you know 1960s, everybody's afraid of everything, and they treat everything very nasty",0.19338597,0.9913564920425415,0.7333333333333334,0.175,False,0.0106960432603955,0.0141934733837842,0.0940858498215675
+you know,0.03994159,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+"there's you know, bigotry and things like that",0.16965903,0.9942276477813721,0.0,0.0,False,0.0291221532970666,0.0298334918916225,0.0247801374644041
+"in fact, the main nemesis for this monster is richard strickland",0.39230084,0.935546338558197,0.0,0.0,False,0.0014683392364531,0.1125275790691375,0.7513593435287476
+play by michael shannon,0.020963646,0.0,0.0,0.0,False,0.0008628112263977,0.0007897467003203,0.0003315907961223
+man,0.032387726,0.0,0.0,0.0,False,0.0022194350603967,0.0052868979983031,0.0193542260676622
+this is a great role for him and he's a guy,0.03616466,0.0,0.0,0.0,False,0.0008080351399257,0.0023063230328261,0.0034890682436525
+"he lives in the suburbs, split-level house with his wife and two kids",0.10699297,0.0,0.0,0.0,False,0.0025385271292179,0.00159338186495,0.0011807160917669
+"he drives a cadillac car, now calais car",0.021518974,0.0,0.0,0.0,False,0.0009280275553464,0.0007179394597187,0.0313021764159202
+"and you know, he also the sexual harassment at the workplace",0.40636617,0.8964868187904358,0.0,0.259,False,0.199909046292305,0.2784390747547149,0.6697550415992737
+"but remember 1960s, who's gonna tale? but now he liza, she gets to see the monster be she hears the screams and everything",0.229845,0.0,0.0,0.113,False,0.0136986561119556,0.0109428688883781,0.1012053042650222
+how they,0.0168681,0.0,0.0,0.0,False,0.0017605215543881,0.000489663623739,0.0008382289670407
+"trina's monsters, sometimes stricken, comes out with blood on him from punishing this monster",0.31389946,0.9998435974121094,0.0,0.365,False,0.4645453691482544,0.4512673914432525,0.6222916841506958
+"so she gains the monsters trust she feeds him, teaches him sign language plays music form, and things like that, and they fall in love",0.22986074,0.0,0.0,0.0,False,0.0043873679824173,0.0008773629087954,0.0606048963963985
+"now del toro, you know, it looks like he took many of the old monster movies, some of their stories, and put this together, and to you the movie gore",0.13610743,0.5367122292518616,0.0,0.0,False,0.0008744084625504,0.0254412423819303,0.0038431386929005
+"you might seem familiar with this story and i said, ok, alright, ok, i've seen something like that before, but he does bring a freshness to this monster story and also he creates splendor with the color of the film and also with the characters and the acting, and one thing about the characters, you will sit there and say, go, go, don't get caught",0.11600884,0.0,0.0,0.0,False,0.0011187616037204,0.0042455364018678,0.0034735132940113
+"in other words, you were root for all the characters",0.06612156,0.0,0.125,0.0,False,0.0008710552356205,0.0006263697287067,0.003059267764911
+you even root for strickland,0.05852979,0.0,0.0,0.0,False,0.0025941545609384,0.0053801462054252,0.0083029177039861
+"and also you will root for eliza and zelda one thing about this film is that it shows the humanity of man how when there's something different, we don't understand it and then some group gets gets his hand on it how they treat it",0.0825038,0.0,0.0,0.0,False,0.0007267011096701,0.0009286657441407,0.0014822558732703
+"they don't treat it in a very good way, and it's been throughout history, so i think del toro is really trying to show us us humans how we are how we react when there's something different, you know, and i really know a lot about that",0.0765103,0.997007429599762,0.0,0.045,False,0.0006381453713402,0.0004740919684991,0.0005394829786382
+"well, the shape of water",0.023460433,0.0,0.0,0.0,False,0.0006786572630517,0.0004984662518836,0.0010440810583531
+"i'm gonna give this 3 and 1/2 palm trees, because this is a very exciting film entertaining and i really enjoyed the characters in this film",0.08796701,0.0,0.0,0.0,False,0.0005657853325828,0.000347656867234,0.0003808084584306
+"they were fun to watch, and it felt like you were there watching them, you know, standing next to them, watching everything's going on and that's why i really like the shape of water",0.040971663,0.0,0.0,0.0,False,0.0006812805077061,0.000440203846665,0.000679061980918
+"three and a half palms for me, al mcgee",0.0471521,0.0,0.1666666666666666,0.0,False,0.0009504723129794,0.0008384545799344,0.0047850697301328
+"here, your entertainment ticket at wwe ticket dot-com thank you for watching",0.026035614,0.8658308982849121,0.0,0.0,False,0.0007351047242991,0.000587036658544,0.0004058967460878
+i really appreciate it,0.026035614,0.0,0.0,0.0,False,0.0005690606194548,0.0003104168863501,0.0003075559507124
+why?,0.012078391,0.9794408082962036,0.0,0.0,False,0.0009686388075351,0.000617608486209,0.0005769594572484

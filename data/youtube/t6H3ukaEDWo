@@ -1,0 +1,65 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hey, everybody today, i'm going to be reviewing mad max fury road and i know i'm so late",0.09172598,0.0,0.4625,0.301,False,0.0008861129754222,0.0098021868616342,0.0257375799119472
+hun reviewing this,0.033932835,0.0,0.0,0.0,False,0.0007349295774474,0.0004272313381079,0.0006475617992691
+"i know everyone's already seen it, but i kept getting request after request after request to review this movie",0.026722329,0.0,0.0,0.0,False,0.000565625494346,0.0003834690432995,0.0003214199969079
+so here i am,0.027237365,0.0,0.0,0.0,False,0.0019747898913919,0.000768938974943,0.000593084085267
+i'm devoted,0.03736641,0.0,0.0,0.0,False,0.0009298849618062,0.0011757665779441,0.0008372889715246
+one of the reasons it took me so long to actually go see the movies,0.039598234,0.0,0.025,0.0,False,0.0010183161357417,0.0005160146974958,0.001355803804472
+because i was a complete mad max virgin,0.35756677,0.587568461894989,0.2625,0.314,False,0.1026690378785133,0.4857549965381622,0.7361811995506287
+"i, we hadn't even made it to first base",0.023288755,0.9986897110939026,0.275,0.0,False,0.0008638337021693,0.0004217404639348,0.0005134107777848
+i knew nothing about mad max,0.1019289,0.7776501774787903,0.625,0.0,False,0.0027928315103054,0.0068397889845073,0.0815378427505493
+"i didn't even know mel gibson was in it, and i know that's kind of lame to admit, but i just i didn't really grow up with a lot of cult action movies as a kid, so i just never got introduced to it and you know what's so great about this movie is that you don't have to have much backstory at all, if any, to enjoy it",0.1689685,0.998814582824707,0.0,0.026,False,0.0011205507908016,0.0146982120350003,0.0026138208340853
+and i think a lot of that comes from the simplicity of the storyline,0.028610796,0.0,0.0,0.0,False,0.0005966383614577,0.0003374977386556,0.0003105619398411
+"the movie is just kind of one big climax that is stripped to the bare-bones in terms of the plot, you've got your protagonist, which is max, obviously, and he is a prisoner that is escaping from this tyrannical civilization that it's kind of like a cross between tatooine and geonosis",0.16151784,0.9963281750679016,0.0,0.064,False,0.0039405319839715,0.001518331002444,0.0175334028899669
+"he is escaped and he is helped by a woman named furiosa, played by charlize theron, and the whole movie is basically just them trying to survive and they're being chased",0.13700475,0.9819865226745605,0.0,0.0,False,0.0020442109089344,0.0024380742106586,0.0102989599108695
+that's it,0.026894007,0.0,0.0,0.0,False,0.0024011139757931,0.0004873056604992,0.0011659142328426
+some may say that the plot is too simplistic and i couldn't disagree more,0.060527626,0.9962155222892761,0.0,0.0,False,0.0006670331349596,0.0020937018562108,0.000402697478421
+"i actually think ironically, it's very refreshing to see a movie an action movie know exactly what it is, and so it just keeps everything to the minimum in terms of how complicated the plot is, because i feel like nowadays all i see and i'm getting so sick of it are these overly complicated plots and these movies, these action movies that have so much cgi",0.15042676,0.6995530128479004,0.046031746031746,0.059,False,0.0014551654458045,0.0006978827295824,0.0008779733907431
+no personality at all,0.09387396,0.9999302625656128,0.0,0.423,False,0.0024380055256187,0.0026683970354497,0.0017286028014495
+"they're just like these cold, corporate things that are just kind of shoved out on an assembly line",0.08050597,0.9995641112327576,0.0,0.0,False,0.0012245803372934,0.0010399781167507,0.0144949946552515
+"and this movie basically just christ, faolain",0.11536485,0.9958796501159668,0.0,0.0,False,0.0098399883136153,0.0169662907719612,0.0020525017753243
+all that mad max is a no-holds-barred blockbuster flick and it's gritty,0.36805952,0.0,0.3125,0.187,False,0.0139793846756219,0.0064306762069463,0.0885022431612014
+it's relentless,0.13206954,0.9977891445159912,0.0,0.0,False,0.0010999757796525,0.0015132632106542,0.0035496829077601
+"it's bombastic and all of this in the best possible way, and it's one of the best action movies i've seen a long, long time",0.06652113,0.0,0.0,0.0,False,0.0006713699549436,0.0049182851798832,0.003835366340354
+"i watched some of the making of behind the scenes footage, and from what i understand, there's very little cgi going on here and that is so great, because to me you just can't",0.080905534,0.8786591291427612,0.0,0.0,False,0.0007473753066733,0.0027949013747274,0.0025768626946955
+"i mean, at least right now, i mean, maybe in the future we will be able to be more evolved in terms of the technology, but right now you just can't capture the personality and the detail of things with a computer",0.015757442,0.999947190284729,0.0,0.0,False,0.0005607497878372,0.0004528514691628,0.0006204835372045
+everything here just looks so real and authentic,0.035649624,0.0,0.0,0.0,False,0.0006212829612195,0.0003465688205324,0.0014311654958873
+"the atmosphere of it is incredible, so creative",0.038224805,0.0,0.0,0.0,False,0.0006148430984467,0.0003357328532729,0.0012258253991603
+they look like they put so much effort into everything,0.08367105,0.9951070547103882,0.0,0.0,False,0.0014384859241545,0.000541121175047,0.0037420878652483
+everything from the cars to the makeup and the weapons,0.112144895,0.0,0.0,0.244,False,0.0008792333537712,0.000865168578457,0.0008441004320047
+everything,0.020824814,0.0,0.0,0.0,False,0.0019739912822842,0.0005888657760806,0.0004977803910151
+it's just so over the top,0.04818217,0.9994243383407593,0.0,0.0,False,0.0020936371292918,0.0012343362905085,0.0036005328875035
+"and it, you feel like you",0.04131502,0.0,0.0,0.0,False,0.0235859807580709,0.0022311257198452,0.004124722443521
+"while you're watching it, you feel like you're at the most adrenaline infused operatic rock concert ever",0.22687212,0.0,0.0,0.0,False,0.0007605180726386,0.0007716200780123,0.0090835569426417
+"and actually there is even a guy who is, you know, on top of one of the vehicles with a guitar, electric guitar, and there's fire coming out of it and he's just like, and as soon as i saw that i was just like yes, by that point you know exactly what kind of movie it is and you just kind of have to go in headfirst and i think that the cacophonous nature of the visual storytelling is balanced so well with what i said before that simple story",0.0813051,0.0,0.0,0.024,False,0.0030810884200036,0.0007771104574203,0.0012810420012101
+that's more kind of in the revenge kill bill style,0.29045674,0.9749135971069336,0.0,0.503,False,0.1105237230658531,0.2151796072721481,0.0489375479519367
+and each character has something that is at stake or desires something that we can all connect to emotionally,0.031185975,0.0,0.0,0.0,False,0.0006913991528563,0.0005369870923459,0.0005172478267922
+you mean you've got max who's just trying to escape and he's got all of this,0.03994159,0.0,0.3125,0.0,False,0.0015880293212831,0.0004683883453253,0.0014979087281972
+"you know, post-traumatic stress",0.10031791,0.6991459727287292,0.0,0.483,False,0.0011903917184099,0.0005296624731272,0.0006497031426988
+i guess you could say he's just basically wanting to be liberated from this oppressive society,0.11343288,0.9973573088645935,0.0,0.172,False,0.009675346314907,0.0017103137215599,0.006477391347289
+and then you got nicholas hoult character who is quite manic and naive and he just wants to stand for something,0.45045215,0.8509958386421204,0.0499999999999999,0.106,False,0.0013008230598643,0.2041926085948944,0.4719041585922241
+he wants his life to have meaning before he dies,0.1689685,0.0,0.0,0.0,False,0.7510470747947693,0.3693298995494842,0.0627110227942466
+"and in there's furiosa, who is one of the female characters",0.09172598,0.7464830875396729,0.0,0.0,False,0.0044373725540935,0.0028856871649622,0.0296625439077615
+"charlize theron, and this character has been talked about a lot",0.043031808,0.0,0.0,0.0,False,0.0006204246892593,0.0005169111536815,0.0005727537209168
+i think more than any other aspect of the movie,0.024147147,0.0,0.0,0.0,False,0.0006460647564381,0.0004175326321274,0.0003460181469563
+and actually somebody on youtube asked me what i thought about the if i thought it was feminist or or what,0.1580154,0.9982408285140991,0.0,0.0,False,0.0009950607782229,0.0086107514798641,0.0051148766651749
+"i think the movie is feminist, but really, i don't think it's consciously",0.17242117,0.993886411190033,0.0,0.0,False,0.0010782219469547,0.0223147924989461,0.0185779072344303
+i think it's just a movie that has happens to have very strong female characters,0.083939545,0.691612184047699,0.0,0.0,False,0.0014508159365504,0.0029444794636219,0.0041019194759428
+"it, and it's one of the very few films to portray a female in a very realistic light, as as realistic as mad max could be, and it is not feminist propaganda like some people think it is, and because it's capturing all kinds of different archetypes and how females are portrayed in different ways, furiosa is just one of the most badass female action heroes i've ever seen",0.22991583,0.0,0.0,0.069,False,0.01589085906744,0.0057493168860673,0.1158987879753112
+"i mean, she's tough and very androgynous",0.28825936,0.8617781400680542,0.1671296296296296,0.2,False,0.0042904075235128,0.0036778624635189,0.1655402928590774
+she's got a shaved head,0.355017,0.9802021384239197,0.0,0.0,False,0.2701177299022674,0.0891304537653923,0.2841653227806091
+that's kind of been that maria falcon eddie style,0.03994159,0.9983293414115906,0.0,0.0,False,0.0007717122789472,0.001115572056733,0.0019837438594549
+"and if you get that reference, there aren't any moments at least that i remember watching the movie where she was once objectified, where they even referred to her as a female",0.059328925,0.9958934783935547,0.15,0.0,False,0.0007920173811726,0.0034533119760453,0.0029336572624742
+"there isn't any competition or you know sexual tension that you usually see in these kinds of action movies, and max and period as equals, and i guess the feminist aspect of the movie that we are all seeing is that furiosa is trying to free all of these sex slaves",0.41523102,0.858839213848114,0.0,0.042,False,0.1254288852214813,0.4846393465995788,0.4136706292629242
+basically there are these female slaves that have this captor and the slave women,0.3552902,0.5339594483375549,0.0,0.0,False,0.8334107995033264,0.1053915545344352,0.3619998395442962
+"even though they may be scantily clad and they may not have the prowess of curiosa, they do have their own kind of resourceful qualities, so the movie is showing us different facets to masculinity and femininity",0.09333697,0.0,0.0,0.0,False,0.000996742513962,0.0015729451552033,0.0021980749443173
+"like, on one hand, george miller, the director is trying to show us women who are able to prevail in a masculine environment, and then, other times i don't want to give it away, and i want to give away spoilers, but other women do fall victim to it, and he's also showing us the pros and cons to an overtly masculine world",0.13700475,0.8445370197296143,0.0,0.056,False,0.0047061359509825,0.0036104822065681,0.0047583919949829
+"yes, there may be a lot of very gruff masculine villains in the movie, but yet you do have a very mess man at the forefront of the film, max, so the whole thing is very rounded",0.34388447,0.0,0.0,0.154,False,0.0006027443450875,0.0017901116516441,0.0153427850455045
+it builds with tension in a way that is very exciting and it's got an amazing flow to it,0.103539884,0.0,0.0,0.09,False,0.000575607700739,0.0003273626498412,0.0007181919063441
+"it's got an accessible storyline, as i said that people can latch on to, and, even though the plot is very similar to things that we see we've seen in the past, it doesn't have any of those action cliches that we're so used to like the catch phrases and things like that",0.036851373,0.0,0.0,0.0,False,0.0006226371624507,0.0003410275385249,0.000396895367885
+"it's so raw and entertaining and yet it feels like it was made by human hands, which unfortunately is rare in this day and age",0.13431281,0.0,0.0,0.08,False,0.0007464844966307,0.0004257281252648,0.0014944750582799
+"to me, it has all the makings of a classic",0.078108564,0.0,0.0,0.0,False,0.0008884179987944,0.000339034711942,0.0010388566879555
+"so yeah, it's just as good as everybody is saying it is",0.03049926,0.0,0.0,0.0,False,0.0006449251086451,0.000377779797418,0.0018460125429555
+so that is my review,0.019575324,0.0,0.0,0.0,False,0.000932557391934,0.0004352887335699,0.0003719762607943
+thank you all for listening,0.022773718,0.0,0.0,0.0,False,0.0005921109113842,0.0004513073945418,0.0004173700581304
+"if you'd like to follow me on twitter, the link is below, and you can like my facebook page in the link below that catch you next time",0.04783881,0.8086630702018738,0.0,0.0,False,0.0009393829386681,0.0013487808173522,0.0013137162895873

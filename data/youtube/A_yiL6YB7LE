@@ -1,0 +1,112 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"i saw black panther and if i looked stoned out of my mind, just because i'm dead as tired",0.1785852,0.9930718541145325,0.2555555555555556,0.298,False,0.0046903495676815,0.2023721635341644,0.1231332048773765
+three hours of sleep,0.032902762,0.9985353946685791,0.0,0.0,False,0.0013455598382279,0.0008359994972124,0.0006022445159032
+those morning screenings in seattle,0.0142302895,0.0,0.0,0.0,False,0.0007945146062411,0.0011275433935225,0.0007448185351677
+"they kill me, black panther",0.4151741,0.0,0.1666666666666666,0.54,False,0.7336999177932739,0.8613939881324768,0.8862884044647217
+"so black panther is the newest installment in the marvel cinematic universe, directed by ryan coogler",0.055732824,0.0,0.0833333333333333,0.0,False,0.0030826663132756,0.0150416959077119,0.0086250305175781
+"when i look at his body of work and his age, he's younger than me",0.10300289,0.0,0.0,0.0,False,0.000743729469832,0.0079066744074225,0.0354531183838844
+i look at him and i'm like i've done so little different,0.062125895,0.9351433515548706,0.09375,0.0,False,0.0007953433669172,0.0009308090084232,0.0008501791744492
+black panther starts out shortly after captain america's civil war,0.087430015,0.0,0.0833333333333333,0.302,False,0.0014637454878538,0.0409432761371135,0.1246590390801429
+"two challahs, father was killed in civil war",0.13700475,0.0,0.2,0.583,False,0.0041946624405682,0.0077236993238329,0.020071592181921
+"he is now gonna be crowned king, but he's also the black panther, so in that there's that balance he has to balance being king and dealing with the problems that come with that, but also being the black panther and problems that come with that, i don't envy his position",0.13476147,0.0,0.1666666666666666,0.124,False,0.0018109410302713,0.127402514219284,0.063625618815422
+i really don't,0.017631676,0.9935425519943237,0.0,0.0,False,0.0010738160926848,0.0007233852520585,0.0005011131288483
+"and when this movie doesn't right, it does it right when you look at chadwick boseman and the performance he gives, also michael b jordan",0.12760067,0.0,0.0,0.0,False,0.0006100888713262,0.000785143172834,0.0007741214940324
+the performance he gives,0.055732824,0.0,0.0,0.0,False,0.0007595139322802,0.000541767803952,0.0022224721033126
+both of them have very emotional moments in this movie,0.043031808,0.0,0.0,0.0,False,0.0006450237124226,0.0003713916230481,0.0011122799478471
+"when you really think about it, they're on a green screen",0.076110736,0.0,0.0,0.0,False,0.0007133488543331,0.0008285688818432,0.001578179304488
+they're not out there,0.024490505,0.8065207600593567,0.0,0.0,False,0.0046576559543609,0.0017871249001473,0.0006374092772603
+"actually, it's a green screen",0.030842619,0.9146018028259277,0.2,0.0,False,0.0008399455691687,0.0006172618595883,0.0009867262560874
+what kind of imagination do you have to have to pull that kind of performance when you're looking at a sea of green when you look at what these movies are doing as they're shifting into deeper character pieces,0.04818217,0.0,0.0,0.0,False,0.0007404166972264,0.0005521517596207,0.0009157315944321
+quiet breath,0.05653196,0.0,0.0,0.0,False,0.0036857842933386,0.0027396504301577,0.000701481825672
+"sometimes you can tell the green screen, which is a bummer",0.27690583,0.9985643029212952,0.2,0.206,False,0.0045890756882727,0.0098732057958841,0.0053730038926005
+a couple scenes where they're talking,0.045778666,0.0,0.0,0.0,False,0.0006101214676164,0.0004251917416695,0.0015213346341624
+i'm like that,0.029640866,0.0,0.0,0.0,False,0.0008196661365218,0.0005350008141249,0.0007226972375065
+that's a green screen,0.04165838,0.9982132911682129,0.2,0.0,False,0.001291918917559,0.0007044660160318,0.0008964881999418
+you couldn't find a mountain,0.03204437,0.0,0.0,0.0,False,0.0038318303413689,0.0008521438576281,0.0005319468327797
+you couldn't just talk on a mountain,0.18055865,0.0,0.0,0.0,False,0.001301864744164,0.0008855866617523,0.0041824486106634
+i don't know,0.017770508,0.9742851853370667,0.0,0.0,False,0.0010861124610528,0.0022731318604201,0.0004278314299881
+i don't make movies,0.052136723,0.9998459815979004,0.0,0.0,False,0.0037342295981943,0.0018886026227846,0.0009649911662563
+"maybe they couldn't, maybe it's just too cumbersome to bring it crew up there, but i liked the arc they gave king t'challa because when we saw him in captain america civil war, he ultimately was a dude on a revenge quest and i totally get to class me that hard all the time",0.11600884,0.0,0.0,0.177,False,0.0010990429436787,0.0016787113854661,0.0027378571685403
+i want to see the guy's heart,0.118584804,0.0,0.0,0.0,False,0.0008236328721977,0.0084681501612067,0.0025698239915072
+"how is he as a king? is he just like? yeah, well, they did a bad thing",0.1894391,0.9411857724189758,0.6999999999999998,0.148,False,0.0076923300512135,0.0021654239390045,0.0426411740481853
+i guess we'll kill him too,0.8129004,0.9710386991500854,0.0,0.485,False,0.8150598406791687,0.9548268914222716,0.9824424982070924
+"no, he's not like that at all",0.04783881,0.9994277358055115,0.0,0.26,False,0.0043263947591185,0.0021286730188876,0.0044421921484172
+it totally shows the guy's heart,0.038224805,0.0,0.0,0.0,False,0.0009749040473252,0.0023556465748697,0.0012172809801995
+"he is a good king, and as his father tells him, it's hard to be a good man and a good king and you totally feel that, as captain america was the introduction to him, this is the movie that gives that arc more relevant",0.052136723,0.0,0.0,0.027,False,0.0007625659927725,0.0013837169390171,0.0042283958755433
+this is one of those movies that strips away the armor,0.09172598,0.0,0.0,0.0,False,0.0019490886479616,0.0007168305455707,0.0032689701765775
+"we see the king behind the black panther, the man behind the armor",0.060527626,0.0,0.3222222222222222,0.0,False,0.0017801946960389,0.0308266244828701,0.0640628039836883
+i love stories like that unpopular opinion coming at you,0.1510105,0.0,0.0,0.0,False,0.0036329855211079,0.0006789525505155,0.0020162314176559
+i really enjoyed iron man 3 and i really loved the first thor because both of those movies strip away the hero and we deal with the person behind the hero,0.10828095,0.0,0.0,0.0,False,0.0006880671717226,0.000947382999584,0.0007078743656165
+"this movie does a lot of that, too",0.06612156,0.0,0.0,0.0,False,0.0007986869313754,0.0004324529436416,0.0007512601441703
+"yeah, he does suit up in the black panther suit, and when he does is pretty entertaining",0.22069082,0.0,0.0,0.0,False,0.0015282073291018,0.0125806061550974,0.0209357794374227
+"actually, there's one car chase sequence",0.025005542,0.7257820963859558,0.0,0.0,False,0.0006947519141249,0.0004498535126913,0.0023863827809691
+it's more than pretty entertaining,0.0471521,0.0,0.0,0.0,False,0.0007432310376316,0.0003269462613388,0.0011666824575513
+"it's pretty kick-ass well, really, when i think about this movie, i'm not gonna think about the black panther scenes first and foremost",0.5550837,0.0,0.0,0.0,False,0.2203281372785568,0.804999053478241,0.7748231887817383
+i'm going to think about the character moments,0.02124131,0.0,0.0,0.0,False,0.0005590788205154,0.0003892296517733,0.0003251709858886
+i'm gonna think about the politics,0.027237365,0.0,0.0,0.0,False,0.000931397662498,0.0005379804642871,0.0004459442861843
+i'm gonna think about the culture,0.02124131,0.0,0.0,0.0,False,0.0006462442106567,0.0006549980025738,0.00040854542749
+i was so fascinated as to how into wakandan culture i was,0.039254878,0.0,0.0,0.0,False,0.000723126460798,0.0011691208928823,0.0010656289523467
+it was so fantastic,0.040971663,0.0,0.0,0.0,False,0.0007317536510527,0.0003375765518285,0.0008914418285712
+you feel like you have a front-row seat to all of it you're interested,0.118584804,0.0,0.0,0.0,False,0.000914949690923,0.0011975156376138,0.0083192316815257
+"and also how much of it stuck with me? i mean, you really look at other worlds and movies and comic book movies",0.090114996,0.9999337196350098,0.0,0.083,False,0.0010566480923444,0.0007470427663065,0.000767737510614
+they don't do the same thing,0.02262963,0.9536513090133667,0.0,0.0,False,0.0008344387752003,0.0004571958270389,0.0020760432817041
+this movie as i can seem,0.05253629,0.0,0.0,0.0,False,0.0009021092555485,0.0006998195312917,0.0009769439930096
+"recent memory, did it best you see what a movie introduces the audience to a new civilization or culture",0.023803791,0.0,0.0,0.0,False,0.0007075270405039,0.000491858983878,0.0003729701566044
+"when the audience leaves that movie, they can ask themselves",0.05613239,0.5389798283576965,0.0,0.0,False,0.0007279276032932,0.0005909734172746,0.0006548676174134
+what do i know about that civilization or culture? and usually the answer is very little,0.04268845,0.9937201738357544,0.246875,0.0,False,0.0007533040479756,0.0011058326344937,0.0013849528040736
+"it's not so the case with wakanda, with wakanda, you walk out a black panther",0.13835071,0.9674157500267029,0.1666666666666666,0.0,False,0.2032197713851928,0.0865630134940147,0.0763398706912994
+"you feel like you got a crash course in wakanda, and when you see it it comes across as a very beautiful and celebratory thing",0.1609341,0.0,0.0,0.086,False,0.0011190057266503,0.0005571247311308,0.0005693807033821
+i think that's fantastic,0.028610796,0.0,0.0,0.0,False,0.0005776081816293,0.0003200238861609,0.0011337526375427
+"and reviewing an mcu movie, you got to address the marvel isms, which are, how does it tie into the marvel cinematic universe as a whole, does the tie-in take point over the standalone aspect of the movie? and how is the humor? not is the humor in it, but it's going to be in it",0.07371333,0.0,0.0,0.024,False,0.0005970590282231,0.0003509071248117,0.0003999555192422
+so how is it? for a large chunk of this movie it works as a standalone film,0.078108564,0.9788864850997925,0.0,0.0,False,0.0006172624416649,0.0004163513949606,0.0003157847386319
+there are tie-ins in it,0.03358948,0.9423726201057434,0.0,0.0,False,0.0007055773749016,0.0021712377201765,0.0045286444947123
+"the fact that clause in it vibranium is a big part of it, also martin freeman's character",0.048525527,0.0,0.0,0.0,False,0.0008212332031689,0.0004069211136084,0.0007020623306743
+"but if you just went into black panther, you would get the gist",0.23101798,0.0,0.1666666666666666,0.0,False,0.0036910884082317,0.0713238343596458,0.0579332970082759
+you wouldn't need to watch another movie,0.04406188,0.0,0.0,0.0,False,0.0016972268931567,0.0024859195109456,0.0012749108718708
+"maybe civil war, it being the first movie with black panther, but really nothing else, and i felt the humor really worked what i look for with humor in a movie like this or a marvel movie",0.10634898,0.817406415939331,0.0,0.052,False,0.0006217464688234,0.0196170601993799,0.0034605411347001
+"is it's going to have humor? so does the humor override the drama? like if someone's having a dramatic moment, if there is a moment that's supposed to marinate and have drama",0.084745035,0.9991635084152222,0.4333333333333333,0.0,False,0.0008769826381467,0.0006302347173914,0.0025904532521963
+if you're supposed to take a pause,0.047495455,0.8919116854667664,0.0,0.0,False,0.0011484966380521,0.0031594666652381,0.0008006686111912
+is there a joke that compromises the whole thing? when that happens in movies? it irritates me,0.20742953,0.9993228912353516,0.0,0.151,False,0.0018241230864077,0.0011808527633547,0.0078233620151877
+this movie doesn't do that,0.06771983,0.9997500777244568,0.0,0.0,False,0.0013332118978723,0.000445990008302,0.0006137879681773
+the supporting cast and characters that were fantastic - i love those warrior ladies,0.039254878,0.0,0.0,0.0,False,0.000596082478296,0.0013355591800063,0.000390831643017
+"i loved his tech head sister, lupita nyong'o",0.014160873,0.0,0.0,0.0,False,0.0009610252454876,0.0112574193626642,0.0024783904664218
+was fantastic,0.024318827,0.0,0.0,0.0,False,0.0007067968253977,0.0003573891299311,0.0005274316645227
+i loved him back,0.031529333,0.0,0.0,0.0,False,0.0015737136127427,0.0004359024460427,0.0008625091868452
+"ooh, he's the character man ape, but they never call him man",0.229845,0.6439759135246277,0.0,0.0,False,0.005174855235964,0.284532219171524,0.1776466369628906
+abby's calling tanaka,0.018325835,0.9865813255310059,0.0,0.0,False,0.0011342517100274,0.0018019756535068,0.0010994938202202
+i believe it is pronounced mbaku,0.03221605,0.8352494239807129,0.0,0.0,False,0.0007541943341493,0.000664847320877,0.0006627792026847
+i'm horrible with names,0.355017,0.9997851252555847,1.0,0.538,False,0.0098058525472879,0.2765015661716461,0.1241713911294937
+"names like smith, i'm like",0.028267438,0.0,0.0,0.0,False,0.0013451209524646,0.0110029755160212,0.000794252671767
+"was it smith or smyth, but he was great",0.026035614,0.0,0.0,0.0,False,0.0006967218359932,0.0082457428798079,0.0085832132026553
+i wanted to see more of him,0.08367105,0.0,0.0,0.0,False,0.0007804072811268,0.0059855366125702,0.0029115565121173
+"he was so good and i had heard fantastic things about michael b jordan as the character, kill monger as the villain, and he is great when he shows up when he's on screen",0.1250247,0.0,0.0,0.17,False,0.0009354802896268,0.1147557199001312,0.0078894197940826
+"his motivation is clear, you understand, to a degree where he's coming from, but of course he's a villain, so he's going about it the wrong way",0.17242117,0.9845615029335022,0.1999999999999999,0.255,False,0.0017093931091949,0.014028132893145,0.001127791008912
+those make for the best villains of my book,0.13146462,0.0,0.0,0.282,False,0.0006170547567307,0.0004467476101126,0.0010393848642706
+"but again, i say when he shows up because for the first half of this movie he doesn't",0.060927194,0.9403570294380188,0.0,0.0,False,0.0007517450139857,0.0008183858008123,0.0010719012934714
+i found that to be a problem,0.07011723,0.998783528804779,0.0,0.31,False,0.0009107001242227,0.0006071438547223,0.0012021334841847
+"he does one thing near the beginning of the movie, then after that i forgot he was in it and he finally shows up and starts doing his thing, and it kind of gave this movie the feeling of being black panther and black panther - crushed into one movie which i don't know",0.111500904,0.9962936043739319,0.0,0.05,False,0.000737132388167,0.0355650559067726,0.0076254773885011
+if that was the case,0.017562259,0.893876314163208,0.0,0.0,False,0.000783106253948,0.0005085472948849,0.0009546676301397
+i don't know if they were like that,0.026035614,0.9747680425643921,0.0,0.0,False,0.0009782940614968,0.0031220868695527,0.0018568778177723
+we have two ideas for black panther,0.11085691,0.0,0.1666666666666666,0.0,False,0.0112374005839228,0.1085733249783515,0.0416257493197917
+we'll make him one,0.08290337,0.0,0.0,0.0,False,0.0069580832496285,0.014059773646295,0.0027411140035837
+"i don't know if they were like, we have an idea for black panther, but hey, we got it, incorporate klaw into the movie",0.09709594,0.0,0.1666666666666666,0.0,False,0.0007100005168467,0.0221066493541002,0.0115426881238818
+"or if they were like, we're going for the godfather feeling where it's like three movies in one",0.05133759,0.8325837254524231,0.0,0.0,False,0.000648385612294,0.0011833456810563,0.0013344987528398
+"well, godfather was three movies in willing",0.037194733,0.0,0.0,0.0,False,0.0008032026235014,0.0054229041561484,0.0012824684381484
+this feels like - i don't know,0.020685982,0.999148964881897,0.0,0.0,False,0.0009016490657813,0.0029317245353013,0.0006996875163167
+all i know is it makes black panther feel like it was split down the middle into two movies and it feels like a season of 24,0.10892494,0.999678373336792,0.1074074074074074,0.0,False,0.0009254448814317,0.0301986634731292,0.0065066921524703
+"if you remember the show 24, it had 24 episodes of season, but it was really two arcs, twelve episodes",0.018742332,0.985980212688446,0.0,0.0,False,0.0006453244131989,0.0003511668182909,0.0002601445303298
+"each episode twelve rolled into episode thirteen, and the new arc just like this movie does",0.03839648,0.0,0.0,0.0,False,0.000813513121102,0.0003682145325001,0.000372116890503
+"but it does feel like two different seasons, just like black panther feels like two different movies, but in the end black panther was fantastic",0.04680874,0.0,0.0,0.0,False,0.000669433735311,0.0314843505620956,0.006166364531964
+it has your fun superhero stuff in it,0.07211506,0.0,0.0,0.0,False,0.0011535919038578,0.0005395811749622,0.0073042334988713
+"yeah, but that's not what the movie is",0.035649624,0.9939126372337341,0.0,0.0,False,0.0008578315610066,0.0005532759823836,0.0004608498711604
+it's not what it's about,0.042001735,0.99965500831604,0.0,0.0,False,0.0010921291541308,0.0006424671737477,0.0014887559227645
+"it really is about a king coming into the throne and dealing with being a new king, and while they're telling that story, they bring you in on a very interesting, fascinating, colorful and vibrant civilization",0.0681194,0.0,0.0,0.0,False,0.0007354739936999,0.0006219625356607,0.0005592115339823
+i feel like most people who go into black panther will enjoy black panther,0.11729682,0.7268972992897034,0.0,0.0,False,0.0153184756636619,0.2722481489181518,0.077517844736576
+it's all about how much you enjoy black panther,0.101391904,0.0,0.0,0.0,False,0.0234734807163476,0.1366981714963913,0.1009420156478881
+"are you going to like it or love it? i don't know this up to you, but it's worth paying money for it's worth watching and worth buying on blu-ray",0.03599298,0.0,0.0,0.0,False,0.0012937985593453,0.0013480193447321,0.0023711121175438
+that's right,0.019852988,0.0,0.0,0.0,False,0.0008523343130946,0.0003750021860469,0.000856197963003
+"that is a purple blue right, because when this movie comes out on blu-ray if the blue part of the blu-ray package isn't purple, that's a missed opportunity",0.06612156,0.9977541565895081,0.0,0.071,False,0.0008281592163257,0.0008542023133486,0.001134478021413
+"marketing people a lot of purple and black in this movie, personal favorite color scheme of mine, or it's a black panther? it is here",0.15626417,0.0,0.0,0.0,False,0.0008227609796449,0.0496256239712238,0.0383881479501724
+it is upon us,0.043375164,0.0,0.0,0.0,False,0.0053002354688942,0.0004072160227224,0.0033058831468224
+"have you seen it? what did you think about it? whatever you thought, comment below, let me know",0.022351967,0.0,0.0,0.0,False,0.0006513287662528,0.0007977916393429,0.0008875443600118
+"and as always, if you like what you've seen here and you want to see more, click right here to see more you",0.02193547,0.0,0.0,0.0,False,0.0009428818593733,0.00062200933462,0.001385681098327

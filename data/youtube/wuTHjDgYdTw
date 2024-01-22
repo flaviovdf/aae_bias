@@ -1,0 +1,43 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hello, everyone, my name is ryan cam, and welcome back to the afi project today, myself and my allergies are going to be reviewing a night at the opera",0.032731086,0.0,0.0,0.0,False,0.0007843927014619,0.0019031651318073,0.0016463482752442
+"this was directed by sam wood, and it started the marx brothers, and this was released in 1935",0.035306264,0.0,0.0,0.0,False,0.001049013226293,0.0004102051898371,0.0002170564839616
+just getting out ahead of this now if i sound different than i usually do it is because well around this time every year my allergies hit me like a freight train and it was no different,0.0753116,0.9731251001358032,0.0,0.054,False,0.0011856767814606,0.0008162794401869,0.0049656271003186
+basically my allergies look at me like braun strowman looks at ra at roman reigns,0.13745339,0.8054159283638,0.0,0.0,False,0.0086563965305686,0.0052340673282742,0.0085610300302505
+i'm not finished with you,0.1473238,0.9995635151863098,0.0,0.0,False,0.0262746047228574,0.0941709503531456,0.0037660810630768
+"i am, however, on the mend, and hopefully my voice will be sounding a lot better in the next couple of days",0.028267438,0.9277576208114624,0.0,0.0,False,0.0007558812503702,0.0004900707863271,0.0003004848258569
+"however, if there is one positive out of all of this, i have a pretty decent kermit the frog impression",0.13610743,0.9903153777122498,0.0,0.0,False,0.0007655501831322,0.0440503247082233,0.0048115169629454
+"hello, kirbythefrog, here, but enough about that",0.0334178,0.0,0.0,0.0,False,0.0703958496451377,0.0006953742122277,0.004099378362298
+let's get into the review,0.021380141,0.0,0.0,0.0,False,0.0006903657922521,0.0004833263519685,0.0002961106365546
+"the story goes that the marx brothers groucho harpo, chico and the rest are wrangled into a complicated love triangle in which one of the brothers becomes a manager to an up-and-coming opera singer named ricardo, played by allen jones",0.040628307,0.0,0.0,0.0,False,0.0010008595418184,0.0010439915349707,0.002673860406503
+the brother teams up with otis b,0.042001735,0.0,0.0,0.0,False,0.0013014748692512,0.0036122477613389,0.0042166449129581
+"driftwood, played by groucho marx, and the two form an alliance to try and get ricardo into the big time, while also the love that he pines for in this series",0.038053125,0.0,0.0,0.0,False,0.0007718542474322,0.0007018562755547,0.0036522920709103
+"i've already covered one marx brothers movie already, duck soup, and i said in that review that what i love the most about this movie is that there's not really all that much of a plot, and that there's just a series of setups for the marx brothers to just run roughshod over everything, using just amazing comedic timing",0.10031791,0.0,0.0,0.0,False,0.0005832645692862,0.000768351543229,0.0008294350700452
+"and that goes double for a night of the opera with a twist, while in duck soup, where the plot is pretty interchangeable in a night of the opera, there's actually a pretty meaty story going on throughout, and i learned in my research that there was a certain section of marx brothers fans that weren't exactly hyped about the idea of it, because the marx brothers up until that point had been known for just making fun of everybody with equal gusto",0.08796701,0.0,0.0,0.0,False,0.0009345119469799,0.0042052161879837,0.001108999014832
+"but not only did this movie be successful, it was one of the highest grossing movies of 1935, and one of the highest grossing movies of all time for mgm",0.15976663,0.0,0.0,0.083,False,0.0010176154319196,0.0031541518401354,0.000721814809367
+this was yet another first time watch for me and i gotta say i really dug this,0.18549223,0.0,0.0,0.0,False,0.001590966945514,0.0004631191550288,0.0075943213887512
+i,0.018187003,0.0,0.0,0.0,False,0.0033499409910291,0.0023471140302717,0.0006465429905802
+i think i may like duck soup just a little bit more than this,0.16827796,0.6728193759918213,0.0,0.0,False,0.0012085870839655,0.0009921758901327,0.0059395991265773
+"however, the, as far as i'm concerned, these movies are 1a and 1b, and that falls at the feet of the amazing timing and chemistry between all of the marx brothers",0.036336336,0.0,0.0,0.0,False,0.0007005875813774,0.000517689215485,0.0005407365388236
+"they seem to have this like link going on between them, where if one sets up a joke then the other just completes it and you don't even know where it's coming from",0.09065199,0.0,0.125,0.0,False,0.000787827768363,0.0005669565289281,0.0007853373535908
+the one-liners come so fast that at a certain point you're just like stop,0.13146462,0.9018709063529968,0.0,0.124,False,0.0135520743206143,0.0007851873524487,0.0160177797079086
+stop,0.057331093,0.0,0.0,1.0,False,0.0497634597122669,0.0136054111644625,0.0011813888559117
+"i, i gotta",0.026722329,0.0,0.0,0.0,False,0.0143943186849355,0.0038237441331148,0.0028771753422915
+i gotta,0.025005542,0.0,0.0,0.0,False,0.0621344335377216,0.00106098188553,0.0010949256829917
+i gotta laugh at the right thing before i get to this other thing i think that i hate in comedies nowadays is that there's this awkward like pause where a joke happens and it just it just feels like that's the scriptwriter being like okay,0.22988434,0.9988711476325989,0.0732142857142857,0.09,False,0.0013605444692075,0.0014096938539296,0.0041892998851835
+this is where the audience is going to laugh,0.111500904,0.0,0.0,0.0,False,0.0037912919651716,0.0013639228418469,0.0034991828724741
+"once you notice it, you can't unnotice it",0.03770977,0.0,0.0,0.0,False,0.0011517412494868,0.0007252752548083,0.0006205721874721
+"however, in a marx brothers movie those don't exist",0.035306264,0.0,0.0,0.0,False,0.0009515256388112,0.0052489349618554,0.0005340240895748
+"these jokes come at a million miles an hour, and you have to be paying attention to every frame in order to get them",0.09655894,0.0,0.0,0.0,False,0.001723070628941,0.0008457082440145,0.0016534713795408
+but the story about the love triangle is actually pretty well done as well,0.027752401,0.0,0.0,0.0,False,0.0006017306586727,0.0003408599586691,0.0003002170997206
+"i'm not familiar with alan jones's other work, but i, but he was really good in this, and i've never really heard of him doing anything else other than this movie, so i'll have to do some research into if he did anything else other than this, but at the end of the day, i think your enjoyment of this movie, if you're a marx brothers fan or not, really comes down to whether you like comedies with more story to them or just straight jokes for a million miles an hour",0.09333697,0.0,0.0,0.0,False,0.0006472246022894,0.0017019695369526,0.0006918074795976
+"if you like more jokes, then i suggest duck soup",0.17957193,0.8601363301277161,0.0,0.0,False,0.0153952082619071,0.0782306790351867,0.0561958663165569
+"if you like more story, then i suggest a night at the opera",0.031357653,0.0,0.0,0.0,False,0.0006829059566371,0.0018737751524895,0.0012306389398872
+i like both and i quite enjoyed this movie,0.04165838,0.0,0.0,0.0,False,0.0006041955202817,0.0004542189126368,0.0002306808455614
+"however, like i said, i think duck soup is 1a, and this movie is one beat",0.10699297,0.9199471473693848,0.0,0.0,False,0.0011231390526518,0.0021449623163789,0.0025705988518893
+"that is all for me, guys",0.06132676,0.0,0.0,0.0,False,0.0011686834041029,0.001709111733362,0.0012667996343225
+thank you so much as always for watching and thank you for putting up with my allergies,0.060927194,0.0,0.0,0.0,False,0.001372450380586,0.0005642322357743,0.0009405490709468
+"next time on the ifi project, we're going to be going to the late 1980s and talking about a war film from the weird mind of one oliver stone, it is platoon, but if you like this video, please be sure to leave a like comment",0.09924392,0.9896621704101562,0.075,0.09,False,0.0006674620672129,0.0008613761747255,0.0007533829775638
+your thoughts down below,0.2459383,0.0,0.1555555555555555,0.0,False,0.0007764165638945,0.0013678714167326,0.0013977134367451
+"and if you like this video and you want to see more like it, hit the subscribe button and click the bell to allow notifications that way when a new video drops, you'll be the first to know about it",0.089577995,0.0,0.0,0.0,False,0.0009790820768103,0.000816851737909,0.0003886334598064
+my name is ryan cam,0.017145762,0.0,0.0,0.0,False,0.0023792404681444,0.0037116708699613,0.002451762324199
+i'll see you in the next one,0.09494796,0.0,0.0,0.0,False,0.00107852590736,0.0015967633808031,0.0021202433854341

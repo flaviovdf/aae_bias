@@ -1,0 +1,152 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+what's good? what's good was good,0.028954152,0.0,0.0,0.0,False,0.0006154401926323,0.0003994572907686,0.0013005684595555
+"what's going on? how are all of my great ones doing worldwide? is he-man king that me the great last night, i saw coco for the first time pixar has done it again",0.0753116,0.0,0.0,0.0,False,0.0012378743849694,0.0013269570190459,0.0022123083472251
+this is a film about is based in mexico,0.04783881,0.0,0.0,0.0,False,0.000726698024664,0.0049131158739328,0.0003380026319064
+it's a film about the mexican child named miguel who aspires to be a guitar player,0.067320265,0.0,0.0,0.0,False,0.0010197893716394,0.0048806886188685,0.0116270184516906
+"who actually aspires to be a great musician, great singer, in general, however, his family is against music because of their great great grandfather, who in the past left their family to pursue his music career and never came back",0.1024659,0.0,0.0,0.0,False,0.0006933096447028,0.0004721475706901,0.0005364422686398
+"so now the entire family are shoemakers, and that's what they're about",0.14687516,0.0,0.0,0.0,False,0.0111347744241356,0.0027640748303383,0.0119514716789126
+"any kind of music that goes on, whether it's a mariachi players you know, in the in the streets downtown, or whether it's in the home, wherever it is",0.09118898,0.0,0.0,0.0,False,0.0006607052637264,0.0004940189537592,0.002093912102282
+"no, this is that one leg",0.15743166,0.8989983797073364,0.0,0.0,False,0.0046117366291582,0.0055998605675995,0.0050205951556563
+his grandmother,0.031357653,0.0,0.0,0.0,False,0.0373154319822788,0.0019832840189337,0.0097477380186319
+she's not having it,0.027237365,0.829213559627533,0.0,0.0,False,0.0018233731389045,0.0017636207630857,0.0019900542683899
+"she's like getting out of here, so miguel, of course, has to keep his aspirations to be a musician on the low",0.1414913,0.9936043620109558,0.0,0.085,False,0.0079921633005142,0.0016819775337353,0.0165966805070638
+he can't do it in public,0.09494796,0.9974465370178223,0.0,0.0,False,0.0015202811919152,0.0029437686316668,0.0009189546108245
+"he has to go up and his, you know, in his room and bring out his guitar",0.1550967,0.0,0.0,0.0,False,0.0161257963627576,0.0287436954677104,0.0224120113998651
+"that's a replica of his hero de la cruz, and he has to play his guitar",0.13386416,0.0,0.0,0.0,False,0.0011793009471148,0.000512447906658,0.0104249333962798
+you know in secret,0.031014297,0.0,0.4,0.0,False,0.0009511649259366,0.0005732367862947,0.0011264564236626
+"now the story play takes place during the day of the dead, and to certain circumstances i don't want to spoil the entire thing",0.09978092,0.9154555201530457,0.0,0.184,False,0.0011490208562463,0.0013831773540005,0.00045012976625
+miguel goes off to try and find that inspiration or so that he could play during the festival at a talent show and he ends up entering the land of the dead,0.1731117,0.9922878742218018,0.2,0.1,False,0.0038210081402212,0.0080909207463264,0.0018261767691001
+"now, coco, from an animation standpoint is a magnusson, magnificently beautiful, beautifully animated movie",0.05493369,0.0,0.0,0.0,False,0.0007400393369607,0.0003992698038928,0.0014159285929054
+"you have not only the the talent in mexico, which looks beautiful that looks authentic, but then also when he goes into the land of the dead, the amount of colors, the amount of the the way that the buildings are laid, out, even how the the dead, the dead spirits look, and their bones",0.21109697,0.0,0.0,0.247,False,0.0017917645163834,0.007249629124999,0.0017709071980789
+everything is just gorgeous and magnificent,0.035306264,0.0,0.0,0.0,False,0.0007118151988834,0.0003386927419342,0.0014410230796784
+"i saw some, you know, behind the scenes things on it, and just to see the amount of work that it took, i mean you could see that",0.03616466,0.0,0.35625,0.0,False,0.0005715321749448,0.0003917881113011,0.0004945480613969
+definitely on screen,0.024318827,0.0,0.0,0.0,False,0.0010379356099292,0.0005017344956286,0.0007415316649712
+it's amazing,0.025863936,0.0,0.0,0.0,False,0.0006052465178072,0.0003327057638671,0.0005483265849761
+"i love coco for the overall theme of the film, which is to go after your destiny",0.09924392,0.0,0.0,0.0,False,0.00092057895381,0.0004507315170485,0.0010132148163393
+"going get it, go chase your dreams and succeed",0.2712817,0.0,0.0,0.0,False,0.0112354774028062,0.0049865953624248,0.0014667343348264
+"that theme is throughout the music and is beautiful, and also, in addition to that one theme that is also magnificent is the importance of family, the importance of not only your loved ones that are here and alive and you know, giving praise to them, but also not never forgetting and loving and giving praise to your family, who has passed on who are now in the sparrow world, who, as long as you remember them, as long as you keep them in mind, they will never die, which is basically the theme of coco, now, coco, the film it starts off, you know, the the, the comedy there's now there's it's it's an all-around great film",0.02809576,0.0,0.0,0.043,False,0.0010023338254541,0.0003722180263139,0.0006489982479251
+there's really nothing that i can think of to take away from it,0.048868883,0.9130861163139343,0.0,0.0,False,0.0008562929579056,0.0005591891822405,0.0005696121952496
+it has a great storyline is warm-hearted it's charming,0.040628307,0.0,0.0,0.0,False,0.0005788468406535,0.0003312050248496,0.0009442487498745
+it has ups and downs throughout the movie,0.09172598,0.55909264087677,0.0,0.0,False,0.0007592251640744,0.0004320779407862,0.0006403270526789
+i don't want to give away too many spoilers so i don't want to say the exact things that happened right at this moment,0.111500904,0.6546159386634827,0.0,0.11,False,0.0011430080048739,0.0005700999754481,0.0004165215068496
+it also has a nice air of comedy,0.049212243,0.0,0.0,0.0,False,0.0008258506422862,0.0007515462348237,0.0006990456604398
+a comedic sense to it as well,0.027409043,0.0,0.0,0.0,False,0.0006529344245791,0.0003050099767278,0.0004614872741512
+it's a very funny movie,0.04783881,0.0,0.0,0.0,False,0.000778216519393,0.00043628673302,0.0004494628228712
+"even if you're not familiar with the mexican culture, this movie in grains you into it, really delves into it and brings you a part of it and helps you understand exactly what goes on on on dia de los muertos and how important it is to the mexican culture to the people of mexico, and now it's just truly beautiful and from comments that i've seen on videos that i've done not too long ago on, you know, the cocoa trailer and the music of the of the film as well, they were spot-on with the culture and very authentic with it, and you know, and i'm very happy that disney did that and they didn't mess that part up",0.08420804,0.0,0.0,0.0,False,0.0006140834884718,0.0042515378445386,0.0007947997073642
+"speaking of the music, the music in the film was beautiful, of course, is based on a child that wants to be a musician and it's just magnet from remember me polka local",0.0669207,0.7125675678253174,0.0,0.0,False,0.0005718910251744,0.0005280352779664,0.0037570178974419
+i love that too,0.039254878,0.0,0.0,0.0,False,0.0006521775503642,0.0003659233625512,0.0005580289871431
+i love the duet that his,0.059728492,0.0,0.0,0.0,False,0.000633839983493,0.0018132446566596,0.0022637543734163
+that his a great-grandmother did you know toward the end of the film i loved all of the music in the film,0.033761155,0.0,0.0,0.0,False,0.0006784270517528,0.0004456969618331,0.0010339982109144
+it was beautiful,0.027065687,0.0,0.0,0.0,False,0.0008545722812414,0.0003344478318467,0.0008218931616283
+it was wonderful moving,0.023117077,0.0,0.0,0.0,False,0.0006097487639635,0.0004807156219612,0.000550253840629
+the film in general is so so emotionally moving,0.08796701,0.0,0.0,0.0,False,0.0008821703959256,0.0003629344864748,0.0006383092841133
+i know a lot of folks told me that i would cry,0.045091953,0.9633826017379761,0.0,0.22,False,0.0190951768308877,0.0093280132859945,0.0061997175216674
+"okay, i have a confession to make my eyes welled up",0.13296685,0.0,0.0,0.0,False,0.0024057317059487,0.0043959538452327,0.0020854463800787
+they got wondering,0.033932835,0.8504120111465454,0.0,0.0,False,0.0007428773096762,0.0004005837836302,0.0005946570308879
+"i did drop some tears at a certain part of the film, which i'll get into after i get my reading when i give maybe a spoiler to during the conclusion, but it was just an emotionally moving movie",0.0669207,0.0,0.0,0.074,False,0.0006663116510026,0.0003844584571197,0.0003881821176037
+a great movie to watch with your family,0.025863936,0.0,0.0,0.0,False,0.0015865791356191,0.0007095953333191,0.000363037106581
+"i mean, my daughters even said, while were watching the movie she, when we were in the land of the dead portion, she's like",0.052935857,0.0,0.25625,0.149,False,0.000966612889897,0.010846852324903,0.0115277264267206
+"oh, i hope it's like this in real life that you know, i did loved ones go here, cuz, it's amazing there and then she was",0.035477944,0.0,0.0,0.0,False,0.000673038768582,0.0004766078782267,0.0015027318149805
+"also, she hugged me in her mom, my wife",0.31661135,0.0,0.0,0.0,False,0.0190721247345209,0.0129070822149515,0.0374428294599056
+"she, she hugged us both or attacked us both during the film and was like, you know, i'll never forget you guys",0.087430015,0.0,0.0,0.108,False,0.0045936349779367,0.0056536779738962,0.0129187209531664
+i'll always remember you,0.022074303,0.0,0.0,0.0,False,0.001323701115325,0.000521421781741,0.0004432788700796
+so a touched her heart,0.05493369,0.0,0.0,0.0,False,0.0009661539224907,0.0017855002079159,0.0025176922790706
+they touched my heart,0.0471521,0.0,0.0,0.0,False,0.0009014600072987,0.000813172548078,0.0009782130364328
+"one of the standout characters as well as um, is his abuela, his grandmother, who suggested a that typical grandmother that a lot of us have in our families, or you know we don't have our grandparents, maybe our older aunts and our older aunts, and whatnot who who are? just they don't take anything",0.0358213,0.6067513227462769,0.0,0.0,False,0.0026982119306921,0.0016902124043554,0.0010976801859214
+they're not,0.015549194,0.9755820035934448,0.0,0.0,False,0.0016763851745054,0.0011110207997262,0.0010963827371597
+they're not going for nothing,0.035134587,0.9964928030967712,0.0,0.0,False,0.0053289565257728,0.0016325837932527,0.0009156360756605
+that they feel a certain way,0.025692256,0.0,0.0,0.0,False,0.0007343562319874,0.0003571971610654,0.0008134918170981
+that's how i was gonna go,0.028439116,0.0,0.0,0.0,False,0.0009465664625167,0.0029137418605387,0.0013506826944649
+they're taking no bs from nobody and i love that about our character,0.19141254,0.0,0.0,0.126,False,0.0012671973090618,0.0018573771230876,0.0053105349652469
+"i loved all of the characters in the film, and due to the magnificence of this film and the greatness of this film, maybe one of pixar's greatest films ever",0.040284947,0.0,0.0,0.0,False,0.0008589730132371,0.0004428271786309,0.0003678305656649
+that's up for debate,0.040284947,0.0,0.0,0.0,False,0.0006492745596915,0.0004980281228199,0.0003967918746639
+"let me know what you think in the comments, but i have to give coco the fire most",0.2712817,0.765937089920044,0.0,0.154,False,0.0017484198324382,0.0726549699902534,0.0935093611478805
+"yes, hopeful is the instant classic",0.046122026,0.0,0.0,0.0,False,0.0007119685178622,0.0003380065027158,0.0004167579754721
+you could go see it once,0.05493369,0.0,0.0,0.0,False,0.0006056567654013,0.0010992879979312,0.0005986630567349
+go see it many times,0.030670939,0.0,0.0,0.0,False,0.0006516457069665,0.0006728525040671,0.0010814035777002
+"i saw it yesterday, the official releases today, on the 22nd, i saw it last night",0.026207292,0.7064617872238159,0.0,0.0,False,0.000596803613007,0.0003669416473712,0.0002863253757823
+you know they do the load,0.06971766,0.0,0.0,0.0,False,0.0049681677483022,0.0013185290154069,0.0047513041645288
+"they do, you know, pre-screening and one or two you know, screens the night before the official open here in the states and it was a packed theater even last night, so i know throughout the holiday weekend is gonna be crazy",0.15568043,0.0,0.1999999999999999,0.053,False,0.0031089051626622,0.0028603980317711,0.007491351570934
+i hope it does extremely well at the box office,0.042001735,0.0,0.125,0.0,False,0.0009674849570728,0.000618056859821,0.0004597840597853
+"go see it once, go see it twice, go see it three times",0.03049926,0.0,0.0,0.0,False,0.0007851038826629,0.0503953769803047,0.0088733546435832
+"i know that i will, and after watching this film, i just have to let you know that i, all i need is a plane ticket",0.06532243,0.0,0.0,0.0,False,0.0010902029462158,0.0046030436642467,0.0023255289997905
+all i need is a plane ticket and i'm gone,0.059728492,0.0,0.0,0.0,False,0.017539070919156,0.0223172847181558,0.011332250200212
+"you know, i'm i'm going to mexico",0.039598234,0.9052159190177917,0.0,0.0,False,0.0130025604739785,0.4265961349010467,0.0026633357629179
+i need to stay for at least a month,0.019436494,0.985724925994873,0.3,0.0,False,0.0011065902654081,0.0035255756229162,0.0006316472426988
+"i was thinking that i may stay for a week in one for like a week, you know, on one city, maybe in no axa, cook to you know, visit the people",0.023460433,0.0,0.0,0.063,False,0.0007022326462902,0.0013785522896796,0.001493559568189
+"it may be, help the people",0.021102477,0.0,0.0,0.0,False,0.0006867733318358,0.000390750792576,0.0003854950482491
+"however, i can you know the earthquake that recently happened, god bless them",0.034104515,0.0,0.0,0.0,False,0.0007885250961408,0.0004823186609428,0.0007322216988541
+you know,0.03994159,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+i want to speak them,0.050242316,0.0,0.0,0.0,False,0.0007498236373066,0.0017152726650238,0.0288095586001873
+"also, i wanna you know i'm interested me being black",0.27045983,0.0,0.0,0.0,False,0.1328233629465103,0.837242841720581,0.1901216506958007
+"of course, in the in the afro mexican mexican, in the afro mexican culture down there and the people down there to see you know what to get",0.17034957,0.0,0.0622222222222222,0.0,False,0.0011368087725713,0.1485060751438141,0.0009202951332554
+"the taste of that culture as well as something that you know that i would haven't been aware of for a long time, so i want to learn more about that as well, then like a week in in in central mix, where i know a lot of people are saying why the law or a lot of people are saying michoacan, i'm sorry if i mispronounced that",0.055732824,0.0,0.0,0.018,False,0.0005569856148213,0.000431241816841,0.0004400725592859
+"so one of those places i'll be for the day of the day, and you know i, i can't wait to go",0.03427619,0.0,0.0,0.0,False,0.0017822013469412,0.0053182733245193,0.000690808694344
+"please subscribe so that you can stand to them, because i will document my trip to mexico, everything that happens there, so please stay in tune because it's not going to be like tomorrow that i'm going, but there may be a few months from now, so please subscribe",0.043718524,0.908020555973053,0.2,0.0,False,0.0005667752120643,0.0015583445783704,0.0007065557292662
+please stay in tune so that you can see the videos when i put out,0.13386416,0.8888744711875916,0.0,0.0,False,0.0008494280627928,0.0010276457760483,0.0004028585681226
+"you know, the vlogs of my entire trip in mexico, i cannot wait",0.09333697,0.6470277905464172,0.0,0.0,False,0.0007991106249392,0.0192305725067853,0.0009290086454711
+i wish i could go tomorrow now to get into a few spoilers,0.08850401,0.9852238893508911,0.2,0.0,False,0.0013668654719367,0.0050442074425518,0.0008249772363342
+just a few thoughts that i wanted to say about the movie,0.03753809,0.9300997853279114,0.2,0.0,False,0.0005569487111642,0.0004405754152685,0.000397414638428
+"that couldn't really say, you know without spoiling the movie",0.14866976,0.7957927584648132,0.0,0.0,False,0.0011094163637608,0.0007056479807943,0.0011257226578891
+"so if you haven't seen it and you don't want spoilers, stop the video",0.20522906,0.99915611743927,0.0,0.081,False,0.0032829390838742,0.0013979377690702,0.0008767332765273
+now you did do whatever you have to do,0.04268845,0.0,0.0,0.0,False,0.0023086986038833,0.0006600126507692,0.0031051463447511
+mute it and just watch me talk like this,0.22978203,0.9999324083328247,0.0,0.0,False,0.0050765606574714,0.0121342167258262,0.149311825633049
+"alright, whatever you have to do",0.03461955,0.0,0.0,0.0,False,0.0007544861873611,0.000647141947411,0.001787565764971
+here come the spoilers,0.1710401,0.9943485856056213,0.0,0.0,False,0.0234652813524007,0.0004435625160112,0.0005559299024753
+"the main motivation was that you know, miguel found out that his great great grandfather, or he knew that his great great grandfather was a musician, and that that was that the music was in his blood, and that's part of the reason why he wanted to go on to be a musician himself",0.03221605,0.0,0.0,0.0,False,0.0006548791425302,0.0008696263539604,0.0005453678313642
+"now he thought that this musician, because of the guitar in the picture was a musician de la cruz, who has",0.07730943,0.9959356784820557,0.0,0.0,False,0.0006012955564074,0.0003753459022846,0.0028652846813201
+who's the greatest singer in mexican history,0.028782474,0.0,0.0,0.0,False,0.0027062124572694,0.0056524043902754,0.0039707832038402
+in the movie he has the signature guitar,0.04165838,0.0,0.0,0.0,False,0.0007126714335754,0.0004374196869321,0.0007337591960094
+that,0.02517722,0.0,0.0,0.0,False,0.0023660340812057,0.0004557913925964,0.0006171583081595
+"actually, the end of the guitar replicates one of the the skulls that you know that we see you know on the faces of people during the festivals of the adela's muertos",0.083939545,0.0,0.0,0.0,False,0.000706159917172,0.0008477058727294,0.0100967139005661
+"and so he's like, okay, then the cruz is is my great-great grandfather",0.11729682,0.0,0.0,0.0,False,0.0007503718952648,0.0004226788587402,0.0075172171927988
+i know i'm destined to do the music,0.049898956,0.0,0.0,0.0,False,0.0007929621497169,0.0011207071365788,0.0006084478227421
+"de la cruz's key phrase was you know, go in and get your destiny",0.1621016,0.0,0.0,0.0,False,0.0123003348708152,0.0015661229845136,0.0046664467081427
+i'm sorry,0.023117077,0.9998569488525391,0.5,0.565,False,0.0010547674028202,0.0010944564128294,0.0005002485704608
+"i can't remember exactly what he said, but basically go out and get your destiny",0.12051678,0.7827185988426208,0.0,0.0,False,0.0428033582866191,0.0040409876964986,0.0046449513174593
+"you know, go out and take your what's yours",0.16482529,0.0,0.0,0.0,False,0.0632614195346832,0.0360832624137401,0.0260616596788167
+"go out and chase your dreams and accomplish them, and miguel lived by that",0.13790205,0.0,0.0,0.0,False,0.0086567848920822,0.0036908166948705,0.0030395095236599
+"now, once he reaches the land of the dead, he goes in there because he stole you know guitar, and when you steal from the dead, you end up transferring into that realm",0.27194336,0.0,0.2,0.281,False,0.1146227195858955,0.0535597577691078,0.0205274280160665
+"so he goes into that realm looking for the looking for de la cruz, so that he could get his blessings to be a musician back",0.119872786,0.0,0.0,0.0,False,0.0006683936226181,0.0004620718536898,0.00150093564298
+"you know, in on earth, in the physical realm, he sees all that he sees his great great grandmother, and he sees a lot of the family that he had pictures of and they are like",0.033074442,0.0,0.0,0.0,False,0.0011467164149507,0.0006117611774243,0.0018442850559949
+"no, no, no, there's no way that we're gonna give you our blessings to be a musician",0.1250247,0.518621027469635,0.0,0.106,False,0.0007859527831897,0.0029022772796452,0.0035701189190149
+no music in our family,0.05613239,0.9983201622962952,0.0,0.355,False,0.0015184256481006,0.0009967406513169,0.0014987890608608
+"okay, so he meets a man named hector",0.0717155,0.0,0.0,0.0,False,0.0012813513167202,0.0023911416064947,0.0048172152601182
+"hector has been forgotten by pretty much all of his family and he's just hoping that his daughter can maintain his memory in that if he could get back just one time to the physical world during the holiday to see his daughter, that would make his world",0.04543531,0.0,0.0,0.035,False,0.0008398607606068,0.0013470748672261,0.0015674938913434
+"he'd be able to you know, disappear and go off into the unknown regions and be happy",0.13476147,0.0,0.0,0.092,False,0.0024159348104149,0.1749661862850189,0.0075179170817136
+so he meets up with miguel and they make a deal,0.09065199,0.0,0.0,0.0,False,0.0014697905862703,0.0004422353231348,0.0013357023708522
+"you know, okay, i'll help you find a la cruz",0.0753116,0.5041490197181702,0.0,0.0,False,0.0008436585776507,0.0006864683819003,0.0149293188005685
+"i know i'm if i help you find a la cruz, you have to take this picture of me back to my daughter so that she could remember me forever now, darren",0.14014533,0.0,0.0,0.0,False,0.0016126818954944,0.0044197482056915,0.0020625325851142
+there's a twist in the in the film where he realizes that and this was such a great twist in the story,0.055333257,0.0,0.0,0.0,False,0.0006306595169007,0.0003343060088809,0.0002486635930836
+"great excellent writing to where hector actually ends up being his father, and the reason why he never returned after he left",0.013536129,0.0,0.0,0.0,False,0.0008234339184127,0.0010054968297481,0.0060360222123563
+"you know, his hector's empty left miguel, his great great grandmother that he was murdered by de la cruz, who was miguel's hero",0.22687212,0.9893004298210144,0.0,0.172,False,0.003381548449397,0.0129807004705071,0.1742627620697021
+"so miguel thinks his great great grandfather, who was his hero, is a murderer",0.41807786,0.9994900226593018,0.0,0.174,False,0.1745753288269043,0.5418473482131958,0.6566108465194702
+"who's not only a murderer, but he's a faker",0.53430706,0.9825663566589355,0.0,0.0,False,0.8316254019737244,0.9651089310646056,0.9619221091270448
+he's a,0.024147147,0.0,0.0,0.0,False,0.694791316986084,0.0018814720679074,0.031402837485075
+he's a total fraud,0.5012814,0.9997859597206116,0.0,0.577,False,0.9312462210655212,0.6434797048568726,0.8547255992889404
+he's not actually the greatest musician,0.1580154,0.9967980980873108,0.0,0.402,False,0.0024750989396125,0.0008764129597693,0.0286177527159452
+he actually took all of these songs from hector,0.050585672,0.0,0.0,0.0,False,0.0007554297335445,0.0004225491429679,0.0258555561304092
+he stole the songs from hector and then murdered hector so that he could take these,0.5049312,0.7136765122413635,0.0,0.227,False,0.0151071548461914,0.0943173766136169,0.0825192928314209
+"take this music and go off and become you know, known as the greatest singer in the world, so at that point miguel is totally crushed",0.2965773,0.9986549615859985,0.0,0.099,False,0.00902761798352,0.1487596333026886,0.1492908000946045
+"however, once they clarify the story, he realizes that hold on, hector is the guy that left his family and his daughter, of course is coco, who of course is miguel's great-great-great grandmother",0.03994159,0.0,0.0,0.0,False,0.0006632521981373,0.0014126806054264,0.0034381463192403
+and then he realized that hector is his great great grandfather,0.019714156,0.0,0.0,0.0,False,0.0006744588608853,0.0004311197262722,0.0127546414732933
+"he ends up getting you know the blessings of the entire family, including his great-great grandmother",0.023288755,0.0,0.0,0.0,False,0.0006792153581045,0.0005688106175512,0.0011795649770647
+"they, he gets back to the physical world, and this is the super touching part is gonna make you cry tears of joy when miguel starts playing, remember me for his, for his great-grandmother coco, who's begins to remember her father, who sang that to her when she was just a young child, just a young baby",0.06132676,0.0,0.0,0.075,False,0.0028429774101823,0.001254134462215,0.0023442427627742
+and she pulls out the picture of him there,0.08420804,0.0,0.0,0.0,False,0.0013847972732037,0.001207438763231,0.0048650531098246
+"it had his face torn off before she reattaches that portion, and now, of course he'll be remembered",0.085282035,0.9994685053825378,0.0,0.105,False,0.0046809096820652,0.017217818647623,0.0286640971899032
+ever,0.029640866,0.0,0.0,0.0,False,0.0062883705832064,0.0007074339664541,0.0020717345178127
+"we fast forward to the next year, a dia de los muertos",0.039254878,0.0,0.0,0.0,False,0.0007530876318924,0.0022420252207666,0.0428463295102119
+and we see you know hector and his wife and they're all dancing together and happy and enjoying tom,0.053335425,0.0,0.0,0.0,False,0.0006567541859112,0.0021449653431773,0.0122535163536667
+and it was just a beautiful moment,0.023460433,0.0,0.0,0.0,False,0.0006806597230024,0.0003024498873855,0.0006321067921817
+made me drop a tear,0.23277332,0.0,0.0,0.344,False,0.0208019465208053,0.0235622357577085,0.18608920276165
+made the gentleman next to me he was crying,0.1473238,0.9999301433563232,0.1,0.279,False,0.0281685180962085,0.0330351330339908,0.0098342476412653
+everyone in the theater is emotional and it's great,0.044748597,0.0,0.0,0.0,False,0.0007110104197636,0.0003641784423962,0.006529891397804
+"i'm so happy you know that that this film is doing so well, especially from so much that i've heard from my mexican brothers and sisters",0.037194733,0.0,0.0,0.0,False,0.000629833957646,0.0134359579533338,0.0010067347902804
+"you were right, you steer me in the right direction",0.084745035,0.0,0.0,0.0,False,0.0010804994963109,0.0012515855487436,0.0012558127054944
+this was a great film,0.037194733,0.0,0.0,0.0,False,0.0007702719303779,0.00036401025136,0.0006352211930789
+one of the greatest picture,0.034791227,0.0,0.0,0.0,False,0.0013280843850225,0.0004131422028876,0.0007178891682997
+our films of all time,0.039254878,0.0,0.0,0.0,False,0.0006871952791698,0.0004506101540755,0.000315811834298
+let me know how you feel about it,0.031014297,0.0,0.0,0.0,False,0.0007866777013987,0.0005103296716697,0.0006469729705713
+"down in the comments, i kind of already know how you feel",0.04131502,0.7265351414680481,0.0,0.0,False,0.0012990091927349,0.0010375011479482,0.0013442924246191
+"it's your man, king, not be the great, be great, and life and life will be great, too",0.062925026,0.0,0.0,0.124,False,0.0265087001025676,0.0076872296631336,0.0106912348419427
+"you see a seal and a la vita è la vida, sara grandiose, apparenty, creativity, abundance and prosperity to all, and i'm out",0.042001735,0.0,0.0,0.0,False,0.0006125406362116,0.0011295892763882,0.0004397047741804

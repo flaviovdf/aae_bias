@@ -1,0 +1,145 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"oh, could i ask you to love rebecca step? whenever you touched me",0.2712817,0.0,0.0,0.0,False,0.0014029224403202,0.2274003475904464,0.0064046769402921
+i knew,0.024490505,0.0,0.0,0.0,False,0.0017799014458432,0.0004423230129759,0.0003953476843889
+hi guys,0.040284947,0.0,0.0,0.0,False,0.0009369208128191,0.0028342904988676,0.0006203126395121
+thank you for joining me again,0.030327583,0.0,0.0,0.0,False,0.0007317111012525,0.0005111008067615,0.0004214021319057
+"um, we are talking about rebecca today from 1940",0.022351967,0.0,0.0,0.0,False,0.0006544683128595,0.0003938428126275,0.0006307563162408
+so normally on this channel i share things with you that i am watching for the first time because there's so many,0.073313765,0.0,0.0,0.0,False,0.0006456680130213,0.0004153494373895,0.0009965430945158
+"there's just so many classic films and i've seen quite a lot of them, but there's always ones i haven't seen and i always like to expand my viewing",0.07451247,0.0,0.0,0.0,False,0.0005731651908718,0.0003712850739248,0.0003223492240067
+"you know, but this time i'm sharing rebecca with you because a friend of mine said she's like",0.059728492,0.0,0.0,0.0,False,0.0008898582309484,0.0012430435745045,0.0024792642798274
+why don't you talk about rebecca and i was like,0.031014297,0.0,0.0,0.0,False,0.000713903515134,0.0025665871798992,0.0082458797842264
+the only reason i i haven't is just because normally i share things i haven't watched and rebecca is one of my favorite classic films,0.060527626,0.0,0.0,0.0,False,0.00077856995631,0.00062618823722,0.0005257534212432
+"and yeah, i guess i should share some of those with you guys as well",0.07011723,0.0,0.0,0.0,False,0.0005710372352041,0.0006420732825063,0.0017150685889646
+"right, so this is a hitchcock film, was actually hitchcock's sort of first hollywood film and it was the only hitchcock film to ever win an oscar",0.07211506,0.0,0.0,0.0,False,0.0008367514237761,0.0005265159998089,0.0004984299303032
+so that makes it a little bit special,0.08447654,0.0,0.0,0.0,False,0.0006564169307239,0.0003487370559014,0.0004208192403893
+"in itself, it is a psychological thriller and it is based on the book called rebecca by daphne du maurier",0.09118898,0.0,0.0,0.0,False,0.0007786237401887,0.0006194539018906,0.0004467005201149
+"hitchcock adapted other of her books, some of some others of her books as well",0.03839648,0.0,0.125,0.0,False,0.0006632528384216,0.0004826184886042,0.0003787229070439
+"if you've never read a daphne du maurier book, highly recommend it",0.02517722,0.0,0.0,0.0,False,0.0007849658140912,0.0146782267838716,0.0008725948864594
+she's such a good writer,0.028267438,0.0,0.0,0.0,False,0.0009994545252993,0.0007457393221557,0.0063909878954291
+"she creates atmosphere, and her books are kind of not really supernatural",0.118584804,0.9958640336990356,0.0,0.0,False,0.00074205303099,0.0006303167319856,0.0009047648054547
+"sometimes there's an element like a ghostly, sort of element or mood like a gothic mood",0.118584804,0.7059221863746643,0.0,0.0,False,0.0008085827575996,0.0040910798124969,0.0004255645908415
+"rebecca definitely has kind of a gothic vibe, but um, she just has this way of kind of making this atmosphere and this creeping strangeness and mystery",0.2298686,0.0,0.0,0.0,False,0.0007392449770122,0.0026521487161517,0.0016757932025939
+"and you just want to know what's really going on and who did what, and what's really happening",0.02517722,0.0,0.0,0.0,False,0.0006966384826228,0.0004219399706926,0.0004912367439828
+"so if you've not read one of her books before, i recommend rebecca hustling, because it's a bit of a favorite of mine",0.1250247,0.0,0.0,0.0,False,0.0006119792233221,0.0008513538632541,0.0017274348065257
+this film,0.036336336,0.0,0.0,0.0,False,0.0012723191175609,0.0004255059757269,0.0006593499565497
+"rebecca is actually very similar to the book, which is nice",0.03444787,0.0,0.0,0.0,False,0.0006092103431001,0.0003423397720325,0.0011405542027205
+"i think hollywood films of this era, or maybe just films in general",0.033074442,0.0,0.0,0.0,False,0.0005846702260896,0.0003870017535518,0.0004297779523767
+"sometimes they stick to the book, and sometimes they really don't and you know, either can be good without apt ations, but i think in this case, sticking sticking to this plot was a good thing",0.03994159,0.9385455846786499,0.0,0.0,False,0.0007293781964108,0.0004215031513012,0.0005026427679695
+"so stars joan fontaine, and she actually isn't named, so we will call her mrs",0.04234509,0.0,0.0,0.0,False,0.0009443653398193,0.0012170295231044,0.0012708893045783
+"to winter, if you don't know joan fontaine",0.012564304,0.0,0.0,0.0,False,0.0008502691052854,0.0006441688747145,0.0022767835762351
+i do talk about her in some other movies they talked about,0.05133759,0.6120160818099976,0.125,0.0,False,0.0005811594892293,0.0006120456964708,0.0030656210146844
+"she was in suspicion, which is another hitchcock one as well, laurence olivier plays maxim, laurence olivier is a, was a really laurence olivier",0.17034957,0.7197885513305664,0.0,0.094,False,0.0008958989637903,0.0011671725660562,0.0074745574966073
+it was an institution,0.015132698,0.0,0.0,0.0,False,0.0011778700863942,0.0003775594232138,0.0007544703548774
+"basically, so he's known for his version of hamlet",0.04543531,0.0,0.0,0.0,False,0.0006620418280363,0.002203814452514,0.0012356491060927
+"so joan fontaine plays, i think she's about 23",0.027065687,0.0,0.0,0.0,False,0.0043757567182183,0.0006200256757438,0.0010277247056365
+24,,0.0,0.0,0.0,False,0.0012329797027632,0.0007527805282734,0.0003569821710698
+she's very young and she gets,0.076110736,0.0,0.0,0.0,False,0.0222964212298393,0.0013605905696749,0.0594602823257446
+"she goes to monte carlo, working as a companion, so she's somebody who's quite naive has been quite sheltered and she's trying to work for a living in a respectable way, so she's very socially naive and young and she gets swept off her feet by maxim de winter, who played by laurence olivier",0.19338597,0.0,0.0,0.079,False,0.0015949772205203,0.0093019548803567,0.005371727515012
+"as i said, he's dashing, handsome, sort of mysterious",0.11085691,0.0,0.0,0.0,False,0.0009691705345176,0.0343110300600528,0.332834780216217
+"he has this past where his wife died tragically and everyone talks about how he never got over it and his wife, rebecca is like, supposed to be just the most beautiful woman, and but they fall for each other, and his nicer kind of side comes out and she agrees to marry him and it's all very cute, but then they get home to his house called mandalay, which is like a huge mansion that's been in his family for generations and it's it's such a core part of the film and it's also part of his identity because it's his ancestral home, and it means just means so much to him",0.01999182,0.0,0.0,0.036,False,0.0014401499647647,0.0016684620641171,0.0049537154845893
+"but you get the impression that rebecca's just everywhere in this house, so the new mrs",0.042001735,0.0,0.0,0.0,False,0.0014957223320379,0.0008085569716058,0.0008352557779289
+"dewinter feels like he can't forget his ex-wife and she sort of almost wants the film, but not physically, and this is kind of exacerbated by mrs",0.08330294,0.9929102063179016,0.0,0.0,False,0.0012403493747115,0.0029479842633008,0.0033090366050601
+"danvers, who is the housekeeper, but she was personal maid to to rebecca",0.0669207,0.0,0.0,0.0,False,0.0012739833910018,0.0020470463205128,0.0077572800219058
+she's played by judith anderson,0.032559406,0.0,0.0,0.0,False,0.0012801357079297,0.0008103174623101,0.0014599679270759
+"so 10 commandments laura, she has such a great face for this role because she sort of, she has like a severe kind of nose, and she's not plain, but she's not",0.17661177,0.0,0.0,0.051,False,0.0046544075012207,0.020804401487112,0.0062467507086694
+um,0.012811388,0.0,0.0,0.0,False,0.0011565451277419,0.0034721060656011,0.0014047900913283
+she's sort of not sparkling or lively and you can kind of see why she would be,0.17173064,0.9995087385177612,0.0,0.234,False,0.0009343463461846,0.0062601086683571,0.0056783822365105
+"she's a mean spirited person, and you can see why she would have been drawn to rebecca as somebody, kind of who was everything",0.355017,0.8941264152526855,0.0,0.0,False,0.0010069812415167,0.1183121502399444,0.4081417024135589
+she couldn't be,0.019714156,0.9029664397239685,0.0,0.0,False,0.0084179351106286,0.0138198174536228,0.0094408644363284
+"you know, like wealthy beautiful, admired all of these things, so mrs",0.031529333,0.0,0.0,0.0,False,0.0008176788105629,0.0003964381758123,0.001680779387243
+danvers is pretty horrible to the new mrs,0.44805592,0.9993999004364014,0.2045454545454545,0.276,False,0.0477219671010971,0.2025034427642822,0.1742254793643951
+"dewinter, she, kind of, she's never directly rude, but she just does little things like",0.18154536,0.9963764548301697,0.0,0.0,False,0.0110033014789223,0.0055565792135894,0.0341112650930881
+"oh, rebecca would have done it this way",0.03770977,0.9337175488471985,0.0,0.0,False,0.0010836172150447,0.000413963542087,0.0011308043031021
+"rebecca would have done it that way, or the previous, mrs",0.032559406,0.7256338000297546,0.1666666666666666,0.0,False,0.0009494857513345,0.0004556360945571,0.0006659961072728
+"de winter always did this, and the jerem fontaine's garde to basically just can't kind of catch a break, and it starts to make her more and more sort of retreating into her shell",0.04131502,0.9997758269309998,0.0,0.0,False,0.0008064797148108,0.0005295075243338,0.0024931663647294
+and she can't quite reach out to maxim,0.05373499,0.9979150891304016,0.0,0.156,False,0.0011701292824,0.0007530940929427,0.0021121827885508
+he just has his own personal demons and doesn't really understand the position that she's in because he's never been in that position himself,0.22598907,0.9992570281028748,0.0,0.0,False,0.0587444193661212,0.0193606875836849,0.002672360278666
+"so that's kind of the core thing is rebekah haunting them, but it sort of comes to light that there's more to rebecca's death than kind of meets the eye",0.1473238,0.8959413766860962,0.0,0.207,False,0.0006739043164998,0.0005805909167975,0.0327261500060558
+"so i don't want to tell you too much about that, but that's kind of a cool thing",0.0741129,0.0,0.0,0.062,False,0.0006150306435301,0.0005722530768252,0.0012489109067246
+i absolutely love durham fontaine,0.020408317,0.0,0.0,0.0,False,0.0006597318570129,0.0006310314056463,0.0004026631067972
+in this movie,0.028267438,0.0,0.0,0.0,False,0.0007347618811763,0.0004763723409269,0.0006066389032639
+she's kind of,0.050242316,0.0,0.0,0.0,False,0.0068970443680882,0.0005769082927145,0.0243470277637243
+"she's got an inner toughness, but she's just so unsure about herself socially because she's so young",0.15334547,0.9855103492736816,0.0,0.232,False,0.0021505868062376,0.0038695984985679,0.0101050483062863
+she doesn't come from money,0.087430015,0.9979041814804077,0.0,0.0,False,0.0027275572065263,0.0032408779952675,0.0008542923023924
+"she's never had to, you know, run a household, and that's the kind of thing that people are raised to do and she, also, she's very pretty, but she's not like a bombshell or anything",0.14508054,0.0,0.0,0.07,False,0.0056804320774972,0.0007825088105164,0.0267176274210214
+you know,0.03994159,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+"she's not used to people looking to her for answers and that kind of thing, so she doesn't know how to take control of a situation, and that's handled really well in this film, because could just easily be like a onenote character",0.105704986,0.0,0.0,0.0,False,0.0006926889182068,0.0027974981348961,0.0009378894465044
+"but in de moraes book, you really understand how she's looking for guidance and people are kind of taking advantage of that",0.014993866,0.7789461612701416,0.0,0.0,False,0.0005980443092994,0.0005320816999301,0.000405486614909
+i'm giving her incorrect information and that kind of thing,0.15684792,0.9994370341300964,0.0,0.0,False,0.0007733366801403,0.001405329327099,0.0017480411333963
+so she's kind of she's beautiful,0.06132676,0.0,0.0,0.0,False,0.0016174891497939,0.000353104493115,0.0292159728705883
+"her character is very dramatic, but she also has this vulnerability that's just really nicely done",0.15743166,0.0,0.0,0.128,False,0.0006281943060457,0.0003595929592847,0.0033455213997513
+"so yeah, i think she's so good in this film and also laurence olivier's maxim is really great because he's very commanding",0.059728492,0.0,0.0,0.0,False,0.0006704016122967,0.0003710372257046,0.0027343232650309
+"he's very dashing, but he has that british reserve that can come across as coldness, and it also kind of hides a temper and a kind of passionate nature as well",0.1464265,0.0,0.0,0.155,False,0.0027607989031821,0.0267273914068937,0.2083548903465271
+"she's kind of his perfect romantic, but maybe kind of doc character",0.05093802,0.8010668158531189,0.0,0.0,False,0.0009850078495219,0.0043398719280958,0.0258493479341268
+"um, so hitchcock when he made films, he would always storyboard a lot",0.1473238,0.0,0.0,0.0,False,0.0006610460113734,0.0013828993542119,0.0025483111385256
+"so that's like, almost like drawing the book is a cartoon",0.04268845,0.9941755533218384,0.0,0.0,False,0.0019375114934518,0.000569672207348,0.0013438571477308
+"it was a comic strip beforehand, so he would really only shoot what he wanted and they kind of call that style of editing in camera",0.2712817,0.9875313639640808,0.0,0.097,False,0.0007324848556891,0.0977950915694236,0.0361894890666008
+it's where you,0.026894007,0.0,0.0,0.0,False,0.0041241268627345,0.0011529074981808,0.0032348299864679
+"you don't take any extra footage for, sort of, just in case you just shoot",0.28021416,0.9993694424629211,0.0,0.146,False,0.0008139392011798,0.2988272607326507,0.5973595380783081
+"you know exactly what you want, so you just shoot that and it has kind of made him very popular, i think because it meant he was always sort of on-time and on-budget and organized, and he didn't mess around which studios really appreciate because it keeps things, keep things moving and they're not wasting money",0.20376207,0.0,0.0,0.041,False,0.0008329559932462,0.1056911945343017,0.0093644987791776
+"but it also means that you can't do any sort of edits because there's no extra footage to kind of throw something else in there, so it's a kind of way for the director to kind of keep control selznick, who had been walking on gone with the wind around this time, and as a producer, he definitely had more of a hand in this film than hitchcock would normally have allowed",0.06012806,0.0,0.0,0.035,False,0.0006989337271079,0.000700089673046,0.0006897824350744
+but he was new to hollywood,0.021518974,0.0,0.0,0.0,False,0.0011877730721607,0.0006328346207737,0.0003568444226402
+i think cell isn't kind of felt like,0.04268845,0.9993442893028259,0.0,0.0,False,0.0008911101613193,0.000441647862317,0.0009223792003467
+"you know, he was proud of this film, whereas i do think it's it is hitchcock's baby, but no offense to selznick, but it definitely feels like a hitchcock film, but he did actually order some reshoots and things like that, which is quite unusual for hqo film",0.105704986,0.0,0.0,0.0,False,0.0006511903484351,0.0005872633191756,0.0006609965348616
+so i used to watch this film with my dad growing up,0.0495556,0.0,0.0,0.0,False,0.0017705819336697,0.0006691485759802,0.0014283416094258
+this is one of my dad's favorite films as well,0.06012806,0.0,0.0,0.0,False,0.000806450494565,0.0004636286466848,0.0008180556469596
+she's kind of maybe why,0.031701013,0.0,0.0,0.0,False,0.0008768672705627,0.0003977691812906,0.0030236965976655
+"i have a bit of a soft spot for it, but i love movies that have some kind of a mention in them",0.07131593,0.0,0.0,0.0,False,0.0005673576379194,0.0004601885157171,0.0003980244509875
+"i don't know what it is, but haunted house movies",0.082104236,0.9842804670333862,0.0,0.316,False,0.0007235234952531,0.0008352239383384,0.0016021201154217
+i love anything where there's like a big kind of house,0.024833864,0.0,0.0,0.0,False,0.0006969817914068,0.0005097955581732,0.0012010100763291
+i just love it,0.03358948,0.0,0.0,0.0,False,0.0007286080508492,0.000446324906079,0.0004473866429179
+"i dunno, i'm not even a big house",0.0253489,0.999221682548523,0.0,0.0,False,0.0020327041856944,0.00265295477584,0.0034880305174738
+it's just an interesting house,0.017562259,0.0,0.0,0.0,False,0.000693094683811,0.0004128504660911,0.0007792799733579
+"i'll go for that, but if you throw in like a mystery or anything like that, you know i'm there",0.15001574,0.9503788352012634,0.0,0.0,False,0.0007421466871164,0.0029720002785325,0.0017412025481462
+"so this film kind of has that gothic tone because it is that like, sort of foreign aid, sort of a horror film",0.20669603,0.9649386405944824,0.0,0.145,False,0.0016291599022224,0.0105830030515789,0.0011170433135703
+"it's thriller, but it has this kind of mansion",0.118584804,0.0,0.0,0.0,False,0.00066167692421,0.0003824397281277,0.0013747946359217
+"a woman in distress, kind of rebecca, almost a ghost",0.2835225,0.9081934690475464,0.0,0.404,False,0.0032769625540822,0.0068332585506141,0.0600019320845603
+you never see her or anything like that,0.0765103,0.8867316246032715,0.0,0.0,False,0.0022201288957148,0.0012144435895606,0.0014275406720116
+she's not moving furniture or anything,0.1024659,0.999792754650116,0.0,0.0,False,0.0013339897850528,0.001047303318046,0.0091930944472551
+"but even though she's dead, it still feels like she's a character in this film",0.13565879,0.0,0.2,0.268,False,0.0007910926942713,0.0134411407634615,0.0011540233390405
+"so yeah, that's kind of what i love about this",0.04165838,0.0,0.0,0.0,False,0.0007250395719893,0.0005326614482328,0.0008979868725873
+i mean that obviously the performance is,0.026035614,0.0,0.15625,0.0,False,0.0007010681438259,0.0003954010026063,0.000771434395574
+it's amazing how well they capture the tone and the style and the character of the book,0.030155903,0.0,0.0,0.0,False,0.0005454255733639,0.0003963408817071,0.0004418154712766
+"like no one is trying to make themselves sort of different, or you know, pulling focus",0.03049926,0.0,0.0,0.118,False,0.0011895042844116,0.0006027222261764,0.0010472175199538
+it's all about stabbing the story and i just think it works really well,0.22333995,0.0,0.1999999999999999,0.0,False,0.001660959678702,0.1895719617605209,0.1993204057216644
+"does this may be my favorite hitchcock film? um, so yeah, i also think rebecca as a character is so interesting because she's not actually in the film",0.089041,0.0,0.0,0.0,False,0.0005805978435091,0.0005180616863071,0.0004913765005767
+there's no one plays her,0.078108564,0.9879152774810791,0.0,0.568,False,0.0123504186049103,0.000738913891837,0.0041898908093571
+"she's not here, but she's talked about and she's not a shrinking violet",0.1414913,0.0,0.0,0.0,False,0.0012316609499976,0.003025455167517,0.0772025659680366
+"she's very dark and manipulative, and you kind of piece her together from what you know about her like",0.355017,0.0,0.0,0.0,False,0.027251923456788,0.5603510141372681,0.4771109223365783
+"she starts off as being this romantic tragic figure that maxim just can't get over, but she's really not an innocent victim",0.089041,0.9810107350349426,0.26875,0.182,False,0.0042709670960903,0.0025906614027917,0.0108445966616272
+in any way,0.01665985,0.0,0.0,0.0,False,0.0007318945717997,0.0003850884386338,0.0014032438630238
+"she's so unusual as a car as a female character in in a movie because women don't often didn't often get these kind of really interesting complex characters, so i think she's kind of",0.22979778,0.0,0.0,0.0,False,0.0023703598417341,0.004319192841649,0.0089984396472573
+i understand,0.018325835,0.0,0.0,0.0,False,0.0007754989201202,0.0003730030439328,0.0004117028438486
+she's really great,0.07571117,0.0,0.0,0.0,False,0.0006598950712941,0.0003423092712182,0.0134508311748504
+"like, and also ever the you know, the visuals of this film are so good to the restrained performance of mrs",0.07571117,0.0,0.0,0.0,False,0.000828557414934,0.0004883268265984,0.0021407583262771
+"danvers, and the costuming where joan fontaine is is very pretty, but she sort of got this slightly conventional unassuming way of dressing",0.1256687,0.9968063831329346,0.0,0.0,False,0.0008679698221385,0.0006728210719302,0.0011276266304776
+"it's just i didn't really like the incredibly high ceilings in this house, and then moving cotton's and the the bedroom where rebecca's things are never touched, and mrs",0.07091636,0.9998325109481812,0.0,0.077,False,0.00072436791379,0.0005393495666794,0.0009833120275288
+danvers has this sort of obsessive like everything must remain the same kind of thing,0.19789414,0.9898523688316345,0.0,0.126,False,0.043670255690813,0.000467575591756,0.0220359731465578
+it's very atmospheric,0.11407687,0.0,0.0,0.0,False,0.000764604541473,0.0006010849610902,0.0021232115104794
+"so yeah, i think and this is danvers characters, almost hypnotic",0.07251463,0.0,0.0,0.0,False,0.000681476900354,0.0004128817527089,0.0076818224042654
+i think,0.021518974,0.0,0.0,0.0,False,0.0007737225387245,0.0004474073066376,0.0003764085122384
+"probably, what is so great about this or what is handled so well is that you know, any of this could have just sort of fallen into melodrama very easily, but it's the restraint",0.079307266,0.0,0.0,0.049,False,0.0007478754268959,0.0008853678009472,0.0024496405385434
+everybody's sort of restrained and nothing's ever caught too nish,0.12824467,0.9978669881820679,0.0,0.0,False,0.0169070810079574,0.0064257946796715,0.0480296537280082
+nobody ever gets hysterical,0.08501353,0.0,1.0,0.268,False,0.183258831501007,0.0353537127375602,0.0103773297742009
+it's sort of,0.020130653,0.9390783905982971,0.0,0.0,False,0.000895251694601,0.0003463450702838,0.0009261245140805
+everyone's kind of got this quiet but channing emotion,0.060927194,0.0,0.0,0.0,False,0.0020794363226741,0.0013395145069807,0.0032037820201367
+it's really great,0.044748597,0.0,0.0,0.0,False,0.0005872927140444,0.0003149519034195,0.0007456199382431
+"so yeah, this is an amazing debut film for hitchcock in hollywood",0.0825038,0.0,0.0,0.0,False,0.0005992982187308,0.0004700759309343,0.0006330533069558
+"obviously he'd done quite a few things in the uk, but this is an incredible entree into the kind of studio system and all that kind of thing",0.055333257,0.0,0.0,0.0,False,0.0005727165844291,0.0004630500625353,0.0004210543702356
+"so yeah, i mean, this is one of my all-time favorite films, so i kind of, i can't really recommend it highly enough, and i also think having seen it like a few times over the years, i think it means different things to me at different times",0.05253629,0.0,0.0,0.041,False,0.0005728774121962,0.0003732961777132,0.0004700833815149
+i think as a child i felt i didn't really care about laurence olivier,0.13835071,0.9999489784240723,0.0,0.18,False,0.0009996597655117,0.0006526305223815,0.001798911136575
+i think i really related to the new mrs,0.030155903,0.0,0.0,0.0,False,0.0006024735630489,0.0006378325633704,0.0008656769641675
+"dewinter, kind of having the stuff and sort of push her around",0.13610743,0.9963917136192322,0.0,0.0,False,0.0015115537680685,0.006432426162064,0.0332156419754028
+"and then you know, now as an adult, i kind of think there's a transition period in all of our lives where we go from being other people, having direction to us having direction of our own lives, and have seemed to take control of situations or even move from being from being one thing, to being like manager of other people, or even just that sense of you, have an idea, a dream of how things are gonna be, and sometimes the reality is not fitting in",0.019852988,0.9913666844367981,0.0,0.0,False,0.00101878575515,0.0004294466634746,0.0004079468781128
+we don't always fit in,0.035477944,0.9998761415481567,0.0,0.345,False,0.0022218271624296,0.0100126070901751,0.0008078934624791
+"and as people often romanticize other people, and i think rebecca is somebody who's romanticized by the people around her",0.06532243,0.0,0.125,0.0,False,0.0007569672306999,0.028700478374958,0.0069869882427155
+"and yet she's not that nice, so there's a lot of kind of coming-of-age sort of concepts in here",0.20302857,0.9863453507423401,0.0,0.115,False,0.0007705108728259,0.0036055124364793,0.0043779923580586
+"it's not a coming-of-age film in any way, but i think it sort of says a lot about relationships and how people see them from the outside and how we present ourselves, and maybe even a loss of innocence",0.03204437,0.7676807641983032,0.0,0.068,False,0.0006941020837984,0.000381933117751,0.0004570618621073
+"but house, so yeah, so that's rebecca",0.037023053,0.0,0.0,0.0,False,0.001499397912994,0.0005189921357668,0.0006679071229882
+it's from 1940,0.018464668,0.0,0.0,0.0,False,0.0008534346707165,0.0003735213540494,0.0003853152156807
+it's black-and-white film,0.06612156,0.0,0.0,0.0,False,0.0074015143327414,0.1182795614004135,0.0518207214772701
+i cannot recommend it,0.05133759,0.9370092153549194,0.0,0.413,False,0.0006730218301527,0.0008013135520741,0.0004714436945505
+i laid off,0.09978092,0.6667377948760986,0.0,0.0,False,0.3119925260543823,0.0256406087428331,0.0487704016268253
+absolutely love it,0.037194733,0.0,0.0,0.0,False,0.0010444739600643,0.0004116891068406,0.0003262152022216
+so there you go,0.032731086,0.0,0.0,0.0,False,0.0013243954163044,0.000689219625201,0.0011405732948333
+sharing one of my favorite films with you guys,0.09602194,0.0,0.0,0.0,False,0.0006789396866224,0.0007671809289604,0.0013448359677568

@@ -1,0 +1,124 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+babies went on that youtube,0.15246986,0.9501016736030579,0.0,0.0,False,0.2562384009361267,0.0184943452477455,0.0325492098927497
+this is seo of zero features,0.0801064,0.9999710321426392,0.0,0.0,False,0.0022925951052457,0.0010091436561197,0.0008343505323864
+you are a genius,0.049212243,0.0,0.0,0.0,False,0.0019675227813422,0.0005512593197636,0.0076174642890691
+i am proud to say,0.01999182,0.0,0.0,0.0,False,0.0007180862012319,0.0004489187849685,0.0007476520258933
+"i'm going to be reviewing for you guys, spider-man into this father verse",0.090114996,0.0,0.0,0.0,False,0.0011148581979796,0.0068159387446939,0.025243803858757
+this is a miles morales story,0.015896274,0.0,0.0,0.0,False,0.0007769449730403,0.0266001634299755,0.0005202828906476
+"this is a hybrid story that also interweaves the spider verse, where you have all these other conditions of spider-man in different multiple universes",0.024662184,0.0,0.0416666666666666,0.0,False,0.0007023447542451,0.0008129606139846,0.0015174853615462
+i was blown away by this movie,0.16275369,0.0,0.0,0.0,False,0.0010848550591617,0.0009641056531108,0.0022319899871945
+just do it,0.02809576,0.0,0.0,0.0,False,0.0035662464797496,0.00058513158001,0.0011799341300502
+go ahead and just let you know i think the movie is great,0.039598234,0.0,0.0,0.0,False,0.0008466297877021,0.0005836155032739,0.0015684443060308
+"it is right now, currently at number two, my number two favorite spider-man movies of all time that still reign supreme with the sam raimi spider-man - that might be a nostalgia that might change, because the reality is this film has so much rewatch ability, has so many different easter days, but that's not even the best thing about it",0.039598234,0.0,0.0,0.067,False,0.0007832921110093,0.000783541414421,0.0017745060613378
+"i mean, the visual immersion part of this film is unlike anything i've ever seen before",0.055732824,0.0,0.15625,0.0,False,0.0007678549154661,0.0003905541670974,0.0005015173810534
+i think that shout out to graze ran off from making a great reference to paper that was made by pixar,0.0789077,0.9996871948242188,0.0,0.0,False,0.0079655814915895,0.0007577264332212,0.0132636297494173
+"it was the perfect blend of 2d stylize, and then 3d animation",0.038911518,0.0,0.0,0.0,False,0.0007900696364231,0.0003647946869023,0.0003497512079775
+"because that is what this is on steroids, because what this is is you taking like a tumble strip and you go through and i'm sitting there like reading pop-ups and reading this and any kind of blurs",0.13969667,0.9963789582252502,0.0,0.0,False,0.0225366782397031,0.1025672927498817,0.1070017963647842
+and they think this merges,0.058130227,0.0,0.0,0.0,False,0.0008079280960373,0.0004756062407977,0.0004628966853488
+that was so many loves,0.040971663,0.0,0.0,0.0,False,0.0011596406111493,0.0003704619884956,0.0016077635809779
+there's something moments where i was like,0.022074303,0.0,0.0,0.0,False,0.0006431229994632,0.0006039240397512,0.0009907863568514
+it's a 3d image,0.029812546,0.0,0.0,0.0,False,0.0010010931873694,0.000682697747834,0.0002407222636975
+"this is a focused image like, but it is so visceral",0.1731117,0.0,0.0,0.0,False,0.0009801245760172,0.0004768980434164,0.0059817447327077
+is so in your face is so amazing,0.2818683,0.0,0.0,0.0,False,0.2243988811969757,0.003046590834856,0.072822481393814
+"no pun intended, but they get every tear to write",0.1510105,0.0,0.0,0.151,False,0.0168224927037954,0.0039858440868556,0.0178282298147678
+"the character models were perfect, because the thing is, i am also a comic book collector",0.025692256,0.0,0.0,0.0,False,0.0006531600374728,0.0006102685583755,0.0004801868926733
+suffice to say that i'm a spider-man fan is the understatement,0.037881445,0.0,0.0,0.0,False,0.0028403950855135,0.0015904428437352,0.0101321851834654
+man is my second favorite superhero of all time,0.044405237,0.0,0.0,0.0,False,0.001654356252402,0.0015621209749951,0.0112485215067863
+"number one is batman number two, this friday man i've seen and i own every single one of the difference fighting with",0.1019289,0.0,0.0,0.104,False,0.0028646227438002,0.0021659217309206,0.002400557976216
+"if i have a legit spider-man theme playstation 4, i have all the different spider-man games",0.04406188,0.0,0.0,0.0,False,0.0009546944638714,0.0011788073461502,0.0010954389581456
+"i still own my spotted me - i have a suspect on spider-man i, on mt",0.089577995,0.0,0.0,0.128,False,0.0023415009491145,0.0019060240592807,0.0127271469682455
+"version swagman, the original one, john semper for the 1990s, and like, i love the character and the richness of it, but the thing about this rider verse was the very first introduction of spider-man spider-man noir was one come that was really amazing",0.06851897,0.0,0.0,0.0,False,0.0009331266628578,0.0011375470785424,0.0016922059003263
+"that got reintroduced later on, and so on and so forth",0.028782474,0.7615289092063904,0.0,0.0,False,0.0008057127124629,0.0003394810482859,0.0005142904701642
+and what this move was able to do,0.029125832,0.0,0.0,0.0,False,0.000672398309689,0.0003797695972025,0.0004179914249107
+they get the characters perfect,0.040284947,0.0,0.0,0.0,False,0.0007300969446077,0.0003772290074266,0.0016439446480944
+if you know the comics you're gonna be like looking,0.09333697,0.0,0.0,0.0,False,0.0023582177236676,0.0036875989753752,0.009289369918406
+it's like this is the character i've always wanted to see and they get it to a tee,0.07091636,0.0,0.0,0.0,False,0.000607595371548,0.0004695054085459,0.0019129270222038
+and now the biggest thing about this for me from the not just a visual standpoint but from an emergency point,0.05773066,0.8016718626022339,0.0,0.145,False,0.0006364331929944,0.0003845343308057,0.0005633356631733
+"they have to get spider-man right, peter parker, spider-man and they have to get mild around spider-man right now",0.0801064,0.0,0.0,0.0,False,0.00175765552558,0.0014694764977321,0.0032943489495664
+peter parker,0.015340946,0.0,0.0,0.0,False,0.0010914868908002,0.0015681359218433,0.0006565351504832
+pick it perfect because the two different purchases i want,0.022213135,0.0,0.0,0.0,False,0.000788131088484,0.0005308856489136,0.0003497408761177
+i don't want splicing much,0.048868883,0.9999780654907227,0.0,0.234,False,0.0017299405299127,0.0047930581495165,0.0092393532395362
+let's just say that they get him one,0.04268845,0.0,0.0,0.0,False,0.0026866842526942,0.0008594712126068,0.0013784990878775
+"did you see from the trailers and just like what, he kind of goes looking on, old and ragged, like his baxter's",0.2145095,0.9931822419166565,0.0,0.0,False,0.0007515913457609,0.0638082325458526,0.0179668758064508
+"for the interesting, the backstory of the villains in this is really interesting",0.06851897,0.0,0.0,0.219,False,0.0005810190923511,0.0003253852773923,0.0003114775754511
+"the surprises of the villains in this are very interesting, and every single one of the characters has their moment",0.0681194,0.0,0.0,0.167,False,0.000576861843001,0.0003439235442783,0.0004074614262208
+"interesting one to get some of them kind of whittle in here there, but they are utilized perfectly to the point that enid",0.08501353,0.0,0.0,0.0,False,0.0029001543298363,0.0285959094762802,0.0190207678824663
+they've gotta have their own spin-off,0.10461388,0.9886372685432434,0.0,0.0,False,0.003248113207519,0.0006224309909157,0.0006121892365626
+any of them could go in a weave with each other at owens,0.13296685,0.7219547033309937,0.125,0.0,False,0.0006778586539439,0.0009273788309656,0.2286726236343383
+how they have created,0.019158829,0.0,0.0,0.0,False,0.0007598964730277,0.0005333066219463,0.0005219031008891
+"this is how you make a multiverse or a universe, a cinematic universe",0.028954152,0.0,0.0,0.0,False,0.000969310873188,0.00037347181933,0.0008493840578012
+"in one movie they succeeded, but miles brown, shout out to man, ryan ryan, jason reynolds, dressing room has made a book, a novel called miles morales, spider-man and i recommend you go and check that out, because when you read that we through the pages, and you start watching the character dynamics between mouse's parents from my house and his world",0.023117077,0.0,0.0,0.0,False,0.0007124317344278,0.0037374810781329,0.002430034102872
+"and you know how he gets to the school days, then he? what kind of person that he is? you know, his inadequacy complex, like the things that he loves to do, like things with his uncle",0.23101798,0.7241420745849609,0.0,0.06,False,0.0429027490317821,0.0036014837678521,0.0502389073371887
+"i, all these are kind of think",0.023632111,0.5744572281837463,0.0,0.0,False,0.0006860259454697,0.0007346715428866,0.0017846182454377
+they are showcased very well,0.047495455,0.0,0.0,0.0,False,0.0006120428442955,0.0004675706732086,0.0011169816134497
+in that novel,0.0253489,0.0,0.0,0.0,False,0.0006843154551461,0.0003811694332398,0.0007207738235592
+this movie does nails it,0.1785852,0.0,0.0,0.0,False,0.0064615150913596,0.0039661354385316,0.0097229741513729
+it nails it so well and i'm like yo,0.1473238,0.0,0.0,0.0,False,0.0045320959761738,0.0027566559147089,0.0325798392295837
+how do they? how are they doing this so perfectly? but i want on,0.049212243,0.0,0.0,0.0,False,0.0019322094740346,0.0008384646498598,0.0031612860038876
+i want to keep on track,0.06851897,0.0,0.0,0.0,False,0.0006739772506989,0.0006733682239428,0.0005354568711481
+"because again, the visual effects for these are amazing, but even more so the soundtrack and the score are equally amazing",0.033761155,0.0,0.0,0.0,False,0.0005707714008167,0.0003351564519107,0.0005027846200391
+like there's so many different,0.03221605,0.5153406262397766,0.0,0.0,False,0.0010249764891341,0.0003545649233274,0.0008885559509508
+"suppose i'm like, how did you get the rights to this song? like, how like how did you get this great production of a soundtrack to go through so smoothly? then it goes and just translates off the beat",0.14283726,0.9926338791847229,0.0,0.0,False,0.0006520837196148,0.0005033382331021,0.000896506186109
+there's even one mom in the vent opening that i thought was to live,0.047495455,0.9994433522224426,0.0,0.0,False,0.0233258791267871,0.0018160353647544,0.0128829684108495
+"it was straight up like a baby, driving moments to me when i'm sitting there watching miles do something when he was in his room, and i was like this is this is character development in like raw form and i was like this is just great",0.08796701,0.0,0.0,0.0,False,0.0006557091255672,0.0008833193569444,0.0005795056931674
+"like from cinematic from a cemetery standpoint, it is great visual immersion",0.042001735,0.0,0.0,0.0,False,0.0006023813621141,0.0003599397023208,0.0005759315099567
+"but it's also, it's same that time, interweaving with music and with the characters",0.029125832,0.0,0.0,0.0,False,0.0006132588023319,0.0005518300458788,0.0005892180488444
+"the last thing that i wanted to really bring up is the writing is great like i mean, bin dez created miles morales",0.052935857,0.8740899562835693,0.0,0.0,False,0.0009557087323628,0.1305093616247177,0.0022318582050502
+"of course, dico and lee had a beat back product",0.038911518,0.0,0.0,0.0,False,0.0009037450654432,0.0011359092313796,0.001687740907073
+"or what spider-man is in? it takes from all those elements and just make something so rich and in visceral that you're like if you're spider-man fan, if you're a spider-gwen fan or a ghost rider fan, if you're that's fundamental war fan",0.1414913,0.0,0.0,0.108,False,0.0073388931341469,0.0015860354760661,0.0165231171995401
+"if you're a spider pig fan, if you're just a fan of superhero genre in general, there's something in this movie in somewhere, pace a form that you could pull from",0.11794081,0.0,0.0,0.0,False,0.0271556917577981,0.1342541724443435,0.2702685892581939
+and that's what i can most appreciate about this film is that it's not just for those people that are spider-man fan,0.11343288,0.0,0.0,0.0,False,0.0006979047320783,0.0011901435209438,0.0072229746729135
+if you've never read it,0.023460433,0.0,0.0,0.0,False,0.0007604270940646,0.0019274464575573,0.0009658672497607
+"finally my comic before, if you're allocating, never heard even a spider-man you only know that minnows",0.087430015,0.0,0.0,0.0,False,0.0184963550418615,0.0169360339641571,0.0165809113532304
+i don't know one woman and you watch this and you're like you're gonna fall in love with these characters,0.104076885,0.0,0.0,0.0,False,0.0093664983287453,0.0095221577212214,0.0443571507930755
+"you're gonna fall in love or what they represent, what their ideals are",0.1423886,0.0,0.0,0.0,False,0.008240477181971,0.0014878445072099,0.0382713265717029
+"and it's like the tip of the iceberg because the movie i think is less than two hours, but the thing is i was like yo",0.05653196,0.9768884181976318,0.1666666666666666,0.0,False,0.0015869054477661,0.0021887710317969,0.0038779652677476
+i want more,0.038053125,0.0,0.0,0.0,False,0.0146226976066827,0.0021117806900292,0.0005398862995207
+"this movie is gonna make you want to go, but i can't read",0.076110736,0.9979456067085266,0.0,0.0,False,0.0020968494936823,0.0024347098078578,0.0014526449376717
+watch it all over again,0.06931809,0.0,0.0,0.0,False,0.0024139969609677,0.0011146415490657,0.0009555193828418
+i can promise you that voice acting a cfo is probably going,0.019575324,0.0,0.0,0.0,False,0.0008247704827226,0.0036688905674964,0.0230754371732473
+nailed it more,0.15684792,0.0,0.0,0.0,False,0.000857442151755,0.0033855251967906,0.0049909763038158
+"did a great job is ma braus, everybody played their role docent",0.032902762,0.0,0.0,0.0,False,0.0144364573061466,0.0008526518940925,0.0017660906305536
+"watching this, i'm saying, listening to nicholas cage and this final minute where i was like this is great",0.040971663,0.0,0.0,0.0,False,0.0006058608996681,0.0008218720904551,0.0034269923344254
+this is a great moment and there's so much i can't tell you guys,0.08555053,0.0,0.0,0.0,False,0.0006080249440856,0.0007081432268023,0.0016784613253548
+"there's so freakin much that i'm like i have to do, and i think that what i'm gonna do is i'm gonna get the lead together",0.27690583,0.0,0.0,0.0,False,0.0781362727284431,0.3862042129039764,0.282872587442398
+"i'm gonna get different youtubers, different podcasters and different big people, and we're gonna go and discuss these every said",0.05253629,0.0,0.0,0.0,False,0.0007481755455955,0.0005743283545598,0.0019925588276237
+"we're gonna discuss this freaking move because i think the movie is worth it, easily the best animated movie this year",0.41950125,0.0,0.0,0.113,False,0.3651790916919708,0.786540150642395,0.5962702035903931
+"yes, i know, i've seen incredibles",0.03187269,0.0,0.0,0.0,False,0.0006007201154716,0.0003895775007549,0.0005675952997989
+i've seen other movies,0.03358948,0.9901954531669617,0.125,0.0,False,0.0007093681488186,0.0004771294770762,0.0002741293574217
+"um, definitely one of the best superhero movies this year and it's either, because, in a year where you got my black panther infinity war this, i mean, hey, aquaman is coming out",0.09870692,0.0,0.0,0.096,False,0.0006922081229276,0.0172290299087762,0.0072010215371847
+"nate's not two weeks, but it's like i'm looking at this and wait",0.035649624,0.8966649174690247,0.0,0.0,False,0.0006237782072275,0.000888725335244,0.0006288308068178
+they did this movie,0.043375164,0.0,0.0,0.0,False,0.0010356486309319,0.0004709516651928,0.0004587696457747
+"it is world building, its multiverse cinematic world building",0.022945397,0.0,0.0,0.0,False,0.0007552221068181,0.0003427316551096,0.0010284852469339
+"he's scared to dynamics that you know, i've always wanted to see within spider-man movie",0.073313765,0.0,0.0,0.161,False,0.0009436013060621,0.0014589130878448,0.0020050930324941
+there's things in the morales story that i was worried that they weren't gonna get right,0.03753809,0.9971502423286438,0.0,0.128,False,0.0006234040483832,0.0288243368268013,0.0003651996667031
+they got perfect bra,0.20522906,0.0,0.0,0.0,False,0.6725967526435852,0.0017215212574228,0.0040571382269263
+"and is, i don't know",0.020685982,0.9280597567558289,0.0,0.0,False,0.0008558537228964,0.0048864954151213,0.0006181693752296
+it's masterful,0.028782474,0.0,0.0,0.0,False,0.000900789455045,0.0007670935592614,0.0026565252337604
+this is very much so masterful and i think that is very possible,0.0669207,0.0,0.0,0.0,False,0.0006185860256664,0.0003714084450621,0.001447238610126
+this is my end up,0.11665283,0.0,0.0,0.0,False,0.0198033433407545,0.0014276331057772,0.0160044226795434
+"the more i watch this, it's my ends up being one of my favorites period",0.05493369,0.0,0.0,0.0,False,0.0011782270157709,0.0014333246508613,0.0007306773914024
+"not just number two, but my end up might be one of my favorites",0.03599298,0.0,0.0,0.066,False,0.0011813545133918,0.000368611945305,0.001289622974582
+"because what they were able to do with this and there was a moment when mouse was, he was at the top of a building in like he jumps down",0.0813051,0.0,0.0,0.0,False,0.0046142698265612,0.0063534989021718,0.0021828347817063
+like at that moment that was when i was like,0.019158829,0.0,0.0,0.0,False,0.0008582404116168,0.0017581892898306,0.0068836766295135
+"i have fallen in love with this movie and that's the thing like there's always a moment like i think in spider-man homecoming, when peter was like it took straight from the comics",0.08420804,0.0,0.0,0.058,False,0.0006430323119275,0.001055609784089,0.0015498247230425
+"he was like like crying and upset, and like he's like, come on, spider-man come on, spider-man that moment i fell in love with movie in spider-man 2, when in spider-man i was talking to mary jane and then i was sitting like the freakin car goes through the window and he's like knocked out, and then i was sitting like he gets up and he got inspired like that is a moment",0.29261994,0.0,0.0,0.061,False,0.0400008894503116,0.0618888735771179,0.3988281488418579
+"there are so many different moments like that, but there that for me when miles was jumping down, that was a moment for me and there's so many cameos",0.06532243,0.0,0.0,0.0,False,0.000638652825728,0.0004097362107131,0.0006539925234392
+you guys,0.06412373,0.0,0.0,0.0,False,0.0052030482329428,0.0014514854410663,0.0025239260867238
+so many easter eggs,0.21186037,0.0,0.0,0.0,False,0.007169394288212,0.0043518096208572,0.0361731089651584
+you guys are not gonna be disappointed by this phone,0.15188612,0.0,0.75,0.0,False,0.0015677080955356,0.0037548339460045,0.0011183401802554
+10 out of 10,0.031357653,0.963390052318573,0.0,0.0,False,0.0018928591161966,0.0004145476268604,0.0002936241216957
+"for me, i know it sounds crazy, but this is a 10 out of 10 film",0.24242763,0.9981024861335754,0.6,0.102,False,0.0015808437019586,0.003339848248288,0.0151420878246426
+hopefully you go and check it out,0.062925026,0.0,0.0,0.0,False,0.0008976968820206,0.0029820150230079,0.0004723386082332
+hopefully i'll enjoy this review,0.022351967,0.0,0.0,0.0,False,0.0006088417139835,0.0006193054141476,0.0002619044971652
+i will be doing a spoiler review coming,0.14373457,0.7421815395355225,0.0,0.0,False,0.0021277505438774,0.0005739387706853,0.0004595752689056
+"actually, if you need you guys that are youtubers that check this video out",0.10031791,0.0,0.0,0.0,False,0.0020228365901857,0.0028376709669828,0.0014925778377801
+check this review,0.016173938,0.0,0.0,0.0,False,0.000733463501092,0.0004411719273775,0.0002589342475403
+guys,0.0495556,0.0,0.0,0.0,False,0.0086816353723406,0.0251743551343679,0.0013313461095094
+you want to be a part of it,0.04406188,0.0,0.0,0.0,False,0.0061939386650919,0.0008339498890563,0.0006688814610242
+please let me know who's having,0.023288755,0.9722346663475037,0.0,0.0,False,0.0011869966983795,0.0005967185716144,0.0005047546001151
+we gotta go and do rounds on this because this is worth it,0.19239926,0.0,0.0,0.0,False,0.0098763909190893,0.0006091934628784,0.0046727168373763
+keep it locked,0.17518331,0.0,0.0,0.0,False,0.011077158153057,0.0847844704985618,0.006993509363383
+gps waiting on stop,0.050242316,0.6030674576759338,0.0,0.423,False,0.0011136751854792,0.0966416224837303,0.0009324778802692
+stay tuned for a couple reviews coming out one from romera and then another one for a team,0.0090240855,0.566968560218811,0.0,0.0,False,0.0005583466263487,0.0005151534569449,0.0003785287262871
+"i'm supposed to teen titans for titans donna troy episode episode talk to you guys later, yes, spider-man oh you, oh man, i was made",0.09065199,0.0,0.0,0.0,False,0.0009021878358907,0.0265159718692302,0.0080590741708874

@@ -1,0 +1,91 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"you're obviously a movie fan if you're watching this video, so you probably heard the bad news about hollywood",0.18154536,0.9199161529541016,0.3499999999999999,0.154,False,0.0009334103087894,0.0008930694311857,0.0034485051874071
+nothing is sacred and originality is dead,0.20376207,0.9245144724845886,0.2,0.417,False,0.0041503077372908,0.0304533019661903,0.0045758574269711
+"we movie fans live in a world where ghostbusters was reinvented, and if somebody announced that they were remaking the godfather tomorrow, we probably wouldn't be surprised",0.087430015,0.5891550183296204,0.0,0.06,False,0.0006496270070783,0.0006118246819823,0.0007238389807753
+"we're also not surprised when these remakes almost never live up to the original and for the remake to surpass the original, the odds are insurmountable and i say this not to worry you, because as i mentioned before, it probably doesn't even surprise you",0.059328925,0.9965389966964722,0.0,0.069,False,0.0007344293990172,0.0004555612104013,0.0007380620227195
+"but to let you know that this version of a star is born', defies those odds",0.023632111,0.0,0.0,0.0,False,0.0052589359693229,0.0014278254238888,0.0009922576136887
+let's make the odds of success even more insurmountable,0.08170467,0.0,0.0,0.0,False,0.0009818971157073,0.0003645250981207,0.000503695977386
+shall we? a star is born is not just a remake,0.029125832,0.6289867162704468,0.0,0.0,False,0.0021950136870145,0.0009417627006769,0.0004105024563614
+it's a remake of a remake of a remake,0.0471521,0.9996721744537354,0.0,0.0,False,0.0007923979428596,0.0003253030881751,0.000733322231099
+"it's the fourth time this cinematic story has been told, and as much as he's a hollywood a-lister bradley cooper hasn't really directed a film before",0.049212243,0.9981589913368225,0.0,0.0,False,0.0008991276845335,0.0008517724345438,0.0011101495474576
+"this is his directorial debut, and on top of that he thought he should also act co-write and take singing lessons as well",0.058130227,0.980388879776001,0.0,0.0,False,0.0007668830803595,0.0004917638143524,0.0004075772012583
+"i, from one of them",0.02397547,0.7723339796066284,0.0,0.0,False,0.0009143230854533,0.0004954818869009,0.0007893114816397
+"really glad that he took all of this on, because you can actually tell this was a passion project that cooper wanted to tell this story in every nuance of the film",0.030155903,0.0,0.0,0.0,False,0.0006066753412596,0.0003568071697372,0.0007178108207881
+you could tell that he was giving it his all,0.05613239,0.9361985921859741,0.0,0.0,False,0.0019514572340995,0.0006250171572901,0.0006851402577012
+"and yes, that includes taking a few singing lessons",0.06652113,0.0,0.2,0.0,False,0.0007724082679487,0.0005584437167271,0.000839032465592
+"now that seems like a small thing, but it actually lends itself to something that all films need and remakes generally lack authenticity",0.06851897,0.0,0.0666666666666666,0.115,False,0.0008080173865891,0.0006178560433909,0.0005199430161155
+"now i use that word because in the past on real school, i've asked this question before",0.022773718,0.0,0.0249999999999999,0.0,False,0.0006473337998613,0.0004251821956131,0.0005442913388833
+"why is it important to you the filmmaker to retell a story to remake a movie? now? granted, i may never know why exactly it was important for bradley cooper to retell this story, but i never questioned the importance when watching this film",0.049212243,0.9978927969932556,0.0,0.056,False,0.0005659498274326,0.0003887852071784,0.0005181797314435
+"a lot of that actually goes back to him taking singing lessons, and i don't just mean the commitment it takes to take singing lessons",0.034962907,0.7849446535110474,0.1041666666666666,0.0,False,0.0006296235369518,0.0004488580161705,0.0004811997932847
+"it's the fact that that importance that authenticity comes through in every facet of his performance, but especially in his singing",0.025863936,0.0,0.0,0.0,False,0.000651141279377,0.0004370866226963,0.0017445216653868
+"it should also be said that while cooper is not the most refined singer, he didn't really need to be, because you know what, neither guys like tom waits, bob dylan or leonard cohen",0.09870692,0.0,0.0,0.06,False,0.0007541688391938,0.0015120129100978,0.0070037725381553
+they may not have the greatest voices in the world,0.08447654,0.9980431795120239,0.0,0.272,False,0.0009802678832784,0.0027456013485789,0.0018877598922699
+"fact is, there's so much truth",0.029125832,0.0,0.0,0.0,False,0.0011211183154955,0.0004584594862535,0.0004933166783303
+there's so much soul to their songs that it's just encapsulating and so is cooper,0.14059398,0.0,0.0,0.0,False,0.0007681337301619,0.0003529609530232,0.0051779537461698
+"in fact, i would argue there's always a vulnerability to somebody singing that there's always an authenticity because they're baring their soul to you",0.11021292,0.0,0.0,0.163,False,0.0009671347797848,0.001602015690878,0.0074113337323069
+"but as i mentioned before, it's not just this singing, because cooper brings that vulnerability that shared experience, that openness in almost everything he does on screen",0.040628307,0.0,0.0,0.072,False,0.0006283925031311,0.0003586054663173,0.0016009894898161
+but really we've got to talk about the music,0.023288755,0.8668701648712158,0.0,0.0,False,0.0005744975642301,0.0003940769820474,0.0003637089685071
+if you're like me or millions of others who have seen the trailer to this film,0.037194733,0.9743122458457947,0.0,0.0,False,0.006556833628565,0.0016279527917504,0.0031332671642303
+chances are you've already got the song stuck in your head,0.16344422,0.8671709895133972,0.0,0.156,False,0.0061836298555135,0.1558007150888443,0.0334200412034988
+"and guess what, when you see the movie, they'll get stuck all over again",0.08850401,0.9999628067016602,0.0,0.133,False,0.0015212622238323,0.0037394452374428,0.0069276955910027
+and that's a good thing,0.026035614,0.0,0.0,0.0,False,0.000642099592369,0.0003319298848509,0.0011833732714876
+"kudos to the promotional team of a star is born, because it's one of the most memorable and powerful trailers i've ever seen",0.052935857,0.0,0.0,0.0,False,0.0007720778230577,0.0005090963095426,0.0006683617830276
+"then again, the footage comes from a mom",0.13610743,0.9625621438026428,0.0,0.0,False,0.0213258266448974,0.0023835250176489,0.0119177447631955
+memorable and powerful film and music has been key in all previous versions of this film,0.02124131,0.0,0.0,0.0,False,0.0005493032513186,0.0003727664879988,0.0003087981895077
+"and you know what cooper really knew? that because he knew exactly how to use music, he and the musical production team are the conductor's and the orchestra is the film itself",0.0253489,0.0,0.0,0.0,False,0.0006845708703622,0.0003804299922194,0.000571807322558
+"the movie hooks you right off the bat, and of course it does that",0.14328592,0.0,0.0,0.0,False,0.0037348915357142,0.0021963918115943,0.0151653429493308
+"using music, bradley cooper's jackson has this hypnotic swagger as he opens the movie, blasting his version of rock and country to a raucous crowd of thousands of concert goers, but the music can also be muted, creating that sense of vulnerability and intimacy that i earlier spoke of, and it's that intimate musical connection that actually drives the story predominantly, it's the love story between bradley cooper's jackson and lady gaga's ally, because it seems that the only time that they're really themselves in terms of the characters is when they sing to one another, you see the songs of their love story, and we're just there to listen when i said that the music might get stuck inside your head, just like the trailer",0.012356056,0.0,0.0,0.034,False,0.0012379138497635,0.0084369340911507,0.0267355181276798
+that i'd actually be doing it a disservice,0.12180476,0.999775230884552,0.0,0.0,False,0.017217407003045,0.003432941623032,0.0218870397657156
+"it doesn't just get stuck inside your head, it gets stuck inside your soul, your heart",0.09548495,0.0,0.0,0.096,False,0.0416836030781269,0.1212115734815597,0.0651086792349815
+it becomes a part of you,0.036851373,0.0,0.0,0.0,False,0.0327384583652019,0.0008250476093962,0.0016636557411402
+it really connects you to the film,0.040628307,0.0,0.0,0.0,False,0.0006174477748572,0.000371238333173,0.0005795492907054
+it's beautiful,0.023632111,0.0,0.0,0.0,False,0.0007076807669363,0.0003216382465325,0.0009048514184542
+it's powerful,0.027065687,0.0,0.0,0.0,False,0.0011145444586873,0.0003340613329783,0.0013921041972935
+"it's the for the winds, i can't wait for this film to get a wider release because i can't wait to get my ears on that full soundtrack like you saw on the trailer",0.08689302,0.0,0.0,0.0,False,0.0012943828478455,0.0007919608033262,0.0008120164275169
+"gaga and cooper have tremendous chemistry, but they also have tremendous balance",0.040284947,0.0,0.0,0.0,False,0.0006304819835349,0.000342179700965,0.0066839014180004
+while cooper may not be the greatest singer and gaga was the one coached him up a bit when it came to his music,0.07251463,0.0,0.0,0.128,False,0.000987209030427,0.0005254320567473,0.0142823625355958
+"gaga is not necessarily the strongest actor out there, but cooper gives her so much in their scenes together that she really raises her game and guess what gives her performance that's on par with bradley cooper",0.03753809,0.0,0.0,0.045,False,0.000897636055015,0.0005588263156823,0.0014186557382345
+director cooper also really helps out their performance because he definitely uses the framing of the camera and sound to make it seem like they're the only two in the world,0.026035614,0.0,0.0,0.0,False,0.0007125053671188,0.0004557316715363,0.0007090123253874
+"it doesn't matter where they are on stage with thousands of screaming fans in a loud dressing room full of hilarious drag queens in an abandoned parking lot in the middle of the night, or a brawl in a dive bar, the fact is you're only focused on them",0.29021257,0.9945587515830994,0.0,0.151,False,0.0114332102239131,0.0136190289631485,0.0469338521361351
+the point is you're always invested even to your own detriment,0.06851897,0.7640642523765564,0.0,0.0,False,0.0053852498531341,0.0011108419857919,0.0006198020419105
+i actually found myself almost verbally yelling at the screen when some of the characters made a bad decision,0.1024659,0.9974920749664307,0.3499999999999999,0.163,False,0.0006880042492412,0.0004399393510539,0.0012271233135834
+i very rarely do that because i'm somewhat disconnected from the film,0.040628307,0.8097182512283325,0.0,0.0,False,0.0006190803251229,0.0004794558044523,0.0007042338256724
+but that tells you how much i'm invested,0.030327583,0.0,0.0,0.0,False,0.0007608598680235,0.0004602886037901,0.0008355212630704
+it was akin to yelling at the screen and a horror movie telling a character not to go in there because the killer is inside,0.15976663,0.9996095299720764,0.0,0.258,False,0.00279082194902,0.0099363485351204,0.0494807474315166
+there was only one time where i was actually taken out of the film,0.045778666,0.9999159574508667,0.0,0.0,False,0.0006767997401766,0.0005263493512757,0.0007979129441082
+"in musicals, the characters always jump into impromptu songs and dance numbers and they instantly know the choreography and the musical arrangements, and you know what? in this movie there was something very close to that",0.068918526,0.0,0.0,0.0,False,0.0006234296015463,0.0003575042937882,0.0004780928138643
+"now they tried to address it, but in my mind unsuccessfully",0.08420804,0.954763650894165,0.0,0.262,False,0.0006531734252348,0.0004195928922854,0.0006641382933594
+"but as i mentioned, that's the only time that my suspension of disbelief caused an issue because it's more of a drama with music, not a musical itself",0.09065199,0.9739945530891418,0.0,0.0,False,0.0006751344189979,0.0004657805839087,0.0029914360493421
+"i also saw a very different performance that i'm used to seeing from sam elliott, who plays jackson's older brother",0.039254878,0.0,0.0,0.0,False,0.0006321621476672,0.0009399725822731,0.0043632476590573
+much much older brother,0.05413456,0.0,0.0,0.0,False,0.0007346750353462,0.0016248819883912,0.0026923313271254
+now you would think that's another moment where i couldn't necessarily suspend my disbelief,0.04543531,0.8144108653068542,0.0,0.0,False,0.0009124824427999,0.0005522988503798,0.0017769513651728
+but they,0.017909339,0.0,0.0,0.0,False,0.0019379688892513,0.0006294540944509,0.0005991171929053
+he really felt like brothers,0.0471521,0.0,0.0,0.0,False,0.00098014366813,0.0005961478454992,0.0065591391175985
+with all the fighting familiarity and frustration that comes with a fraternity,0.08447654,0.9656609892845154,0.0,0.359,False,0.0077056312002241,0.0004437426687218,0.0019991714507341
+"my biggest complaint was you get a tremendous dramatic performance from chappelle, noodles and jackson seem like friends",0.14777246,0.8185515403747559,0.1333333333333333,0.096,False,0.0009642586228437,0.0008145975880324,0.0041395211592316
+you get a tremendous connection with gaga and andrew dice clay,0.03616466,0.0,0.0,0.0,False,0.0007191648473963,0.0007475244929082,0.0079439179971814
+they actually seemed like daughter and father,0.049898956,0.0,0.0,0.0,False,0.0017780343769118,0.0025259219110012,0.0019674927461892
+"you get this great brotherly relationship with cooper and elliott, and yet they're all gone way too quickly in this film",0.053335425,0.8068776726722717,0.0,0.0,False,0.0011043141130357,0.0003951451508328,0.0016337337438017
+"if the film had slightly better balance when it came to subplots and characters, i felt it could have been just that much more powerful, but i also feel that this is probably the most powerful version of this story",0.046465382,0.0,0.0,0.0,False,0.000560795480851,0.0004067246918566,0.0003008001076523
+so far granted the previous versions of this film actually all had success,0.05852979,0.0,0.0,0.0,False,0.0007112422026693,0.0003306712314952,0.0004102749808225
+"the original one oscar's, the two previous one golden globes for both their leads, and you know what, i don't see that changing gaga may not win",0.020130653,0.0,0.0,0.101,False,0.0007805177010595,0.000428268656833,0.0007641777046956
+cooper's,0.015896274,0.0,0.0,0.0,False,0.0042161727324128,0.0198639538139104,0.0650182664394378
+certainly won't win everything,0.0669207,0.9994125366210938,0.0,0.411,False,0.0018444115994498,0.0006603779038414,0.0003642346418928
+but this movie will win something,0.08501353,0.0,0.0,0.0,False,0.0013924383092671,0.0007228308822959,0.0004157326766289
+as a first film,0.027409043,0.0,0.0,0.0,False,0.0009211834985762,0.0004276577092241,0.0002809581346809
+cooper should be more than proud by his rookie effort,0.03839648,0.0,0.0,0.0,False,0.0014429284492507,0.0034130641724914,0.0079102208837866
+he created a very beautiful touching and intimate film,0.18549223,0.0,0.0,0.0,False,0.0006305222050286,0.0003783247375395,0.0122750559821724
+"he got everyone on the same page and created a story that reflects on regret, love addiction, and shows us that music can really connect us",0.08850401,0.0,0.0,0.087,False,0.0006506481440737,0.0005080162663944,0.0004702146688941
+it is most certainly and earn it poll,0.039598234,0.0,0.0,0.0,False,0.001540383673273,0.0003624482196755,0.0010906116804108
+"question, who is your favorite singer turned actor as always, leave your answers in the comment section below",0.06412373,0.0,0.0,0.059,False,0.0009235136094503,0.0013395961141213,0.0006597104948014
+"also, be sure to check out my full written review on men vs",0.056931525,0.0,0.0,0.0,False,0.0006812720675952,0.0017856531776487,0.0022021951153874
+movies,0.022074303,0.0,0.0,0.0,False,0.0011863427935168,0.0005881912657059,0.0003503740881569
+com where we give you all kinds of coverage of tiff,0.09870692,0.505238950252533,0.0,0.0,False,0.0015982129843905,0.0006681882659904,0.0034321816638112
+2018,,0.0,0.0,0.0,False,0.0008304591756314,0.0006238044006749,0.0003313540946692
+"the link is in the description below, but until next time school's out eight real students",0.02124131,0.9428128004074097,0.0,0.0,False,0.0006367869209498,0.0005324345547705,0.0005335020832717
+thanks for watching,0.018464668,0.0,0.0,0.0,False,0.000749543251004,0.000431915075751,0.0002572489029262
+"if you want to subscribe to real school, click that round real school logo right beside me",0.048525527,0.9535677433013916,0.0,0.0,False,0.0020471028983592,0.0005035839276388,0.0049319532699882
+"also, click that damn notification bells here",0.7257758,0.656630277633667,0.0,0.31,True,0.8457608819007874,0.9682871699333192,0.9506197571754456
+where all the real schools new content you can follow me on twitter,0.0495556,0.9633387923240662,0.0,0.0,False,0.0008195985574275,0.0007897775503806,0.0004237330285832
+"and of course, if you get anything out of real school, you can always give a little back",0.09709594,0.582027792930603,0.0,0.0,False,0.0098980870097875,0.0020396739710122,0.0007922095828689
+"just click the link in the description below or the button down there, and you can become part of my patreon team",0.021102477,0.0,0.1555555555555555,0.0,False,0.000758531212341,0.0006168566760607,0.0021046083420515

@@ -1,0 +1,49 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"silmas, directed by ava duvernay, and stars david o",0.021518974,0.0,0.0,0.0,False,0.0010509513085708,0.0004314424586482,0.0008713498245924
+yellow,0.08170467,0.9917258024215698,0.0,0.0,False,0.0020625186152756,0.0011603091843426,0.0007723265443928
+"whoa, and i wouldn't really call this movie martin luther king jr",0.08330294,0.9884721040725708,0.0,0.0,False,0.0007816494908183,0.0021031447686254,0.0006799630937166
+biopic,0.05613239,0.0,0.0,0.0,False,0.0050789066590368,0.1184991747140884,0.000569975527469
+"to be honest, i feel like it's more about the story of what's happening in selma, and martin luther king junior's just in it",0.04234509,0.0,0.0,0.0,False,0.0005769099807366,0.000492965511512,0.0004681473074015
+i wouldn't really call a biopic,0.05493369,0.9290041923522949,0.0,0.0,False,0.0018225150415673,0.0475857555866241,0.0007098577916622
+"so it's the 1960s in selma, alabama, very crucial time for the racial rights movement",0.12116077,0.5848133563995361,0.0,0.0,False,0.0013426999794319,0.0010659253457561,0.0008337810868397
+"although technically african-americans can vote under the law, it's still pretty difficult for them about martin luther king jr",0.2885035,0.9996212720870972,0.0833333333333333,0.11,False,0.0006050452357158,0.0132522014901041,0.0088688060641288
+"and his ways to try to change the voting laws, and this is a damn good movie going right off the bat, david, ol yellow ball gives a stellar performance",0.43791756,0.0,0.0,0.08,True,0.0406006909906864,0.4800284802913666,0.6546666622161865
+it was the delivery of his lines that really really made it good,0.028267438,0.0,0.0,0.0,False,0.0008138933917507,0.0004525017284322,0.0008731654961593
+"his calm, stoic, yet really emotional delivery was so affected because he needs to be the calm leader among people that really riled up about change",0.14956708,0.0,0.0,0.069,False,0.0006966866203583,0.0109154731035232,0.0011700327740982
+not to mention very good supporting cast,0.03770977,0.0,0.0,0.0,False,0.00074612069875,0.0004131378664169,0.0004636695375666
+"tom wilkinson does a phenomenal job as lyndon b johnson, wilkinson, in a yellow hose, interactions with each other were really interesting dialogue and those interactions are amazing",0.024318827,0.0,0.0,0.0,False,0.000702794350218,0.0005352239240892,0.0013409171951934
+"kinnison is really frustrated because he does want change, but he knows that he's got a lot on his plate right now",0.15684792,0.7809894680976868,0.2071428571428571,0.1,False,0.0021911165677011,0.0025366537738591,0.0007482771179638
+that portrayal frustration was very good,0.20449556,0.0,0.0,0.301,False,0.0009956207359209,0.0003331694751977,0.0025146047119051
+carmen ejogo is also very good,0.0168681,0.0,0.0,0.0,False,0.0006395278032869,0.0005674706189893,0.0026034156326204
+"she has really good chemistry with oh yellow, and they played the tension really well with each other, because there's a lot of tension in this marriage in common does a good job",0.09924392,0.0,0.0,0.108,False,0.000641560414806,0.0005174591206014,0.0016307157929986
+"besides from the performances, this is a really really well paced movie",0.048868883,0.0,0.0,0.0,False,0.0005951395723968,0.0003332571650389,0.0002828116994351
+everything just flowed so nicely,0.10300289,0.0,0.0,0.0,False,0.0007009054534137,0.0003449422947596,0.0005538880359381
+i have to give props to davern,0.051737156,0.96003258228302,0.0,0.0,False,0.0073292911984026,0.000638875644654,0.0074049835093319
+a,0.021380141,0.0,0.0,0.0,False,0.0010865016374737,0.0007276595570147,0.0004114846815355
+on the pacing and directing of this movie,0.027752401,0.0,0.0,0.0,False,0.0006022921297699,0.0004234412917867,0.000606573827099
+it's really good,0.031357653,0.0,0.0,0.0,False,0.0005728170508518,0.0003248286084271,0.0010102594969794
+there was one aspect of this movie that was probably the most effective of them,0.05133759,0.0,0.0,0.0,False,0.0007040059426799,0.0004042461514472,0.0005494603537954
+all the scenes where you see the police beating up on the african americans that are protesting,0.34388447,0.0,0.0,0.279,False,0.0160102136433124,0.1422882974147796,0.3558590412139892
+"the african americans just have to take that beating can't physically fight back, because the moment they fight back, everything they worked for is done ain't now given to all the stereotypes that the racist people think about them",0.3905958,0.9818331599235535,0.0,0.205,False,0.3586877286434173,0.3446586728096008,0.5200128555297852
+they need to be peaceful,0.027752401,0.9224023222923279,0.0,0.0,False,0.0006813908694311,0.0130912587046623,0.0019318490521982
+"they cannot fight back, and that was really effective and so painful",0.16620636,0.8190591335296631,0.0333333333333333,0.18,False,0.0029505402781069,0.0027476011309772,0.0022484783548861
+to watch me,0.045778666,0.0,0.0,0.0,False,0.0267448630183935,0.0025333394296467,0.0006598076433874
+just see them getting beat up and know that they can't fight back,0.38261065,0.0,0.0,0.0,False,0.0475176163017749,0.4328213334083557,0.6703694462776184
+"leg comes, the flaws or / winfrey",0.11536485,0.9991124272346497,0.0,0.0,False,0.0017292101401835,0.0005839437944814,0.0332259498536586
+what are you doing in this movie? i legitimately don't understand why oprah winfrey was cast in roll that she was,0.082104236,0.9996833801269531,0.0,0.0,False,0.00180049915798,0.0006644147215411,0.030711330473423
+she's not in it a lot,0.05653196,0.9971218705177307,0.0,0.0,False,0.0018662437796592,0.002330073621124,0.0034297797828912
+but when she is it kind of takes it out of the movie and it's a very small role,0.06332459,0.9971421360969543,0.0,0.0,False,0.0007380837923847,0.0009080440504476,0.0015434810193255
+she doesn't have a lot of lines,0.13082063,0.9997257590293884,0.0,0.0,False,0.0012869340134784,0.0042598200961947,0.0040593296289443
+"just really took me out of the movie when i saw her, and, although tim roth does a very good job playing george wallace, a very important figure during this time as the governor of alabama, who is pretty racist",0.34388447,0.999138593673706,0.0,0.081,False,0.0221038777381181,0.4717832505702972,0.4013443291187286
+i didn't feel like there was a lot of weight to george wallace's character,0.05133759,0.9996309280395508,0.0,0.14,False,0.0006576689775101,0.001020056544803,0.0014806581893935
+you never really see his presence in the story,0.028439116,0.9938931465148926,0.1,0.0,False,0.0007761997985653,0.0005617868155241,0.0005122054135426
+"there is a fantastic scene near the end with lyndon b johnson and george wallace, diced",0.06412373,0.0,0.0,0.0,False,0.0006755301728844,0.0971696823835372,0.0370583795011043
+alma is a beautifully directed movie,0.022945397,0.0,0.0,0.0,False,0.0010331469820812,0.0005946201854385,0.0004587196162901
+"great dialogue, phenomenal performances and really effective storytelling",0.016173938,0.0,0.0,0.0,False,0.000547973671928,0.0003580136690288,0.0003956947475671
+i really recommend you see this movie,0.03049926,0.0,0.0,0.0,False,0.0006406884640455,0.0006262640235945,0.000277400802588
+"i want to give you the five so badly, but i just can't do it",0.29261994,0.9981727600097656,0.6999999999999998,0.15,False,0.0163038615137338,0.0814625397324562,0.0084552997723221
+"four point seven, five out of five wheels, phenomenal movie",0.049212243,0.0,0.0,0.0,False,0.0007811256218701,0.0003669077123049,0.0004171537002548
+what'd you guys think it's ellen? make sure to comment below,0.03461955,0.0,0.0,0.0,False,0.0007811706745997,0.0005739838816225,0.0010580159723758
+hit that subscribe button,0.15334547,0.6420598030090332,0.0,0.0,False,0.0156010454520583,0.2515271604061126,0.0014095951337367
+hit me up on twitter and my website burn as a blog at wordpress,0.26132804,0.9555057883262634,0.0,0.0,False,0.0926971212029457,0.5054604411125183,0.0196514893323183
+com until next time i'm rail wiseman peace,0.07091636,0.8197639584541321,0.0,0.0,False,0.0008948040776886,0.0016201733378693,0.0039516706019639

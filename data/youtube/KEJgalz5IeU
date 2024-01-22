@@ -1,0 +1,27 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hello, my name is malik baker, and this is 704 cinema today, we will be reviewing the francis compolos the godfather",0.023803791,0.0,0.0,0.0,False,0.0006661611841991,0.0033981655724346,0.00154023792129
+"now, the film demonstrates the mario puzo novel godfather, which is his best picture winner, and it started the great marlon brando and al pacino as leaders of the fictional new york rhino family",0.044748597,0.0,0.0,0.0,False,0.0011588388588279,0.0010579066583886,0.0008346168906427
+the family is headed by veto corleone as well,0.021102477,0.0,0.0,0.0,False,0.0008829919970594,0.0035017626360058,0.0008187177008949
+"now, the film was released march 24 1972 and became remain the box office leader for that year",0.014993866,0.0,0.0,0.0,False,0.0007728043710812,0.0003811870701611,0.0004189148603472
+"it won three oscars that year, which was best picture, best actor and best adaptive screenplay, and won a record of five golden globes, which still stands today",0.013536129,0.0,0.0,0.0,False,0.0007838390883989,0.000475327076856,0.0003492151154205
+"it also won an academy award for best picture, making that best picture twice",0.03444787,0.0,0.0,0.0,False,0.0007159979431889,0.0004505423130467,0.0004509805876296
+"moving on the setting spans in the years of 1945 and 1955 in new york city, and opened up with a beautiful wedding celebration of daughter connie corleone",0.019575324,0.0,0.0,0.0,False,0.0006272622267715,0.0010752518428489,0.000785723212175
+see connie corleone is the she's the dove in the family,0.059328925,0.0,0.0,0.0,False,0.0116082718595862,0.0006790085462853,0.4938991963863373
+she gives everybody hope in the sense,0.04165838,0.0,0.0,0.0,False,0.0007117358036339,0.0004595634236466,0.0003443487512413
+"now the coryon family members after that are slowly introduced, and as the story progresses and unfolds, it tells that the family is within a major deal with the other new york mob bosses",0.119228795,0.0,0.0565340909090909,0.0,False,0.0006949767121113,0.0073025948368012,0.0016206855652853
+"now brandon's character is not in favor of that deal, and through a series of event, brandon's character, which is don corleone, escapes a hit from an opposing family, but he almost lost his life",0.07091636,0.9990246295928955,0.0,0.111,False,0.0022630761377513,0.0014534128131344,0.0020354997832328
+"while don gets well, the eldest son, sonny, played by james cann, takes over and places the family in a bloody chaotic war",0.20449556,0.9924895763397217,0.8,0.308,False,0.0689130052924156,0.1958604454994201,0.4984143674373626
+see the two main attributes of this film comes in the cinematography and the performance,0.012911384,0.0,0.0,0.0,False,0.0005808787536807,0.0003516014548949,0.0005371757433749
+"the cinematographer, excuse me was gordon willis, otherwise known as the prince of darkness",0.06372416,0.0,0.05,0.131,False,0.0010193794732913,0.0348673015832901,0.0479485876858234
+"now he took a different approach when filming the godfather, the lighting throughout the film was underexposed and he also decided to use yellow for a brassy type feel, and in my video, i kind of wanted to depict that lighting being unexposed, and the one thing in the godfather that he did mention was when don corleone would come up and speak, he would not like to see his eyes, because it will make people wonder what he was thinking now",0.09870692,0.9994876384735107,0.0,0.025,False,0.0005762093351222,0.0011749034747481,0.0040026633068919
+"in a quote, i quote gordon willis, he says, the lighting has to accommodate what it is your training you are introducing related to your filter receptors",0.022074303,0.9917646050453186,0.0,0.0,False,0.0006924618501216,0.0006267371936701,0.0009533323463983
+"once again, the lighting has to accommodate what it is you're introducing related to your filter receptors, and i quote gordon rivers",0.019019997,0.9989023208618164,0.0,0.0,False,0.0006441817968152,0.0003933749394491,0.0014162738807499
+see the acting performances as well,0.07451247,0.0,0.0,0.0,False,0.0006100353784859,0.0004091590817552,0.0004809542151633
+they were great and they were very realistic,0.057331093,0.0,0.0,0.0,False,0.0005395176704041,0.0003129077376797,0.0027670562267303
+they,0.02054715,0.0,0.0,0.0,False,0.0147170908749103,0.0013960419455543,0.0021094267722219
+"they portrayed jealousy, they betrayed love, they betrayed, hate, envy and respect all for this film and the compassion shown by al pacino's character michael corleone, portray what it means to sacrifice for your family",0.2712817,0.0,0.15,0.301,False,0.0147734452039003,0.0023852705489844,0.0028964462690055
+"see, this film is a great classic and is immediate, and it immediately allures the audience from start to finish",0.03994159,0.0,0.0,0.0,False,0.0006636600010097,0.0003620320640038,0.0003771567135117
+this film for cinematography,0.03856816,0.0,0.0,0.0,False,0.0008269290556199,0.000413543311879,0.0008579938439652
+its plot and its performance is what makes it a five-star film,0.04543531,0.0,0.0,0.0,False,0.0007724285242147,0.000428648723755,0.0007825677166692
+thank you for this time,0.017631676,0.0,0.0,0.0,False,0.0006137494347058,0.0003839099954348,0.0004890583804808
+"this is eric baker with 704 cinema, talk to you soon",0.049212243,0.0,0.0,0.0,False,0.0007882328354753,0.0054702162742614,0.0027779210358858

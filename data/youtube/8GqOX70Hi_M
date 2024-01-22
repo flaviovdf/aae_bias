@@ -1,0 +1,93 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"what's up, guys? my name is aaron",0.046465382,0.5874987244606018,0.0,0.0,False,0.001188424997963,0.0020346562378108,0.0016489373520016
+"at the same, i'm going to be reviewing mood light",0.0224908,0.982312023639679,0.0,0.0,False,0.0006070255185477,0.0007285656756721,0.0006058672443032
+"this is a john movie that's directed by barry chickens, and the stars",0.080905534,0.0,0.0,0.0,False,0.0043369075283408,0.0099439276382327,0.0028133124578744
+a bunch of people,0.0495556,0.0,0.0,0.0,False,0.00069981982233,0.0007703959709033,0.0007088224519975
+"the basic story is telling about this young man shire own, and it tells his story kind of in three chapters, him as a boy and was a teenager, and then him as a man and is talking about, like how how people treat him in the black culture, because he's kind of different, honestly about that and how those actions and how those choices that some people made around him kind of shaped the person that he became",0.14687516,0.0,0.0,0.0,False,0.000759961316362,0.0249389857053756,0.0139885116368532
+i was looking forward to this for a reason,0.023460433,0.0,0.0,0.0,False,0.000642568222247,0.0003850219945888,0.0004464311059564
+i heard,0.02792408,0.6462260484695435,0.0,0.0,False,0.0010485012317076,0.000489606463816,0.0004190769977867
+this was like an amazing movie,0.035477944,0.0,0.0,0.0,False,0.0007292082882486,0.0004049320996273,0.0005946434102952
+like,0.022351967,0.0,0.0,0.0,False,0.001461298437789,0.0005631173844449,0.0007380700553767
+"i've been hearing buzz about this movie for months, so i wanted to give us a try",0.047495455,0.0,0.0,0.0,False,0.0005799731588922,0.0008195551927201,0.0004170099273324
+"like usually, whatever movies have like this type of hype this kind of rare whenever they actually kind of meet my expectations",0.08689302,0.9908378720283508,0.0,0.0,False,0.0007588898879475,0.0004617046506609,0.0007218244136311
+"you know, the last time that actually happened was probably mad max fury road",0.1019289,0.9995149374008179,0.2083333333333333,0.365,False,0.0009229976567439,0.0030013036448508,0.0184095222502946
+they'll probably the last time i was like,0.021102477,0.9998452663421631,0.0,0.0,False,0.0114971427246928,0.0051907785236835,0.0027724863030016
+"yeah, the buzz for this movie was definitely appreciated, but yeah, this one i feel like it's going to go up along with like mad max fury road, as like a masterpiece movie",0.073313765,0.0,0.2125,0.167,False,0.0006148240063339,0.0006993831484578,0.0008761115022934
+i feel like the story again,0.017770508,0.0,0.0,0.0,False,0.000682781334035,0.0003394939703866,0.0003533739072736
+it kind of shows how this boy goes from childhood into adulthood,0.15001574,0.0,0.0,0.0,False,0.0011388648999854,0.0028079412877559,0.0017515351064503
+"it kinda reminds me of movie boyhood, but i feel like this is actually a little bit more emotionally involved because you really do care for the kid",0.07211506,0.0,0.0,0.0,False,0.0012885672040283,0.0009257107158191,0.0008421466336585
+because of how strong of a writing is,0.02655065,0.0,0.0,0.0,False,0.000791702826973,0.000553106481675,0.0088198333978652
+it tells you the story in three different chapters,0.01527153,0.0,0.0,0.0,False,0.0006262920796871,0.0003472408279776,0.0005032566841691
+if it has three different actors playing shine room,0.032902762,0.9784976840019226,0.0,0.0,False,0.0007447028183378,0.0007607815787196,0.0011897949734702
+"i feel like that would kind of be the breaking point for the movie if the actors were great portraying him and i felt like the actors were really good, kind of showcasing his transformation, and i'm like that they did showing in three different chapters because you kind of have to guess what happened in between those chapters that they're showing you to kind of see the emotional baggage and the stuff that shiro and had to carry, and stuff, it kind of like forced you to think about it",0.033246122,0.9967349171638489,0.0,0.029,False,0.0005953832296654,0.0004407482629176,0.0005035159992985
+it's kind of heartbreaking and you know it just makes you kind of think about tyrone,0.058929358,0.0,0.0,0.18,False,0.000769959995523,0.0003846639301627,0.0581846721470356
+the writing is pretty simple,0.058929358,0.0,0.0,0.0,False,0.0006086528301239,0.0004941835650242,0.0005517043173313
+"it's not like a lot of big words or anything like that, but it's pretty effective to me",0.027065687,0.0,0.0,0.06,False,0.0006801692070439,0.0003973227576352,0.000786613614764
+you really do get a sense of caring for the characters,0.05613239,0.0,0.0,0.0,False,0.0006523491465486,0.0004724777536466,0.0008378064958378
+you get a caring for the situation that shy road is put in,0.0224908,0.0,0.5,0.123,False,0.012602612376213,0.0009636309114284,0.0015272087184712
+"and like i like that, the writing feels really authentic black culture",0.31725118,0.0,0.0,0.0,False,0.013362318277359,0.0974185094237327,0.0381906554102897
+it doesn't feel like people are like a pro ready,0.042001735,0.9930445551872253,0.0,0.15,False,0.0007768024806864,0.0010970482835546,0.0016871971311047
+that makes sense,0.022213135,0.0,0.0,0.0,False,0.0007479299674741,0.0003513720876071,0.0004880589840468
+"i think that the writers in the director has stuff, did a really good job making this feel like a relatable situation for everybody",0.01999182,0.0,0.0,0.0,False,0.0006030003423802,0.0004737628332804,0.000466757279355
+"i do, like the messages of the movie to basically about like masculinity and the black culture and sexuality and black culture",0.2459383,0.0,0.1666666666666666,0.0,False,0.065591812133789,0.1425591707229614,0.1288667470216751
+things are kind of touching the black people,0.5851118,0.0,0.0,0.0,False,0.2353609204292297,0.3143334984779358,0.4950456023216247
+"basically, if you're like, different from everybody else, like, kind of looked down upon a black culture and kind of ostracized",0.31725118,0.9991067051887512,0.0,0.0,False,0.136505052447319,0.2627694010734558,0.1208818107843399
+"and this movie like really captures the essence of that, a fella",0.17449278,0.0,0.0,0.0,False,0.0007551271119154,0.0050031291320919,0.0365750193595886
+they did like a really beautiful job doing that,0.0334178,0.0,0.0,0.0,False,0.0008408152498304,0.000388401793316,0.0017934155184775
+i don't know,0.017770508,0.9742851853370667,0.0,0.0,False,0.0010861124610528,0.0022731318604201,0.0004278314299881
+i just never seen this type of movie done with black keep when i thought that was really cool,0.15568043,0.9999228715896606,0.0,0.0,False,0.0006881032604724,0.0249045696109533,0.0106119466945528
+like the themes weren't beating you over the head,0.2298686,0.0,0.0,0.0,False,0.1441453248262405,0.0460723750293254,0.2097200006246566
+it was pretty subtle with the way that they did,0.06612156,0.0,0.0416666666666666,0.0,False,0.0006407619803212,0.0003549232496879,0.0032467981800436
+it was pretty much with the writing,0.036851373,0.0,0.0,0.0,False,0.00065044692019,0.0004066488763783,0.0005523483850993
+the characters that were in the movie,0.019575324,0.9266594648361206,0.0,0.0,False,0.0006500905728898,0.0004056729667354,0.0003149534168187
+"i thought that that really told message is really well, and that was a really cool aspect of it, and one of the performances were just like amazing all over",0.049898956,0.0,0.0,0.0,False,0.0005520422710105,0.0003197969635948,0.0004374555137474
+there are no weak points in this at all,0.05253629,0.0,0.0,0.0,False,0.000966400722973,0.0008869031444191,0.0008762250654399
+the three actors that are playing shiro,0.03736641,0.0,0.0,0.0,False,0.0009902738966047,0.0020845970138907,0.001171268406324
+i've really felt like that's where the strength of the movie relies on,0.03221605,0.0,0.0,0.0,False,0.0006155178998596,0.0003945169446524,0.0007084570825099
+"you have to nail these characters really well, and i feel like those actors did a really good job, kind of portraying like the mannerisms that shy rome carries",0.09655894,0.0,0.0,0.055,False,0.0013247624738141,0.0227745864540338,0.0206455253064632
+just the way that he carries his body,0.16551583,0.0,0.0,0.0,False,0.0063846348784863,0.0008402954554185,0.0068302596919238
+his facial expressions,0.11472086,0.0,0.0,0.0,False,0.0016207325970754,0.00090158166131,0.0362792946398258
+i felt like that was really well done,0.025692256,0.0,0.0,0.0,False,0.0005746760871261,0.0003214074240531,0.0006531245307996
+just like no emotional baggage that this character has,0.20009461,0.0,0.0,0.132,False,0.0008116068784147,0.0014797279145568,0.0011707614175975
+"i feel like that was properly shown really well, these actors",0.033246122,0.0,0.0,0.0,False,0.0005725798546336,0.0004522617673501,0.0005819036159664
+i'm just the way that they interacted and stuff like that,0.040971663,0.0,0.0,0.0,False,0.0006622705841436,0.0004580988897942,0.0015958711737766
+in a way that they talked,0.025863936,0.0,0.0,0.0,False,0.0006412736838683,0.0003633454325608,0.0008875676430761
+i felt like it was really a parent,0.023632111,0.0,0.0,0.0,False,0.0007146784919314,0.0004273769154679,0.00154841307085
+know this was the same person,0.02124131,0.7841202616691589,0.0,0.0,False,0.0008278475143015,0.0004741103039123,0.00084817816969
+that's actually kind of scared because you know it's not really the same person,0.076110736,0.9852234125137329,0.0,0.197,False,0.0009421531576663,0.001250248751603,0.0033821370452642
+but the actors just do such a really good job like making it feel like it is that i felt like that was really cool,0.059328925,0.0,0.0,0.0,False,0.0006440053111873,0.0004106776323169,0.0015537491999566
+and the same thing goes for the actors that plays kevin chevrons,0.042001735,0.9954221844673157,0.0,0.0,False,0.000896860321518,0.0009394097723998,0.0013637493830174
+friend,0.025520578,0.0,0.0,0.0,False,0.0010193979833275,0.001121662557125,0.0008146744221448
+andre hollen key was in american horror story roanoke,0.03770977,0.0,0.0,0.316,False,0.0007721871370449,0.0020247185602784,0.0005969409830868
+"i feel like he did a pretty good job how, showcasing that character and doing a really good job with that",0.034104515,0.0,0.0,0.0,False,0.000600105850026,0.0004167878068983,0.0014917260268703
+"i'd like no, amy harris as shy",0.16344422,0.9814624786376953,0.5,0.211,False,0.0048386962153017,0.0627691447734832,0.0437832102179527
+ron's like drug addicted mom,0.5124461,0.7596915364265442,0.4,0.0,False,0.77704256772995,0.3276371955871582,0.8069623112678528
+i felt like she was pretty good,0.040971663,0.0,0.0,0.0,False,0.0005598235293291,0.0003580031043384,0.0024127764627337
+"you could see that she had like this kind of inner turmoil about, like being addicted to the drugs and then trying to be there for her son",0.2088965,0.6568989157676697,0.0,0.077,False,0.0042870678007602,0.0050090528093278,0.0021535451523959
+"i feel like she did that really well, really show the humanity in that situation",0.030670939,0.0,0.0,0.0,False,0.0005815537297166,0.0003786299494095,0.0005601600278168
+janelle monae plays this woman that provides like a safe haven for shine room,0.21892473,0.0,0.0,0.0,False,0.0026204599998891,0.0035011386498808,0.01189034152776
+i feel like she did a really good job like portraying that nurturing kind of motherly side,0.16275369,0.0,0.0,0.0,False,0.0155514935031533,0.0014139545382931,0.0018081124871969
+"i can really see her being really good, and when ruby's she wanted to give that a try, but mahalo, ali, the dude that was captain mouth and luke cage",0.05653196,0.0,0.0,0.0,False,0.0007317522540688,0.0531451664865016,0.0140632707625627
+i thought that he was probably like the best of the supporting characters,0.02792408,0.0,0.0,0.0,False,0.0006290816236287,0.000435644906247,0.0005616813432425
+"he plays this like street dude who kind of takes in shiro and he kind of sees that he's like an outsider, and he kind of you know, gives him advice on how to act",0.089041,0.0,0.0,0.0,False,0.0082839559763669,0.0012959389714524,0.0017447028076276
+"he's just kind of there for him and he provides kind of like a safe haven with janelle monae's character, and i felt like he was just really great",0.033761155,0.0,0.0,0.0,False,0.000648399174679,0.00045434711501,0.0004585762217175
+"you could see the humanity kind of just coming off of his body, just his face of the way that he, you know, just acted around him and then he has a really heartbreaking scene with shower on that was just like really sad",0.19634613,0.9955281615257263,0.0,0.133,False,0.0203513596206903,0.003487022826448,0.0019652000628411
+but like that was like probably the saddest scene in the movie,0.09548495,0.9970498085021973,0.0,0.262,False,0.0125091932713985,0.0019606142304837,0.0016133900498971
+"after that, he's getting oscar buzz for this movie and i definitely get it",0.06412373,0.0,0.0,0.0,False,0.0006597441388294,0.0008420342928729,0.0010095743928104
+he gives really great in this movie and i feel like the cinematography was like gorgeous,0.044748597,0.0,0.0,0.0,False,0.0006610580021515,0.0003446970658842,0.0016486626118421
+just the way that the colors are so present,0.036336336,0.0,0.0,0.0,False,0.0007218351238407,0.0004536103806458,0.0007828458910807
+"each stain the way that the college kind of show the mood and the tone of the scenes are really cool, and i thought that the camera shots have this like hazy, kind of dreamlike vibe to them where the character kind of been focused than everything else is just like really fuzzy",0.103539884,0.0,0.0,0.0,False,0.0006557466113008,0.0005226274370215,0.00191807129886
+i really like that effect to this is really like a beautifully shot but kind of available movie and i did like that vibe,0.065721996,0.6664982438087463,0.0,0.0,False,0.0005677414010278,0.0004536799388006,0.000386777537642
+"yeah, overall, i thought this was the best movie of the year and one of the better movies i've seen past few years",0.04165838,0.0,0.0,0.0,False,0.0006171221029944,0.0004325587069615,0.0003105104260612
+"i just thought that the plot in the writing was just so simply done, but just so effective",0.028610796,0.0,0.0,0.0,False,0.0006146810483187,0.0003523880441207,0.0004547309945337
+the way they kind of convey these emotions,0.028954152,0.0,0.0,0.0,False,0.0005754771409556,0.0003417517000343,0.0005081901908852
+"the themes were really subtle, but you do get them",0.08050597,0.0,0.3333333333333333,0.0,False,0.000592099619098,0.0003289403102826,0.0011873478069901
+you do get the kind of things that shy realms character is dealing with,0.047495455,0.9942641854286194,0.0,0.133,False,0.0009773420169949,0.0010595576604828,0.0151181844994425
+"the performances are really great all the way from shy roads, actors playing kevin and all the supporting characters that are kind of around them, and i thought that the cinematography, the way the movie was shot was really beautiful",0.03770977,0.0,0.0,0.04,False,0.0005796575569547,0.0004090364382136,0.0005161283770576
+"it wasn't like super showy, but it was just kind of a centrally gorgeous",0.047495455,0.0,0.0,0.18,False,0.0008569015190005,0.0004437485767994,0.0010550672886893
+the way that it was done overall,0.02397547,0.0,0.0,0.0,False,0.0006992225535213,0.0003082108160015,0.000744748278521
+"i would give us an a+ yeah, this movie if you get a chance to see it",0.1256687,0.0,0.0,0.0,False,0.0007260065176524,0.0010513638844713,0.0006240216898731
+i would definitely give it a watch if it's playing in your town or whatever like that,0.04268845,0.0,0.0,0.0,False,0.0007237723912112,0.0014154412783682,0.0029293713159859
+"so what'd you guys think? did you like the movie? did you hate the movie? let me know in the comments you thought, and thanks for watching",0.0729142,0.8405929207801819,0.3,0.11,False,0.0010091335279867,0.0017763144569471,0.0016882986528798
+thanks guys,0.033932835,0.0,0.0,0.0,False,0.0006533558480441,0.0007324164034798,0.00035036978079
+bye,0.059728492,0.0,0.0,0.0,False,0.0059144631959497,0.0005959753761999,0.000621129933279

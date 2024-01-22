@@ -1,0 +1,93 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+i guess you learn movies,0.07371333,0.9650459885597229,0.0,0.0,False,0.0028738693799823,0.0010138945654034,0.000488361925818
+i do too,0.028954152,0.0,0.0,0.0,False,0.0011798065388575,0.0004662696737796,0.000491316372063
+"hi guys, and welcome back to another classic movie review",0.034962907,0.0,0.0,0.0,False,0.0006289788288995,0.0010722562437877,0.0003777846286538
+today we're going to be reviewing it happened one night from 1934,0.02262963,0.0,0.0,0.0,False,0.0005861080717295,0.0004704408347606,0.0004994210321456
+one of the great romantic comedies of all time,0.038224805,0.0,0.0,0.0,False,0.0007316002156585,0.0004030832787975,0.0025365948677062
+"well, that's what a lot of people say anyway, and it is directed by frank capra it stars a clark gable and claudette colbert",0.027409043,0.0,0.0,0.0,False,0.0010052213910967,0.0082592032849788,0.0010045048547908
+"i believe that's how you pronounce her name and it's about a spoilt highness who runs away from her father after what she feels his mistreatment, and on her bus journey to new york, she meets clock gabled character who is a newspaper man who his job is a",0.13655609,0.755136251449585,0.0,0.0,False,0.0012799722608178,0.0041976072825491,0.058903831988573
+"you know, it's on the line",0.022351967,0.0,0.0,0.0,False,0.0013296219985932,0.0004960115766152,0.0010946362745016
+at the moment,0.018742332,0.785845935344696,0.0,0.0,False,0.0006914891419,0.0003292920591775,0.0007711513899266
+"he looks like he's going to lose his job and he really needs a story that's worthy of him keeping his job, and and this woman is incredibly famous, and if he can get her story to his newspaper, he might be able to get to keep his job, and during this period their romance and saw characters sort of develop along the way, and several situations and shenanigans in the shoe",0.058130227,0.9678494930267334,0.0,0.034,False,0.0313845016062259,0.0021626027300953,0.0023559110704809
+so what did i think of it happened one night,0.034104515,0.9985804557800293,0.0,0.0,False,0.0006693941541016,0.0005351966246962,0.0005797863123007
+"well, that's what i'm here to talk to you about today",0.032559406,0.0,0.0,0.0,False,0.0006093200645409,0.0006365933222696,0.0020120122935622
+the main things that i really enjoyed in the film,0.04268845,0.0,0.0,0.0,False,0.0005400527734309,0.0003636781475506,0.0002385619591223
+"the first thing has to be clark gable, because i believe that this is",0.046122026,0.0,0.0,0.0,False,0.0006554882857017,0.0021126763895154,0.0038659940473735
+i haven't really seen kyle gurgling much,0.13296685,0.9985462427139282,0.0,0.0,False,0.0319880321621894,0.0063155828975141,0.0012406624155119
+"i haven't even seen gone with the wind, not because i don't want to see",0.044405237,0.9987494945526123,0.0,0.08,False,0.0009640877251513,0.0015652887523174,0.0007238528341986
+gone with the wind is because i literally don't have time in my life to sit down,0.05413456,0.0,0.1555555555555555,0.0,False,0.002956517972052,0.0025920392945408,0.0063732471317052
+watch a movie for four hours,0.029640866,0.0,0.0,0.0,False,0.0044495095498859,0.0005391169688664,0.0002924429136328
+"um, it's it's too long, but it literally is too long",0.052935857,0.9855753183364868,0.05,0.0,False,0.0009430974605493,0.0004976489581167,0.0019691498018801
+though i don't have time but wait if i ever get the time,0.0334178,0.0,0.0,0.0,False,0.0008223769254982,0.031085891649127,0.0024161969777196
+"i might might watch gone with the wind, but that might not ever happen",0.05493369,0.9504668116569519,0.0,0.0,False,0.0024036108516156,0.0013045911910012,0.0005554648232646
+and this is the first one were ever seen,0.04543531,0.0,0.0,0.0,False,0.0014072813792154,0.0003675862099044,0.0003432391094975
+clark,0.021102477,0.0,0.0,0.0,False,0.0015930557856336,0.0087060499936342,0.0022982945665717
+they blew so and i think he was fantastic in this movie,0.16035037,0.0,0.0,0.0,False,0.0008769492269493,0.0057534999214112,0.0060304291546344
+i think he was really charming,0.033761155,0.0,0.0,0.0,False,0.0005941468407399,0.0003378563269507,0.0031886643264442
+what are you entertaining? very funny,0.13146462,0.0,0.0,0.0,False,0.0008565198513679,0.0006123173516243,0.001452273572795
+quick,0.029640866,0.0,0.0,0.0,False,0.0027984443586319,0.0006146948435343,0.0013489203993231
+he had quite ego in this film and he was just really sharp and i really enjoyed him in this film,0.20009461,0.0,0.0,0.0,False,0.0006341127445921,0.0004517795750871,0.0011789706768468
+"there's a lot of great scenes with him and called at cole, but that just they bounce off each other really well, and she's very good in the film as well, but i think cloud gave already steals the show here",0.1621016,0.0,0.0,0.084,False,0.0006284643895924,0.0004271468205843,0.0005272210692055
+"i think he's very, very good, very, very charming, very, very entertaining",0.039254878,0.0,0.0,0.0,False,0.0006640551146119,0.0003200702485628,0.0015448330668732
+but one of the main reasons that these two actors work so well together is because of the script,0.028610796,0.0,0.0,0.0,False,0.0006471598171629,0.0004413881688378,0.0004712186346296
+"i think this is a very very sharp script, for the time is very, very fresh and it's very very funny",0.040628307,0.0,0.0,0.0,False,0.0005769446142949,0.000336363678798,0.0003518162120599
+it's not you know,0.034962907,0.9464852809906006,0.0,0.0,False,0.0018275915645062,0.0011274720309302,0.0013528552372008
+it's not an out and out comedy,0.038911518,0.9568763971328735,0.0,0.0,False,0.0032939999364316,0.0011869898298755,0.0005794473690912
+this isn't a laugh riot or anything,0.09494796,0.9991693496704102,0.0,0.27,False,0.0025868865195661,0.0009809382027015,0.0077062472701072
+this isn't like a marx brothers movie,0.060927194,0.9983541965484619,0.0,0.26,False,0.0027320450171828,0.001967730699107,0.0006228567799553
+this is,0.027237365,0.0,0.0,0.0,False,0.0025696041993796,0.0004171926702838,0.0007732412195764
+"this is a more of a light comedy, but it's still very entertaining and you definitely get a few chuckles out of the script",0.08367105,0.0,0.0,0.0,False,0.0007154328632168,0.0007325776969082,0.0014799498021602
+and i think it's maximized by the performances by goldberg and gable,0.0186035,0.0,0.0,0.0,False,0.0006152167334221,0.0004523443349171,0.0005151038640178
+"i think that they really bring this script up on upper level, but i think it's a very good script",0.038224805,0.0,0.0,0.0,False,0.0005599897704087,0.0004096988996025,0.0003123718197457
+my things very well written,0.027065687,0.0,0.0,0.0,False,0.0006015629624016,0.0003786756133195,0.0006749719614163
+capra does a great job directing this movie,0.0334178,0.0,0.0,0.0,False,0.0007644066936336,0.0005536291282624,0.001052155974321
+it's got his sort of nice sort of sweet sentimentality to it,0.036336336,0.0,0.0,0.0,False,0.0006945867789909,0.0003809718473348,0.0029490101151168
+"you can definitely see kat pratt in spielberg, if use the way they direct their kind of have every man film sort of sweet sentimental messages",0.06971766,0.0,0.0,0.0,False,0.0006689697620458,0.0013965412508696,0.0092933196574449
+and overall i really enjoy his direction in this film is still not my favorite capra film,0.08330294,0.0,0.0,0.118,False,0.0006894482648931,0.0006760437972843,0.0005155012477189
+that would be,0.024147147,0.0,0.0,0.0,False,0.0012539314338937,0.0004336434358265,0.000477871595649
+"it's wonderful life, which i should maybe be reviewing this christmas as a special video",0.043375164,0.0,0.0,0.0,False,0.0006633960292674,0.0012217601761221,0.0005828858120366
+"so look out for that, but yeah, i think capper is a very good director",0.022351967,0.0,0.0,0.0,False,0.0006758930976502,0.0007392769912257,0.0009376304224133
+i want to watch more of his films and this was i think one,0.079307266,0.0,0.0,0.0,False,0.0006772871711291,0.0005938151152804,0.0006661024526692
+"you know, i've watched two of his films now on both of them in a very good",0.057331093,0.0,0.0,0.0,False,0.0005849810549989,0.0004497527552302,0.0005168143543414
+"yeah, i thought there was specific scenes especially that i really liked in this film",0.025692256,0.0,0.0,0.0,False,0.0005579768912866,0.000392294517951,0.0003239960060454
+"that was a scene where clark gable talks to cole boots character about how he undresses, which is a very funny scene",0.080905534,0.0,0.0,0.0,False,0.0007437117164954,0.0066243922337889,0.0023313665296882
+"there's a very famous scene about hitchhiking how to hitchcock hitchhike, which is very, very entertaining, and there are many other scenes that are very good like comedy, very entertaining, very sweet and innocent",0.060927194,0.0,0.0,0.0,False,0.0090211443603038,0.0003574136353563,0.0008020385284908
+and this film is very innocent,0.08501353,0.0,0.0,0.0,False,0.0007061118376441,0.0004222208226565,0.0008701389888301
+"i mean, anyone could watch this",0.07251463,0.5832738876342773,0.3125,0.0,False,0.0007986991549842,0.0005657583824358,0.0004989670705981
+this,0.028439116,0.0,0.0,0.0,False,0.0022365439217537,0.0004711963993031,0.0005406324053183
+it's not going to offend anyone,0.050585672,0.0,0.0,0.0,False,0.002138155279681,0.0005030317115597,0.0005696887383237
+this is a really nice film,0.043375164,0.0,0.0,0.0,False,0.0007233308278955,0.0003964430943597,0.0005960060516372
+"anyone have any age young and old, could watch this film",0.14687516,0.0,0.0,0.0,False,0.0030530046205967,0.0018046887125819,0.0127010615542531
+"they enjoy it, and i think that comes sort of onto my negatives with the film",0.087430015,0.0,0.0,0.0,False,0.0006385846645571,0.0003614576999098,0.0005537494434975
+it isn't really specifically a negative,0.021796638,0.9882617592811584,0.0499999999999999,0.442,False,0.000762976356782,0.0003523393243085,0.0005464665591716
+is that it's a little dated this film and you'd expect a film from 1934 to be a little bit dated,0.08796701,0.9998737573623657,0.1875,0.0,False,0.000757138535846,0.0003946407232433,0.0011253495467826
+that's not really my main negative,0.03856816,0.6935233473777771,0.1916666666666666,0.442,False,0.0009378769900649,0.0003996311861556,0.0004980993689969
+it really is is that it's very predictable,0.036508016,0.9996907711029053,0.03,0.0,False,0.0007175594801083,0.0003546517982613,0.0011665462516248
+i mean you can,0.024318827,0.0,0.3125,0.0,False,0.0011999186826869,0.000835915794596,0.0008159353747032
+i'm just going to say it they are,0.028267438,0.0,0.0,0.0,False,0.0010613246122375,0.0006553957937285,0.0038909506984055
+"they end up getting married at the end, clark gable and cole, but they were lost",0.062925026,0.0,0.0,0.164,False,0.0012278803624212,0.010488417930901,0.0052613513544201
+you fall in love and they get married and you know that's you know,0.08850401,0.0,0.0,0.0,False,0.0326733067631721,0.0014209563378244,0.0146040134131908
+"standard, its standard",0.013813793,0.0,0.0,0.0,False,0.0007758089923299,0.0003966143412981,0.0004219304828438
+"what happens in romance films? they, you know, we will get a happy ending and it's fine, but i'm one of these cynical people, but kind of likes that sort of thing to be turned on its head every soft",0.1884524,0.9354231357574463,0.0,0.071,False,0.001256008981727,0.065684899687767,0.0999336838722229
+and i feel like the best romantic films do that,0.053335425,0.0,0.0,0.0,False,0.0006215195753611,0.0048730564303696,0.0025859393645077
+"the casablanca cause of this world, the vertigo's even though the vertigo isn't straight up a romance, it's as much your psychological thriller as it is a romance",0.12760067,0.7562346458435059,0.0,0.049,False,0.0008584313327446,0.0006542471819557,0.0070287813432514
+but i feel like the best romantic films try to do something different with the ending because it's so easy to just do a happily ever after and that's pretty much what this film does,0.05493369,0.0,0.0,0.0,False,0.0006960428436286,0.0004243765724822,0.000780917238444
+but you know it is,0.020269485,0.0,0.0,0.0,False,0.0010996755445376,0.000469466933282,0.0009751636534929
+it doesn't detract from the enjoyment of the rest of the film,0.03994159,0.0,0.0,0.0,False,0.0009925725171342,0.0003349146281834,0.000468795740744
+"it would have just been nice to see something different, so overall, i really enjoyed it happened",0.13610743,0.0,0.0,0.0,False,0.0005211926763877,0.0003360753762535,0.0002501710259821
+one might thought it was really sweet and funny,0.048525527,0.0,0.0,0.0,False,0.0005991585203446,0.0003284849808551,0.0015672647859901
+"i thought the script was fantastic and i thought the performances by product cobalt, and especially clark gable in this film",0.015132698,0.0,0.0,0.0,False,0.0005511986673809,0.0004512026498559,0.0005318623734638
+"we're very, very good",0.03770977,0.0,0.0,0.0,False,0.0005627761711366,0.0003333080094307,0.0012226070975884
+"there's only a few negatives being that it's quite predictable ending and there is a little bit dated, but that's what you would expect from a form of this age when overall i really enjoyed",0.05493369,0.9291219115257263,0.0145833333333333,0.0,False,0.0005916511290706,0.0003784343716688,0.000411187269492
+it's wonderful,0.023632111,0.0,0.0,0.0,False,0.0006019282736815,0.0002990704088006,0.0008324497612193
+it's a wonderful life,0.019436494,0.0,0.0,0.0,False,0.0007363144541159,0.0003888076462317,0.0018716207705438
+"no, it happened one night",0.021518974,0.998921275138855,0.0,0.0,False,0.0007085179095156,0.000539752014447,0.0009718459914438
+i really enjoyed it and i'm going to give it 8 point 5 out of 10,0.040971663,0.0,0.0,0.0,False,0.0006397844408638,0.0004071711737196,0.0003180238127242
+"and yeah, it would have been a bit higher if maybe the ending had been slightly less conventional, but i still really enjoyed it and i definitely, you know, tell you guys if you haven't seen it to check it out",0.06931809,0.0,0.0,0.0,False,0.0005541647551581,0.0004559152584988,0.00034600411891
+it probably won't be a blu-ray purchase or anything,0.029469188,0.9998446702957153,0.0,0.0,False,0.0010294311214238,0.0004131333262193,0.0004824124334845
+"i'm probably not going to go run back to see it anytime soon, but i'm happy that i saw it and i'm happy that i enjoyed it",0.03736641,0.0,0.0,0.0,False,0.000630596128758,0.0006043703178875,0.0003320653340779
+"and if you did enjoy this video, you know, like comment",0.1024659,0.7417135238647461,0.0,0.0,False,0.0008506933227181,0.0004941319930367,0.0005939866532571
+drop your comments down the section below,0.06652113,0.9856648445129395,0.1555555555555555,0.259,False,0.0029594472143799,0.0006149922264739,0.0015217910986393
+subscribe to my channel,0.015549194,0.9973228573799133,0.0,0.0,False,0.010033618658781,0.0004144277190789,0.0006824540905654
+"if you haven't already, and if you did enjoy this video, hopefully i'll see you next time",0.11021292,0.0,0.0,0.0,False,0.000701640965417,0.0045278943143785,0.0005857609794475
+"goodbye, you",0.046465382,0.8934208750724792,0.0,0.0,False,0.0088239153847098,0.0005468430463224,0.0033670365810394

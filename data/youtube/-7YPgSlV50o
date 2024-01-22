@@ -1,0 +1,325 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"what's up, everyone? welcome back to another episode of sabrina talks",0.040971663,0.0,0.0,0.0,False,0.0007163832196965,0.0004978150245733,0.0008390104630962
+i hope you're doing well,0.0186035,0.0,0.0,0.0,False,0.0006728384178131,0.0005890692700631,0.0003947357181459
+"i want to say, i have pride month to all my lgbtq people, my friends, my loved ones, all of y'all i hope it has been a good pride",0.023460433,0.0,0.0,0.0,False,0.0019711300265043,0.0315160267055034,0.0060598137788474
+"i know the world, another worlds car going crazy, but i hope you find some time to find some joy and some love for yourself and for the community this month",0.14373457,0.0,0.0,0.039,False,0.0011038333177566,0.0011604345636442,0.0017760321497917
+"now i originally really wanted to start kick off this month on the second, but you know the world was the world had other plans, so i took a week off because we",0.27690583,0.0,0.0,0.0,False,0.0010577735956758,0.0005665794597007,0.0004250452038832
+we wasn't doing that,0.020408317,0.9999089241027832,0.0,0.0,False,0.0008462172700092,0.0003881806333083,0.0004402844351716
+so we're back,0.0253489,0.0,0.0,0.0,False,0.0037267138250172,0.0061642113141715,0.0006972947739996
+we're a little more sane and we're excited to talk about moonlight,0.08447654,0.0,0.0,0.0,False,0.0006553124403581,0.0007581431418657,0.0006479247822426
+that moonlight is a film directed by barry jenkins,0.07451247,0.0,0.0,0.0,False,0.0021379499230533,0.0024314599577337,0.0015458062989637
+they came out in 2016,0.032559406,0.5646546483039856,0.0,0.0,False,0.000651107460726,0.0003980612673331,0.0002354786265641
+"it's based off of a play by tarell alvin mccraney titled in moonlight, black boys look blue all night is a story about a young black man named shyrone and he's growing up in the 1980s",0.2818683,0.0,0.0583333333333333,0.0,False,0.0089621692895889,0.0490250810980796,0.0467274114489555
+"in my hearing, you see three sections of his life where he is a child, where he's a teenager, and when he's an adult",0.024833864,0.0,0.0,0.0,False,0.0011557163670659,0.0013628198066726,0.0008029994205571
+"as with most coming-of-age movies, he's kind of figure out who he is, where he fits into the world, and where he kind of fits in with his environment",0.03616466,0.0,0.0,0.0,False,0.00109989347402,0.0010741292499005,0.0004027974791824
+you might have heard of moonlight back in like 2017 during oscar season because they had a whole fiasco at the oscars where the announcer said the wrong title for the award,0.14956708,0.9922433495521545,0.0999999999999999,0.158,False,0.0007447674288414,0.0006850886857137,0.0007661255658604
+"originally, they said la-la-land and the academy award for best picture, la-la-land it was like, oh, just kidding",0.06971766,0.9773962497711182,0.0,0.0,False,0.000702139630448,0.0009538052836433,0.0007928937557153
+it's actually moonlight,0.04543531,0.0,0.0,0.0,False,0.0009735762723721,0.0013580285012722,0.0072740148752927
+so they ended up actually winning the award,0.038224805,0.0,0.0,0.0,False,0.0010121775558218,0.0003624364326242,0.0003586810198612
+there's a mistake,0.044405237,0.9990035891532898,0.0,0.545,False,0.0009921442251652,0.0006099472520872,0.0012005348689854
+"moonlight, you guys won best picture",0.05653196,0.0,0.0,0.0,False,0.0007597741205245,0.0019618668593466,0.0025774769019335
+this is not a joke,0.035134587,0.9776647686958313,0.0,0.321,False,0.0029096594080328,0.0004700963327195,0.0012122534681111
+moonlight is won best picture,0.040628307,0.0,0.0,0.0,False,0.0007488413830287,0.0011978796683251,0.0008069463656283
+"the oscars fiasco aside, let's talk about my thoughts on this movie",0.13879937,0.0,0.0,0.231,False,0.0006849610945209,0.0010834978893399,0.0009715085616335
+let me give you a little background,0.20742953,0.5627328753471375,0.1875,0.0,False,0.0007413190323859,0.0020041714888066,0.0011197919957339
+"this movie came out in 2016, but at the time i thought, oh, this looks interesting, but in 2016, i wasn't really in two movies like i am",0.040628307,0.9986066222190857,0.0,0.0,False,0.0005971938953734,0.0005269314278848,0.0003918207657989
+"nowadays i was just like especially oscar movies, cuz i was like",0.032387726,0.0,0.0,0.0,False,0.0009196194005198,0.003221963532269,0.0022230769973248
+"hmm, this is probably gonna be some like bougie, pretentious, hoity-toity, kind of movie that",0.26132804,0.9972680807113647,0.0,0.0,False,0.0477951169013977,0.0219513457268476,0.0062798839062452
+"i'm just gonna be sitting here like what was that supposed to mean to me? so i kind of just brushed it off for a little bit, and then the word season came around and it was getting some acclaim, but i was like, oh, i need to go watch that and then i think i just you know, you'd be having the list of movies that you're like",0.07011723,0.7430556416511536,0.0,0.0,False,0.0008508619503118,0.0129409590736031,0.0021821889095008
+"oh, i need to go watch this and then at some point your list gets too long",0.11665283,0.9945968389511108,0.05,0.0,False,0.0570900402963161,0.0031812617089599,0.0012189658591523
+you starts again,0.040284947,0.0,0.0,0.0,False,0.0129182655364274,0.0012940191663801,0.0057818391360342
+some,0.019714156,0.0,0.0,0.0,False,0.0012517530703917,0.0004885251400992,0.0005381004884839
+"that's where i wasn't moonlight, so i attempted to watch the one year, my best friend",0.038053125,0.0,0.0,0.0,False,0.000686168204993,0.0008382241940125,0.0006264270050451
+we both,0.018325835,0.0,0.0,0.0,False,0.001015329034999,0.0003517164732329,0.0005145336617715
+i don't know something happened with the internet,0.02517722,0.9995561242103577,0.0,0.0,False,0.000719234754797,0.0006451153894886,0.0006437991396524
+it was acting funky,0.26132804,0.0,0.0,0.318,False,0.0010318107670173,0.0008389840950258,0.0037521074991673
+"we're never watching it, so come bleep me, i'm finally like",0.21715863,0.8842548131942749,0.0,0.0,False,0.0049499650485813,0.0304816979914903,0.1202447414398193
+"oh, i want to finally watch something like",0.05133759,0.0,0.0,0.0,False,0.0014050751924514,0.0018600454786792,0.0012535367859527
+"oh, oh, i can watch it and then review for pride month because i knew it was an lgbtq story, so i was like this would be perfect, so i watched it fell in love",0.09709594,0.0,0.0,0.0,False,0.0006571555859409,0.0113511085510253,0.0028416055720299
+i love this movie,0.032559406,0.0,0.0,0.0,False,0.0008067329763434,0.0004787611542269,0.0002062332205241
+"it's so good like there's like movies that are good there, cuz you know, they entertain you and they kind of make you laugh and they're just like",0.08050597,0.0,0.0,0.0,False,0.0009787122253328,0.0009476768318563,0.0022145409602671
+"oh, well, that was",0.026894007,0.5356022119522095,0.0,0.0,False,0.0014172365190461,0.0004304070898797,0.0015639032935723
+"you know, a fun old time, but this movie is just beautiful like it is a work of art",0.043375164,0.0,0.0,0.0,False,0.0010510159190744,0.0004404615901876,0.0022422256879508
+to me,,0.0,0.0,0.0,False,0.0010418572928756,0.0006258896319195,0.0006254867766983
+it's it's like,0.020685982,0.0,0.0,0.0,False,0.0016094613820314,0.0004104110994376,0.0209990870207548
+it's the epitome of like oh film,0.027752401,0.0,0.0,0.0,False,0.0029116177465766,0.0006206257385201,0.0032202720176428
+"you know, there's like movies and there's films",0.034791227,0.0,0.0,0.0,False,0.0015267004491761,0.0006078522419556,0.0005643949261866
+this to me is like oh film,0.052935857,0.9661431908607483,0.0,0.0,False,0.000931650167331,0.0005126833566464,0.0044829761609435
+one of the things i love is that it's such a subtle movie,0.068918526,0.0,0.0,0.0,False,0.0006672191084362,0.0005182251916266,0.0021352160256356
+like the main themes of the movie is not hitting you over the head,0.19936113,0.0,0.0,0.0,False,0.0152242314070463,0.0142615344375371,0.2358425408601761
+you're not getting smacked by you every five seconds,0.28923595,0.0,0.0,0.0,False,0.0319239348173141,0.1874701529741287,0.1403662115335464
+you're not sitting here like,0.036336336,0.8389732241630554,0.0,0.345,False,0.1363372355699539,0.0065944055095314,0.0491109415888786
+oh my god,0.03444787,0.982804536819458,0.0,0.0,False,0.0216829255223274,0.0014851621817797,0.0017896386561915
+"okay, i get it, director",0.03599298,0.0,0.0,0.0,False,0.000767235760577,0.0008827555575408,0.0008809331338852
+"i know what you're trying to say, like the story encompasses a boy's life, so it feels realistic",0.026207292,0.0,0.0,0.0,False,0.0006221433868631,0.0010128783760592,0.0007167403819039
+everything about it is not,0.02655065,0.9987972974777222,0.0,0.0,False,0.0007970196311362,0.000674734590575,0.0006031946395523
+you know,0.043718524,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+"usually in some movies that want to hit you with a message, they like message",0.16151784,0.0,0.25,0.0,False,0.0082104774191975,0.1771094799041748,0.1052782461047172
+"take this message and you're like all right, you know, i got you",0.05493369,0.0,0.0,0.0,False,0.001829023938626,0.0017055144999176,0.0043936627916991
+i see you,0.034962907,0.0,0.0,0.0,False,0.0012172723654657,0.0010051275603473,0.0004905227106064
+but this one it's like and it's just it's so,0.048868883,0.0,0.0,0.0,False,0.0012569902464747,0.0003607944527175,0.0122272325679659
+it's just so subtle that i love it so much,0.12309273,0.0,0.0,0.0,False,0.0006832959479652,0.0003967850643675,0.0093341404572129
+there's a bunch of topics that i just kind of illustrated in the background or in like a subsection of the fire,0.07091636,0.9177723526954651,0.0,0.096,False,0.0007141443784348,0.0005437271320261,0.000513921433594
+"i guess you want to say that you don't fully paying attention until you may be watching a couple times, or you're like hmm, i would if they were trying to say this about that or if they were trying to give an example of something like this",0.08290337,0.9980362057685852,0.0,0.0,False,0.0009855105308815,0.001747585250996,0.0010476999450474
+so like two topics,0.017631676,0.9731594324111938,0.0,0.0,False,0.0008153139497153,0.0004008424002677,0.0003598566981963
+at least i saw in the movie is the showing of like the school to prison pipeline and masculine in black culture,0.30187345,0.7316842675209045,0.1222222222222222,0.128,False,0.0072508165612816,0.1436475068330764,0.223313495516777
+the masculine you want is a little more shown,0.2406723,0.0,0.0,0.0,False,0.0310434289276599,0.0069844089448452,0.0276904571801424
+"but the school to prison pipeline, drugs in neighborhoods living up in a poor neighborhood, all of those kind of combined together and it's just background or like little pieces of the plot, but you're so focused on the characters that you're like",0.118584804,0.0,0.0,0.149,False,0.0012837804388254,0.0042840526439249,0.0017709030071273
+"oh, wait a minute, like they're trying to say they think they just proved that, or they're trying to say that or like, oh, i love it now",0.049212243,0.0,0.0,0.0,False,0.0006643267115578,0.0005894469795748,0.0014160756254568
+"speaking of the movie focusing on its characters, this will be such an intimate movie like you're really up close and personal",0.038224805,0.0,0.0,0.0,False,0.0006049762596376,0.0009952242253348,0.006976687349379
+for a lot of the shots,0.15001574,0.0,0.0,0.0,False,0.0006284365081228,0.0176901444792747,0.0280455611646175
+you're really only focusing on so much characters like,0.04818217,0.9955652356147766,0.0,0.0,False,0.0008906743023544,0.0011420142836868,0.0020170481875538
+"there's not really like 6,000 characters you need to keep track of",0.044405237,0.9998138546943665,0.1,0.175,False,0.0007900022319518,0.0006769422325305,0.000832877063658
+"and with this person's plotline is, it's really a story about shai rome, so you only really see things through sharon's perspectives",0.104076885,0.0,0.0,0.0,False,0.0005970280035398,0.0004335794073995,0.0004807763325516
+"sometimes you'll get a little glimpse of somebody else's perspective, but for the most part you only see through",0.04165838,0.9784597158432007,0.0,0.0,False,0.0006070767412893,0.0003771453921217,0.0004296349943615
+"shiro is not much dialogue in here, so the actors really got a focus on facial expressions and body language, which i'll talk about the actors later, but oh, they just do it so well",0.077709,0.0,0.0,0.0,False,0.0006227202829904,0.0005059487302787,0.0006881324225105
+they tell so much things,0.06771983,0.0,0.0,0.0,False,0.0012210173299536,0.0003833035007119,0.0012855557724833
+this movie does a great job of showing and not telling,0.07571117,0.0,0.0,0.0,False,0.0010077855549752,0.0009732553153298,0.0013163232943043
+you know,0.03994159,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+"usually if you hear like a story or you watch a movie, the critique is, don't tell your audience everything",0.033246122,0.9978137016296387,0.25,0.0,False,0.0013679607072845,0.0005284365615807,0.000429049541708
+"make sure you can show it by somebody's actions, their facial expressions",0.05373499,0.0,0.0,0.0,False,0.0008163066813722,0.0006170130218379,0.0024520107544958
+"you know things going on in the background, so that way you're not making your audience feel stupid by telling them everything that's going on",0.43100753,0.0,0.7999999999999999,0.124,True,0.2305012941360473,0.981374442577362,0.956681787967682
+"another thing i really love about this movie is you get a slight sense of what it's like growing up in the hood, because like i said, this takes place in miami",0.10515087,0.0,0.0,0.0,False,0.0006276721251197,0.0006566981901414,0.0013480129418894
+"it's a poor neighborhood, so you see what it's like when there's in your neighborhood, you can see what it's like when you know your parents are working in",0.11536485,0.0,0.4,0.091,False,0.0016162613173946,0.0013256826205179,0.0007344997138716
+some of them,0.022213135,0.0,0.0,0.0,False,0.0014590097125619,0.0004260577552486,0.0007514617173001
+"just don't pay attention to you, and you kind of see what it's like for the kids who are going you know, going through this and and how they interact with each other",0.06851897,0.9981398582458496,0.0,0.0,False,0.001898767077364,0.0007577708456665,0.0008603684836998
+"also, since you're getting kind of a glimpse of what it's like to live in a poor neighborhood",0.11472086,0.0,0.0,0.144,False,0.0045176455751061,0.0010142876999452,0.0014869233127683
+"they don't focus and rely on stereotypes, which i love because it's it's refreshing where it's like",0.060527626,0.0,0.0,0.0,False,0.0008304912480525,0.0005272087291814,0.0011673254193738
+"it's a story about a young black man growing up in the hood and there's no, you know, real obvious stereotypes",0.36944604,0.9220352172851562,0.0222222222222222,0.0,False,0.0357405431568622,0.0979443192481994,0.1166455447673797
+"the topics that this covers are similar to kind of the stereotypes, but they do it in a way where it's more realistic and less you know, exaggerated",0.05773066,0.0,0.0,0.043,False,0.0009440666181035,0.0004628848109859,0.0026360882911831
+"i told you there's drugs that are kind of mentioned in this movie, but the way they talk about drugs is never like glamorized",0.16413476,0.0,0.0,0.214,False,0.0019516355823725,0.0034202064853161,0.0082577392458915
+this doesn't seem like,0.027237365,0.9942619800567627,0.0,0.413,False,0.0009167961543425,0.0003471627132967,0.0004447223618626
+"oh, i want to be a drug dealer one day",0.2835225,0.0,0.0,0.0,False,0.0290136318653821,0.2438534349203109,0.2555516064167022
+like no glamorizing the subject,0.032731086,0.0,0.1666666666666666,0.298,False,0.0091900676488876,0.0015940919984132,0.0008912163320928
+"no one's extra aggressive for no reason like there's lots of good cases of it just being you know, like, oh, this is just there",0.089041,0.0,0.0,0.249,False,0.0010237839305773,0.0005431597237475,0.0012324964627623
+"this would really do a great job of depicting do different ways that closeted a gay man might act in a poorer neighborhood, especially a poor black neighborhood",0.529921,0.0,0.0,0.167,True,0.148698404431343,0.5183196663856506,0.6191129684448242
+"i'll give you a slight spoiler, but there's a character named kevin and he's of there, closeted gay mian in the movie",0.37083253,0.9543032646179199,0.0,0.0,True,0.158727765083313,0.4310807883739471,0.5542126297950745
+"now, both of them act in certain ways, definitely based on personality and definitely based on the fact that they are both closeted",0.13969667,0.0,0.0,0.0,False,0.0268912632018327,0.0195439122617244,0.0109501900151371
+"both of them are you know, closeted gay men, but both are acting in a different way to make sure they're still",0.44820568,0.7066726684570312,0.0,0.0,True,0.6905592083930969,0.5844680666923523,0.4506378769874573
+you know,0.03994159,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+"being closeted, sharon's just consoling he",0.11472086,0.0,0.0,0.0,False,0.0072391382418572,0.0218154564499855,0.0867291986942291
+"if you say he's gay, he's like, just doesn't make any comment on it, or he'll just be like no, and you know, don't try to prove nothing, kevin",0.3897707,0.9998859167098999,0.0,0.0,True,0.6183031797409058,0.2448116987943649,0.3868964612483978
+i love the hand,0.078108564,0.0,0.0,0.0,False,0.0006749671301804,0.0006175902090035,0.000461447489215
+he's trying to prove that he's an i gave and trying to beat you to even having the assumption that he could be gay,0.49835235,0.993619978427887,0.0,0.0,True,0.8902737498283386,0.5253831744194031,0.7532193064689636
+"oh, they're very valid ways that someone can can act in those environments, so for them to showcase both of them is so great to me",0.06332459,0.0,0.0,0.0,False,0.0005807699635624,0.0003453983808867,0.000873056880664
+me,0.019852988,0.0,0.0,0.0,False,0.0023152583744376,0.0018143325578421,0.0006911504897288
+usually when you see coming of the lgbt community that's black,0.46292964,0.8796471357345581,0.2083333333333333,0.0,False,0.1861279308795929,0.7159106135368347,0.3551830649375915
+usually they kind of fall into the extremes,0.08420804,0.9919067621231079,0.0,0.0,False,0.0007219813414849,0.0004616421647369,0.001936791348271
+at least what usually ends up happening in entertainment,0.03049926,0.0,0.275,0.0,False,0.0006555001018568,0.0004536544729489,0.0003078663139604
+so usually they're either very very feminine or very very masculine,0.10763696,0.0,0.0,0.0,False,0.0022382193710654,0.0069027137942612,0.0098855290561914
+both are very,0.034104515,0.0,0.0,0.0,False,0.0014677563449367,0.0003463957400526,0.0018613543361425
+you know valid ways that people live,0.025520578,0.0,0.0,0.0,False,0.0036078963894397,0.0003976025909651,0.0011173519305884
+but the media always tends to do the extremes,0.07571117,0.7977626323699951,0.0,0.0,False,0.000586439971812,0.0005158195272088,0.0016277792165055
+"now, kevin, and shyrone to me for more in the middle, cash our own",0.044405237,0.5130590796470642,0.0,0.0,False,0.0120116909965872,0.0007911639404483,0.0028092633001506
+these falls more towards the feminine side,0.15976663,0.9934322834014893,0.0,0.0,False,0.031598012894392,0.0074701374396681,0.0183362793177366
+because of the stereotypes that people associate with being feminine,0.1024659,0.9939555525779724,0.0,0.0,False,0.0052692936733365,0.0162762328982353,0.0148455128073692
+so you kind of fits in its light like a little little nudge,0.29261994,0.0,0.0,0.0,False,0.032920055091381,0.0219414737075567,0.0224561356008052
+"but not, you know",0.019575324,0.9594255685806274,0.0,0.0,False,0.0010577142238616,0.0004772265965584,0.0006985152140259
+"not obviously to the extreme, kevin's masculine in stereotypical terms of being masculine, but you know, not all the way at the end of the spectrum because he's not looking for a fight",0.11021292,0.6965786218643188,0.085,0.096,False,0.0012680835789069,0.0034820938017219,0.0036089830100536
+he's not beating up somebody every five seconds,0.2712817,0.0,0.0,0.0,False,0.0277427826076746,0.009263802319765,0.1764779239892959
+"he's not only ever talking about girls if it's more, i want to say, like more in the middle, but you know, still still a little masculine which you know",0.1731117,0.0,0.0,0.0,False,0.0065544736571609,0.008521070703864,0.0125576090067625
+obviously it's especially lost,0.11536485,0.9998310804367065,0.0,0.464,False,0.0010622612899169,0.0012054764665663,0.0009917023126035
+all members of the spectrum,0.043375164,0.0,0.0,0.0,False,0.0009089801460504,0.0003770959447138,0.0003443800960667
+"are it completely valued by for the media for our film to show to people who are kind of you know, in the middle on lunch, maybe on one side or another is so great because it allows young black gay men, and you know anybody else to be like okay",0.40326482,0.0,0.0,0.0,True,0.0680257454514503,0.1418910473585128,0.2976270318031311
+there's more than just obviously the extremes,0.048868883,0.0,0.0,0.0,False,0.0006054357509128,0.0003493311523925,0.0007114554173313
+there's people in the middle,0.029469188,0.9466819167137146,0.0,0.0,False,0.0027659998741,0.0010798635194078,0.0005842285463586
+"there's people who, maybe not on one side, listening spectrums or spectrums, because people can fly all over",0.046465382,0.9774928689002991,0.0,0.0,False,0.000813947757706,0.0009437082335352,0.0008077860693447
+they want to me,0.08420804,0.0,0.0,0.0,False,0.0730637833476066,0.0082506937906146,0.0021531516686081
+"it's so important that the media showcases both of them, or just kind of chilling",0.06492286,0.0,0.0,0.084,False,0.00057351635769,0.0004071471339557,0.0056948992423713
+"now, let's talk about the filmmaking of this movie disclaimer",0.050585672,0.7478065490722656,0.0,0.0,False,0.0006611830904148,0.0004996638745069,0.0006250222795642
+i am not a film critic,0.07011723,0.0,0.0,0.0,False,0.0015537744620814,0.0013648167951032,0.0011969802435487
+"i really, just recently just got into kind of focusing on a film, but the parts of it some, rather than just looking at the movie as a whole, i really just kind of started looking at what is the soundtrack china, saying? what is the lighting trying to say, and what are they trying to say by zooming in or the wide shot saying in the plot and all those kind of thing",0.05093802,0.9944363832473755,0.0,0.0,False,0.0005672800471074,0.000371425616322,0.000313090684358
+"i just only just started, so pick it as someone who's just kind of getting more into movies because i used to just be a casual movie watcher now i'm really kind of focusing on",0.035477944,0.0,0.0,0.0,False,0.0005828324938192,0.0005985732423141,0.0004459468473214
+"you know what's going on in the movie moon lights, filming with beijing's directing, and everybody else of part of the film crew, who you know had some input in it",0.039254878,0.8186852931976318,0.0,0.0,False,0.0005629346705973,0.0004560748056974,0.0005043061682954
+i think they just did such a good job now,0.031185975,0.0,0.0,0.0,False,0.0007405504584312,0.0004074154421687,0.0016814970877021
+"like i said, it's just my opinion, but my opinion is backed up by critics because if you're gonna write in tomatoes, more lighting's definitely saying that, like a ninety-eight ninety-nine percent, which is obviously really good",0.051737156,0.0,0.0,0.058,False,0.0006810172344557,0.0004568856675177,0.0008686234359629
+"and then, if you look at the oscars from 2016, you can see that they won best picture, which is one of the most prestigious awards you can get during the award seasons",0.022773718,0.0,0.0,0.0,False,0.0005606134654954,0.0003779492690227,0.0003862903977278
+and at the oscars there's a won an oscar for best screenplay adaption and then i believe marshall,0.038911518,0.0,0.0,0.0,False,0.0006246917182579,0.0007696754182688,0.0004370568203739
+i won an oscar for best supporting actor,0.039254878,0.0,0.0,0.0,False,0.0010354142868891,0.0011709916871041,0.0008605602197349
+"i think, regardless, pretty sure, they also got a golden globe like i read, like the talk during an awards season, so i mean, i'm saying it's good, but you also have prestigious, you know, boozy filmmakers who are also agreeing with my opinion, even though they won there two or three oscars",0.112788886,0.9840962886810303,0.0,0.0,False,0.0005947052268311,0.0004735463880933,0.0036186687648296
+i still think barry jenkins probably should have got like a best director oscar because he did such a fantastic job,0.024662184,0.0,0.0,0.0,False,0.0008612308884039,0.0007309542270377,0.0033361997921019
+"i mean, like in the movie, i feel like each scene has a purpose, which sounds stupid because you know it's a movie",0.46128514,0.9879201650619507,0.5562499999999999,0.12,True,0.1296278685331344,0.97599858045578,0.7354526519775391
+"all the scenes should have a purpose in the end, but nowadays most movies be having scenes for who knows what reason, just to have the scene",0.03049926,0.9175684452056885,0.0,0.0,False,0.0006374624790623,0.0004472486907616,0.0003117815358564
+if you think about a movie in your life,0.070516795,0.0,0.0,0.0,False,0.0012130285613238,0.0033142082393169,0.0061985626816749
+"well, they probably could have cut out this scene",0.058929358,0.9886566400527954,0.0,0.188,False,0.0024774994235485,0.0049445428885519,0.0008922112756408
+there's no scene in this movie that they could cut out,0.09870692,0.9999806880950928,0.0,0.323,False,0.0009005835745483,0.0012333673657849,0.000551568402443
+that's how purposeful each scene if this movie is because you take one part out and you're gonna be slightly lost,0.15276173,0.9995007514953613,0.1666666666666666,0.091,False,0.1885820478200912,0.0023351137060672,0.0034039111342281
+like and i just think i just think that's so impressive,0.036851373,0.0,0.0,0.0,False,0.0005998510750941,0.0003402742440812,0.0014659236185252
+"like i said, i'm not a film critic, but so that might be the basis of all really good films",0.057331093,0.0,0.0,0.0,False,0.0006733483751304,0.0005061366246081,0.0002821548259817
+"but to me it's just so impressive that each scene is so pivotal, and so you know, impactful for the the message of the movie",0.06771983,0.0,0.0,0.0,False,0.0005655119894072,0.0003567138046491,0.000494766398333
+"as i said previously, this movie doesn't beat you over its head with the message of the movie and the theme",0.0717155,0.0,0.1666666666666666,0.0,False,0.0017030101735144,0.0062876939773559,0.0351546481251716
+"however, they do have some themes that you can pick up on",0.039254878,0.0,0.0,0.0,False,0.0005666541983373,0.0003830183995887,0.0003765965811908
+let's reoccurring in the movie,0.03994159,0.0,0.0,0.0,False,0.0006419083802029,0.0008113938383758,0.0004717156698461
+"like i said, it's still not beating you over the head, but you notice them if you paying attention",0.22986074,0.0,0.0,0.0,False,0.1405046582221985,0.0565054230391979,0.1329395323991775
+so one of the things is the color blue,0.021102477,0.7142587900161743,0.0,0.0,False,0.0006664364482276,0.0006456311093643,0.0005466460133902
+the color blue is mentioned and shown many a times in this movie,0.023117077,0.0,0.0,0.0,False,0.0006057104328647,0.00051239435561,0.0005363259697332
+"as i told you, the screenplay that the movie this is based off of is called in like black boys love blue, so obviously they were gonna incorporate blue in there, but they did such a great job of just little hints of blue lights",0.2286382,0.0,0.0,0.0,False,0.0009848638437688,0.0357326492667198,0.0197252593934535
+"sometimes a character would be wearing the color blue, but you don't even notice, cuz, you just like well, it's a shirt",0.118584804,0.0,0.0,0.0,False,0.0009685216355137,0.0019323979504406,0.0179981105029582
+the walls will be blue,0.039598234,0.8936266899108887,0.0,0.0,False,0.00820336304605,0.0008248934755101,0.0046093007549643
+"you know something, that the background is blue",0.04268845,0.5744727253913879,0.0,0.0,False,0.0007084561511874,0.0007832629489712,0.0023942682892084
+all of these things that you don't fully,0.035134587,0.9997430443763733,0.0,0.0,False,0.0025043385103344,0.0069918073713779,0.0017072074115276
+you're just like,0.036508016,0.0,0.0,0.0,False,0.3427278995513916,0.0023624203167855,0.0306744817644357
+"oh, well, you know, it's just the color the way they implement it",0.065721996,0.7740800380706787,0.0,0.0,False,0.0006876692641526,0.0008196149719879,0.0012131262337788
+i was always trying to tell you something,0.031014297,0.0,0.0,0.0,False,0.0007268119370564,0.0006442038575187,0.0025807027705013
+the same can be said for water,0.019158829,0.0,0.0,0.0,False,0.000764908036217,0.0004335269040893,0.0003761358966585
+water is also mentioned and shown in the movie,0.025005542,0.782127320766449,0.0,0.0,False,0.0006173827569,0.0003761210246011,0.0006238723872229
+"i mean, first of all, they're living in miami, so you're gonna see the water at the beach because it's miami",0.03221605,0.0,0.03125,0.0,False,0.0006672518211416,0.0010005425428971,0.0016806145431473
+so there's the beach scenes that's kind of recurring in the movie and there's other little things that just kind of deal with water that always mean something,0.04165838,0.9053239822387695,0.0,0.0,False,0.0006262980750761,0.0003613379667513,0.0003747834416572
+"i won't obviously go into full detail with all the mentions of water and the color blue, because i'm not trying to spoil the whole movie for you",0.12695669,0.979176938533783,0.0,0.0,False,0.0006026903865858,0.0010916236788034,0.0006450959481298
+"but if you give it a watch, pay attention to some of those things and you know actually self",0.06532243,0.0,0.0,0.082,False,0.0013357258867472,0.0009046475752256,0.0011378179769963
+what is it trying to say? what is it trying to invoke out of you? why do you think they put it there? because i think it's fun to try to see what you interpret out of it,0.06771983,0.0,0.0,0.0,False,0.0010521929943934,0.0004622485430445,0.0013674104120582
+"and if you do come back to this video and let me know or you know me, personally, hit me up and let me know",0.28517663,0.6441754102706909,0.0,0.0,False,0.0291835870593786,0.5778480172157288,0.0216762665659189
+"along with the the lighting of the themes, the sound design of this movie",0.017701091,0.0,0.0,0.0,False,0.0005612233071587,0.0003688014112412,0.000218748289626
+"ooh, sound design is also as impactful as the lighting in like the camera shots",0.05493369,0.0,0.0,0.0,False,0.0007633155910298,0.0004731368971988,0.0005096930544823
+because this movie has little dialogue compared to like a normal movie,0.08796701,0.9999486207962036,0.01875,0.0,False,0.0009531725081615,0.000596806698013,0.0009759096428751
+there's a good amount of scenes where people aren't talking where it's just kind of silent and i know you're probably like sabrina,0.089041,0.0,0.0,0.0,False,0.000627145927865,0.0006836828542873,0.0178914871066808
+"silence is not a part of sound design, but it is good sound, as i so really focuses on the silent moments of the film which moon like does moonlight features some really silent bushings, or like close to starting where you just hear like a little whisper of classical music",0.06332459,0.0,0.0,0.0,False,0.0007214695797301,0.0004066383989993,0.00048844225239
+the silence and sometimes some of the scenes is so important because you feel you know how shyrone is feeling,0.050585672,0.0,0.0,0.0,False,0.0011559388367459,0.0013075872557237,0.0015327528817579
+in the moment,0.018048171,0.0,0.0,0.0,False,0.000674613751471,0.0003144499496556,0.0010594517225399
+you can tell just the way that the silence works with the film,0.053335425,0.0,0.0,0.0,False,0.0008468077285215,0.0004861015477217,0.0004895999445579
+"there's also some parts where the sound kind of gets distorted and those are the kind of things that kind of put you in the position of shyrone, and you can kind of feel what he's feeling",0.036851373,0.9999357461929321,0.0,0.069,False,0.0015806411392986,0.0029726107604801,0.0008312449790537
+"just based on you know, the weights, some of the sound is distorted or it sounds like you're underwater or if you're at the beach, how come kind of feel or, or the loneliness and the silence",0.070516795,0.998412013053894,0.0,0.131,False,0.0007522828527726,0.0003737088409252,0.0006938658771105
+you all kind of feel those as if you're shy room,0.12116077,0.0,0.0,0.167,False,0.1384523957967758,0.0026573503855615,0.0560913458466529
+i also would like to mention that the fact that this is a movie about a young black man in,0.2936093,0.9783451557159424,0.0333333333333333,0.0,False,0.0244884509593248,0.0733092725276947,0.0769404172897338
+"you know, technically the hoodie soundtrack is not ramping with hip-hop",0.086087525,0.9825744032859802,0.0,0.0,False,0.0032587146852165,0.0020538384560495,0.0012681052321568
+"i'm not saying that's a problem, but it's refreshing",0.045778666,0.0,0.0,0.188,False,0.0006530956597998,0.0003732182376552,0.0005808510468341
+"they're always putting the association with hip-hop with you know, being a young black man or just a black man in general",0.31725118,0.0,0.0458333333333333,0.0,False,0.0763753503561019,0.2121819704771042,0.2009065300226211
+"honestly, i mean, i think there's maybe two sections where they have hip-hop playing, but for the most part it's silent",0.05653196,0.9952762126922607,0.0,0.0,False,0.000615018303506,0.0009049199870787,0.0019564284011721
+"it's the sounds of the environment, or there's like classical or old-school like doo-wop and r&b the way moonlight ends is something i also really admire about this movie",0.056931525,0.0,0.0,0.0,False,0.0008274422143585,0.00074060971383,0.0004498762427829
+"this movies sort of like a coming of age and usually, but those kind of movies you know",0.052935857,0.9368870258331299,0.0,0.0,False,0.0009336824296042,0.0008748906548134,0.0009473027312196
+by the end of the movie all the problems that was in the movie is solved,0.09816993,0.0,0.0,0.144,False,0.0007617942756041,0.0004899692139588,0.0005381577066145
+everything's wrapped up in a nice little bow,0.112788886,0.0,0.0,0.0,False,0.0006767574232071,0.0044950735755264,0.0058907391503453
+"you know that they're going into college, or you know that they find the love of their life, or whatever",0.028267438,0.0,0.0,0.0,False,0.0023093027994036,0.0005641588359139,0.0010654797079041
+you know,0.03994159,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+"all the issues with their parents are relatively solved for the time being, but the way this ends to me is so much more realistic",0.044748597,0.0,0.0,0.0,False,0.0005784144741483,0.0004226430028211,0.0007416892331093
+i'll give you this analogy,0.10699297,0.0,0.0,0.0,False,0.0009934187401086,0.00048912409693,0.0007211011834442
+it ends where it's like you and a friend are talking and talking about a story that happened in their life,0.04131502,0.0,0.0,0.0,False,0.0007248585461638,0.0008437499054707,0.0016482075443491
+"but instead of going and then you know we hug, then everything was great",0.044405237,0.0,0.0,0.0,False,0.0006780660478398,0.0004340198356658,0.0052755153737962
+they go,0.031701013,0.0,0.0,0.0,False,0.0073263356462121,0.0017057118238881,0.0019004008499905
+and you know i don't know,0.023803791,0.5796774625778198,0.0,0.0,False,0.0014653666876256,0.0103105967864394,0.0011269598035141
+we'll see what,0.022351967,0.0,0.0,0.0,False,0.0006936431163921,0.0005243286141194,0.0005193481920287
+that's kind of how this movie and not everything needs to be fully told to you,0.06252546,0.0,0.0,0.0,False,0.0008017359650693,0.0007125902920961,0.0013316686963662
+you can have some liberty of having some fun and figuring out on your own,0.16620636,0.0,0.0,0.0,False,0.0026316663715988,0.0008487391751259,0.0025361678563058
+one thing i really wanted to make sure i mentioned about moonlight,0.03994159,0.0,0.0,0.0,False,0.0005355640314519,0.000878564605955,0.0003565949446056
+it's the fact that this movie has an all black cast,0.38953075,0.0,0.1666666666666666,0.0,False,0.0588381178677082,0.3418271541595459,0.2222833186388015
+did you hear me? i said all black cast,0.36439645,0.0,0.1666666666666666,0.0,False,0.3312506675720215,0.7890782356262207,0.1241523399949073
+and and i would say at minimum 80% of the cast is all dark-skinned people,0.34684154,0.8383434414863586,0.0,0.0,False,0.0661263465881347,0.2011652141809463,0.0926584750413894
+like can i get a hearty amen? i say that because usually we're talking about a backup movie film tv show,0.06332459,0.0,0.25,0.0,False,0.0007820421014912,0.0005188912036828,0.0016821512253955
+i guarantee you they're gonna focus on light-skinned or brown skinned people,0.31629145,0.9343371391296387,0.0,0.0,False,0.1234575659036636,0.4522585868835449,0.052825104445219
+"and though maybe have one, maybe two, four really lucky dark-skinned characters",0.1943727,0.0,0.0,0.0,False,0.0006450117216445,0.0123549373820424,0.0111735146492719
+"but this movie this movie said, not not a lot",0.036851373,0.9971486926078796,0.0,0.0,False,0.000726634345483,0.0005768788978457,0.0002911934279836
+"we gonna have mostly dark-skinned black people in our movie and i'm just oh, but i will critique though is that the women in this film are not dark-skinned white",0.44805592,0.8774716854095459,0.0,0.0,False,0.3360820114612579,0.5402896404266357,0.4116591513156891
+i'm taking what i can,0.031185975,0.9035733938217163,0.0,0.0,False,0.0010126578854396,0.0020142358262091,0.0010856076842173
+i'm a big advocate for dark-skinned people in tv shows and film because we just don't be getting that kind of representation and i need that in my life,0.2936093,0.9827352166175842,0.0,0.0,False,0.0018988087540492,0.039411224424839,0.0210098084062337
+"when i say all black has yes, i'm talking about the main characters that we're focusing on",0.29756662,0.0,0.0,0.0,False,0.000618977646809,0.12886843085289,0.1577887088060379
+all of them are black,0.43100753,0.8096799254417419,0.1666666666666666,0.0,False,0.8580743074417114,0.733981192111969,0.3624055981636047
+"why the director bear jenkins, a black man, tarell, alvin mccraney, who wrote the original play black gay man? i mean, let's really dive into the importance of this all-black cast and the writers and director being black people",0.44805592,0.9243581891059875,0.0,0.0,True,0.1008562371134758,0.4568914175033569,0.6628738045692444
+because what did i say earlier? none of this feels stereotypical,0.025005542,0.9502737522125244,0.25,0.0,False,0.001484612817876,0.0003949265519622,0.0017433678731322
+they're not beating you over the head with stereotypical black thing,0.42750368,0.0,0.3333333333333333,0.0,False,0.8280861377716064,0.6299633383750916,0.7934842109680176
+"why? because it's written by black people, directed by black people, so they know they know they lived it",0.5026305,0.9987533092498779,0.1666666666666666,0.0,False,0.3122574687004089,0.4141087830066681,0.2557240724563598
+they know the experiences that will go on in real life,0.026722329,0.0,0.0,0.0,False,0.0006621251814067,0.0003918779548257,0.0003878909919876
+so what do they do? they put real life into action,0.054534122,0.0,0.0,0.0,False,0.0009630930144339,0.0005824801628477,0.0014278085436671
+this is why we need black people right in black people,0.42631236,0.0,0.0158730158730158,0.0,False,0.7692340612411499,0.7031156420707703,0.5517544150352478
+before i started getting real high over the black cast,0.44670263,0.0,0.0,0.0,False,0.00449461909011,0.4438218772411346,0.1818124651908874
+"i really want to talk about the actors who play kevin and shyrone, as previously mentioned, the movie covers three chapters of shower rooms",0.09387396,0.0,0.0,0.0,False,0.0005655629211105,0.0014793791342526,0.0004409671819303
+"like so obviously there's gonna be three different actors playing shiro and kevin appears in all three of these chapters of shaun's life, so there's also gonna be three actors who play kevin",0.028610796,0.0,0.0,0.0,False,0.0008744880906306,0.0009148036479018,0.0002317493926966
+"now the three actors who play shy rooms, but those are all is played by two auntie rhodes, teenage tyrone is played by ashton sanders, and kitchen, aaron is played by alex herbert charles, the lead character",0.045778666,0.0,0.25,0.034,False,0.0010490138083696,0.0010926771210506,0.000634211290162
+"all three of them really needed to be on their game, and all three of them absolutely delivered",0.04406188,0.0,0.0,0.0,False,0.0010741072474047,0.0042990860529243,0.0008164910250343
+shyrone is not much of a speaker,0.08689302,0.9999202489852905,0.1,0.0,False,0.0027431610506027,0.009612139314413,0.0011460792738944
+"he doesn't talk much in this movie, so a lot of the acting that goes into this movie is his body language and facial expressions",0.1423886,0.9904329776763916,0.0,0.0,False,0.0007986523560248,0.001308471080847,0.0088575799018144
+so for all three of these actors to exude the same energy and characteristics that shyrone would have is magnificent with kevin,0.028954152,0.0,0.0,0.0,False,0.0008588494965806,0.0019351929659023,0.000868723145686
+"we don't get as much time with him because obviously he's not the main character and not in his perspective, but i'm still not going to diminish their role because all three of them are still and tastic",0.123736724,0.0,0.0,0.0,False,0.000762611394748,0.0205206181854009,0.0269792564213275
+"little kevin is played by actor named jayden minor, teenage, kevin is played by jor-el jerome",0.03358948,0.0,0.0791666666666666,0.0,False,0.0021544871851801,0.0030475845560431,0.0109946550801396
+"an adult, kevin is played by andre holland",0.033074442,0.0,0.0,0.0,False,0.0077447704970836,0.0016852256376296,0.0045344396494328
+all of them are so charming because that's one of the main characteristics of kevin,0.048868883,0.0,0.0,0.0,False,0.0006926044006831,0.0003941581526305,0.001053879968822
+at least to me is he's a very charming man,0.03770977,0.0,0.0,0.0,False,0.0007745038019493,0.0026193596422672,0.0025948935654014
+"he's very likeable, though, for all three of them to be charming in the same way at the various different ages is jeff's case",0.04131502,0.0,0.0,0.0,False,0.0006377565441653,0.0004354551492724,0.0013685302110388
+"since i'm talking about kevin and sharone, i want to talk about the way that this film depicts their relationship",0.038911518,0.0,0.0,0.0,False,0.0005545016028918,0.0004440096381586,0.0007085971883498
+i say shyrone and kevin's relationship is one of my favorite things about this movie because it plays right into what i really enjoy now as you're getting to watch more of my videos and hear about some of my opinions,0.04268845,0.0,0.0,0.0,False,0.0007611608016304,0.0004773446707986,0.0005681235925294
+you'll learn that i love a good subtle flirting,0.29021257,0.0,0.0,0.0,False,0.0005912013002671,0.5467787981033325,0.175575390458107
+i enjoy the real your face flirting,0.44805592,0.0,0.0,0.0,False,0.0518148876726627,0.2097569406032562,0.5895391702651978
+"that's that's fun and all, but i really love a good subtle flirtation where you, mister viewer are like",0.2406723,0.0,0.0,0.0,False,0.0022801212035119,0.0009997454471886,0.3997960984706878
+"oh, what they just are",0.048868883,0.0,0.0,0.0,False,0.0013614019844681,0.0022354354150593,0.0080226920545101
+they just flirting like,0.103539884,0.0,0.0,0.0,False,0.0023548994213342,0.0757963731884956,0.0126692680642008
+"oh, they're trying to play it off as if they're not flirting, but they're definitely flirting",0.14463188,0.0,0.0,0.062,False,0.0007724841125309,0.0056143584661185,0.0225403290241956
+cuz you're looking at their eyes and you're looking at the way they're acting and you're like order,0.08689302,0.0,0.0,0.0,False,0.0318805947899818,0.0056078769266605,0.0150707876309752
+definitely flirting,0.12953265,0.0,0.0,0.0,False,0.0024036029353737,0.0463417991995811,0.0010100573999807
+that's my jo,0.031357653,0.0,0.0,0.0,False,0.0063229575753211,0.0005383947282098,0.0377481169998645
+"what's just? was he looking at me like that? so now they're obviously not going to be outright flirting with each other, because they're both at the end of the day closeted gay men",0.5149511,0.9792582392692566,0.0,0.0,True,0.4595567286014557,0.6336360573768616,0.8588666319847107
+"so well, i don't know about kevin",0.018048171,0.0,0.0,0.0,False,0.0007753459503874,0.0051058679819107,0.0007275174139067
+kevin could be bisexual,0.36211988,0.997404158115387,0.0,0.0,False,0.3846806585788727,0.4592219889163971,0.5250800251960754
+it's the way the camera pans to kevin's face or the way that the camera will kind of linger on a touch or position of one of the actors bodies towards the other,0.1008549,0.9989000558853149,0.0,0.0,False,0.0008234402048401,0.0010623908601701,0.0179049223661422
+"it's just oh, like i said, this woman does a fantastic job of showing and not telling",0.15246986,0.0,0.0,0.0,False,0.0267299246042966,0.0070882788859307,0.0381411425769329
+so it's showing you you're getting the vibes that they are flirting,0.1731117,0.0,0.0,0.0,False,0.000899675709661,0.0032144654542207,0.0109797278419137
+it,0.017770508,0.0,0.0,0.0,False,0.0016468944959342,0.0015647209947928,0.0006399405538104
+"really, it really sells the romance that's going on there",0.08330294,0.0,0.0,0.0,False,0.0007169590098783,0.0003564385988283,0.0011926776496693
+it really sells the romance of the movie,0.037194733,0.0,0.0,0.0,False,0.0007069231360219,0.0004735109687317,0.0007306924089789
+usually with news about gay men are usually just generally,0.355017,0.9030141830444336,0.0083333333333333,0.0,True,0.1483158320188522,0.1456373780965805,0.1551656275987625
+the conception of the lgbt community is that it's really sexualized,0.36805952,0.5200217962265015,0.0,0.0,False,0.0442383587360382,0.5681443810462952,0.6337569355964661
+"like media portrays it in such an overly sexual way that if you see a gay character on a show or in a movie, it's always kind of based on the sex part of relationships and not really the romance part",0.35870504,0.9984422326087952,0.0,0.07,True,0.0109093692153692,0.1825384348630905,0.3905363082885742
+this movie really focuses on the romance,0.03994159,0.0,0.0,0.0,False,0.0006997408345341,0.0004199548275209,0.0005779801867902
+the intimacy of relationship is so important with the way they kind of display the relationship that goes on,0.044748597,0.0,0.0,0.0,False,0.000562283443287,0.0003674833860713,0.001827094820328
+i slightly spoiled that kevin and shyrone engage in a sexual activity,0.53430706,0.9915458559989929,0.0,0.0,False,0.2448420524597168,0.720710813999176,0.7017186284065247
+i'm not gonna say what sexual activity,0.2459383,0.9617393612861633,0.0,0.0,False,0.1743135154247284,0.3121504187583923,0.3729606568813324
+watch the movie to find out,0.032559406,0.0,0.0,0.0,False,0.0021578122396022,0.0004809612873941,0.0003136230225209
+"it's really, you know, press, bonded, but engaged in a sexual activity at some point in their life, and the way the movie portrays it, it's so focused on the intimacy of the act instead of the lustfulness of the act, and i think that's one romantic and very cute in my eyes, but it's also important for people to see, and for you know, young gay black men to see that not everything needs to be so lustful",0.42631236,0.0,0.0,0.0,True,0.0392508655786514,0.3485771715641022,0.644381046295166
+"there's a lot of good in intimacy and showing the love of relationship, rather than just kind of the lust",0.09870692,0.0,0.0,0.0,False,0.0008399871876463,0.0020588228944689,0.0151949198916554
+it's so wonderful with the way that they chose to do it,0.02655065,0.0,0.0,0.0,False,0.0005622957251034,0.0003398733388166,0.0008439545636065
+"at this point, i've got on enough about moonlight, and honestly, i could go for more, but that would require me spoiling some parts of the movie and this would be like two hours long to some of this overview of",0.09548495,0.9991794228553772,0.0,0.0,False,0.0005903639830648,0.0005202870815992,0.0004921581712551
+"i greatly enjoyed this movie i've seen about three times now, and it's definitely something i watch again and again later on in life",0.032731086,0.0,0.0,0.0,False,0.0005519436672329,0.000394206639612,0.0003123864007648
+it's currently on netflix,0.013327881,0.0,0.0,0.0,False,0.0008030181634239,0.000414472160628,0.0003559555625542
+"if you want to give it a watch, which, hello, you should have you not listen to my whole video",0.2015616,0.9997901320457458,0.0,0.0,False,0.0010426834924146,0.0228863097727298,0.0302969012409448
+go watching like more like to me is something everybody can watch,0.059728492,0.0,0.0,0.0,False,0.0110773360356688,0.0006627248949371,0.0008792534354142
+"i told you i'm talking about it, cuz, it's pride month and i really want to showcase lgbtq stories, but it doesn't only need to be watched because of the lgbtq",0.111500904,0.0,0.0,0.0,False,0.0008039805688895,0.0163612645119428,0.0292390082031488
+"plus, you know aspect of it",0.042001735,0.0,0.0,0.0,False,0.0007409675745293,0.0003629305574577,0.0004948699497617
+you can literally watch you just because it's a fantastic piece of film,0.040971663,0.0,0.0,0.0,False,0.0011108873877674,0.0004056426405441,0.0011082312557846
+"i also think is a really great lay conversation piece, especially especially during the time",0.043375164,0.0,0.0,0.0,False,0.0005414469633251,0.0005542674916796,0.0004041920183226
+"so we are currently in with all the protests and other people, waking up to what's going on in the world and wanting to know more about what it's like to be black in america",0.2965773,0.0,0.0,0.051,False,0.0274791587144136,0.3194863796234131,0.1677892655134201
+i feel like this is such a good like starting point,0.02792408,0.0,0.0,0.0,False,0.000643519393634,0.0003651229199022,0.0005822572857141
+"now, this is now documentary",0.043718524,0.0,0.0,0.0,False,0.0008236831636168,0.0003644058597274,0.0008239869493991
+this is not gonna tell you all the things about racism,0.1621016,0.9969690442085266,0.0,0.291,False,0.1068045198917388,0.0130629930645227,0.0059405765496194
+you know,0.03994159,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+it's just i feel like it's a good starter point into,0.024490505,0.0,0.0,0.0,False,0.0005672411061823,0.0003701685927808,0.0010993896285071
+"if you just kind of want to be in the life of a black person in this movie, it's specifically a gay black man",0.7344555,0.9931951761245728,0.0,0.0,True,0.3687796294689178,0.8887522220611572,0.820186972618103
+"there's a section of the black community that you can kind of live in for the duration of this movie and kind of feel what it's like to be in that position if you're of a different race, or even if you're black, and you just don't pay attention to the black lgbtq+ community? you know, it's such a good way that you can just kind of live the life of somebody else for a little bit, and kind of get an understanding of what's going on",0.28948012,0.0,0.0,0.0,False,0.0841550901532173,0.1804628223180771,0.0409889630973339
+the main message that i got from this movie,0.036851373,0.0,0.0,0.0,False,0.0006399457342922,0.0005353359156288,0.0006223138188943
+you can get something else out of it,0.07451247,0.9981487989425659,0.0,0.0,False,0.0009523414191789,0.0006075299461372,0.0005605827900581
+"but the main thing that to meet the movie was trying to say in the beginning in the movie, marshall, ollie's character toes shyrone a story",0.026035614,0.9791268110275269,0.0,0.0,False,0.000646696484182,0.0006215270259417,0.0003588975523598
+"the message that i got from the story and the film as a whole was that if i'm going to perceive you in a certain way and people are going to try to tell you who you are, but these are those things, define who you actually are",0.030670939,0.0,0.0,0.0,False,0.0006561742047779,0.0005887832958251,0.0005582008161582
+you have to figure out for yourself who you are and that is the most important thing,0.048525527,0.0,0.0,0.0,False,0.00126871955581,0.0018408492906019,0.0009151711710728
+"and to me that's such a great message to put out to the world, because yes / so the lgbtq+ community, but even outside of that that can apply to anybody in this world",0.18647896,0.0,0.0,0.0,False,0.001694856560789,0.0068249241448938,0.0073432470671832
+"alright, y'all that's it for my review of moonlight, i hope you enjoyed it",0.055333257,0.0,0.0,0.0,False,0.0006078566075302,0.0016400237800553,0.0005878412630409
+i hope you go out and watch them right,0.09709594,0.0,0.0,0.0,False,0.0936973392963409,0.0563696660101413,0.0017755731241777
+it's on netflix,0.011523063,0.0,0.0,0.0,False,0.0009518061997368,0.0005039904499426,0.0006286009447649
+i don't care,0.06771983,0.9997380375862122,0.0,0.568,False,0.1829658150672912,0.0493384525179863,0.0015832582721486
+"no excuse about not being able to watch it, because i'm sure you got somebody's netflix password, or you've got enough loosed yourself, so go watch it once again",0.16413476,0.9962683916091919,0.0,0.04,False,0.1471720933914184,0.0462740212678909,0.0123755643144249
+i want to say happy pride month to all lgbtq+ people,0.07571117,0.0,0.0,0.0,False,0.0032095785718411,0.0596060343086719,0.0222629699856042
+"i hope even in this ridiculous times that we are currently in, i hope you're having some joy out of it",0.29261994,0.0,0.0,0.098,False,0.021072095260024,0.5324848890304565,0.4292850792407989
+"i hope that you're showing love to other members of your community or you know, showing love to yourself, because that's also very important",0.07011723,0.0,0.0,0.0,False,0.1372632980346679,0.0073072174564003,0.0012890973594039
+that wasn't a lie,0.074912034,0.0,0.0,0.0,False,0.0033881922718137,0.0008579141576774,0.0035584962461143
+that's belief,0.017492844,0.0,0.0,0.0,False,0.0009130386169999,0.0004000008921138,0.000569017487578
+"you can use me as your auntie cousin, friend from long ago, random person on the internet",0.2590451,0.0,0.275,0.0,False,0.0047129867598414,0.0018233549781143,0.0157592166215181
+you can use me as whatever you please to let somebody know that there's people that you care about,0.1785852,0.0,0.0,0.0,False,0.002116696210578,0.003838999196887,0.0007928137201815
+let yourself know that there's somebody who cares about you in that somebody is me,0.2995453,0.0,0.0,0.0,False,0.0018904039170593,0.003601289121434,0.001311567844823
+at least some resources,0.015896274,0.0,0.3,0.0,False,0.0006182247889228,0.0003909395309165,0.0002642068720888
+"down in my description box, they'll be lgbtq+ resources, also black, oh sweet, eq+ resources and resources for the black lives matter movement that's currently going on, so check my description box for anything",0.20449556,0.0,0.0277777777777777,0.0,False,0.017984390258789,0.0955124869942665,0.0358406007289886
+i can't guarantee,0.016104523,0.9866557121276855,0.0,0.465,False,0.0015159192262217,0.000678775657434,0.0004598057421389
+"i'm gonna have all the resources, but i will",0.029640866,0.0,0.0,0.0,False,0.0012283998075872,0.0012404846493154,0.0009220954379998
+"i'll try to pick some resources that are relevant, so check out my description bar",0.048525527,0.0,0.0,0.0,False,0.0006403844454325,0.0004341269668657,0.0004096438351552
+"let me know in the comments if you seem like what you thought of moonlight, or just calming some positivity and love for the lgbtq+ community, black and i'm black",0.2712817,0.5473969578742981,0.0,0.0,False,0.0218266826122999,0.4058116972446441,0.1026261672377586
+"anything if you've thrown some hey, i'm deleting it",0.1943727,0.9978109002113342,0.0,0.0,False,0.0017173861851915,0.1134393662214279,0.0267887283116579
+i don't here,0.021102477,0.9469788074493408,0.0,0.0,False,0.0048111681826412,0.0091131720691919,0.0005554659292101
+keep it to yourself,0.085282035,0.0,0.0,0.0,False,0.0387890078127384,0.0135095184668898,0.0038951425813138
+that's all i say,0.023803791,0.0,0.0,0.0,False,0.0016336513217538,0.0004828142991755,0.0022753260564059
+"mama, better support black creators, support the black lives movement, find some petitions, donate some money and try your best to stay healthy, because as much as the world is currently protesting, we also still very much have and painting it going on",0.22985287,0.6374796628952026,0.0,0.051,False,0.0290438774973154,0.064239852130413,0.0365821458399295
+so please keep your mask on,0.13879937,0.9867571592330933,0.0,0.0,False,0.0542616844177246,0.0041479589417576,0.0010070364223793
+try to stay healthy,0.034962907,0.9934023022651672,0.0,0.0,False,0.0033158829901367,0.0006422917940653,0.0007736476836726
+eat your greens and vitamins,0.07970683,0.0,0.0,0.0,False,0.0600394085049629,0.0026938503142446,0.0040822653099894
+"all of the things, so i'll see you guys next week",0.062125895,0.0,0.0,0.0,False,0.0005999153945595,0.0012190331472083,0.0005155064282007
+"funny side, know about this shirt is that i got it earlier this year in february at a spotify event because it was like history month",0.050585672,0.0,0.0,0.0,False,0.0010451717535033,0.0004386872460599,0.0003824554150924
+"so they were doing like a whole little black music thing, which maybe i'll talk about another time",0.3063832,0.9988400340080261,0.0513888888888888,0.0,False,0.0059612016193568,0.1365612745285034,0.1421079486608505
+"obviously i said, like history is now, and at the time you know, it was a nice look like history most right, but a little bit",0.04543531,0.0,0.0,0.0,False,0.0006525689386762,0.0003609411942306,0.0003375101368874
+"i know it would be so relevant, so poignant at this current time of june 2020",0.012772553,0.0,0.0,0.0,False,0.0006007261690683,0.0003675348998513,0.0004719083663076
+because we're all protesting,0.03599298,0.9551482796669006,0.0,0.483,False,0.0144083285704255,0.0005290607805363,0.0012611132115125
+we are literally literally making black history right now,0.31714454,0.0,0.0,0.0,False,0.1627472639083862,0.1674269586801529,0.0836773589253425
+"like i said, support black readers support black artists, support black scientists, support black thinkers support black people, period you",0.33600304,0.0,0.1666666666666666,0.0,False,0.4570642113685608,0.5599881410598755,0.6508501172065735

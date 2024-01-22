@@ -1,0 +1,63 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"angola, that soundtrack the glitch out, but i'm gonna have to keep it real and say that y'all mighta overhyped us a little bit",0.18549223,0.5625081658363342,0.0,0.0,False,0.0017378348857164,0.0052409195341169,0.0145639451220631
+"hey, everyone is sharonda from paperweights and today i'm going to be reviewing a star is born, which is a bradley cooper directorial debut and also a star's bradley cooper and lady gaga, so basically this is this is the 40",0.09763293,0.5263412594795227,0.0,0.0,False,0.0008637168211862,0.0009362979908473,0.0188981294631958
+it's the 4th,0.0186035,0.0,0.0,0.0,False,0.0010619133245199,0.0005868456210009,0.000606303627137
+"okay, you know what? i always complaining about? reboots? remake this the fourth day",0.18154536,0.0,0.0,0.111,False,0.0097759468480944,0.0006261169328354,0.0013118389761075
+i'm a star is born',0.03187269,0.0,0.0,0.0,False,0.0053960895165801,0.0012993569253012,0.0006209179991856
+"okay, yeah, but i have to say it was entertaining to watch",0.03427619,0.0,0.0,0.0,False,0.00068766833283,0.0004083894891664,0.000504923518747
+"i actually had the chance to see the 1976 version which starburns first race in, and this kind of falls along the same lines",0.03856816,0.9997630715370178,0.0,0.0,False,0.0006261927192099,0.0005688132951036,0.000427866121754
+"what i did not do is i waited until it after i saw a star is born in theaters first to not ruin any plot wise to watch the 1976 version which is the most recent version before this, that was remade",0.07131593,0.9799067974090576,0.0,0.0,False,0.000873117998708,0.0004520475340541,0.000863226421643
+and so they kind of fall along the same lines,0.04268845,0.9857107996940613,0.0,0.0,False,0.0007314626127481,0.0003984247741755,0.0008509556064382
+there are subtle differences and things that happen,0.030842619,0.0,0.3333333333333333,0.0,False,0.0006375906523317,0.000364853272913,0.0003748018643818
+but the gist of the story is exactly the same,0.019575324,0.9567310214042664,0.0,0.0,False,0.0007787698996253,0.0003271202440373,0.0002867220027837
+"and so this film centers around bradley cooper, who plays",0.035477944,0.0,0.0,0.0,False,0.0006961257895454,0.0004680536221712,0.0019714818336069
+"he's a famous musician called jackson maine, and he meets allie, who is played by lady gaga, who was an aspiring singer",0.03427619,0.0,0.0,0.0,False,0.000905392167624,0.0026316377334296,0.0073727425187826
+"they happened to meet by chance in the neck, fall madly in love",0.13969667,0.0,0.0,0.143,False,0.0038234626408666,0.071179911494255,0.0180055573582649
+and basically he kind of helps catapult her career in to stardom and so then it kind of just details as she's having this starting her career,0.07850813,0.0,0.0,0.0,False,0.0008414948824793,0.0006317601655609,0.0009051709785126
+"it kind of showcases their love story, which is voki depressing as hell, and also to kind of how their relationship begins to like break down due to jackson's alcohol and drug addiction",0.34575438,0.0,0.0,0.168,True,0.0186651051044464,0.0055006463080644,0.0546111427247524
+"and so i have to say, like you know, first, i was hearing everyone talk about this when they were coming out of tip",0.048525527,0.0,0.0,0.0,False,0.0006788112223148,0.0004710821085609,0.0009361325064674
+"now it's like okay, like i'm geeked about this and it's like oh my gosh, is movie is so good, but let's see lady gaga, oscar oscar oscar, everybody's gonna get an oscar nomination for this film, so i was absolutely actually excited to see this",0.14283726,0.0,0.0,0.0,False,0.000838839856442,0.0011781146749854,0.0053768251091241
+"i've always loved lady gaga, as a singer always says she can say and baby, the music in this movie is on points like on point-to-point and bradley cooper",0.031357653,0.0,0.0,0.0,False,0.0006337303202599,0.0014286586083471,0.0013662315905094
+"okay, i see you what you learn",0.058130227,0.0,0.0,0.0,False,0.0008192694513127,0.0023662445601075,0.0020577553659677
+yellow voice,0.19936113,0.9983637928962708,0.0,0.0,False,0.0020790968555957,0.0006754819187335,0.0007673106738366
+"you can say, a little bit of stuff",0.07131593,0.0,0.1875,0.0,False,0.0007641379488632,0.0004706081235781,0.000902910658624
+you took lessons to voice lessons,0.21980777,0.9391508102416992,0.0,0.0,False,0.0009495001868344,0.0004539609362836,0.0007637743256054
+learn how to sing to play guitar,0.17449278,0.0,0.0,0.0,False,0.0055530024692416,0.0005385987460613,0.0002911323681473
+and i think that it actually pays off,0.06332459,0.0,0.0,0.0,False,0.0043543949723243,0.0005247333901934,0.0005354742170311
+and you can definitely tell it,0.030842619,0.0,0.0,0.0,False,0.0007108071586117,0.0003457037673797,0.0004297859850339
+the chemistry between these two,0.01596569,0.0,0.0,0.0,False,0.0006156320450827,0.0003568161919247,0.001339899841696
+i think that helped believe their relationship,0.024490505,0.0,0.0,0.0,False,0.0006206887774169,0.0003291746543254,0.0003628308768384
+it helped make a better movie because they just look great together,0.06612156,0.0,0.0,0.0,False,0.0005892599583603,0.0003664534306153,0.0010922170476987
+"but what i would have to say is that bradley bradley had me thinking that he was like really an alcoholic in real life, like he just been hiding this whole time from all of us because the way that he was like moving talking, i say bradley",0.28517663,0.0,0.0,0.05,False,0.0006222951924428,0.0130660124123096,0.0563131533563137
+are you okay? like did you really get drunk? i'm scared for you,0.31629145,0.9185143709182739,0.0,0.307,False,0.0980115160346031,0.087394893169403,0.3145958483219147
+"okay, so i thought that his performance is very convincing and i thought lady gaga was great as well, um, even the cinematography",0.049212243,0.0,0.0,0.0,False,0.0005964891170151,0.0007679171394556,0.0018581527983769
+"there's a scene like when they first meet in the beginning of the film and he kind of touches her face, and then how the camera shoots to like her eyes, so you can kind of is almost like i could feel him touching my face",0.13700475,0.0,0.0,0.0,False,0.0007774682017043,0.0011689997045323,0.0081815151497721
+"i wish he was touching my face, but he wasn't touching my face, but i thought that parts of this movie was beautifully shot, especially the performance scenes like it felt like i was watching like one of those backs backstage",0.2224569,0.9787321090698242,0.0,0.025,False,0.0024151145480573,0.0025270369369536,0.0102662816643714
+"you know how to do, like behind the music or behind the concert or something",0.05493369,0.0,0.4,0.0,False,0.0010043062502518,0.0008415049524046,0.0022302067372947
+i felt like i was right there with them,0.03427619,0.0,0.0,0.0,False,0.0007222456042654,0.0006104619824327,0.0008335487218573
+and so i think that bradley cooper was very smart for choosing a star is born,0.077709,0.0,0.0,0.0,False,0.0006940414896234,0.001596146961674,0.0129021499305963
+i think they made this relevant to the times today,0.019852988,0.0,0.0,0.0,False,0.0005564297898672,0.000347594730556,0.0002810878213495
+"i think that he even upped the ante of things that happen in this film versus the 1976 version, but i think that lady gaga is just she's lovely to watch on screen",0.058130227,0.0,0.0,0.0,False,0.0008039273088797,0.0010529380524531,0.0043444442562758
+was she singing like you? just feel everything,0.09709594,0.0,0.0,0.0,False,0.0172357652336359,0.0021846604067832,0.0392626114189624
+i know,0.022773718,0.0,0.0,0.0,False,0.0014815481845289,0.0004874771111644,0.0003751765179913
+that they both helped write the songs,0.028954152,0.0,0.0,0.0,False,0.0006115798605605,0.0003670152800623,0.0003938000299967
+"they co-wrote the songs with one another, and i was saying like if i had to say some of the things that kind of let me down was, i almost feel as though i didn't read any reviews going into this movie, but i was just looking at social media reactions from people who i follow on my timeline, and i felt as though because they hyped it up so much that like my bar was set to another level going into the movie, which is why i kind of felt like",0.06012806,0.9999083280563354,0.0,0.0,False,0.0006328611634671,0.0005062263226136,0.0006017837440595
+is this with the fuss? like? what was the fuss all about? like? what was everyone having a damn heart attack over? and it doesn't take away? this is a very good movie,0.44298556,0.0,0.0,0.126,True,0.2453146129846573,0.7719542980194092,0.8383271098136902
+i think that anyone who goes to see this movie,0.040628307,0.9951657056808472,0.0,0.0,False,0.0006801169947721,0.0007417408633045,0.0010697504039853
+i think that they will really enjoy it,0.036336336,0.0,0.0,0.0,False,0.0006708637229166,0.0004611921904142,0.0004026644746772
+it's a love story,0.018187003,0.0,0.0,0.0,False,0.000874358578585,0.0008138950215652,0.0005366468685679
+"it hits hips on drug addiction or alcoholism, even codependency on one another in a relationship, and i would have to say that this movie islam, there's only like two hundred fifteen minutes and it felt like three hours",0.22991583,0.9977141618728638,0.0,0.0,False,0.0026968098245561,0.0224879272282123,0.0104400357231497
+at one point i was like y'all can you hurry up and wrap this up because i'm starting to get a little bored and i feel as though that i wanted to see a little bit more into ali's background through conversations you kind of learn about jackson's demons,0.1550967,0.9967143535614014,0.0,0.035,False,0.0006710168672725,0.0462257266044616,0.0256582405418157
+it kind of what has led him into this downward aspire of drugs and alcohol,0.27045983,0.9413230419158936,0.0,0.0,False,0.034629039466381,0.0024370572064071,0.0503140389919281
+but i wish they kind of would have talked about it or showed it a little bit more,0.07371333,0.9701602458953857,0.0,0.0,False,0.000550226541236,0.0008722324273549,0.0003912784159183
+"and i wanted to learn even more about ali and i almost made me feel as though i was watching a one-sided story kind of from his point of view on how their relationship was, instead of seeing like how she felt, i felt like some, how they had to react to certain things in the film just wasn't really realistic",0.043718524,0.9999237060546875,0.0,0.0,False,0.0005599390133284,0.0003302840050309,0.0003693863691296
+she almost just never worried,0.05253629,0.0,0.0,0.0,False,0.0007763399626128,0.0004170816973783,0.0005985255702398
+she never expressed how she felt about me,0.04406188,0.6691798567771912,0.0,0.0,False,0.0008961239946074,0.0004780173767358,0.0007250589551404
+"it was always about jackson and making sure that he was okay, so i just kind of wanted to see the other side internally",0.02809576,0.0,0.0,0.0,False,0.0006051449454389,0.0085510956123471,0.0005284335347823
+"like how does she really feel about where the relationship was going, especially as she's being catapulted into fame and how she was dealing with both of those at the same time, but overall i would still say pay to go see this film in theaters",0.058929358,0.9993222951889038,0.0,0.033,False,0.0005795606411993,0.0004095288168173,0.000451400555903
+"i'm not sure about how i feel about saying that this is gonna be like oscar-nominated i think is gonna have a lot of buzz and i have a lot of popularity, especially with the music, so i would definitely tell you how to go ahead and go download the damn soundtrack",0.5026305,0.0,0.0833333333333333,0.077,True,0.2329279035329818,0.9443094730377196,0.8749973773956299
+"i already downloaded shallow, because this song was hidden, but i would have to wait to see all the movies that are coming out during oscar season to really say like okay, like they better get an oscar nomination",0.090114996,0.9997619986534119,0.0,0.0,False,0.0006592212012037,0.0005440377281047,0.0005018616793677
+"i just don't know right now i'm on the fence, but as always those are my thoughts on the star is born",0.031357653,0.0,0.0,0.0,False,0.0007369350641965,0.0018561125034466,0.0004559169756248
+my name is shauna from pier weight,0.044405237,0.0,0.0,0.0,False,0.0009666815749369,0.0097996089607477,0.0230646263808012
+make sure you hit the like button,0.09924392,0.0,0.0,0.0,False,0.0236270371824502,0.0217862818390131,0.0011020881356671
+"hit, subscribe, hit that notification bell, and share this video with your friends and i will see you soon",0.19535941,0.0,0.0,0.0,False,0.0012647567782551,0.4137170910835266,0.005619338247925

@@ -1,0 +1,48 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hello, guys, hope you're going well",0.034104515,0.0,0.0,0.0,False,0.0006277723587118,0.0010757092386484,0.0003316398069728
+"so roma, roma, roma, today we are talking about the netflix distributed black and white mexican film which has floored movie lovers and critics and is already gathering so much oscar",0.20376207,0.0,0.0,0.064,False,0.0018998527666553,0.0453592911362648,0.0222641471773386
+"but roma is written, directed and photographed by mexican filmmaker alphonso quran, and he is the man behind giant blockbuster films like gravity, like one of the harry potter movies, and my all-time favorite children of men",0.017909339,0.0,0.0,0.0,False,0.0010846876539289,0.0016340750735253,0.0028785807080566
+"oh my goodness, but in this film things get very personal",0.08501353,0.0,0.0,0.0,False,0.0008662971085868,0.0003674825129564,0.0011104334844276
+you know,0.043718524,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+"this is a stripped back art film, black and white art film that is rooted deeply rooted in currents on childhood, yet in 1971, in currents, a very own childhood town of roma",0.0753116,0.0,0.0,0.0,False,0.0008908814052119,0.0144278360530734,0.0079477364197373
+"the film follows clio, a woman who was a maid inside a typical middle-class family",0.092262976,0.0,0.1666666666666666,0.0,False,0.0014390333089977,0.0031060127075761,0.0052242130041122
+"her, she cleans the household, she loves the children that she looks after and she lives a very very simple life",0.11729682,0.0,0.0,0.0,False,0.0016588649014011,0.0008956856327131,0.0005181451560929
+this is by no means a plot driven film,0.07690986,0.9997249245643616,0.0,0.216,False,0.0015537322033196,0.0004226921591907,0.0003811263886746
+it's very much character driven,0.046465382,0.0,0.0,0.0,False,0.0006729708402417,0.0004870372649747,0.0012975699501112
+"we are following cleo seeing things happen to her through her eyes through her points of view, but it's more about a scene setting",0.024318827,0.0,0.0,0.0,False,0.0006490143714472,0.000409233616665,0.000805583782494
+"it's more about living this immersive view into the family into this very specific time capsule of history and showing that maybe things haven't changed so much today in 2018, as we might like to think they have her on, is a big fan of the effect that a cleverly constructed single take can bring",0.0136749605,0.0,0.0,0.0,False,0.0006595246959477,0.0003471086092758,0.0003110176767222
+"he did it fantastically in children of men, one of my favorite movie scenes of all time, and here in roma, there is another one that takes place on the beach, and it's toward the end of the film, but it is very much a climactic and extremely emotional moment on the beach in the waves, all from the side angle of cleo as we follow her and we track her up and down the beach and into the water",0.04268845,0.0,0.0,0.0,False,0.0008051543845795,0.0011433183681219,0.0011413432657718
+"no, that she can't swim and it is just it is so tense",0.20302857,0.9957906603813171,0.3333333333333333,0.206,False,0.0028063075151294,0.0022019185125827,0.0154828019440174
+it's done so simply that it's even more effective than if they put all this dramatic music,0.14687516,0.0,0.0,0.0,False,0.0006729130982421,0.0004472380387596,0.0028859302401542
+"all these cuts from the water under the water, following around up close",0.03049926,0.0,0.0,0.155,False,0.0013726849574595,0.0008065361762419,0.0132647771388292
+it's sort of like by stepping back and just following it in this real-time way,0.032731086,0.0,0.0,0.0,False,0.0007469676202163,0.0004002589557785,0.000733972818125
+it's it's even more like heart pounding,0.07011723,0.0,0.0,0.0,False,0.0010527078993618,0.0003889373911079,0.0174958873540163
+i adored this film from start to finish,0.039254878,0.0,0.0,0.0,False,0.000871080905199,0.0003963172785006,0.0002264490467496
+i was so invested in the character of cleo in her decisions and how she was going to manage the obstacles that kept coming up against her,0.040284947,0.0,0.05,0.091,False,0.0006405019084922,0.0004628069291356,0.0010680605191737
+"the way that she fits into the family dynamics is really fascinating in the relationship, especially between her and the mother",0.067320265,0.0,0.0,0.0,False,0.0005789494607597,0.0008118264959193,0.0021112081594765
+you know the matriarch of the family,0.046465382,0.0,0.0,0.0,False,0.0010112966410815,0.0008226328645832,0.0004216749512124
+how they kind of fit together,0.045091953,0.0,0.0,0.0,False,0.0008026853902265,0.000388626824133,0.0004529494908638
+it just felt really real,0.029125832,0.0,0.0,0.0,False,0.0006485935882665,0.0003087160293944,0.0005588865024037
+"they don't always see eye to eye, but at the end of the day they both care for the children",0.03994159,0.0,0.0,0.0,False,0.0010715256212279,0.0010013902792707,0.0007828932721167
+"the only thing i will note is that this is portrayed in a romanticized wait, a snapshot of time from qur'an's own childhood",0.08555053,0.0,0.0,0.0,False,0.0006815483793616,0.0014440480154007,0.0013266993919387
+"so it's him as a filmmaker, reflecting on his childhood, you can see that come through in the film and in that as well some of the characters romanticized",0.052136723,0.0,0.0,0.0,False,0.0005748469848185,0.0004024087102152,0.0007005445077084
+"so, even though it's real and raw and tender, these are people that have been elevated in memory, because when you look back on things, things always just seem different in memory, and that's certainly not a negative critique",0.05653196,0.0,0.0,0.0,False,0.0006404020823538,0.0003852931549772,0.0006966919754631
+"if anything, that's even more interesting to see the filmmaker himself within his own film, which is really unusual to see it so intertwined in such a way",0.06412373,0.0,0.0,0.0,False,0.0005598715506494,0.0003401811409275,0.0003979677567258
+like this film is kuran exploring his own memories of his own childhood,0.09602194,0.0,0.0,0.0,False,0.0010003891075029,0.0008108229958452,0.0036789125297218
+so i think that's absolutely fascinating,0.040284947,0.0,0.0,0.0,False,0.000596506986767,0.0003258645883761,0.0005824818508699
+and the film roma just is a delight,0.08367105,0.0,0.0,0.0,False,0.0006843027076683,0.0004297570558264,0.0019845010247081
+guys,0.05493369,0.0,0.0,0.0,False,0.0086816353723406,0.0251743551343679,0.0013313461095094
+"they have been my thoughts on our funzone, cool bronze, roma",0.026894007,0.0,0.0,0.0,False,0.0006042954628355,0.0005759940831921,0.0024299845099449
+"do, make sure you see it",0.029469188,0.0,0.0,0.0,False,0.0009655769099481,0.0005647223442792,0.00060074304929
+it's available on netflix,0.012703137,0.0,0.0,0.0,False,0.0006504342309199,0.0003911844396498,0.0002619377046357
+"see it in the cinema would be wonderful, but it is play in such limited release",0.06252546,0.9904600381851196,0.0,0.113,False,0.0006002456648275,0.0003641289658844,0.0007839585305191
+"i myself was not able to on the big screen, which was such a shame",0.23101798,0.9999736547470093,0.0833333333333333,0.181,False,0.0853378027677536,0.0226686298847198,0.0113886715844273
+"but yeah, i saw it on netflix",0.019575324,0.0,0.0,0.0,False,0.0006647852133028,0.0004436309682205,0.0003389472840353
+so do yourself a favor,0.09494796,0.6533393263816833,0.0,0.0,False,0.0262483339756727,0.0028285149019211,0.0061035989783704
+do go and see it,0.029812546,0.0,0.0,0.0,False,0.0012066868366673,0.0032253174576908,0.0007971373852342
+i'm sure we'll be seeing this one come up a lot during the oscars season,0.0334178,0.0,0.0,0.0,False,0.0006309899035841,0.0006467655184678,0.0004806767101399
+"i am really hoping that it breaks out of its foreign language category and gets into the best picture category because it deserves to be in the best picture category on its own merit, and shouldn't be just limited to the foreign language category, so i really hopefully see that",0.04165838,0.0,0.0,0.0,False,0.0006264189723879,0.0004634954384528,0.0003849656495731
+thanks so much for hanging out with me today,0.043718524,0.0,0.0,0.0,False,0.0025579419452697,0.0007906266255304,0.0014637364074587
+make sure you also subscribe to my channel here and keep up to date with all things movies and tv,0.03444787,0.0,0.0,0.0,False,0.0008902381523512,0.0006681936210952,0.0005418339278548
+i will see you next time,0.12760067,0.0,0.0,0.0,False,0.0011671793181449,0.0033978067804127,0.0015566331567242
+bye,0.059728492,0.0,0.0,0.0,False,0.0059144631959497,0.0005959753761999,0.000621129933279

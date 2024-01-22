@@ -1,0 +1,147 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hi, i'm a mandrill, and today i will be reviewing director guillermo del toro's 2017 movie the shape of water",0.22333995,0.0,0.0,0.0,False,0.0006503648473881,0.0006080023595131,0.0062475143931806
+"it's basically the story of a mute woman who works in janitorial services, and at her job she encounters a nonhuman entity",0.10515087,0.0,0.0,0.0,False,0.0075298063457012,0.0124346781522035,0.1245385482907295
+"will just say that, and a relationship build between the two",0.029125832,0.0,0.0,0.0,False,0.0006026260089129,0.000356972857844,0.0006005438626743
+"some would call it a modern-day beauty and the beast' del toro style, or you could also say cutie and the creature from the black lagoon, because that's more accurate",0.09548495,0.0,0.0,0.0,False,0.0007714520324952,0.015884693711996,0.0170604791492223
+i heard about the movie,0.027752401,0.0,0.0,0.0,False,0.0006310509634204,0.0004358278529252,0.0003301602555438
+i was not intrigued,0.04165838,0.9999388456344604,0.0,0.0,False,0.0007353327819146,0.0006283859256654,0.000345671956893
+i wasn't interested,0.0825038,0.9999667406082153,0.0,0.53,False,0.0010350587544962,0.0015694840112701,0.0004094624600838
+"it kind of looks like pan's labyrinth, and that rid didn't really get me excited",0.09387396,0.9999222755432129,0.0,0.0,False,0.0014637544518336,0.0006240743095986,0.0122926263138651
+this director definitely has a style of his own and it's not a style,0.12244874,0.5477363467216492,0.0,0.0,False,0.0009163167560473,0.0006583880167454,0.0004476330068428
+that's really me,0.025863936,0.0,0.0,0.0,False,0.0014979621628299,0.0003662742965389,0.0017661014571785
+but after watching the oscars and seeing mr,0.024147147,0.0,0.0,0.0,False,0.0007121605449356,0.001353308209218,0.0017787708202376
+"del toro clean up, i thought okay, fine, maybe i should give this movie a chance",0.10031791,0.6589230298995972,0.0,0.0,False,0.000957025331445,0.0023762579075992,0.0011348871048539
+maybe it's actually good,0.021380141,0.0,0.0,0.0,False,0.0005928667378611,0.000337896955898,0.0007306965417228
+"well, once again, this is not for me",0.036679696,0.9998980760574341,0.0,0.0,False,0.0016708011971786,0.0006816129898652,0.0023986264131963
+"just gonna say overall, it's very pan's labyrinth ii in the visuals, and the story is also kind of hellboy meets beauty and the beast meets",0.11472086,0.0,0.0,0.0,False,0.0010412654373794,0.0017880481900647,0.0032692980021238
+"well as i said, the swamp thing, creature from the black lagoon meets aquaman to a certain extent, i don't know",0.059328925,0.9080985188484192,0.0,0.0,False,0.000645839376375,0.0193034224212169,0.0036890760529786
+i had a really a hard time buying into the premise and going with it just so much was like uncomfortable,0.092262976,0.9999831914901733,0.1972222222222222,0.171,False,0.0007424261420965,0.0004419502220116,0.0008178962161764
+i liked the arrow we're in,0.06252546,0.0,0.0,0.0,False,0.0006231212755665,0.0003532386617735,0.0013883149949833
+we're in,0.021796638,0.0,0.0,0.0,False,0.0013769429642707,0.00048240806791,0.0007662172429263
+i don't know if it's the 50s,0.04543531,0.0,0.0,0.0,False,0.0009796881349757,0.0005796017940156,0.0006795934750698
+the 40s,0.017909339,0.0,0.0,0.0,False,0.0025176205672323,0.0004338301660027,0.0005467309383675
+i like the music they used from earlier times and they have a lot of vintage tv movie clips in the movie,0.055333257,0.0,0.0,0.0,False,0.0006032690871506,0.0004318963328842,0.0004540563968475
+"and when i saw that you know, black and white clips i knew okay, well, there you go",0.1731117,0.0,0.0,0.0,False,0.0008680636528879,0.0997389480471611,0.0360900871455669
+"that's why it went in oscar because there's a trend with the oscars that i've noticed every movie that has a love for the cinema or an ode to cinema and film, and it portrays some kind of old movie in it or embodies an old style",0.05852979,0.0,0.0,0.0,False,0.0007616062648594,0.0004487519327085,0.0004488838894758
+those movies usually win oscars,0.047495455,0.0,0.0,0.0,False,0.0009415340027771,0.002820756053552,0.0003976577427238
+"okay, yeah, it made a nod to the past",0.1024659,0.7783550024032593,0.0,0.0,False,0.0007231571362353,0.0003905805933754,0.0003747443552128
+"it acknowledged its history, but does that mean it deserves an oscar just because it feels timeless",0.10699297,0.0,0.3125,0.0,False,0.0006004697061143,0.000588366179727,0.002646665321663
+the performances are good,0.04783881,0.0,0.0,0.0,False,0.0006272917962633,0.0003539203898981,0.0005084423464722
+i wasn't blown away by anyone in particular michael shannon was,0.12631269,0.0,0.0,0.0,False,0.000990827800706,0.0007489384734071,0.0188236031681299
+"i mean, he plays michael shannon",0.036851373,0.0,0.3125,0.0,False,0.0011294983560219,0.000913270516321,0.0011022372636944
+"at this point, i don't know if he's typecast or he gravitates towards roles that put him in this position where he is just a villain or very intense, creepy, scary sally hawkins, as a mute, had to do a lot of facial expressions and body acting",0.22990009,0.9997976422309875,0.148,0.134,False,0.0033440017141401,0.0459001623094081,0.0714101567864418
+she did a good job,0.024662184,0.0,0.0,0.0,False,0.0008383287931792,0.0005193526158109,0.0019894880242645
+she really did,0.030670939,0.0,0.0,0.0,False,0.0022831039968878,0.0003566457598935,0.001331728301011
+"they tried to set up this relationship between her and i guess her neighbor or caretaker, played by richard jenkins, but i don't know",0.055333257,0.9987494945526123,0.0,0.0,False,0.0006487635546363,0.0013454367872327,0.0014381037326529
+i didn't see it,0.02124131,0.9997164607048035,0.0,0.0,False,0.0008040575776249,0.0004794002452399,0.0003948215162381
+i felt like this movie wants us to believe,0.038911518,0.0,0.0,0.0,False,0.000663474726025,0.0005024317651987,0.0006127864471636
+"oh, these two go way back and they have a relationship, but i really did not get that",0.1334155,0.9964181184768677,0.0,0.0,False,0.001175565063022,0.0004925646353513,0.0008049096213653
+"even octavia spencer's character felt very theatrical with the fast-talking and the always blabbering because you know, oh, you have the nude girl",0.41807786,0.0,0.0,0.0,False,0.0173259172588586,0.1645015478134155,0.4254279136657715
+"of course, she's gonna be friends with the girl who can't stop talking because she just needs somebody to listen to her",0.124380715,0.0,0.0,0.0,False,0.0007173208286985,0.0067721786908805,0.0033091180957853
+it feels like a trope,0.20669603,0.9978598952293396,0.0,0.0,False,0.0009148699464276,0.0003351663181092,0.0054451385512948
+it feels like something a little bit obvious,0.049898956,0.9981542229652405,0.09375,0.0,False,0.0006914808764122,0.0003984789364039,0.000815627456177
+i don't know,0.017770508,0.9742851853370667,0.0,0.0,False,0.0010861124610528,0.0022731318604201,0.0004278314299881
+"it felt theatrical, but i think that's what guillermo goes for",0.059728492,0.0,0.0,0.0,False,0.0005895104841329,0.0009360802941955,0.0078393453732132
+he goes for something kind of big and showy,0.15276173,0.0,0.0,0.0,False,0.0008195333648473,0.0169309601187706,0.0085292365401983
+"he's telling a fairy tale, and you're often reminded that this is very much fantastical and not grounded in any reality, but i still feel like he aims for reality",0.061726328,0.0,0.0,0.0,False,0.0007016456802375,0.0003957577282562,0.0004360385355539
+"that's why i'm mentioning it, but maybe i'm completely wrong",0.03839648,0.7670916318893433,0.5,0.338,False,0.0006255615735426,0.0005965470918454,0.0005694450228475
+maybe he just wants us to be in fantasy world and forget about reality,0.10515087,0.9975784420967102,0.0,0.128,False,0.0018016427056863,0.0009614217560738,0.0007388121448457
+forget about how unnatural people are,0.2298686,0.9987415671348572,0.0,0.275,False,0.0616843365132808,0.0220458507537841,0.4291199743747711
+how people talk how people interact with one another,0.05413456,0.0,0.0,0.0,False,0.0006543825147673,0.0004668997135013,0.0005604430916719
+he just inspires himself in real life,0.03770977,0.0,0.0,0.0,False,0.0006827087490819,0.0006863977177999,0.0020088234450668
+but then chuck's it all out the window,0.0495556,0.7698874473571777,0.0,0.0,False,0.011116842739284,0.0039362017996609,0.1744910627603531
+my gosh,0.049898956,0.0,0.0,0.0,False,0.0260133016854524,0.0017731146654114,0.0074737756513059
+"this movie gave me huge amelie, pula, amelie, amelie, vibes",0.11343288,0.0,0.0,0.0,False,0.0007159064989537,0.0017721999902278,0.4641232490539551
+that's one of my favorite movies,0.03770977,0.0,0.0,0.0,False,0.0007817950681783,0.0004359930171631,0.0009340646211057
+i haven't seen it a long time,0.029125832,0.979083240032196,0.05,0.0,False,0.0006253672181628,0.0003959958849009,0.0006811473867855
+as a teenager,0.062125895,0.0,0.0,0.0,False,0.0102441003546118,0.001285727834329,0.0023766988888382
+"i watched it over and over and over again, so it's just a part of me the way jumanji is watching this movie",0.03994159,0.0,0.0,0.0,False,0.0006689088768325,0.0004498931521084,0.0005389145226217
+i saw ok,0.023288755,0.0,0.0,0.0,False,0.0007009505643509,0.0004371026880107,0.0005032254848629
+"color theme is very emily, music with the accordion and everything, very emily, quirky love story, very emily, richard jenkins, character painting near a window, it's a french movie for those who don't know about a quirky, different unique wrenches, zooey deschanel kind of girl",0.087430015,0.0,0.0,0.0,False,0.000795406231191,0.0015275191981345,0.0034457549918442
+it's just about her and her world and how she views the world and it's interesting,0.020269485,0.0,0.0,0.0,False,0.0006320613319985,0.0004949482390657,0.0005803206586278
+talk about the best soundtrack ever in cinema,0.03221605,0.0,0.0,0.0,False,0.0005891953478567,0.0004310215008445,0.0005020528333261
+"shout out to yanti erson, amazing",0.09333697,0.0,0.0,0.0,False,0.0009724396513774,0.0012024501338601,0.001879661460407
+so one of the elements that is really showy and extra is the village,0.02517722,0.0,0.0,0.0,False,0.0006792130880057,0.000457727437606,0.0005722809000872
+he has all the things that a villain has,0.19716066,0.0,0.0,0.31,False,0.0355529747903347,0.00232272176072,0.0035038329660892
+"he's racist, a supremacist, a religious fanatic, he's an idiot",0.9320454,0.9990929365158081,0.3666666666666667,0.462,True,0.986485719680786,0.9970495700836182,0.9988881945610046
+"he's gross, like wash your hands ill, and what, he develops, a mute fetish after he meets eliza like he's power-hungry and insecure and oh, just too much too much for me, and we see this kind of rotten personality is portrayed and symbolism",0.5933793,0.9999866485595703,1.8503717077085938e-17,0.222,False,0.7987044453620911,0.9619890451431274,0.8467928767204285
+it's all i'm gonna say,0.033932835,0.0,0.0,0.0,False,0.001120455795899,0.0005677319131791,0.0031174081377685
+i don't want to spoil it,0.13251819,0.0,0.0,0.196,False,0.0051595252007246,0.0151998307555913,0.0025291303172707
+"no pun intended, i say this movie is pg-13 i don't know what its labels got some mature scenes in there - it's got some violence more than i thought it would have",0.10031791,0.998221218585968,0.0,0.161,False,0.0008357907645404,0.0005646031349897,0.0050649023614823
+"it's kind of visually striking, so yeah, i don't think it's for children",0.09494796,0.553780198097229,0.0,0.0,False,0.0010222942801192,0.0007062120712362,0.0034318522084504
+"no, no, and the female character at times kind of feels written by a man, but i don't know",0.11085691,0.9953148365020752,0.0,0.0,False,0.0006741288234479,0.0034796835388988,0.0093306666240096
+"i don't know all women, so i can't speak",0.0789077,0.8081471920013428,0.0,0.0,False,0.0437328703701496,0.0432993024587631,0.0222484786063432
+"but every morning in the tub, really",0.037881445,0.0,0.0,0.0,False,0.0007515190518461,0.0007915715686976,0.0009153420105576
+"hey, apparently this woman is exceptional and unusual and it's a fantasy character",0.077709,0.0,0.0,0.0,False,0.0007132677128538,0.0043987240642309,0.0180599428713321
+when did she learn to tap dance? i had questions,0.1550967,0.9971044659614563,0.0,0.0,False,0.0008648792863823,0.0007146982243284,0.0020340627525001
+why eggs exclusively? it's not kind of bad for your diet,0.04680874,0.0,0.4999999999999999,0.0,False,0.0054032034240663,0.0015310753369703,0.0013404665514826
+"and then you have the fish, dude",0.13610743,0.0,0.0,0.0,False,0.0144703295081853,0.0011017495999112,0.0081273261457681
+you know,0.03994159,0.0,0.0,0.0,False,0.0024898352567106,0.000538251013495,0.0007277476252056
+"no, sorry, i know",0.022945397,0.9994833469390869,0.0,0.302,False,0.0009692582534626,0.0007915213936939,0.0005149681237526
+"no, i don't love fish",0.043375164,0.8698492050170898,0.0,0.457,False,0.0084452554583549,0.0054989326745271,0.0020751799456775
+i eat fish,0.062925026,0.0,0.0,0.0,False,0.0369092598557472,0.0010405505308881,0.0015394049696624
+now he's not really a fish,0.08555053,0.8818172812461853,0.1,0.0,False,0.1274649053812027,0.0037555671297013,0.0160101149231195
+fine,0.017076347,0.0,0.0,0.0,False,0.0025295971427112,0.0006032793899066,0.0017978650284931
+"he's not that far removed, but he's not",0.049212243,0.9553208947181702,0.0,0.0,False,0.0017016138881444,0.0014048055745661,0.0017323121428489
+they mentioned that he might be some kind of south american godlike creature,0.23189566,0.9978256821632385,0.0,0.0,False,0.0021604914218187,0.0184649042785167,0.0030037160031497
+"oh god, no, he seemed to be very much mortal, and always on the brink of death",0.26817688,0.9998339414596558,0.0,0.186,False,0.0366888083517551,0.0075041577219963,0.208684504032135
+i would say maybe he's an x-men character,0.06132676,0.0,0.0,0.0,False,0.0011909327004104,0.002020452870056,0.0035231453366577
+"you know, he's a mutant",0.46128514,0.0,0.0,0.0,False,0.784991443157196,0.8368719816207886,0.9606056809425354
+"he is a very more realistic portrayal of what you would expect aquaman to be, but hot",0.19535941,0.0,0.0,0.0,False,0.0015237616607919,0.0121363438665866,0.0056876167654991
+no girl,0.11021292,0.9292758107185364,0.0,0.688,False,0.0727601572871208,0.01366747636348,0.0032984898425638
+"no, no, i'll tell you what she was into",0.055732824,0.9431739449501038,0.0,0.0,False,0.0014085705624893,0.0034020224120467,0.0038376587908715
+the mavs is what she was into,0.045091953,0.0,0.0,0.0,False,0.0095052625983953,0.0127856973558664,0.0302109494805336
+i mean shape of water hawk,0.046465382,0.9897831082344055,0.3125,0.0,False,0.0008393722819164,0.0009899876313284,0.0063890749588608
+"you know what i'm saying, i don't know",0.043375164,0.9632253050804138,0.0,0.0,False,0.0010707195615395,0.0065142177045345,0.0013896754244342
+it was really hard for me to buy into their evolving relationship insecurities,0.12631269,0.998314619064331,0.2916666666666667,0.29,False,0.0010105626424774,0.0019791768863797,0.0016048806719481
+much,0.020408317,0.0,0.0,0.0,False,0.0075112315826117,0.0004907986731268,0.0004971520975232
+"she makes a speech at some point about feeling like an outsider, feeling alone and deficient as a human being, but when he looks at her or when she's with him, she feels completely just sounds like you've got major insecurity issues and what you are so dissatisfied with? who are that a human man could never be into you",0.19338597,0.9999873638153076,0.0475,0.143,False,0.1008396372199058,0.0076431538909673,0.0100722750648856
+you have to go and find your mate in the fish world,0.2224569,0.0,0.0,0.0,False,0.0397587530314922,0.0282726883888244,0.0081818057224154
+this is not the beginning of a healthy relationship,0.08850401,0.9947456121444702,0.0,0.0,False,0.0008572865626774,0.0003538627352099,0.0002237117878394
+i had compassion for him as a living being a creature,0.119872786,0.0,0.0,0.0,False,0.0028778116684406,0.0007316162809729,0.0061690360307693
+i was like,0.020269485,0.0,0.0,0.0,False,0.0018684471724554,0.0012496832059696,0.0013088413979858
+"yes, it's unfair that he is in this tank that he was stolen",0.18154536,0.9790128469467163,0.5,0.332,False,0.0149723812937736,0.0196382291615009,0.0138776721432805
+that he was brought to this place to be researched and poked and prodded and mistreated,0.2406723,0.9962218999862671,0.0,0.0,False,0.0005706033552996,0.000519209599588,0.1885092258453369
+"yes, i can have compassion for him on that level, but as a love interest as a human being, i have my limits and i found them through this movie and it felt at time like they were trying to equate, or some kind of metaphor between racism and fish ism",0.1256687,0.0,0.0,0.084,False,0.0010461047058925,0.002481568371877,0.0015115264104679
+i don't know,0.017770508,0.9742851853370667,0.0,0.0,False,0.0010861124610528,0.0022731318604201,0.0004278314299881
+"i'm not saying that that's what they were going for, but it felt like they were leaning on",0.037023053,0.8281642198562622,0.0,0.0,False,0.0006416138494387,0.0004017704923171,0.000728080573026
+"oh, just because it doesn't look like you",0.08850401,0.9925428628921509,0.0,0.232,False,0.1283917278051376,0.0440127216279506,0.0176494643092155
+you hate him,0.3955794,0.9992520213127136,0.8,0.649,False,0.7414552569389343,0.2960906028747558,0.3250120878219604
+"they brought up racism in the movie, they brought up homophobia in the movie, they brought up just hating of people that aren't conventional to society in ways that i thought were kind of obvious and just too direct",0.3511902,0.9998558759689331,0.0,0.167,False,0.0359343774616718,0.0283331498503685,0.0114794848486781
+"either, i have seen way too many movies about injustice and discrimination and i'm just fed up with it, or it just kind of felt like a plot device and emotional manipulation almost to a certain extent",0.1414913,0.9998974800109863,0.0,0.135,False,0.0006458619027398,0.0006328503368422,0.0004604469868354
+"ah, now you're supposed to hate this character and have sympathy for this character",0.2008281,0.9943244457244873,0.8,0.203,False,0.0209857877343893,0.0422629490494728,0.0935768038034439
+and that's how you're gonna love the team of misfits that we're putting together for you,0.32044756,0.0,0.0,0.0,False,0.0704629644751548,0.3891699016094208,0.5070018172264099
+"the end end is somewhat predictable, not super predictable, but when they show eliza has a certain characteristic in her childhood, you can kind of expect the movie to go in a certain direction, especially at the end",0.0334178,0.0,0.0,0.046,False,0.0006009205826558,0.00036048743641,0.0004070631111972
+and that's what we get,0.02792408,0.0,0.0,0.0,False,0.0013345209881663,0.0004102720122318,0.0012062030145898
+oh cute creative,0.039254878,0.0,0.0,0.0,False,0.0008006888092495,0.0004833949788007,0.0038046657573431
+who know,0.018048171,0.0,0.0,0.0,False,0.0014536599628627,0.0005055765504948,0.0003654999018181
+"this movie just felt like a spoof of lala land, the romantic scenes, the moments where we leave this reality",0.1580154,0.9922993779182434,0.05,0.051,False,0.0010188241722062,0.0004741475568152,0.0016718403203412
+"now we're in a dance sequence, tab, dancing, etc",0.04680874,0.0,0.0,0.0,False,0.0006306574214249,0.000647043576464,0.0024427000898867
+"i don't want to say too much, but there's a whole russian storyline to this movie that i felt was unnecessary",0.08689302,0.9997242093086243,0.0,0.053,False,0.0006367659661918,0.0010870156111195,0.0005343693192116
+i didn't see how it added anything,0.019575324,0.9996178150177002,0.0,0.0,False,0.0007046493701636,0.0003907450300175,0.0003832514339592
+it was violent,0.14866976,0.9962348341941833,0.8,0.661,False,0.0851578339934349,0.0165235809981822,0.0339779183268547
+for violence sake,0.22986074,0.9987095594406128,0.0,0.672,False,0.023913549259305,0.0397040024399757,0.0645723044872284
+the character involved in that storyline could have been integrated in another way and would have served his purpose just as well,0.021796638,0.9961729645729065,0.0,0.0,False,0.0005551475333049,0.0003175087913405,0.0002251268160762
+my advice would be,0.017770508,0.0,0.0,0.0,False,0.0009177930187433,0.0006524376804009,0.0006521241157315
+"if they're gonna do a sequel, marvel should snatch this movie up",0.18647896,0.543854832649231,0.0,0.0,True,0.050064742565155,0.0005428889999166,0.0028865488711744
+"talk to your man toro and turn this into the blueish green or teal panther, and we can have wakanda in south america",0.101391904,0.0,0.2,0.0,False,0.0007971616578288,0.0220427978783845,0.0158093217760324
+call it el dorado,0.0035575724,0.0,0.0,0.0,False,0.0303275529295206,0.0208904519677162,0.0168597195297479
+"i mean, that's kind of what makandal was referred to as, and in the end the creature could just be a guy in a suit and we see him, you know, exit the waters and is, if it off, and it's just william levy, under all of that mmm, that would kill audiences",0.3123962,0.9999086856842041,0.0,0.083,False,0.0391565188765525,0.0441650934517383,0.0461132787168026
+"you're welcome, marvel",0.026894007,0.0,0.0,0.0,False,0.0008632223471067,0.0003970236284658,0.0032061049714684
+i will accept some royalty fees,0.02637897,0.7575073838233948,0.0,0.0,False,0.0006145109073258,0.0004409325192682,0.000324619031744
+thank you,0.014369122,0.0,0.0,0.0,False,0.0006253210594877,0.0005706180236302,0.0004497025802265
+i think i said what i had to say about shape of water,0.026894007,0.0,0.0,0.0,False,0.0005998270353302,0.0004949977737851,0.0009656469337642
+"it's not for me if you like del toro movies, if you like beauty and the beast the concept, if you're not averse to bestiality, if you're into a mini pool on the movie in la-la land, even to a certain extent, if you even like finding nemo, watch this movie cinema for the graphics",0.15188612,0.0,0.0,0.0,False,0.0008710140828043,0.0019798194989562,0.000560967659112
+not so necessary at home,0.012356056,0.6990782022476196,0.0,0.0,False,0.000944240251556,0.0007176788058131,0.0015363715356215
+"sure, more of a home movie, i would say, but why he won all those oscars i'm sorry",0.11600884,0.9967923760414124,0.0,0.063,False,0.0007167625590227,0.0028534715529531,0.0013435167493298
+it's beyond me,0.032902762,0.5898082256317139,0.0,0.0,False,0.0011886882130056,0.0005675103748217,0.0045330105349421
+"as i said, i think it's just because he referenced old movies and they're just like",0.025005542,0.7674989700317383,0.0,0.0,False,0.0006994908326305,0.0005008132429793,0.0010662397835403
+"oh, look, my grandfather was in this movie",0.052136723,0.97855144739151,0.0,0.0,False,0.0009495486156083,0.0006909713265486,0.002747796010226
+we should give him the oscar,0.076110736,0.0,0.0,0.0,False,0.0229303762316703,0.1574030667543411,0.0453166738152504
+"just kidding, lots of love",0.043718524,0.0,0.0,0.0,False,0.0007638464448973,0.0006109165260568,0.0007792454562149
+"anyway, you're trying to talk",0.04783881,0.9419978857040405,0.0,0.0,False,0.0008607558556832,0.0016948815900832,0.0090717179700732
+"what did you think of shape of water comment section below, thanks for watching before you go like this video",0.022213135,0.6958116888999939,0.0,0.0,False,0.0007496728794649,0.000586204463616,0.0008849920122884
+subscribe to music game news,0.019158829,0.9864404797554016,0.4,0.0,False,0.0009672849555499,0.0005168067291378,0.0002992352528963
+if you haven't already turned on that notification about if you have and have a blessed day,0.03221605,0.0,0.0,0.0,False,0.0009079990559257,0.0006603052024729,0.0005984833696857
+"oh, i didn't answer the question",0.018881164,0.9984562397003174,0.0,0.0,False,0.0009356630034744,0.0004535206244327,0.0006798020913265
+"so what is the shape of water? is it an octagon? is it a circle? is it a triangle? no, its phallic piece",0.29021257,0.997977077960968,0.0,0.0,False,0.0019546668045222,0.0006723487167619,0.3290826976299286

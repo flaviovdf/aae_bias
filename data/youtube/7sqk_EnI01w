@@ -1,0 +1,58 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+this is one of those movies you watch and then you reflector,0.0471521,0.0,0.0,0.0,False,0.0133523968979716,0.0007791183888912,0.0021195153240114
+like,0.022351967,0.0,0.0,0.0,False,0.001461298437789,0.0005631173844449,0.0007380700553767
+what does the control room of my mind look like? i'm not gonna lie to you guys,0.1580154,0.9538655877113342,0.0,0.0,False,0.0112277623265981,0.0142201194539666,0.0199399292469024
+mine's probably super scary,0.0825038,0.0,0.0833333333333333,0.352,False,0.0021032418590039,0.0018631827551871,0.0015139796305447
+you don't want to see this,0.07730943,0.9972994923591614,0.0,0.196,False,0.0071708909235894,0.002536489861086,0.0018187281675636
+much,0.022945397,0.0,0.0,0.0,False,0.0075112315826117,0.0004907986731268,0.0004971520975232
+rather watch this movie,0.040971663,0.9144704937934875,0.0,0.0,False,0.0020397505722939,0.0005662452313117,0.0002718721807468
+that's a fact inside out,0.029640866,0.0,0.0,0.0,False,0.0011707006487995,0.0004270757781341,0.0005664603668265
+so inside outs,0.06971766,0.8906177282333374,0.0,0.0,False,0.583185076713562,0.0009342959965579,0.0013851679395884
+the newest pixar movie inside out revolves around an 11-year old girl named riley,0.13521013,0.0,0.0,0.0,False,0.0025617270730435,0.0027021255809813,0.0047698160633444
+"her family has uprooted and moved to san francisco, so this is a very stressful time for her inside out takes place inside the control room of her mind, and manning the control room of her mind are the emotion, joy, anger, fear, disgust and sadness",0.13924801,0.0,0.0,0.283,False,0.0075752874836325,0.0126668456941843,0.0015615909360349
+and ultimately joey has to go on an adventure in the recesses of her subconscious,0.19141254,0.0,0.0,0.0,False,0.0008627088391222,0.0004670038179028,0.1300665885210037
+"it just takes her all around the world that's constructed to represent her mind, and all the other emotions are trying to do their best to kind of keep her emotional state stable, but it just doesn't always work out that way, which is so smart",0.07730943,0.0,0.0,0.0,False,0.0006993165006861,0.0007628872990608,0.0043933084234595
+it's so interesting,0.034104515,0.0,0.0,0.0,False,0.0006449198699556,0.0003145977971144,0.0005117793334648
+the metaphors and parables in the situational circumstance that happened to ultimately explain an emotional state,0.020269485,0.0,0.0,0.0,False,0.0006726896390318,0.000894549593795,0.0002669592504389
+how a happy memory turns into a sad memory,0.046122026,0.0,0.0,0.225,False,0.00254274928011,0.0006371775525622,0.0003820376296062
+"oh, you're kind of in the zone sometimes then you just like off your game",0.090114996,0.6202731132507324,0.0,0.0,False,0.1487688422203064,0.0058897677809,0.001641180482693
+"the movie does it so well, i'm so smart",0.09333697,0.0,0.0,0.0,False,0.000794970896095,0.0009957728907465,0.0031044585630297
+the only word i can describe it is genius,0.09548495,0.0,0.0,0.0,False,0.0008670849492773,0.0005142343579791,0.0017328324029222
+this is a genius movie,0.03856816,0.0,0.0,0.0,False,0.0007828727248124,0.0004596536746248,0.0014838249189779
+i love this energy that all the emotions had in this movie,0.040284947,0.0,0.0,0.0,False,0.0006555978907272,0.0003610098501667,0.0005617522983811
+i loved the interaction,0.08367105,0.0,0.0,0.0,False,0.0007822683546692,0.0003465481568127,0.0002110546192852
+"i love lu's blackest anger, perfect casting to represent anger",0.3123962,0.0,0.0,0.347,False,0.042995274066925,0.240272969007492,0.5271012187004089
+"and although he's a standout, all the emotions do their job in this movie so well, and the movie has a great lesson behind it",0.034104515,0.0,0.0,0.0,False,0.0013987515121698,0.0004427039530128,0.0004925556713715
+"not gonna tell you what it is? you're gonna watch the movie to get it, dude, i'm not ruin it for a better show",0.11472086,0.0,0.0,0.0,False,0.0038396972231566,0.0023979819379746,0.009942720644176
+do you think this is? i found myself laughing so much in this movie,0.11472086,0.0,0.0,0.0,False,0.0011568189365789,0.000497669854667,0.0053851320408284
+but sometimes it was because the movie was being funny,0.038911518,0.6866900324821472,0.0,0.0,False,0.0007610505563206,0.0004579482483677,0.0006252835155464
+sometimes it was just like oh my gosh,0.0741129,0.608686089515686,0.0,0.0,False,0.0065753096714615,0.0036258399486541,0.0028527483809739
+that makes so much sense,0.05413456,0.0,0.0,0.0,False,0.0007679145201109,0.0003245852713007,0.0005572375957854
+so what goes on in the recesses of someone's mind? you can't help but just applaud the makers of this movie in that i feel like adults are gonna like this movie more than kids,0.09816993,0.0,0.0,0.038,False,0.0010221948614344,0.0011813336750492,0.0023824400268495
+"it's a rarity among animated films, but it does exist",0.05093802,0.0,0.0,0.0,False,0.0006970047252252,0.0003524433122947,0.0003862231969833
+seriously,0.020408317,0.0,0.3333333333333333,1.0,False,0.0036900751292705,0.0004640533297788,0.002472732681781
+"kids are gonna enjoy the adventure, you know, like joy's going on her adventure with sadness, and you see all the different lands that represent her emotional states and her core memories, and kids are just going to dig that, but adults are can love how this movie explains emotional states because i mean we're all human beings",0.0334178,0.0,0.0,0.029,False,0.0015353740891441,0.0004187072627246,0.0004897168255411
+we've all had extreme emotional states and sometimes they downright suck,0.58919406,0.9995067119598389,0.0625,0.21,False,0.947762370109558,0.854358434677124,0.8992737531661987
+so it's neat to see an adventure,0.023632111,0.0,0.0,0.0,False,0.0006169030675664,0.0003323060227558,0.0005342934746295
+that kind of explains it where you're like,0.021380141,0.0,0.0,0.0,False,0.000921384897083,0.0011975049274042,0.0075129736214876
+"you know that is, it's clever",0.07970683,0.0,0.0,0.0,False,0.0009217387414537,0.0005014122580178,0.0107803354039788
+"like in order not like this movie, you have to have no emotions",0.1785852,0.9845346212387085,0.0,0.256,False,0.0067582828924059,0.0108871636912226,0.0015050747897475
+if you have emotions and you have felt emotions,0.035649624,0.0,0.0,0.0,False,0.0025259675458073,0.000418249896029,0.0027900508139282
+you're going to relate to this movie,0.032559406,0.0,0.0,0.0,False,0.0006905802874825,0.0004359504091553,0.0007969790021888
+it's an inevitability,0.032902762,0.0,0.0,0.0,False,0.0013987415004521,0.0005061990814283,0.0005797780468128
+it's undeniable guys,0.07970683,0.0,0.0,0.0,False,0.001328699174337,0.0015720863593742,0.0012126640649512
+"short review, i get it, but in the end i love this movie",0.0495556,0.0,0.0,0.0,False,0.0006031966186128,0.0005068412283435,0.0002768280101008
+i love the characters,0.024662184,0.0,0.0,0.0,False,0.0007377740112133,0.000376165495254,0.0002230296377092
+the premise is great,0.023460433,0.0,0.0,0.0,False,0.00071722822031,0.0003548041859176,0.0003147654933854
+the execution of the premise is genius,0.09709594,0.0,0.0,0.0,False,0.0006914752302691,0.000743297219742,0.1673288941383361
+his movie reminded me of monsters inc,0.09763293,0.997583270072937,0.0,0.0,False,0.0010184054262936,0.0107677327468991,0.015833742916584
+"if the monsters inc world was inside someone's mind, i'm keeping this review vague because i want you guys to experience the movie how i experienced it",0.11343288,0.7910614013671875,0.0,0.051,False,0.0005941443378105,0.0112607581540942,0.0018934970721602
+"i really knew nothing about this movie except the general premise, which you also know",0.059728492,0.9976045489311218,0.0,0.0,False,0.0006260632071644,0.000443651486421,0.0008734592120163
+ultimately finding a flaw at all in this movie is just downright a chore,0.28996843,0.9965510368347168,0.0,0.0,False,0.0021891149226576,0.0006330961477942,0.0067130103707313
+"inside out fulfilled all my expectations and surpassed them, because inside out definitely is awesome",0.086087525,0.0,0.0,0.0,False,0.0006461223238147,0.0004521716327872,0.0004595853388309
+tacular,0.06771983,0.0,0.0,0.0,False,0.0011323947692289,0.0004927705740556,0.0055000963620841
+"seriously, it's hard to tell, but an instant classic is going to be",0.0765103,0.0,0.0416666666666666,0.188,False,0.0007060610223561,0.000343026331393,0.0012113018892705
+"but i promise you, in a couple years people are going to look back and go",0.051737156,0.0,0.0,0.0,False,0.0024038054980337,0.0012823828728869,0.0006115019787102
+"yeah, toy story 3, finding nemo all the other top shelf pixar movies that people love along with inside out, ok, so inside out",0.08420804,0.0,0.0,0.0,False,0.0015687877312302,0.0012372836936265,0.0005559081910178
+"have you seen it? what did you think about it? whatever you thought, comment below, let me know",0.022351967,0.0,0.0,0.0,False,0.0006513287662528,0.0007977916393429,0.0008875443600118
+"and as always, if you like what you've seen here and you want to see more, click right here to see more",0.021657806,0.0,0.0,0.0,False,0.0008711083210073,0.0004309348587412,0.0003879239084199

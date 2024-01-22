@@ -1,0 +1,68 @@
+text,perspective_score,flair_score,textblob_score,vader_score,has_swearing,detoxify_original_score,detoxify_unbiased_score,detoxify_multilingual_score
+"hello, my name is ventus i, and thank you so much for tuning in to my channel based on a true story",0.0186035,0.0,0.0,0.0,False,0.0008162346784956,0.0009655797621235,0.0002582180604804
+"today we're reviewing the film, but smart move, so let's get right into it",0.03753809,0.0,0.0,0.0,False,0.0005693237180821,0.0004130031738895,0.0006061845924705
+"this film was written by four lovely ladies who are susanna foggle, emily hopper, nat, sara hoskins and katy silberman",0.037194733,0.0,0.0,0.0,False,0.0014053300255909,0.0259881541132926,0.029944198206067
+"some of the titles of these ladies have written include so the spy who dumped me, good girls blackish, isn't it romantic and set it up, so some good winners in there? this film was directed by olivia wilde",0.23891698,0.6145515441894531,0.0,0.102,False,0.0009376531816087,0.0197650138288736,0.061366032809019
+"this is her directorial debut woohoo female directors, and she formerly was an actress and producer",0.02809576,0.0,0.0,0.0,False,0.0010249296901747,0.0022486227098852,0.0025626581627875
+so mistakes ad for her,0.065721996,0.9994602799415588,0.0,0.411,False,0.0135674066841602,0.0009368155151605,0.001260689808987
+"the writing time was an hour and 42 minutes up a dream, just 12 minutes over that hour, 30 mark, and it was a great running time",0.028782474,0.0,0.0,0.0,False,0.0006727091968059,0.0003913595865014,0.0004835721920244
+"our cast was kaitlyn dever beanie feldstein scholar, you know, so billie lourd, jason sudeikis and jessica williams, i know i slaughtered some of those names",0.355017,0.0,0.0,0.0,False,0.0099967708811163,0.1982097178697586,0.0130785191431641
+"guys names we don't recognize, which was great",0.050242316,0.0,0.0,0.0,False,0.0006182604120112,0.0049837897531688,0.0008559662965126
+i remember,0.019297661,0.8269626498222351,0.0,0.0,False,0.0007539399666711,0.0003640796639956,0.0003160100313834
+my friend in the mess of the film,0.13296685,0.9999724626541138,0.175,0.214,False,0.0006735114147886,0.0008900277898646,0.0016004332574084
+width was like i loved that i didn't know all the cast members and it was that was so fun to see these new actors that they're bringing up into the spotlight and not like recasting,0.0741129,0.0,0.0,0.047,False,0.0006649410934187,0.0005577628617174,0.000545545190107
+"noah sent to me, i mean as much as we love him, i don't want to see him again for a little bit",0.13251819,0.0,0.0,0.046,False,0.0006469569634646,0.0040429383516311,0.0040596248582005
+"okay, so i think it was cool to see some new characters on the scene",0.029469188,0.0,0.0,0.0,False,0.0005529327900148,0.0004065670946147,0.0003219140344299
+"this film, according to imdb is on the eve of their high school graduation to academic superstars and best friends, realized it should have worked less, and played more, determined not to fall short of their peers",0.067320265,0.9604746699333191,0.0,0.0,False,0.0008515651570633,0.0007483327644877,0.0006603952497243
+the girls try to cram four years of fun into one night,0.3063832,0.0,0.0,0.0,False,0.0337772332131862,0.0086685819551348,0.0150948436930775
+overall,0.023632111,0.0,0.0,0.0,False,0.0009697820059955,0.0014175759861245,0.0004327050992287
+"score for this phil three books, i am using books because it's called book smart",0.13924801,0.0,0.0,0.0,False,0.0009499942534603,0.0009337122319266,0.0006960491882637
+who else is smart? this guy,0.34388447,0.0,0.0,0.0,False,0.0025831859093159,0.007502818480134,0.0239729117602109
+the film is extremely funny guys,0.07211506,0.0,0.0,0.0,False,0.000776641536504,0.0011464385315775,0.0006701776874251
+i was lol aghh the whole time and so was the audience,0.12953265,0.0,0.0,0.0,False,0.0023926221765577,0.000555204169359,0.0016191216418519
+we were having a grand time together,0.039254878,0.0,0.0,0.0,False,0.0006913589895702,0.0003983780916314,0.0027361118700355
+i loved that the film very much focused on female friendship,0.07730943,0.0,0.0,0.0,False,0.0008186541381292,0.0032487215939909,0.0015253047458827
+it also touched on female sexuality,0.35642847,0.0,0.0,0.0,False,0.2748908996582031,0.2694853246212005,0.0573705732822418
+it was just a love story between two best friends and how friendship changes after high school,0.030842619,0.0,0.0,0.0,False,0.0006418652483262,0.0006927446811459,0.0003792570787481
+in the stages that friendship goes through,0.025863936,0.0,0.0,0.0,False,0.0005865503917448,0.0003354040090925,0.0003136050945613
+"i believe it is an important topic to discuss, and the film dealt with that very very well",0.015549194,0.0,0.0,0.0,False,0.0005182567983865,0.0003227099077776,0.0003087437071371
+there were some points where i was like,0.020685982,0.7343468070030212,0.0,0.0,False,0.0007416030275635,0.0006947485962882,0.0010352594545111
+this is unrealistic,0.09065199,0.9993962049484253,0.5,0.0,False,0.0008988141780719,0.0018914289539679,0.0069915754720568
+"this would never happen in high school, but the film is also very surreal and it has like a dreamlike insanity to it, so i just went along and enjoyed the ride",0.1580154,0.0,0.0,0.121,False,0.0006135405856184,0.0008332632132805,0.0038412536960095
+it was smartly so smartly directed,0.055732824,0.0,0.0,0.0,False,0.0009392031352035,0.0005257203592918,0.0036676845047622
+well shot,0.2835225,0.0,0.0,0.0,False,0.0569769628345966,0.0633350908756256,0.0856821686029434
+"some editing choices were interesting, but it did have a great fun and rhythm to it",0.019714156,0.0,0.0,0.0,False,0.0005521393613889,0.0003964765346609,0.0002903108252212
+"i don't say this about many films that i have critiqued so far or many films that i've seen, but it honestly felt like they had fun making it like i felt it in the film and they do",0.058130227,0.0,0.0,0.0,False,0.0005839111981913,0.0004309615469537,0.00033331499435
+so they have some interesting choices where they do some fun genre bending things,0.10031791,0.5008264780044556,0.0,0.0,False,0.0005937418318353,0.0004340162849985,0.0007850668625906
+and i enjoyed that so much because they were just like,0.046122026,0.0,0.0,0.0,False,0.0008765382226556,0.0004184106073807,0.002382232574746
+let's try this,0.034791227,0.0,0.0,0.0,False,0.0013944747624918,0.000647131120786,0.0003511798859108
+"felt like they were just kids being like, let's put playdough here and tie-dye here and and load you wanna draw with krandall gets drunk, ran like a very much high, regular hollywood story arc, but the way they told the story in various formats was really interesting and fun to watch",0.14956708,0.0,0.0,0.028,False,0.0076867383904755,0.0036163395270705,0.0045763310045003
+so that i enjoyed seemed like they had a really fun time playing with different ideas for honest performance,0.038053125,0.0,0.0,0.0,False,0.000618080724962,0.0003922061005141,0.0003481829189695
+i'm gonna give this one three books,0.052935857,0.0,0.0,0.0,False,0.0013162612449377,0.0009195567690767,0.0008694274583831
+"there were some really good oscar furnaces, but there were some movements where the actors were breaking character, but just me, and that was usually when they",0.0753116,0.5592067837715149,0.0,0.0,False,0.0006067435606382,0.0004203583521302,0.0007943624514155
+"i could tell it, they were about to laugh, and i, so i got they were doing making the film, but it took me a little bit out of the film",0.09709594,0.9399095177650452,0.0,0.0,False,0.0007402882911264,0.0008420355152338,0.0004940401413477
+"i think kaitlyn dever was the strongest performer of all of them, and she very much committed to the role and just was honest",0.014438537,0.0,0.0,0.0,False,0.0005737842293456,0.0003523769555613,0.0008545214659534
+she never felt forced to me,0.06532243,0.0,0.3,0.0,False,0.0012247995473444,0.0005890726461075,0.0024050096981227
+no one,0.016243355,0.9188973307609558,0.0,0.688,False,0.0025100924540311,0.0006399250123649,0.0008914507343433
+galvan also stole the show,0.355017,0.0,0.0,0.0,False,0.0076096602715551,0.0085014337673783,0.0047319298610091
+"he is a minor role in this, but he was amazing and great and stole my heart for diversity in front of him behind the camera",0.15130237,0.0,0.0,0.0,False,0.0006323450943455,0.0009685151162557,0.0014584708260372
+i'm gonna give this one three books,0.052935857,0.0,0.0,0.0,False,0.0013162612449377,0.0009195567690767,0.0008694274583831
+"it was written and directed by woman, guys, fully woman like thrusted, and i love that we love that and jamie ross was the editor, monitor, whoo, whoo, there'll be a cape byron",0.02637897,0.0,0.0,0.0,False,0.0047870846465229,0.0028189511504024,0.028560571372509
+"she was a production designer, female production designer, the person in charge of making sure the sets look so beautiful, but i will say the film was very white female oriented, and that was my only critique",0.2459383,0.9781201481819153,0.0,0.0,False,0.0040605328977108,0.0150858582928776,0.0462099313735961
+"so i love my white woman, but we got to get some more color in there",0.19789414,0.0,0.0,0.0,False,0.0024379848036915,0.1170377135276794,0.1208966970443725
+"if you know what i mean, you know what i mean, but get my overall score for this film is three books, and go see it with your girlfriends with your guy, friends with your people, with y'all groups of lovely human beings, and it's very much in la film, guys",0.077709,0.0,0.0,0.0,False,0.0016285984311252,0.0022949839476495,0.0021486885379999
+"i will say that, like the whole time i was like this is",0.029984225,0.0,0.0,0.0,False,0.000691735302098,0.0009904517792165,0.0043750111944973
+"this is for us, like for people who live in it, which is like fun",0.0729142,0.0,0.0,0.0,False,0.0006751353503204,0.0003934747073799,0.0035448337439447
+"so i don't know if it will reach everyone, but it is a fun enjoyable movie",0.0471521,0.0,0.0,0.0,False,0.0006518724258057,0.0005441956454887,0.0005248317029327
+i had a great time,0.025863936,0.0,0.0,0.0,False,0.0006430040812119,0.0003701398381963,0.0010291575454175
+it's about girl,0.06612156,0.0,0.0,0.0,False,0.0207321904599666,0.0064184190705418,0.0060553778894245
+"it's about women growing up, figuring out female friendship and the different stages that goes into",0.118584804,0.0,0.0,0.0,False,0.013581408187747,0.0060850102454423,0.0048767225816845
+so,0.023117077,0.9702109694480896,0.0,0.0,False,0.0025888974778354,0.0008246746147051,0.0006710737361572
+i hope you enjoy the film,0.050242316,0.0,0.0,0.0,False,0.0006753528723493,0.00067351461621,0.000283069879515
+i hope you enjoyed this review,0.02193547,0.0,0.0,0.0,False,0.0005901732947677,0.0004692526126746,0.0002816898340824
+"i know i enjoyed doing it and remember your story's important, so go out into the world and talent",0.048525527,0.0,0.0,0.0,False,0.0007768169161863,0.0015017878031358,0.000988419400528
+you guys are awesome,0.049212243,0.0,0.0,0.0,False,0.0040284772403538,0.0004712300724349,0.0019512167200446
+have a great rest of your,0.0495556,0.0,0.0,0.0,False,0.0216126907616853,0.0187028069049119,0.003623568220064
+"i'm probably the post this on friday, so have a great weekend",0.03856816,0.0,0.0,0.0,False,0.0010841179173439,0.0004745124606415,0.0004210965125821
+thank you,0.014369122,0.0,0.0,0.0,False,0.0006253210594877,0.0005706180236302,0.0004497025802265
+bye,0.055732824,0.0,0.0,0.0,False,0.0059144631959497,0.0005959753761999,0.000621129933279
