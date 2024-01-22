@@ -5,3 +5,7 @@
 A single notebook has all of the code
 Semantic_Facct24.ipynb needed to reproduce most of the
 paper.
+
+## Data
+
+The dataset folder has the Youtube channel descriptions, the AAE expressions, and utterances.
